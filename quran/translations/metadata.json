@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "generated_date": "2025-03-09",
+    "total_translations": 5,
+    "languages": [
+      "English"
+    ],
+    "format_version": "1.0"
+  },
+  "translations": [
+    {
+      "id": "en.ahmedali",
+      "name": "Ahmed Ali",
+      "translator": "Ahmed Ali",
+      "language": "English",
+      "language_code": "en",
+      "folder": "en/ahmedali",
+      "total_suras": 114,
+      "total_ayas": 6236,
+      "last_update": "August 28, 2010",
+      "source": "Tanzil.net"
+    },
+    {
+      "id": "en.pickthall",
+      "name": "Pickthall",
+      "translator": "Mohammed Marmaduke William Pickthall",
+      "language": "English",
+      "language_code": "en",
+      "folder": "en/pickthall",
+      "total_suras": 114,
+      "total_ayas": 6236,
+      "last_update": "September 4, 2010",
+      "source": "Tanzil.net"
+    },
+    {
+      "id": "en.qarai",
+      "name": "Qarai",
+      "translator": "Ali Quli Qarai",
+      "language": "English",
+      "language_code": "en",
+      "folder": "en/qarai",
+      "total_suras": 114,
+      "total_ayas": 6236,
+      "last_update": "April 11, 2022",
+      "source": "Tanzil.net"
+    },
+    {
+      "id": "en.shakir",
+      "name": "Shakir",
+      "translator": "Mohammad Habib Shakir",
+      "language": "English",
+      "language_code": "en",
+      "folder": "en/shakir",
+      "total_suras": 114,
+      "total_ayas": 6236,
+      "last_update": "June 22, 2010",
+      "source": "Tanzil.net"
+    },
+    {
+      "id": "en.yusufali",
+      "name": "Yusuf Ali",
+      "translator": "Abdullah Yusuf Ali",
+      "language": "English",
+      "language_code": "en",
+      "folder": "en/yusufali",
+      "total_suras": 114,
+      "total_ayas": 6236,
+      "last_update": "May 10, 2013",
+      "source": "Tanzil.net"
+    }
+  ],
+  "translations_by_language": {
+    "English": [
+      {
+        "id": "en.ahmedali",
+        "name": "Ahmed Ali",
+        "translator": "Ahmed Ali",
+        "language": "English",
+        "language_code": "en",
+        "folder": "en/ahmedali",
+        "total_suras": 114,
+        "total_ayas": 6236,
+        "last_update": "August 28, 2010",
+        "source": "Tanzil.net"
+      },
+      {
+        "id": "en.pickthall",
+        "name": "Pickthall",
+        "translator": "Mohammed Marmaduke William Pickthall",
+        "language": "English",
+        "language_code": "en",
+        "folder": "en/pickthall",
+        "total_suras": 114,
+        "total_ayas": 6236,
+        "last_update": "September 4, 2010",
+        "source": "Tanzil.net"
+      },
+      {
+        "id": "en.qarai",
+        "name": "Qarai",
+        "translator": "Ali Quli Qarai",
+        "language": "English",
+        "language_code": "en",
+        "folder": "en/qarai",
+        "total_suras": 114,
+        "total_ayas": 6236,
+        "last_update": "April 11, 2022",
+        "source": "Tanzil.net"
+      },
+      {
+        "id": "en.shakir",
+        "name": "Shakir",
+        "translator": "Mohammad Habib Shakir",
+        "language": "English",
+        "language_code": "en",
+        "folder": "en/shakir",
+        "total_suras": 114,
+        "total_ayas": 6236,
+        "last_update": "June 22, 2010",
+        "source": "Tanzil.net"
+      },
+      {
+        "id": "en.yusufali",
+        "name": "Yusuf Ali",
+        "translator": "Abdullah Yusuf Ali",
+        "language": "English",
+        "language_code": "en",
+        "folder": "en/yusufali",
+        "total_suras": 114,
+        "total_ayas": 6236,
+        "last_update": "May 10, 2013",
+        "source": "Tanzil.net"
+      }
+    ]
+  }
+}
