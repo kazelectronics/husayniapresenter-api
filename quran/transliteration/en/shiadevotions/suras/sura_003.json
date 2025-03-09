@@ -1,0 +1,807 @@
+{
+  "index": 3,
+  "name": "Sura 3",
+  "ayas": [
+    {
+      "index": 1,
+      "text": "alif lām mīm",
+      "bismillah": "bismillāhir raḥmānir raḥīm"
+    },
+    {
+      "index": 2,
+      "text": "allāhu lā ilāha illā huwal ḥayyul qayyūm"
+    },
+    {
+      "index": 3,
+      "text": "nazzala `alaykal kitāba bil ḥaqqi muṣaddiqal limā bayna yadayhi wa-anzalat tawrāta wal-injīl"
+    },
+    {
+      "index": 4,
+      "text": "min qablu hudan linnāsi wa-anzalal-furqān ۗ innal ladhīna kafarū bi-āyātillāhi lahum `adhābun shadīd ۗ wallāhu `azīzun dhun-tiqām"
+    },
+    {
+      "index": 5,
+      "text": "innallāha lā yakhfā `alayhi shay-un fil-arḍi walā fis samā-i"
+    },
+    {
+      "index": 6,
+      "text": "huwal ladhī yuṣawwirukum fil-arḥāmi kayfa yashā-u ۚ lā ilāha illā huwal `azīzul ḥakīm"
+    },
+    {
+      "index": 7,
+      "text": "huwal ladhī anzala `alaykal kitāba minhu āyātun muḥkamātun hunna ummul kitābi wa-ukharu mutashābihāt ۖ fa-ammal ladhīna fī qulūbihim zayghun fayattabi`ūna mā tashābaha minhub-tighā-al fitnati wabtighā-a ta-wīlih ۗ wa mā ya`lamu ta-wīlahu illallāh ۗ war rāsikhūna fil `il-mi yaqūlūna āmannā bihi kullun min `indi rabbinā ۗ wa mā yadhhakkaru illā ulul-albāb"
+    },
+    {
+      "index": 8,
+      "text": "rabbanā lā tuzigh qulūbanā ba`da idh hadaytanā wahab lanā min ladunka raḥmah ۚ innaka antal wahhāb"
+    },
+    {
+      "index": 9,
+      "text": "rabbanā innaka jāmi`un nāsi liyawmin lā rayba fīh ۚ innallāha lā yukhliful mī`ād"
+    },
+    {
+      "index": 10,
+      "text": "innal ladhīna kafarū lan tughniya `anhum amwāluhum walā awlāduhum minallāhi shay-ā ۖ wa-ulā-ika hum waqūdun nār"
+    },
+    {
+      "index": 11,
+      "text": "kada-bi āli fir`awna wal ladhīna min qablihim ۚ kadhhabū bi-āyātinā fa-akhadhahumullāhu bidhunūbihim ۗ wallāhu shadīdul `iqāb"
+    },
+    {
+      "index": 12,
+      "text": "qul lilladhīna kafarū satughlabūna watuḥsharūna ilā jahannam ۚ wabi-sal mihād"
+    },
+    {
+      "index": 13,
+      "text": "qad kāna lakum āyatun fī fi-ataynil taqatā ۖ fi-atun tuqātilu fī sabīlillāhi wa-ukhrā kāfiratun yarawnahum mithlayhim ra-yal `ayn ۚ wallāhu yu-ayyidu binaṣrihi man yashā-u ۗ inna fī dhālika la`ibratan li-ulil-abṣār"
+    },
+    {
+      "index": 14,
+      "text": "zuyyina linnāsi ḥubbush shahawāti minan nisā-i wal banīna wal qanāṭīril muqanṭarati minadh dhahabi wal fiḍḍati wal khaylil musawwamati wal-an`āmi wal ḥarth ۗ dhālika matā`ul ḥayātid dunyā ۖ wallāhu `indahu ḥusnul ma-āb"
+    },
+    {
+      "index": 15,
+      "text": "qul a-unabbi-ukum bikhayrin min dhālikum ۚ lilladhīnat-taqaw `inda rabbihim jannātun tajrī min taḥtihal-anhāru khālidīna fīhā wa-azwājun muṭahharatun wariḍwānun minallāh ۗ wallāhu baṣīrun bil `ibād"
+    },
+    {
+      "index": 16,
+      "text": "alladhīna yaqūlūna rabbanā innanā āmannā faghfir lanā dhunūbanā waqinā `adhāban nār"
+    },
+    {
+      "index": 17,
+      "text": "aṣ-ṣābirīna waṣ ṣādiqīna wal qānitīna wal munfiqīna wal mustaghfirīna bil-as-ḥār"
+    },
+    {
+      "index": 18,
+      "text": "shahidallāhu annahu lā ilāha illā huwa wal malā-ikatu wa-ulul `il-mi qā-iman bil qisṭ ۚ lā ilāha illā huwal `azīzul ḥakīm"
+    },
+    {
+      "index": 19,
+      "text": "innad dīna `indallāhil-islām ۗ wa makh-talafal ladhīna ūtul kitāba illā min ba`di mā jā-ahumul `il-mu baghyan baynahum ۗ wa man yakfur bi-āyātillāhi fa-innallāha sarī`ul ḥisāb"
+    },
+    {
+      "index": 20,
+      "text": "fa-in ḥājjūka faqul aslamtu wajhiya lillāhi wa manit-taba`an ۗ waqul lilladhīna ūtul kitāba wal-ummiyyīna a-aslamtum ۚ fa-in aslamū faqadih-tadaw ۖ wa in tawallaw fa-innamā `alaykal balāgh ۗ wallāhu baṣīrun bil `ibād"
+    },
+    {
+      "index": 21,
+      "text": "innal ladhīna yakfurūna bi-āyātillāhi wayaqtulūnan nabiyyīna bighayri ḥaqqin wayaqtulūnal ladhīna ya-murūna bil qisṭi minan nāsi fabashhirhum bi`adhābin alīm"
+    },
+    {
+      "index": 22,
+      "text": "ulā-ikal ladhīna ḥabiṭat a`māluhum fid dunyā wal-ākhirati wa mā lahum min nāṣirīn"
+    },
+    {
+      "index": 23,
+      "text": "alam tara ilal ladhīna ūtū naṣīban minal kitābi yud`awna ilā kitābillāhi liyaḥkuma baynahum thumma yatawallā farīqun minhum wahum mu`riḍūn"
+    },
+    {
+      "index": 24,
+      "text": "dhālika bi-annahum qālū lan tamassanan nāru illā ayyāman ma`dūdāt ۖ wagharrahum fī dīnihim mā kānū yaftarūn"
+    },
+    {
+      "index": 25,
+      "text": "fakayfa idhā jama`nāhum liyawmin lā rayba fīhi wawuffiyat kullu nafsin mā kasabat wahum lā yuẓlamūn"
+    },
+    {
+      "index": 26,
+      "text": "qulillāhumma mālikal mulki tu-til mulka man tashā-u watanzi`ul mulka mimman tashā-u watu`izzu man tashā-u watudhillu man tashā-u ۖ biyadikal khayr ۖ innaka `alā kulli shay-in qadīr"
+    },
+    {
+      "index": 27,
+      "text": "tūlijul layla fin nahāri watūlijun nahāra fil layl ۖ watukhrijul ḥayya minal mayyiti watukhrijul mayyita minal ḥayy ۖ watarzuqu man tashā-u bighayri ḥisāb"
+    },
+    {
+      "index": 28,
+      "text": "lā yattakhidhil mu-minūnal kāfirīna awliyā-a min dūnil mu-minīn ۖ wa man yaf`al dhālika falaysa minallāhi fī shay-in illā an tattaqū minhum tuqah ۗ wayuḥadhhirukumullāhu nafsah ۗ wa ilallāhil maṣīr"
+    },
+    {
+      "index": 29,
+      "text": "qul in tukhfū mā fī ṣudūrikum aw tubdūhu ya`lamhullāh ۗ waya`lamu mā fis samāwāti wa mā fil-arḍ ۗ wallāhu `alā kulli shay-in qadīr"
+    },
+    {
+      "index": 30,
+      "text": "yawma tajidu kullu nafsin mā `amilat min khayrin muḥḍaran wa mā `amilat min sū-in tawaddu law anna baynahā wabaynahu amadan ba`īdā ۗ wayuḥadhhirukumullāhu nafsah ۗ wallāhu ra-ūfun bil `ibād"
+    },
+    {
+      "index": 31,
+      "text": "qul in kuntum tuḥibbūnallāha fattabi`ūnī yuḥbibkumullāhu wayaghfir lakum dhunūbakum ۗ wallāhu ghafūrun raḥīm"
+    },
+    {
+      "index": 32,
+      "text": "qul aṭī`ullāha war rasūl ۖ fa-in tawallaw fa-innallāha lā yuḥibbul kāfirīn"
+    },
+    {
+      "index": 33,
+      "text": "innallāhaṣ-ṭafā ādama wanūḥan wa-āla ibrāhīma wa-āla `imrāna `alal-`ālamīn"
+    },
+    {
+      "index": 34,
+      "text": "dhurriyyatan ba`ḍuhā min ba`ḍ ۗ wallāhu samī`un `alīm"
+    },
+    {
+      "index": 35,
+      "text": "idh qālatim-ra-atu `imrāna rabbi innī nadhartu laka mā fī baṭnī muḥarraran fataqabbal minnī ۖ innaka antas samī`ul `alīm"
+    },
+    {
+      "index": 36,
+      "text": "falammā waḍa`at-hā qālat rabbi innī waḍa`tuhā unthā wallāhu a`lamu bimā waḍa`at walaysadh dhakaru kal-unthā ۖ wa innī sammaytuhā maryama wa innī u`īdhuhā bika wadhurriyyatahā minash shayṭānir rajīm"
+    },
+    {
+      "index": 37,
+      "text": "fataqabbalahā rabbuhā biqabūlin ḥasanin wa-anbatahā nabātan ḥasanan wakaffalahā zakariyyā ۖ kullamā dakhala `alayhā zakariyyal miḥrāba wajada `indahā rizqā ۖ qāla yāmaryamu annā laki hādhā ۖ qālat huwa min `indillāh ۖ innallāha yarzuqu man yashā-u bighayri ḥisāb"
+    },
+    {
+      "index": 38,
+      "text": "hunālika da`ā zakariyyā rabbah ۖ qāla rabbi hab lī min ladunka dhurriyyatan ṭayyibah ۖ innaka samī`ud du`ā-i"
+    },
+    {
+      "index": 39,
+      "text": "fanādat-hul malā-ikatu wahuwa qā-imun yuṣallī fil miḥrābi annallāha yubashhiruka biyaḥyā muṣaddiqan bikalimatim minallāhi wasayyidan waḥaṣūran wanabiyyan minaṣ ṣāliḥīn"
+    },
+    {
+      "index": 40,
+      "text": "qāla rabbi annā yakūnu lī ghulāmun waqad balaghaniyal kibaru wamra-atī `āqir ۖ qāla kadhālikallāhu yaf`alu mā yashā-u"
+    },
+    {
+      "index": 41,
+      "text": "qāla rabbij-`al lī āyah ۖ qāla āyatuka allā tukalliman nāsa thalāthata ayyāmin illā ramzā ۗ wadhkur rabbaka kathīran wasabbiḥ bil `ashiyyi wal-ibkār"
+    },
+    {
+      "index": 42,
+      "text": "wa idh qālatil malā-ikatu yāmaryamu innallāhaṣ-ṭafāki waṭahharaki waṣṭafāki `alā nisā-il `ālamīn"
+    },
+    {
+      "index": 43,
+      "text": "yāmaryamuq-nutī lirabbiki wasjudī warka`ī ma`ar rāki`īn"
+    },
+    {
+      "index": 44,
+      "text": "dhālika min anbā-il ghaybi nūḥīhi ilayk ۚ wa mā kunta ladayhim idh yulqūna aqlāmahum ayyuhum yakfulu maryama wa mā kunta ladayhim idh yakhtaṣimūn"
+    },
+    {
+      "index": 45,
+      "text": "idh qālatil malā-ikatu yāmaryamu innallāha yubashhiruki bikalimatim minhus muhul masīḥu `īsab-nu maryama wajīhan fid dunyā wal-ākhirati wa minal muqarrabīn"
+    },
+    {
+      "index": 46,
+      "text": "wayukallimun nāsa fil mahdi wakahlan wa minaṣ ṣāliḥīn"
+    },
+    {
+      "index": 47,
+      "text": "qālat rabbi annā yakūnu lī waladun walam yamsasnī bashar ۖ qāla kadhālikillāhu yakhluqu mā yashā-u ۚ idhā qaḍā amran fa-innamā yaqūlu lahu kun fayakūn"
+    },
+    {
+      "index": 48,
+      "text": "wayu`allimuhul kitāba wal ḥikmata wat tawrāta wal-injīl"
+    },
+    {
+      "index": 49,
+      "text": "warasūlan ilā banī isrā-iyla annī qad ji-tukum bi-āyatim min rabbikum ۖ annī akhluqu lakum minaṭ ṭīni kahay-atiṭ ṭayri fa-anfukhu fīhi fayakūnu ṭayran bi-idhnillāh ۖ wa-ubri-ul-akmaha wal-abraṣa wa-uḥyil mawtā bi-idhnillāh ۖ wa-unabbi-ukum bimā ta-kulūna wa mā taddakhirūna fī buyūtikum ۚ inna fī dhālika la-āyatan lakum in kuntum mu-minīn"
+    },
+    {
+      "index": 50,
+      "text": "wa muṣaddiqal limā bayna yadayya minat tawrāti wali-uḥilla lakum ba`ḍal ladhī ḥurrima `alaykum ۚ waji-tukum bi-āyatim min rabbikum fattaqullāha wa-aṭī`ūn"
+    },
+    {
+      "index": 51,
+      "text": "innallāha rabbī warabbukum fa`budūh ۗ hādhā ṣirāṭun mustaqīm"
+    },
+    {
+      "index": 52,
+      "text": "falammā aḥassa `īsā minhumul kufra qāla man anṣārī ilallāh ۖ qālal-ḥawāriyyūna naḥnu anṣārullāhi āmannā billāhi wash-had bi-annā muslimūn"
+    },
+    {
+      "index": 53,
+      "text": "rabbanā āmannā bimā anzalta wattaba`nar rasūla faktubnā ma`ash shāhidīn"
+    },
+    {
+      "index": 54,
+      "text": "wa makarū wa makarallāh ۖ wallāhu khayrul mākirīn"
+    },
+    {
+      "index": 55,
+      "text": "idh qālallāhu yā`īsā innī mutawaffīka warāfi`uka ilayya wa muṭahhiruka minal ladhīna kafarū wajā`ilul ladhīnat-taba`ūka fawqal ladhīna kafarū ilā yawmil qiyāmah ۖ thumma ilayya marji`ukum fa-aḥkumu baynakum fīmā kuntum fīhi takhtalifūn"
+    },
+    {
+      "index": 56,
+      "text": "fa-ammal ladhīna kafarū fa-u`adhhibuhum `adhāban shadīdan fid dunyā wal-ākhirati wa mā lahum min nāṣirīn"
+    },
+    {
+      "index": 57,
+      "text": "wa-ammal ladhīna āmanū wa`amiluṣ ṣāliḥāti fayuwaffīhim ujūrahum ۗ wallāhu lā yuḥibbuẓ ẓālimīn"
+    },
+    {
+      "index": 58,
+      "text": "dhālika natlūhu `alayka minal-āyāti wadh dhikril ḥakīm"
+    },
+    {
+      "index": 59,
+      "text": "inna mathala `īsā `indallāhi kamathali ādam ۖ khalaqahu min turābin thumma qāla lahu kun fayakūn"
+    },
+    {
+      "index": 60,
+      "text": "al-ḥaqqu min rabbika falā takun minal mumtarīn"
+    },
+    {
+      "index": 61,
+      "text": "faman ḥājjaka fīhi min ba`di mā jā-aka minal `il-mi faqul ta`ālaw nad`u abnā-anā wa-abnā-akum wanisā-anā wanisā-akum wa-anfusanā wa-anfusakum thumma nabtahil fanaj`al la`natallāhi `alal-kādhibīn"
+    },
+    {
+      "index": 62,
+      "text": "inna hādhā lahuwal qaṣaṣul ḥaqq ۚ wa mā min ilāhin illallāh ۚ wa innallāha lahuwal `azīzul ḥakīm"
+    },
+    {
+      "index": 63,
+      "text": "fa-in tawallaw fa-innallāha `alīmun bil mufsidīn"
+    },
+    {
+      "index": 64,
+      "text": "qul yā-ahlal-kitābi ta`ālaw ilā kalimatin sawā-in baynanā wabaynakum allā na`buda illallāha walā nushrika bihi shay-an walā yattakhidha ba`ḍunā ba`ḍan arbāban min dūnillāh ۚ fa-in tawallaw faqūlush-hadū bi-annā muslimūn"
+    },
+    {
+      "index": 65,
+      "text": "yā-ahlal-kitābi lima tuḥājjūna fī ibrāhīma wa mā unzilatit tawrātu wal-injīlu illā min ba`dih ۚ afalā ta`qilūn"
+    },
+    {
+      "index": 66,
+      "text": "hā-antum hā-ulā-i ḥājajtum fīmā lakum bihi `il-mun falima tuḥājjūna fīmā laysa lakum bihi `il-m ۚ wallāhu ya`lamu wa-antum lā ta`lamūn"
+    },
+    {
+      "index": 67,
+      "text": "mā kāna ibrāhīmu yahūdiyyan walā naṣrāniyyan walākin kāna ḥanīfan musliman wa mā kāna minal mushrikīn"
+    },
+    {
+      "index": 68,
+      "text": "inna awlan nāsi bi-ibrāhīma lalladhīnat-taba`ūhu wahādhan nabiyyu wal ladhīna āmanū ۗ wallāhu waliyyul mu-minīn"
+    },
+    {
+      "index": 69,
+      "text": "waddat ṭā-ifatun min ahlil kitābi law yuḍillūnakum wa mā yuḍillūna illā anfusahum wa mā yash`urūn"
+    },
+    {
+      "index": 70,
+      "text": "yā-ahlal-kitābi lima takfurūna bi-āyātillāhi wa-antum tash-hadūn"
+    },
+    {
+      "index": 71,
+      "text": "yā-ahlal-kitābi lima talbisūnal ḥaqqa bil bāṭili wataktumūnal ḥaqqa wa-antum ta`lamūn"
+    },
+    {
+      "index": 72,
+      "text": "waqālat ṭā-ifatun min ahlil kitābi āminū bil ladhī unzila `alal ladhīna āmanū wajhan nahāri wakfurū ākhirahu la`allahum yarji`ūn"
+    },
+    {
+      "index": 73,
+      "text": "walā tu-minū illā liman tabi`a dīnakum qul innal hudā hudallāhi an yu-tā aḥadun mithla mā ūtītum aw yuḥājjūkum `inda rabbikum ۗ qul innal faḍla biyadillāhi yu-tīhi man yashā-u ۗ wallāhu wāsi`un `alīm"
+    },
+    {
+      "index": 74,
+      "text": "yakhtaṣṣu biraḥmatihi man yashā-u ۗ wallāhu dhul faḍlil `aẓīm"
+    },
+    {
+      "index": 75,
+      "text": "wa min ahlil kitābi man in ta-manhu biqinṭāriy yu-addihi ilayka wa minhum man in ta-manhu bidīnārin lā yu-addihi ilayka illā mā dumta `alayhi qā-imā ۗ dhālika bi-annahum qālū laysa `alaynā fil-ummiyyīna sabīlun wayaqūlūna `alallāhil kadhiba wahum ya`lamūn"
+    },
+    {
+      "index": 76,
+      "text": "balā man awfā bi`ahdihi wattaqā fa-innallāha yuḥibbul muttaqīn"
+    },
+    {
+      "index": 77,
+      "text": "innal ladhīna yashtarūna bi`ahdillāhi wa-aymānihim thamanan qalīlan ulā-ika lā khalāqa lahum fil-ākhirati walā yukallimuhumullāhu walā yanẓuru ilayhim yawmal qiyāmati walā yuzakkīhim walahum `adhābun alīm"
+    },
+    {
+      "index": 78,
+      "text": "wa inna minhum lafarīqan yalwūna alsinatahum bil kitābi litaḥsabūhu minal kitābi wa mā huwa minal kitābi wayaqūlūna huwa min `indillāhi wa mā huwa min `indillāhi wayaqūlūna `alallāhil kadhiba wahum ya`lamūn"
+    },
+    {
+      "index": 79,
+      "text": "mā kāna libasharin an yu-tiyahullāhul kitāba wal ḥukma wan nubuwwata thumma yaqūla linnāsi kūnū `ibādal lī min dūnillāhi walākin kūnū rabbāniyyīna bimā kuntum tu`allimūnal kitāba wabimā kuntum tadrusūn"
+    },
+    {
+      "index": 80,
+      "text": "walā ya-murakum an tattakhidhul malā-ikata wan nabiyyīna arbābā ۗ aya-murukum bil kufri ba`da idh antum muslimūn"
+    },
+    {
+      "index": 81,
+      "text": "wa idh akhadhallāhu mīthāqan nabiyyīna lamā ātaytukum min kitābin waḥikmatin thumma jā-akum rasūlun muṣaddiqul limā ma`akum latu-minunna bihi walatanṣurunnah ۚ qāla a-aqrartum wa-akhadhtum `alā dhālikum iṣrī ۖ qālū aqrarnā ۚ qāla fash-hadū wa-ana ma`akum minash shāhidīn"
+    },
+    {
+      "index": 82,
+      "text": "faman tawallā ba`da dhālika fa-ulā-ika humul fāsiqūn"
+    },
+    {
+      "index": 83,
+      "text": "afaghayra dīnillāhi yabghūna walahu aslama man fis samāwāti wal-arḍi ṭaw`an wakarhan wa ilayhi yurja`ūn"
+    },
+    {
+      "index": 84,
+      "text": "qul āmannā billāhi wa mā unzila `alaynā wa mā unzila `alā ibrāhīma wa ismā`īla wa is-ḥāqa waya`qūba wal-asbāṭi wa mā ūtiya mūsā wa`īsā wan nabiyyūna min rabbihim lā nufarriqu bayna aḥadin minhum wanaḥnu lahu muslimūn"
+    },
+    {
+      "index": 85,
+      "text": "wa man yabtaghi ghayral-islāmi dīnan falan yuqbala minhu wahuwa fil-ākhirati minal khāsirīn"
+    },
+    {
+      "index": 86,
+      "text": "kayfa yahdillāhu qawman kafarū ba`da-iymānihim washahidū annar rasūla ḥaqqun wajā-ahumul bayyināt ۚ wallāhu lā yahdil qawmaẓ ẓālimīn"
+    },
+    {
+      "index": 87,
+      "text": "ulā-ika jazā-uhum anna `alayhim la`natallāhi wal malā-ikati wan nāsi ajma`īn"
+    },
+    {
+      "index": 88,
+      "text": "khālidīna fīhā lā yukhaffafu `anhumul `adhābu walā hum yunẓarūn"
+    },
+    {
+      "index": 89,
+      "text": "illal ladhīna tābū min ba`di dhālika wa-aṣlaḥū fa-innallāha ghafūrun raḥīm"
+    },
+    {
+      "index": 90,
+      "text": "innal ladhīna kafarū ba`da-iymānihim thummaz-dādū kufral lan tuqbala tawbatuhum wa-ulā-ika humuḍ ḍāllūn"
+    },
+    {
+      "index": 91,
+      "text": "innal ladhīna kafarū wa mātū wahum kuffārun falan yuqbala min aḥadihim mil-ul-arḍi dhahaban walawif-tadā bih ۗ ulā-ika lahum `adhābun alīmun wa mā lahum min nāṣirīn"
+    },
+    {
+      "index": 92,
+      "text": "lan tanālul birra ḥattā tunfiqū mimmā tuḥibbūn ۚ wa mā tunfiqū min shay-in fa-innallāha bihi `alīm"
+    },
+    {
+      "index": 93,
+      "text": "kulluṭ ṭa`āmi kāna ḥillal libanī isrā-iyla illā mā ḥarrama isrā-iylu `alā nafsihi min qabli an tunazzalat tawrāh ۗ qul fa-tū bit tawrāti fatlūhā in kuntum ṣādiqīn"
+    },
+    {
+      "index": 94,
+      "text": "famanif-tarā `alallāhil kadhiba min ba`di dhālika fa-ulā-ika humuẓ ẓālimūn"
+    },
+    {
+      "index": 95,
+      "text": "qul ṣadaqallāh ۗ fattabi`ū millata ibrāhīma ḥanīfan wa mā kāna minal mushrikīn"
+    },
+    {
+      "index": 96,
+      "text": "inna awwala baytin wuḍi`a linnāsi lalladhī bibakkata mubārakan wahudan lil`ālamīn"
+    },
+    {
+      "index": 97,
+      "text": "fīhi āyātun bayyinātun maqāmu ibrāhīm ۖ wa man dakhalahu kāna āminā ۗ walillāhi `alan nāsi ḥijjul bayti manis-taṭā`a ilayhi sabīlā ۚ wa man kafara fa-innallāha ghaniyyun `anil `ālamīn"
+    },
+    {
+      "index": 98,
+      "text": "qul yā-ahlal-kitābi lima takfurūna bi-āyātillāhi wallāhu shahīdun `alā mā ta`malūn"
+    },
+    {
+      "index": 99,
+      "text": "qul yā-ahlal-kitābi lima taṣuddūna `an sabīlillāhi man āmana tabghūnahā `iwajan wa-antum shuhadā-u ۗ wa mallāhu bighāfilin `ammā ta`malūn"
+    },
+    {
+      "index": 100,
+      "text": "yā-ayyuhal ladhīna āmanū in tuṭī`ū farīqan minal ladhīna ūtul kitāba yaruddūkum ba`da-iymānikum kāfirīn"
+    },
+    {
+      "index": 101,
+      "text": "wakayfa takfurūna wa-antum tutlā `alaykum āyātullāhi wafīkum rasūluh ۗ wa man ya`taṣim billāhi faqad hudiya ilā ṣirāṭin mustaqīm"
+    },
+    {
+      "index": 102,
+      "text": "yā-ayyuhal ladhīna āmanut-taqullāha ḥaqqa tuqātihi walā tamūtunna illā wa-antum muslimūn"
+    },
+    {
+      "index": 103,
+      "text": "wa`taṣimū biḥablillāhi jamī`an walā tafarraqū ۚ wadhkurū ni`matallāhi `alaykum idh kuntum a`dā-an fa-allafa bayna qulūbikum fa-aṣbaḥtum bini`matihi ikhwānan wakuntum `alā shafā ḥufratim minan nāri fa-anqadhakum minhā ۗ kadhālika yubayyinullāhu lakum āyātihi la`allakum tahtadūn"
+    },
+    {
+      "index": 104,
+      "text": "waltakun minkum ummatun yad`ūna ilal-khayri waya-murūna bil ma`rūfi wayanhawna `anil munkar ۚ wa-ulā-ika humul mufliḥūn"
+    },
+    {
+      "index": 105,
+      "text": "walā takūnū kal ladhīna tafarraqū wakhtalafū min ba`di mā jā-ahumul bayyināt ۚ wa-ulā-ika lahum `adhābun `aẓīm"
+    },
+    {
+      "index": 106,
+      "text": "yawma tabyaḍḍu wujūhun wataswaddu wujūh ۚ fa-ammal ladhīnas-waddat wujūhuhum akafartum ba`da-iymānikum fadhūqul `adhāba bimā kuntum takfurūn"
+    },
+    {
+      "index": 107,
+      "text": "wa-ammal ladhīnab-yaḍḍat wujūhuhum fafī raḥmatil lāhi hum fīhā khālidūn"
+    },
+    {
+      "index": 108,
+      "text": "tilka āyātullāhi natlūhā `alayka bil ḥaqq ۗ wa mallāhu yurīdu ẓul-mal lil`ālamīn"
+    },
+    {
+      "index": 109,
+      "text": "walillāhi mā fis samāwāti wa mā fil-arḍ ۚ wa ilallāhi turja`ul-umūr"
+    },
+    {
+      "index": 110,
+      "text": "kuntum khayra ummatin ukhrijat linnāsi ta-murūna bil ma`rūfi watanhawna `anil munkari watu-minūna billāh ۗ walaw āmana ahlul kitābi lakāna khayral lahum ۚ minhumul mu-minūna wa-aktharuhumul fāsiqūn"
+    },
+    {
+      "index": 111,
+      "text": "lan yaḍurrūkum illā adhā ۖ wa in yuqātilūkum yuwallūkumul-adbāra thumma lā yunṣarūn"
+    },
+    {
+      "index": 112,
+      "text": "ḍuribat `alayhimudh dhillatu ayna mā thuqifū illā biḥablin minallāhi waḥablin minan nāsi wabā-ū bighaḍabin minallāhi waḍuribat `alayhimul maskanah ۚ dhālika bi-annahum kānū yakfurūna bi-āyātillāhi wayaqtulūnal-anbiyā-a bighayri ḥaqq ۚ dhālika bimā `aṣaw wakānū ya`tadūn"
+    },
+    {
+      "index": 113,
+      "text": "laysū sawā-ā ۗ min ahlil kitābi ummatun qā-imatun yatlūna āyātillāhi ānā-al layli wahum yasjudūn"
+    },
+    {
+      "index": 114,
+      "text": "yu-minūna billāhi wal yawmil-ākhiri waya-murūna bil ma`rūfi wayanhawna `anil munkari wayusāri`ūna fil khayrāti wa-ulā-ika minaṣ ṣāliḥīn"
+    },
+    {
+      "index": 115,
+      "text": "wa mā yaf`alū min khayrin falan yukfarūh ۗ wallāhu `alīmun bil muttaqīn"
+    },
+    {
+      "index": 116,
+      "text": "innal ladhīna kafarū lan tughniya `anhum amwāluhum walā awlāduhum minallāhi shay-ā ۖ wa-ulā-ika aṣ-ḥābun nār ۚ hum fīhā khālidūn"
+    },
+    {
+      "index": 117,
+      "text": "mathalu mā yunfiqūna fī hādhihil ḥayātid dunyā kamathali rīḥin fīhā ṣirrun aṣābat ḥartha qawmin ẓalamū anfusahum fa-ahlakat-h ۚ wa mā ẓalamahumullāhu walākin anfusahum yaẓlimūn"
+    },
+    {
+      "index": 118,
+      "text": "yā-ayyuhal ladhīna āmanū lā tattakhidhū biṭānatan min dūnikum lā ya-lūnakum khabālan waddū mā `anittum qad badatil baghḍā-u min afwāhihim wa mā tukhfī ṣudūruhum akbar ۚ qad bayyannā lakumul-āyāt ۖ in kuntum ta`qilūn"
+    },
+    {
+      "index": 119,
+      "text": "hā-antum ulā-i tuḥibbūnahum walā yuḥibbūnakum watu-minūna bil kitābi kullihi wa idhā laqūkum qālū āmannā wa idhā khalaw `aḍḍū `alaykumul-anāmila minal ghayẓ ۚ qul mūtū bighayẓikum ۗ innallāha `alīmun bidhātiṣ ṣudūr"
+    },
+    {
+      "index": 120,
+      "text": "in tamsaskum ḥasanatun tasu-hum wa in tuṣibkum sayyi-atun yafraḥū bihā ۖ wa in taṣbirū watattaqū lā yaḍurrukum kayduhum shay-ā ۗ innallāha bimā ya`malūna muḥīṭ"
+    },
+    {
+      "index": 121,
+      "text": "wa idh ghadawta min ahlika tubawwi-ul mu-minīna maqā`ida lilqitāl ۗ wallāhu samī`un `alīm"
+    },
+    {
+      "index": 122,
+      "text": "idh hammat ṭā-ifatāni minkum an tafshalā wallāhu waliyyuhumā ۗ wa`alallāhi falyatawakkalil mu-minūn"
+    },
+    {
+      "index": 123,
+      "text": "walaqad naṣarakumullāhu bibadrin wa-antum adhillah ۖ fattaqullāha la`allakum tashkurūn"
+    },
+    {
+      "index": 124,
+      "text": "idh taqūlu lil-mu-minīna alan yakfiyakum an yumiddakum rabbukum bithalāthati ālāfin minal malā-ikati munzalīn"
+    },
+    {
+      "index": 125,
+      "text": "balā ۚ in taṣbirū watattaqū waya-tūkum min fawrihim hādhā yumdidkum rabbukum bikhamsati ālāfin minal malā-ikati musawwimīn"
+    },
+    {
+      "index": 126,
+      "text": "wa mā ja`alahullāhu illā bushrā lakum walitaṭma-inna qulūbukum bih ۗ wa man naṣru illā min `indillāhil `azīzil ḥakīm"
+    },
+    {
+      "index": 127,
+      "text": "liyaqṭa`a ṭarafan minal ladhīna kafarū aw yakbitahum fayanqalibū khā-ibīn"
+    },
+    {
+      "index": 128,
+      "text": "laysa laka minal-amri shay-un aw yatūba `alayhim aw yu`adhhibahum fa-innahum ẓālimūn"
+    },
+    {
+      "index": 129,
+      "text": "walillāhi mā fis samāwāti wa mā fil-arḍ ۚ yaghfiru liman yashā-u wayu`adhhibu man yashā-u ۚ wallāhu ghafūrun raḥīm"
+    },
+    {
+      "index": 130,
+      "text": "yā-ayyuhal ladhīna āmanū lā ta-kulur ribā aḍ`āfan muḍā`afah ۖ wattaqullāha la`allakum tufliḥūn"
+    },
+    {
+      "index": 131,
+      "text": "wattaqun nāral latī u`iddat lilkāfirīn"
+    },
+    {
+      "index": 132,
+      "text": "wa-aṭī`ullāha war rasūla la`allakum turḥamūn"
+    },
+    {
+      "index": 133,
+      "text": "wasāri`ū ilā maghfiratim min rabbikum wajannatin `arḍuhas samāwātu wal-arḍu u`iddat lil-muttaqīn"
+    },
+    {
+      "index": 134,
+      "text": "alladhīna yunfiqūna fis sarrā-i waḍ ḍarrā-i wal kāẓimīnal ghayẓa wal `āfīna `anin nās ۗ wallāhu yuḥibbul muḥsinīn"
+    },
+    {
+      "index": 135,
+      "text": "wal ladhīna idhā fa`alū fāḥishatan aw ẓalamū anfusahum dhakarullāha fastaghfarū lidhunūbihim wa man yaghfirudh dhunūba illallāhu walam yuṣirrū `alā mā fa`alū wahum ya`lamūn"
+    },
+    {
+      "index": 136,
+      "text": "ulā-ika jazā-uhum maghfiratun min rabbihim wajannātun tajrī min taḥtihal-anhāru khālidīna fīhā ۚ wani`ma ajrul `āmilīn"
+    },
+    {
+      "index": 137,
+      "text": "qad khalat min qablikum sunanun fasīrū fil-arḍi fanẓurū kayfa kāna `āqibatul mukadhhibīn"
+    },
+    {
+      "index": 138,
+      "text": "hādhā bayānul linnāsi wahudan wa maw`iẓatun lil-muttaqīn"
+    },
+    {
+      "index": 139,
+      "text": "walā tahinū walā taḥzanū wa-antumul-a`lawna in kuntum mu-minīn"
+    },
+    {
+      "index": 140,
+      "text": "in yamsaskum qarḥun faqad massal qawma qarḥun mithluh ۚ watilkal-ayyāmu nudāwiluhā baynan nāsi waliya`lamallāhul ladhīna āmanū wayattakhidha minkum shuhadā-a ۗ wallāhu lā yuḥibbuẓ ẓālimīn"
+    },
+    {
+      "index": 141,
+      "text": "waliyumaḥḥiṣallāhul ladhīna āmanū wayamḥaqal kāfirīn"
+    },
+    {
+      "index": 142,
+      "text": "am ḥasibtum an tadkhulul jannata walammā ya`lamillāhul ladhīna jāhadū minkum waya`lamaṣ ṣābirīn"
+    },
+    {
+      "index": 143,
+      "text": "walaqad kuntum tamannawnal mawta min qabli an talqawhu faqad ra-aytumūhu wa-antum tanẓurūn"
+    },
+    {
+      "index": 144,
+      "text": "wa mā muḥammadun illā rasūlun qad khalat min qablihir rusul ۚ afa-in māta aw qutilan-qalabtum `alā a`qābikum ۚ wa man yanqalib `alā `aqibayhi falan yaḍurrallāha shay-ā ۗ wasayajzillāhush shākirīn"
+    },
+    {
+      "index": 145,
+      "text": "wa mā kāna linafsin an tamūta illā bi-idhnillāhi kitāban mu-ajjalā ۗ wa man yurid thawābad dunyā nu-tihi minhā wa man yurid thawābal-ākhirati nu-tihi minhā ۚ wasanajzish shākirīn"
+    },
+    {
+      "index": 146,
+      "text": "waka-ayyin min nabiyyin qātala ma`ahu ribbiyyūna kathīrun famā wahanū limā aṣābahum fī sabīlillāhi wa mā ḍa`ufū wa mas-takānū ۗ wallāhu yuḥibbuṣ ṣābirīn"
+    },
+    {
+      "index": 147,
+      "text": "wa mā kāna qawlahum illā an qālū rabbanagh-fir lanā dhunūbanā wa isrāfanā fī amrinā wathabbit aqdāmanā wanṣurnā `alal-qawmil kāfirīn"
+    },
+    {
+      "index": 148,
+      "text": "fa-ātāhumullāhu thawābad dunyā waḥusna thawābil-ākhirah ۗ wallāhu yuḥibbul muḥsinīn"
+    },
+    {
+      "index": 149,
+      "text": "yā-ayyuhal ladhīna āmanū in tuṭī`ul ladhīna kafarū yaruddūkum `alā a`qābikum fatanqalibū khāsirīn"
+    },
+    {
+      "index": 150,
+      "text": "balillāhu mawlākum ۖ wahuwa khayrun nāṣirīn"
+    },
+    {
+      "index": 151,
+      "text": "sanulqī fī qulūbil ladhīna kafarur ru`ba bimā ashrakū billāhi mā lam yunazzil bihi sulṭānā ۖ wa ma-wāhumun nār ۚ wabi-sa mathwaẓ ẓālimīn"
+    },
+    {
+      "index": 152,
+      "text": "walaqad ṣadaqakumullāhu wa`dahu idh taḥussūnahum bi-idhnih ۖ ḥattā idhā fashiltum watanāza`tum fil-amri wa`aṣaytum min ba`di mā arākum mā tuḥibbūn ۚ minkum man yurīdud dunyā wa minkum man yurīdul-ākhirah ۚ thumma ṣarafakum `anhum liyabtaliyakum ۖ walaqad `afā `ankum ۗ wallāhu dhū faḍlin `alal-mu-minīn"
+    },
+    {
+      "index": 153,
+      "text": "idh tuṣ`idūna walā talwūna `alā aḥadin war rasūlu yad`ūkum fī ukhrākum fa-athābakum ghamman bighammin likaylā taḥzanū `alā mā fātakum walā mā aṣābakum ۗ wallāhu khabīrun bimā ta`malūn"
+    },
+    {
+      "index": 154,
+      "text": "thumma anzala `alaykum min ba`dil ghammi amanatan nu`āsan yaghshā ṭā-ifatan minkum ۖ waṭā-ifatun qad ahammat-hum anfusuhum yaẓunnūna billāhi ghayral ḥaqqi ẓannal jāhiliyyah ۖ yaqūlūna hal lanā minal-amri min shay-ī ۗ qul innal-amra kullahu lillāh ۗ yukhfūna fī anfusihim mā lā yubdūna lak ۖ yaqūlūna law kāna lanā minal-amri shay-un mā qutilnā hāhunā ۗ qul law kuntum fī buyūtikum labarazal ladhīna kutiba `alayhimul qatlu ilā maḍāji`ihim ۖ waliyabtaliyallāhu mā fī ṣudūrikum waliyumaḥḥiṣa mā fī qulūbikum ۗ wallāhu `alīmun bidhātiṣ ṣudūr"
+    },
+    {
+      "index": 155,
+      "text": "innal ladhīna tawallaw minkum yawmal taqal jam`āni innamas-tazallahumush shayṭānu biba`ḍi mā kasabū ۖ walaqad `afallāhu `anhum ۗ innallāha ghafūrun ḥalīm"
+    },
+    {
+      "index": 156,
+      "text": "yā-ayyuhal ladhīna āmanū lā takūnū kal ladhīna kafarū waqālū li-ikhwānihim idhā ḍarabū fil-arḍi aw kānū ghuzzan law kānū `indanā mā mātū wa mā qutilū liyaj`alallāhu dhālika ḥasratan fī qulūbihim ۗ wallāhu yuḥyī wayumīt ۗ wallāhu bimā ta`malūna baṣīr"
+    },
+    {
+      "index": 157,
+      "text": "wala-in qutiltum fī sabīlillāhi aw muttum lamaghfiratun minallāhi waraḥmatun khayrun mimmā yajma`ūn"
+    },
+    {
+      "index": 158,
+      "text": "wala-in muttum aw qutiltum la-ilallāhi tuḥsharūn"
+    },
+    {
+      "index": 159,
+      "text": "fabimā raḥmatim minallāhi linta lahum ۖ walaw kunta faẓẓan ghalīẓal qalbi lanfaḍḍū min ḥawlik ۖ fa`fu `anhum wastaghfir lahum washāwirhum fil-amr ۖ fa-idhā `azamta fatawakkal `alallāh ۚ innallāha yuḥibbul mutawakkilīn"
+    },
+    {
+      "index": 160,
+      "text": "in yanṣurkumullāhu falā ghāliba lakum ۖ wa in yakhdhulkum faman dhal ladhī yanṣurukum min ba`dih ۗ wa`alallāhi falyatawakkalil mu-minūn"
+    },
+    {
+      "index": 161,
+      "text": "wa mā kāna linabiyyin an yaghull ۚ wa man yaghlul ya-ti bimā ghalla yawmal qiyāmah ۚ thumma tuwaffā kullu nafsin mā kasabat wahum lā yuẓlamūn"
+    },
+    {
+      "index": 162,
+      "text": "afamanit-taba`a riḍwānallāhi kaman bā-a bisakhaṭin minallāhi wa ma-wāhu jahannam ۚ wabi-sal maṣīr"
+    },
+    {
+      "index": 163,
+      "text": "hum darajātun `indallāh ۗ wallāhu baṣīrun bimā ya`malūn"
+    },
+    {
+      "index": 164,
+      "text": "laqad mannallāhu `alal-mu-minīna idh ba`atha fīhim rasūlan min anfusihim yatlū `alayhim āyātihi wayuzakkīhim wayu`allimuhumul kitāba wal ḥikmata wa in kānū min qablu lafī ḍalālin mubīn"
+    },
+    {
+      "index": 165,
+      "text": "awalammā aṣābatkum muṣībatun qad aṣabtum mithlayhā qultum annā hādhā ۖ qul huwa min `indi anfusikum ۗ innallāha `alā kulli shay-in qadīr"
+    },
+    {
+      "index": 166,
+      "text": "wa mā aṣābakum yawmal taqal jam`āni fabi-idhnillāhi waliya`lamal mu-minīn"
+    },
+    {
+      "index": 167,
+      "text": "waliya`lamal ladhīna nāfaqū ۚ waqīla lahum ta`ālaw qātilū fī sabīlillāhi awid-fa`ū ۖ qālū law na`lamu qitālal lattaba`nākum ۗ hum lilkufri yawma-idhin aqrabu minhum lil-iymān ۚ yaqūlūna bi-afwāhihim mā laysa fī qulūbihim ۗ wallāhu a`lamu bimā yaktumūn"
+    },
+    {
+      "index": 168,
+      "text": "alladhīna qālū li-ikhwānihim waqa`adū law aṭā`ūnā mā qutilū ۗ qul fadra-ū `an anfusikumul mawta in kuntum ṣādiqīn"
+    },
+    {
+      "index": 169,
+      "text": "walā taḥsabannal ladhīna qutilū fī sabīlillāhi amwātā ۚ bal aḥyā-un `inda rabbihim yurzaqūn"
+    },
+    {
+      "index": 170,
+      "text": "fariḥīna bimā ātāhumullāhu min faḍlihi wayastabshirūna bil ladhīna lam yalḥaqū bihim min khalfihim allā khawfun `alayhim walā hum yaḥzanūn"
+    },
+    {
+      "index": 171,
+      "text": "yastabshirūna bini`matim minallāhi wafaḍlin wa-annallāha lā yuḍī`u ajral mu-minīn"
+    },
+    {
+      "index": 172,
+      "text": "alladhīnas-tajābū lillāhi war rasūli min ba`di mā aṣābahumul qarḥ ۚ lilladhīna aḥsanū minhum wattaqaw ajrun `aẓīm"
+    },
+    {
+      "index": 173,
+      "text": "alladhīna qāla lahumun nāsu innan nāsa qad jama`ū lakum fakhshawhum fazādahum-iymānan waqālū ḥasbunallāhu wani`mal wakīl"
+    },
+    {
+      "index": 174,
+      "text": "fanqalabū bini`matim minallāhi wafaḍlin lam yamsas-hum sū-un wattaba`ū riḍwānallāh ۗ wallāhu dhū faḍlin `aẓīm"
+    },
+    {
+      "index": 175,
+      "text": "innamā dhālikumush shayṭānu yukhawwifu awliyā-ahu falā takhāfūhum wakhāfūni in kuntum mu-minīn"
+    },
+    {
+      "index": 176,
+      "text": "walā yaḥzunkal ladhīna yusāri`ūna fil kufr ۚ innahum lan yaḍurrullāha shay-ā ۗ yurīdullāhu allā yaj`ala lahum ḥaẓẓan fil-ākhirah ۖ walahum `adhābun `aẓīm"
+    },
+    {
+      "index": 177,
+      "text": "innal ladhīnash-tarawul kufra bil-iymāni lan yaḍurrullāha shay-an walahum `adhābun alīm"
+    },
+    {
+      "index": 178,
+      "text": "walā yaḥsabannal ladhīna kafarū annamā numlī lahum khayrul li-anfusihim ۚ innamā numlī lahum liyazdādū ithmā ۚ walahum `adhābun muhīn"
+    },
+    {
+      "index": 179,
+      "text": "mā kānallāhu liyadharal mu-minīna `alā mā antum `alayhi ḥattā yamīzal khabītha minaṭ ṭayyib ۗ wa mā kānallāhu liyuṭli`akum `alal-ghaybi walākinnallāha yajtabī min rusulihi man yashā-u ۖ fa-āminū billāhi warusulih ۚ wa in tu-minū watattaqū falakum ajrun `aẓīm"
+    },
+    {
+      "index": 180,
+      "text": "walā yaḥsabannal ladhīna yabkhalūna bimā ātāhumullāhu min faḍlihi huwa khayral lahum ۖ bal huwa sharrul lahum ۖ sayuṭawwaqūna mā bakhilū bihi yawmal qiyāmah ۗ walillāhi mīrāthus samāwāti wal-arḍ ۗ wallāhu bimā ta`malūna khabīr"
+    },
+    {
+      "index": 181,
+      "text": "laqad sami`allāhu qawlal ladhīna qālū innallāha faqīrun wanaḥnu aghniyā-u ۘ sanaktubu mā qālū waqatlahumul-anbiyā-a bighayri ḥaqqin wanaqūlu dhūqū `adhābal ḥarīq"
+    },
+    {
+      "index": 182,
+      "text": "dhālika bimā qaddamat aydīkum wa-annallāha laysa biẓallāmin lil`abīd"
+    },
+    {
+      "index": 183,
+      "text": "alladhīna qālū innallāha `ahida ilaynā allā nu-mina lirasūlin ḥattā ya-tiyanā biqurbānin ta-kuluhun nār ۗ qul qad jā-akum rusulun min qablī bil bayyināti wabil ladhī qultum falima qataltumūhum in kuntum ṣādiqīn"
+    },
+    {
+      "index": 184,
+      "text": "fa-in kadhhabūka faqad kudhhiba rusulun min qablika jā-ū bil bayyināti waz zuburi wal kitābil munīr"
+    },
+    {
+      "index": 185,
+      "text": "kullu nafsin dhā-iqatul mawt ۗ wa innamā tuwaffawna ujūrakum yawmal qiyāmah ۖ faman zuḥziḥa `anin nāri wa-udkhilal-jannata faqad fāz ۗ wa mal ḥayātud dunyā illā matā`ul ghurūr"
+    },
+    {
+      "index": 186,
+      "text": "latublawunna fī amwālikum wa-anfusikum walatasma`unna minal ladhīna ūtul kitāba min qablikum wa minal ladhīna ashrakū adhan kathīrā ۚ wa in taṣbirū watattaqū fa-inna dhālika min `azmil-umūr"
+    },
+    {
+      "index": 187,
+      "text": "wa idh akhadhallāhu mīthāqal ladhīna ūtul kitāba latubayyinunnahu linnāsi walā taktumūnahu fanabadhūhu warā-a ẓuhūrihim washtaraw bihi thamanan qalīlā ۖ fabi-sa mā yashtarūn"
+    },
+    {
+      "index": 188,
+      "text": "lā taḥsabannal ladhīna yafraḥūna bimā ataw wayuḥibbūna an yuḥmadū bimā lam yaf`alū falā taḥsabannahum bimafāzatim minal `adhāb ۖ walahum `adhābun alīm"
+    },
+    {
+      "index": 189,
+      "text": "walillāhi mulkus samāwāti wal-arḍ ۗ wallāhu `alā kulli shay-in qadīr"
+    },
+    {
+      "index": 190,
+      "text": "inna fī khalqis samāwāti wal-arḍi wakhtilāfil layli wan nahāri la-āyātin li-ulil-albāb"
+    },
+    {
+      "index": 191,
+      "text": "alladhīna yadhkurūnallāha qiyāman waqu`ūdan wa`alā junūbihim wayatafakkarūna fī khalqis samāwāti wal-arḍi rabbanā mā khalaqta hādhā bāṭilan subḥānaka faqinā `adhāban nār"
+    },
+    {
+      "index": 192,
+      "text": "rabbanā innaka man tudkhilin nāra faqad akhzaytah ۖ wa mā liẓẓālimīna min anṣār"
+    },
+    {
+      "index": 193,
+      "text": "rabbanā innanā sami`nā munādiyan yunādī lil-iymāni an āminū birabbikum fa-āmannā ۚ rabbanā faghfir lanā dhunūbanā wakaffir `annā sayyi-ātinā watawaffanā ma`al-abrār"
+    },
+    {
+      "index": 194,
+      "text": "rabbanā wa-ātinā mā wa`adtanā `alā rusulika walā tukhzinā yawmal qiyāmah ۗ innaka lā tukhliful mī`ād"
+    },
+    {
+      "index": 195,
+      "text": "fastajāba lahum rabbuhum annī lā uḍī`u `amala `āmilin minkum min dhakarin aw unthā ۖ ba`ḍukum min ba`ḍ ۖ fal ladhīna hājarū wa-ukhrijū min diyārihim wa-ūdhū fī sabīlī waqātalū waqutilū la-ukaffiranna `anhum sayyi-ātihim wala-udkhilannahum jannātin tajrī min taḥtihal-anhāru thawāban min `indillāh ۗ wallāhu `indahu ḥusnuth thawāb"
+    },
+    {
+      "index": 196,
+      "text": "lā yaghurrannaka taqallubul ladhīna kafarū fil bilād"
+    },
+    {
+      "index": 197,
+      "text": "matā`un qalīlun thumma ma-wāhum jahannam ۚ wabi-sal mihād"
+    },
+    {
+      "index": 198,
+      "text": "lākinil ladhīnat-taqaw rabbahum lahum jannātun tajrī min taḥtihal-anhāru khālidīna fīhā nuzulan min `indillāh ۗ wa mā `indallāhi khayrul lil-abrār"
+    },
+    {
+      "index": 199,
+      "text": "wa inna min ahlil kitābi laman yu-minu billāhi wa mā unzila ilaykum wa mā unzila ilayhim khāshi`īna lillāhi lā yashtarūna bi-āyātillāhi thamanan qalīlā ۗ ulā-ika lahum ajruhum `inda rabbihim ۗ innallāha sarī`ul ḥisāb"
+    },
+    {
+      "index": 200,
+      "text": "yā-ayyuhal ladhīna āmanuṣ-birū waṣābirū warābiṭū wattaqullāha la`allakum tufliḥūn"
+    }
+  ]
+}

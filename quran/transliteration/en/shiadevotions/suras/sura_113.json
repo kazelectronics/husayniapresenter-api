@@ -1,0 +1,27 @@
+{
+  "index": 113,
+  "name": "Sura 113",
+  "ayas": [
+    {
+      "index": 1,
+      "text": "qul a`ūdhu birabbil falaq",
+      "bismillah": "bismillāhir raḥmānir raḥīm"
+    },
+    {
+      "index": 2,
+      "text": "min sharri mā khalaq"
+    },
+    {
+      "index": 3,
+      "text": "wa min sharri ghāsiqin idhā waqab"
+    },
+    {
+      "index": 4,
+      "text": "wa min sharrin naffāthāti fil `uqad"
+    },
+    {
+      "index": 5,
+      "text": "wa min sharri ḥāsidin idhā ḥasad"
+    }
+  ]
+}

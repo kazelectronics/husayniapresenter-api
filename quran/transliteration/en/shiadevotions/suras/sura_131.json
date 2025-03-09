@@ -1,0 +1,775 @@
+{
+  "index": 131,
+  "name": "Sura 131",
+  "ayas": [
+    {
+      "index": 1,
+      "text": "allāhumma ṣalli `alā muḥammadin wa āli muḥammad",
+      "bismillah": "bismillāhir raḥmānir raḥīm"
+    },
+    {
+      "index": 2,
+      "text": "yā allāhu yā allāhu yā allāh"
+    },
+    {
+      "index": 3,
+      "text": "yā mujība da`watil muḍṭarrīn"
+    },
+    {
+      "index": 4,
+      "text": "yā kāshifa kurabil makrūbīn"
+    },
+    {
+      "index": 5,
+      "text": "yā ghiyāthal mustaghīthīn"
+    },
+    {
+      "index": 6,
+      "text": "yā ṣarīkhal mustaṣrikhīn"
+    },
+    {
+      "index": 7,
+      "text": "wayā man huwa aqrabu ilayya min ḥablil warīd"
+    },
+    {
+      "index": 8,
+      "text": "wayā man yaḥūlu baynal mar-i waqalbih"
+    },
+    {
+      "index": 9,
+      "text": "wayā man huwa bil manẓaril a`lā wabil ufuqil mubīn"
+    },
+    {
+      "index": 10,
+      "text": "wayā man huwar raḥmānur raḥīmu `alal `ar-shistawā"
+    },
+    {
+      "index": 11,
+      "text": "wayā man ya`lamu khā-inatal a`yuni wamā tukhfiṣ ṣudūr"
+    },
+    {
+      "index": 12,
+      "text": "wayā man lā yakhfā `alayhi khāfiyah"
+    },
+    {
+      "index": 13,
+      "text": "yā man lātashtabihu `alayhil aṣwāt"
+    },
+    {
+      "index": 14,
+      "text": "wayā man lātughalliṭuhul ḥājāt"
+    },
+    {
+      "index": 15,
+      "text": "wayā man lā yubrimuhu ilḥāḥul muliḥḥīn"
+    },
+    {
+      "index": 16,
+      "text": "yā mudrika kulli fawt"
+    },
+    {
+      "index": 17,
+      "text": "wayā jāmi`a kulli shaml"
+    },
+    {
+      "index": 18,
+      "text": "wayā bāri-an nufūsi ba`dal mawt"
+    },
+    {
+      "index": 19,
+      "text": "yā man huwa kulla yawmin fī sha-n"
+    },
+    {
+      "index": 20,
+      "text": "yā qāḍiyal ḥājāt"
+    },
+    {
+      "index": 21,
+      "text": "yā munaffisal kurubāt"
+    },
+    {
+      "index": 22,
+      "text": "yā mu`ṭiyas su-ulāt"
+    },
+    {
+      "index": 23,
+      "text": "yā waliyyar raghabāt"
+    },
+    {
+      "index": 24,
+      "text": "yā kāfiyal muhimmāt"
+    },
+    {
+      "index": 25,
+      "text": "yā man yakfī min kulli shay"
+    },
+    {
+      "index": 26,
+      "text": "walā yakfī minhu shay-un fis samāwāti wal-ar-ḍ"
+    },
+    {
+      "index": 27,
+      "text": "as-aluka biḥaqqi muḥammadin khātimin nabiyyīn"
+    },
+    {
+      "index": 28,
+      "text": "wa`aliyyin amīril mu-minīn"
+    },
+    {
+      "index": 29,
+      "text": "wabiḥaqqi fāṭimata binti nabiyyik"
+    },
+    {
+      "index": 30,
+      "text": "wabiḥaqqil ḥasani walḥusayn"
+    },
+    {
+      "index": 31,
+      "text": "fa-innī bihim atawajjahu ilayka fī maqāmī hādhā"
+    },
+    {
+      "index": 32,
+      "text": "wabihim atawassal"
+    },
+    {
+      "index": 33,
+      "text": "wabihim atashaffa`u ilayk"
+    },
+    {
+      "index": 34,
+      "text": "wabiḥaqqihim as-aluka wa-uqsimu wa-a`zimu `alayk"
+    },
+    {
+      "index": 35,
+      "text": "wabishha-nil ladhī lahum `indak"
+    },
+    {
+      "index": 36,
+      "text": "wabil qadril ladhī lahum `indak"
+    },
+    {
+      "index": 37,
+      "text": "wabilladhī faḍḍaltahum `alal `ālamīn"
+    },
+    {
+      "index": 38,
+      "text": "wabismikal ladhī ja`altahu `indahum"
+    },
+    {
+      "index": 39,
+      "text": "wabihi khaṣaṣtahum dūnal `ālamīn"
+    },
+    {
+      "index": 40,
+      "text": "wabihi abantahum"
+    },
+    {
+      "index": 41,
+      "text": "wa-abanta faḍlahum min faḍlil `ālamīn"
+    },
+    {
+      "index": 42,
+      "text": "ḥattā fāqa faḍluhum faḍlal `ālamīna jamī`ā"
+    },
+    {
+      "index": 43,
+      "text": "as-aluka an tuṣalliya `alā muḥammadin wa āli muḥammad"
+    },
+    {
+      "index": 44,
+      "text": "wa-an takshifa `annī ghammī"
+    },
+    {
+      "index": 45,
+      "text": "wahammī wakar-bī"
+    },
+    {
+      "index": 46,
+      "text": "watakfiyanil muhimma min umūrī"
+    },
+    {
+      "index": 47,
+      "text": "wataqḍiya `annī daynī"
+    },
+    {
+      "index": 48,
+      "text": "watujīranī minal faqr"
+    },
+    {
+      "index": 49,
+      "text": "watujīranī minal fāqah"
+    },
+    {
+      "index": 50,
+      "text": "watughniyanī `anil mas-alati ilal makhlūqīn"
+    },
+    {
+      "index": 51,
+      "text": "watakfiyanī hamma man akhāfu hammah"
+    },
+    {
+      "index": 52,
+      "text": "wa`usra man akhāfu `usrah"
+    },
+    {
+      "index": 53,
+      "text": "waḥuzūnata man akhāfu ḥuzūnatah"
+    },
+    {
+      "index": 54,
+      "text": "washarra man akhāfu sharrah"
+    },
+    {
+      "index": 55,
+      "text": "wamakra man akhāfu makrah"
+    },
+    {
+      "index": 56,
+      "text": "wabaghya man akhāfu baghyah"
+    },
+    {
+      "index": 57,
+      "text": "wajawra man akhāfu jawrah"
+    },
+    {
+      "index": 58,
+      "text": "wasulṭāna man akhāfu sulṭānah"
+    },
+    {
+      "index": 59,
+      "text": "wakayda man akhāfu kaydah"
+    },
+    {
+      "index": 60,
+      "text": "wamaqdurata man akhāfu maqduratahu `alayy"
+    },
+    {
+      "index": 61,
+      "text": "watarudda `annī kaydal kayadah"
+    },
+    {
+      "index": 62,
+      "text": "wamakral makarah"
+    },
+    {
+      "index": 63,
+      "text": "allāhumma man arādanī fa-arid-h"
+    },
+    {
+      "index": 64,
+      "text": "waman kādanī fakid-h"
+    },
+    {
+      "index": 65,
+      "text": "waṣrif `annī kaydahu wamakrah"
+    },
+    {
+      "index": 66,
+      "text": "waba-sahu wa-amāniyyah"
+    },
+    {
+      "index": 67,
+      "text": "wamna`hu `annī kayfa shi-ta wa-annā shi-t"
+    },
+    {
+      "index": 68,
+      "text": "allāhummashghalhu `annī"
+    },
+    {
+      "index": 69,
+      "text": "bifaqrin lātajburuh"
+    },
+    {
+      "index": 70,
+      "text": "wabibalā-in lātasturuh"
+    },
+    {
+      "index": 71,
+      "text": "wabifāqatin lā tasudduhā"
+    },
+    {
+      "index": 72,
+      "text": "wabisuqmin lā tu`āfīh"
+    },
+    {
+      "index": 73,
+      "text": "wadhullin lātu`izzuh"
+    },
+    {
+      "index": 74,
+      "text": "wabimaskanatin lātajburuhā"
+    },
+    {
+      "index": 75,
+      "text": "allāhummaḍrib bidhhulli naṣba `aynayh"
+    },
+    {
+      "index": 76,
+      "text": "wa-adkhil `alayhil faqra fī manzilih"
+    },
+    {
+      "index": 77,
+      "text": "wal`illata was suqma fī badanih"
+    },
+    {
+      "index": 78,
+      "text": "ḥattā tashghalahu `annī bishughlin shāghilin lāfarāgha lah"
+    },
+    {
+      "index": 79,
+      "text": "wa-ansihi dhikrī kamā ansaytahu dhikrak"
+    },
+    {
+      "index": 80,
+      "text": "wakhudh `annī bisam`ihi wabaṣarih"
+    },
+    {
+      "index": 81,
+      "text": "walisānihi wayadih"
+    },
+    {
+      "index": 82,
+      "text": "warijlihi waqalbih"
+    },
+    {
+      "index": 83,
+      "text": "wajamī`i jawāriḥih"
+    },
+    {
+      "index": 84,
+      "text": "wa-adkhil `alayhi fī jamī`i dhālikas suqm"
+    },
+    {
+      "index": 85,
+      "text": "walā tashfihi ḥattā taj`ala dhālika lahu shughlan shāghilan bih"
+    },
+    {
+      "index": 86,
+      "text": "`annī wa`an dhikrī"
+    },
+    {
+      "index": 87,
+      "text": "wakfinī yā kāfiya mā lāyakfī siwāk"
+    },
+    {
+      "index": 88,
+      "text": "fa-innakal kafī lākāfiya siwāk"
+    },
+    {
+      "index": 89,
+      "text": "wamufarrijun lāmufarrija siwāk"
+    },
+    {
+      "index": 90,
+      "text": "wamughīthun lāmughītha siwāk"
+    },
+    {
+      "index": 91,
+      "text": "wajārun lājāra siwāk"
+    },
+    {
+      "index": 92,
+      "text": "khāba man kāna jāruhu siwāk"
+    },
+    {
+      "index": 93,
+      "text": "wamughīthuhu siwāk"
+    },
+    {
+      "index": 94,
+      "text": "wamafza`uhu ilā siwāk"
+    },
+    {
+      "index": 95,
+      "text": "wamahrabuhu ilā siwāk"
+    },
+    {
+      "index": 96,
+      "text": "wamalja-uhu ilā ghayrik"
+    },
+    {
+      "index": 97,
+      "text": "wamanjāhu min makhlūqin ghayrik"
+    },
+    {
+      "index": 98,
+      "text": "fa-anta thiqatī warajā-ī"
+    },
+    {
+      "index": 99,
+      "text": "wamafza`ī wamahrabī"
+    },
+    {
+      "index": 100,
+      "text": "wamalja-ī wamanjāy"
+    },
+    {
+      "index": 101,
+      "text": "fabika astaftiḥ"
+    },
+    {
+      "index": 102,
+      "text": "wabika astanjiḥ"
+    },
+    {
+      "index": 103,
+      "text": "wabimuḥammadin wa āli muḥammad"
+    },
+    {
+      "index": 104,
+      "text": "atawajjahu ilayka wa-atawassalu wa-atashaffa`"
+    },
+    {
+      "index": 105,
+      "text": "fa-as-aluka yā allāhu yā allāhu yā allāh"
+    },
+    {
+      "index": 106,
+      "text": "falakal ḥamdu walakash shukr"
+    },
+    {
+      "index": 107,
+      "text": "wa-ilaykal mushtakā wa-antal musta`ān"
+    },
+    {
+      "index": 108,
+      "text": "fa-as-aluka yā allāhu yā allāhu yā allāh"
+    },
+    {
+      "index": 109,
+      "text": "biḥaqqi muḥammadin wa āli muḥammad"
+    },
+    {
+      "index": 110,
+      "text": "an tuṣalliya `alā muḥammadin wa āli muḥammad"
+    },
+    {
+      "index": 111,
+      "text": "wa-an takshifa `annī ghammī wahammī wakar-bī"
+    },
+    {
+      "index": 112,
+      "text": "fī maqāmī hādhā"
+    },
+    {
+      "index": 113,
+      "text": "kamā kashafta `an nabiyyika hammahu waghammahu wakar-bah"
+    },
+    {
+      "index": 114,
+      "text": "wakafaytahu hawla `aduwwih"
+    },
+    {
+      "index": 115,
+      "text": "fakshif `annī kamā kashafta `anh"
+    },
+    {
+      "index": 116,
+      "text": "wafarrij `annī kamā farrajta `anh"
+    },
+    {
+      "index": 117,
+      "text": "wakfinī kamā kafaytah"
+    },
+    {
+      "index": 118,
+      "text": "waṣrif `annī hawla mā akhāfu hawlah"
+    },
+    {
+      "index": 119,
+      "text": "wama-ūnata mā akhāfu ma-ūnatah"
+    },
+    {
+      "index": 120,
+      "text": "wahamma mā akhāfu hammah"
+    },
+    {
+      "index": 121,
+      "text": "bilā ma-ūnatin `alā nafsī min dhālik"
+    },
+    {
+      "index": 122,
+      "text": "waṣrifnī biqaḍā-i ḥawā-ijī"
+    },
+    {
+      "index": 123,
+      "text": "wakifāyati mā ahammanī hammuh"
+    },
+    {
+      "index": 124,
+      "text": "min amri-ākhiratī wadunyāy"
+    },
+    {
+      "index": 125,
+      "text": "yā amīral mu-minīn"
+    },
+    {
+      "index": 126,
+      "text": "wayā abā `abdillāh"
+    },
+    {
+      "index": 127,
+      "text": "`alaykumā minnī salāmullāhi abadā"
+    },
+    {
+      "index": 128,
+      "text": "mā baqītu wabaqiyal laylu wan nahār"
+    },
+    {
+      "index": 129,
+      "text": "walā ja`alahullāhu-ākhiral `ahdi min ziyāratikumā"
+    },
+    {
+      "index": 130,
+      "text": "walā farraqallāhu baynī wabaynakumā"
+    },
+    {
+      "index": 131,
+      "text": "allāhumma aḥyinī ḥayāta muḥammadin wadhurriyyatih"
+    },
+    {
+      "index": 132,
+      "text": "wa-amitnī mamātahum"
+    },
+    {
+      "index": 133,
+      "text": "watawaffanī `alā millatihim"
+    },
+    {
+      "index": 134,
+      "text": "waḥshur-nī fī zumratihim"
+    },
+    {
+      "index": 135,
+      "text": "walā tufarriq baynī wabaynahum"
+    },
+    {
+      "index": 136,
+      "text": "ṭar-fata `aynin abadā"
+    },
+    {
+      "index": 137,
+      "text": "fid dunyā wal-ākhirah"
+    },
+    {
+      "index": 138,
+      "text": "yā amīral mu-minīn"
+    },
+    {
+      "index": 139,
+      "text": "wayā abā `abdillāh"
+    },
+    {
+      "index": 140,
+      "text": "ataytukumā zā-irā"
+    },
+    {
+      "index": 141,
+      "text": "wamutawassilan ilallāhi rabbī warabbikumā"
+    },
+    {
+      "index": 142,
+      "text": "wamutawajjihan ilayhi bikumā"
+    },
+    {
+      "index": 143,
+      "text": "wamustashfi`an bikumā ilallāhi ta`ālā fī ḥājatī hādhih"
+    },
+    {
+      "index": 144,
+      "text": "fashfa`ā lī"
+    },
+    {
+      "index": 145,
+      "text": "fa-inna lakumā `indallāhil maqāmal maḥmūd"
+    },
+    {
+      "index": 146,
+      "text": "waljāhal wajīh"
+    },
+    {
+      "index": 147,
+      "text": "walmanzilar rafī`a walwasīlah"
+    },
+    {
+      "index": 148,
+      "text": "innī anqalibu `ankumā"
+    },
+    {
+      "index": 149,
+      "text": "muntaẓiran litanajjuzil ḥājah"
+    },
+    {
+      "index": 150,
+      "text": "waqaḍā-ihā wanajāḥihā minallāh"
+    },
+    {
+      "index": 151,
+      "text": "bishafā`atikumā lī ilallāhi fī dhālik"
+    },
+    {
+      "index": 152,
+      "text": "falā akhīb"
+    },
+    {
+      "index": 153,
+      "text": "walā yakunu munqalabī munqalaban khā-iban khāsirā"
+    },
+    {
+      "index": 154,
+      "text": "bal yakūnu munqalabī munqalaban rājiḥā"
+    },
+    {
+      "index": 155,
+      "text": "mufliḥan munjiḥan mustajābā"
+    },
+    {
+      "index": 156,
+      "text": "biqaḍā-i jamī`i ḥawā-ijī"
+    },
+    {
+      "index": 157,
+      "text": "watashaffa`ā lī ilallāh"
+    },
+    {
+      "index": 158,
+      "text": "inqalabtu `alā mā shā-allāh"
+    },
+    {
+      "index": 159,
+      "text": "walā ḥawla walā quwwata illā billāh"
+    },
+    {
+      "index": 160,
+      "text": "mufawwiḍan amrī ilallāh"
+    },
+    {
+      "index": 161,
+      "text": "mulji-an ẓahrī ilallāh"
+    },
+    {
+      "index": 162,
+      "text": "mutawakkilan `alallāh"
+    },
+    {
+      "index": 163,
+      "text": "wa-aqūlu ḥasbiyallāhu wakafā"
+    },
+    {
+      "index": 164,
+      "text": "sami`allāhu liman da`ā"
+    },
+    {
+      "index": 165,
+      "text": "laysa lī warā-allāh"
+    },
+    {
+      "index": 166,
+      "text": "wawarā-akum yā sādatī muntahā"
+    },
+    {
+      "index": 167,
+      "text": "mā shā-a rabbī kān"
+    },
+    {
+      "index": 168,
+      "text": "wamā lam yasha-lam yakun"
+    },
+    {
+      "index": 169,
+      "text": "walā ḥawla walā quwwata illā billāh"
+    },
+    {
+      "index": 170,
+      "text": "astawdi`ukumallāh"
+    },
+    {
+      "index": 171,
+      "text": "walā ja`alahullāhu-ākhiral `ahdi minnī ilaykumā"
+    },
+    {
+      "index": 172,
+      "text": "inṣaraftu yā sayyidī yā amīral mu-minīna wamawlāy"
+    },
+    {
+      "index": 173,
+      "text": "wa-anta yā abā `abdillāhi yā sayyidī"
+    },
+    {
+      "index": 174,
+      "text": "wasalāmī `alaykumā muttaṣil"
+    },
+    {
+      "index": 175,
+      "text": "mattaṣalal laylu wan nahār"
+    },
+    {
+      "index": 176,
+      "text": "wāṣilun dhālika ilaykumā"
+    },
+    {
+      "index": 177,
+      "text": "ghayru maḥjūbin `ankumā salāmī"
+    },
+    {
+      "index": 178,
+      "text": "in shā-allāh"
+    },
+    {
+      "index": 179,
+      "text": "wa-as-aluhu biḥaqqikumā an yashā-a dhālika wayaf`al"
+    },
+    {
+      "index": 180,
+      "text": "fa-innahu ḥamīdun majīd"
+    },
+    {
+      "index": 181,
+      "text": "inqalabtu yā sayyidayya `ankumā"
+    },
+    {
+      "index": 182,
+      "text": "tā-iban ḥāmidan lillāh"
+    },
+    {
+      "index": 183,
+      "text": "shākiran rājiyan lil-ijābah"
+    },
+    {
+      "index": 184,
+      "text": "ghayra-āyisin walā qāniṭ"
+    },
+    {
+      "index": 185,
+      "text": "ā-iban `ā-idan rāji`an ilā ziyāratikumā"
+    },
+    {
+      "index": 186,
+      "text": "ghayra rāghibin `ankumā walā min ziyāratikumā"
+    },
+    {
+      "index": 187,
+      "text": "bal rāji`un `ā-idun in shā-allāh"
+    },
+    {
+      "index": 188,
+      "text": "walā ḥawla walā quwwata illā billāh"
+    },
+    {
+      "index": 189,
+      "text": "yā sādatī raghibtu ilaykumā wa-ilā ziyāratikumā"
+    },
+    {
+      "index": 190,
+      "text": "ba`da an zahida fīkumā wafī ziyāratikumā ahlud dunyā"
+    },
+    {
+      "index": 191,
+      "text": "falā khayyabaniyallāhu mā rajawtu wamā ammaltu fī ziyāratikumā"
+    },
+    {
+      "index": 192,
+      "text": "innahu qarībun mujīb"
+    }
+  ]
+}

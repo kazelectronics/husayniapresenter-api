@@ -1,0 +1,27 @@
+{
+  "index": 365,
+  "name": "Sura 365",
+  "ayas": [
+    {
+      "index": 1,
+      "text": "ba`da mā amātanī",
+      "bismillah": "alḥamdu lillāhil ladhī aḥyānī"
+    },
+    {
+      "index": 2,
+      "text": "wa ilayhin nushūr"
+    },
+    {
+      "index": 3,
+      "text": "al ḥamdu lillāhil ladhī"
+    },
+    {
+      "index": 4,
+      "text": "radda `alayya rūḥī"
+    },
+    {
+      "index": 5,
+      "text": "li-aḥmadahu wa-a`budah"
+    }
+  ]
+}

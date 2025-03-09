@@ -1,0 +1,35 @@
+{
+  "index": 180,
+  "name": "Sura 180",
+  "ayas": [
+    {
+      "index": 1,
+      "text": "allāhumma ṣalli `alā muḥammadin wa āli muḥammad",
+      "bismillah": "bismillāhir raḥmānir raḥīm"
+    },
+    {
+      "index": 2,
+      "text": "subḥāna dhil `izzish shāmikhil munīf"
+    },
+    {
+      "index": 3,
+      "text": "subḥāna dhil jalālil bādhikhil `aẓīm"
+    },
+    {
+      "index": 4,
+      "text": "subḥāna dhil mulkil fākhiril qadīm"
+    },
+    {
+      "index": 5,
+      "text": "subḥāna man yarā atharan namlati fiṣ ṣafā"
+    },
+    {
+      "index": 6,
+      "text": "subḥāna man yarā waq`aṭ ṭayri fil hawā"
+    },
+    {
+      "index": 7,
+      "text": "subḥāna man huwa hākadhā walā hākadhā ghayruh"
+    }
+  ]
+}
