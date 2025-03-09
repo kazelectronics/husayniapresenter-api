@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "id": "126",
+    "name": "Zilhajj Salaat",
+    "used": "1",
+    "audio": "2",
+    "section": "Months.ZilHajj",
+    "section_rank": 0,
+    "first_line": 2,
+    "lines": 6,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.ZilHajj"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "",
+      "وَوَاعَدْنَا مُوْسَى ثَلَاثِيْنَ لَيْلَةً",
+      "وَأَتْمَمْنَاهَا بِعَشْرٍ",
+      "فَتَمَّ مِيْقَاتُ رَبِّهِ أَرْبَعِيْنَ لَيْلَةً",
+      "وَقَالَ مُوْسَى لِأَخِيْهِ هَارُوْنَ اخْلُفْنِيْ فِيْ قَوْمِيْ",
+      "وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيْلَ الْمُفْسِدِيْنَ"
+    ],
+    "translation": [
+      "[7/142]",
+      "And We appointed with Moses a time of thirty nights",
+      "and completed them with ten more,",
+      "so the appointed time of his Lord was complete forty nights,",
+      "and Moses said to his brother Aaron: Take my place among my people,",
+      "and act well and do not follow the way of the mischief-makers."
+    ],
+    "transliteration": [
+      "",
+      "wawā`adnā mūsā thalāthīna laylah",
+      "wa-atmamnāhā bi`ashr",
+      "fatamma mīqātu rabbihi ar-ba`īna laylah",
+      "waqāla mūsā li-akhīhi hārūnakhlufnī fī qawmī",
+      "wa-aṣliḥ walā tattabi` sabīlal mufsidīn"
+    ]
+  }
+}

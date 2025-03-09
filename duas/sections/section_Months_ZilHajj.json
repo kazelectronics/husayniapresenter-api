@@ -1,0 +1,203 @@
+{
+  "id": "Months.ZilHajj",
+  "name": "Zil-Hajj Duas",
+  "parent": "Islamic Months",
+  "rank": 18,
+  "duas": [
+    {
+      "id": "14",
+      "name": "Dua Nudba",
+      "lines": 365
+    },
+    {
+      "id": "15",
+      "name": "Ziarat Waritha",
+      "lines": 94
+    },
+    {
+      "id": "108",
+      "name": "Ziarat Ameenullah",
+      "lines": 64
+    },
+    {
+      "id": "123",
+      "name": "5th Imam Ziarat",
+      "lines": 35
+    },
+    {
+      "id": "126",
+      "name": "Zilhajj Salaat",
+      "lines": 6
+    },
+    {
+      "id": "127",
+      "name": "Ziarat Muslim bin Aqeel",
+      "lines": 66
+    },
+    {
+      "id": "128",
+      "name": "Ziarat Imam Hussain Day of Arafah",
+      "lines": 166
+    },
+    {
+      "id": "129",
+      "name": "Dua Arafah - Imam Hussain",
+      "lines": 840
+    },
+    {
+      "id": "130",
+      "name": "Dua 47 - Sahifat Sajjadiyyah",
+      "lines": 419
+    },
+    {
+      "id": "137",
+      "name": "Ayat ul-Kursi",
+      "lines": 3
+    },
+    {
+      "id": "152",
+      "name": "10th Imam Ziarat",
+      "lines": 67
+    },
+    {
+      "id": "177",
+      "name": "Dua 1 - Zilhajj",
+      "lines": 48
+    },
+    {
+      "id": "178",
+      "name": "Dua 2 - Zilhajj",
+      "lines": 32
+    },
+    {
+      "id": "179",
+      "name": "Dua 3 - Zilhajj",
+      "lines": 10
+    },
+    {
+      "id": "180",
+      "name": "Dua 1st Zilhajj",
+      "lines": 8
+    },
+    {
+      "id": "181",
+      "name": "Dua 1 night of Arafah",
+      "lines": 266
+    },
+    {
+      "id": "182",
+      "name": "Arafah Tasbeehat",
+      "lines": 100
+    },
+    {
+      "id": "183",
+      "name": "Dua 2 Arafah",
+      "lines": 51
+    },
+    {
+      "id": "184",
+      "name": "Glorification day of Arafah",
+      "lines": 10
+    },
+    {
+      "id": "185",
+      "name": "Duas day of Arafah",
+      "lines": 90
+    },
+    {
+      "id": "186",
+      "name": "Duas day of Arafah",
+      "lines": 220
+    },
+    {
+      "id": "187",
+      "name": "Duas day of Arafah",
+      "lines": 9
+    },
+    {
+      "id": "188",
+      "name": "Salawaat day of Arafah",
+      "lines": 29
+    },
+    {
+      "id": "189",
+      "name": "Dua last hour of Arafah",
+      "lines": 10
+    },
+    {
+      "id": "190",
+      "name": "Dua 48 - Sahifat Sajjadiyyah",
+      "lines": 195
+    },
+    {
+      "id": "191",
+      "name": "Dua Ghadeer night",
+      "lines": 21
+    },
+    {
+      "id": "192",
+      "name": "Ghadeer Long Ziarat",
+      "lines": 569
+    },
+    {
+      "id": "193",
+      "name": "Ghadeer Short Ziarat",
+      "lines": 45
+    },
+    {
+      "id": "194",
+      "name": "Thanking Allah",
+      "lines": 1
+    },
+    {
+      "id": "195",
+      "name": "Dua day of Ghadeer",
+      "lines": 125
+    },
+    {
+      "id": "196",
+      "name": "Praising Allah",
+      "lines": 1
+    },
+    {
+      "id": "197",
+      "name": "Dua Ghadeer day",
+      "lines": 96
+    },
+    {
+      "id": "198",
+      "name": "Tasbeeh 1 Ghadir day",
+      "lines": 7
+    },
+    {
+      "id": "199",
+      "name": "Greeting Ghadir day",
+      "lines": 2
+    },
+    {
+      "id": "200",
+      "name": "Tasbeeh 2 Ghadir day",
+      "lines": 4
+    },
+    {
+      "id": "201",
+      "name": "Dua Mubahila day",
+      "lines": 186
+    },
+    {
+      "id": "202",
+      "name": "Dua Last day of Zilhajj",
+      "lines": 9
+    },
+    {
+      "id": "412",
+      "name": "Duas day of Arafah",
+      "lines": 8
+    },
+    {
+      "id": "413",
+      "name": "Duas day of Arafah",
+      "lines": 29
+    }
+  ]
+}

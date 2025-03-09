@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "386",
+    "name": "Wudhu - when washing hands",
+    "used": "1",
+    "audio": "0",
+    "section": "Salaat.Wudhu",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 2,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Salaat.Wudhu"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّهِ وَبِاللَّهِ",
+      "اَللّٰهُمَّ اجْعَلْنِىْ مِنَ التَّوَّابِيْنَ وَاجْعَلْنِىْ مِنَ الْمُتَطَهِّرِيْنَ"
+    ],
+    "translation": [
+      "In the name of Allah, and by Allah",
+      "O Allah Make me of those who repent and purify themselves."
+    ],
+    "transliteration": [
+      "bismillāhi wabillāh",
+      "allāhummaj`alnī minat tawwābīna waj`alnī minal mutaṭahhirīn"
+    ]
+  }
+}

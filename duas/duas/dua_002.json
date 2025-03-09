@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2",
+    "name": "Ramadhan Daily Dua 2",
+    "used": "1",
+    "audio": "3",
+    "section": "Months.Ramadhan",
+    "section_rank": 0,
+    "first_line": 3,
+    "lines": 16,
+    "has_youtube": true,
+    "youtube_ids": [
+      "p_bR9sw4BbA",
+      "i8_NmPLl4xg"
+    ],
+    "all_sections": [
+      "Months.Ramadhan"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "اَللَّهُمَّ أَدْخِلْ عَلَى أَهْلِ الْقُبُورِ السُّرُورَ",
+      "اَللَّهُمَّ أَغْنِ كُلَّ فَقِيرٍ",
+      "اَللَّهُمَّ أَشْبِعْ كُلَّ جَائِعٍ",
+      "اَللَّهُمَّ اكْسُ كُلَّ عُرْيَانٍ",
+      "اَللَّهُمَّ اقْضِ دَيْنَ كُلِّ مَدِينٍ",
+      "اَللَّهُمَّ فَرِّجْ عَنْ كُلِّ مَكْرُوبٍ",
+      "اَللَّهُمَّ رُدَّ كُلَّ غَرِيبٍ",
+      "اَللَّهُمَّ فُكَّ كُلَّ أَسِيرٍ",
+      "اَللَّهُمَّ أَصْلِحْ كُلَّ فَاسِدٍ مِنْ أُمُورِ الْمُسْلِمِيْنَ",
+      "اَللَّهُمَّ اشْفِ كُلَّ مَرِيضٍ",
+      "اَللَّهُمَّ سُدَّ فَقْرَنَا بِغِنَاكَ",
+      "اَللَّهُمَّ غَيِّرْ سُوءَ حَالِنَا بِحُسْنِ حَالِكَ",
+      "اَللَّهُمَّ اقْضِ عَنَّا الدَّيْنَ وَأَغْنِنَا مِنَ الْفَقْرِ",
+      "إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ"
+    ],
+    "translation": [
+      "In the Name of Allāh, the All-beneficent, the All-merciful.",
+      "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+      "O Allah, (please do] give pleasure to the inhabitants of graves (i.e. the dead].",
+      "O Allah, (please do] enrich all the poor .",
+      "O Allah, (please do] satisfy all hungry ones.",
+      "O Allah, (please do] provide all the naked with clothes.",
+      "O Allah, (please do] help all the debtors settle their debts.",
+      "O Allah, (please do] relieve all the aggrieved ones.",
+      "O Allah, (please do] help all the strangers to return home.",
+      "O Allah, (please do] release all prisoners.",
+      "O Allah, (please do] rectify all the Muslims’ affairs that are wrong.",
+      "O Allah, (please do] heal all the ailed ones.",
+      "O Allah, (please do] fill our poverty with Your richness.",
+      "O Allah, (please do] change our ill manners through Your excellent manners.",
+      "O Allah, (please do] help us settle our debts and save us from poverty.",
+      "verily, You have power over all things."
+    ],
+    "transliteration": [
+      "bismillāhir raḥmānir raḥīm",
+      "allāhumma ṣalli `alā muḥammadin wa āli muḥammad",
+      "allāhumma adkhil `alā ahlil qubūris surūr",
+      "allāhumma aghni kulla faqīr",
+      "allāhumma ashbi` kulla jā-i`",
+      "allāhummaksu kulla `ur-yān",
+      "allāhummaqḍi dayna kulli madīn",
+      "allāhumma farrij `an kulli makrūb",
+      "allāhumma rudda kulla gharīb",
+      "allāhumma fukka kulla asīr",
+      "allāhumma aṣliḥ kulla fāsidin min umūril muslimīn",
+      "allāhummashfi kulla marīḍ",
+      "allāhumma sudda faqranā bighināk",
+      "allāhumma ghayyir sū-a ḥālinā biḥusni ḥālik",
+      "allāhummaqḍi `annad dayna wa-aghninā minal faqr",
+      "innaka `alā kulli shay-in qadīr"
+    ]
+  }
+}

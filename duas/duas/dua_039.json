@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "id": "39",
+    "name": "Condolences",
+    "used": "1",
+    "audio": "2",
+    "section": "Months.Muharram",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 3,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Muharram"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "أَعْظَمَ اللَّهُ أُجُورَنَا بِمُصَابِنَا بِالْحُسَيْنِ عَلَيْهِ السَّلاَمُ",
+      "وَجَعَلَنَا وَإِيَّاكُمْ مِنَ الطَّالِبِينَ بِثَأْرِهِ",
+      "مَعَ وَلِيِّهِ الْاِمَامِ الْمَهْدِيِّ مِنْ آلِ مُحَمَّدٍ عَلَيْهِمُ السَّلاَمُ"
+    ],
+    "translation": [
+      "May Allah double up our rewards on account of our sorrow for (the martyrdom of] al-Husayn (peace be upon him]",
+      "and may He include you and us with those who shall take revenge upon his killers",
+      "with his blood-claimer; Imam al-Mahdi, who belongs to the Household of Muhammad, peace be upon them all."
+    ],
+    "transliteration": [
+      "a`ẓamallāhu ujūranā bimuṣābinā bil ḥusayni `alayhis salām",
+      "waja`alanā wa-iyyākum minaṭ ṭālibīna bitha-rih",
+      "ma`a waliyyihil imāmil mahdiyyi min-āli muḥammadin `alayhimus salām"
+    ]
+  }
+}

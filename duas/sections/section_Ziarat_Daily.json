@@ -1,0 +1,53 @@
+{
+  "id": "Ziarat.Daily",
+  "name": "Daily Ziarat",
+  "parent": "Duas and Ziarat",
+  "rank": 20,
+  "duas": [
+    {
+      "id": "12",
+      "name": "12th Imam Ziarat",
+      "lines": 34
+    },
+    {
+      "id": "304",
+      "name": "Ziarat for Saturday",
+      "lines": 68
+    },
+    {
+      "id": "306",
+      "name": "Ziarat for Sunday",
+      "lines": 36
+    },
+    {
+      "id": "308",
+      "name": "Ziarat for Monday",
+      "lines": 56
+    },
+    {
+      "id": "310",
+      "name": "Ziarat for Tuesday",
+      "lines": 26
+    },
+    {
+      "id": "312",
+      "name": "Ziarat for Wednesday",
+      "lines": 28
+    },
+    {
+      "id": "314",
+      "name": "Ziarat for Thursday",
+      "lines": 14
+    },
+    {
+      "id": "316",
+      "name": "Ziarat for Friday",
+      "lines": 38
+    },
+    {
+      "id": "320",
+      "name": "Short Ziarat for Saturday",
+      "lines": 18
+    }
+  ]
+}

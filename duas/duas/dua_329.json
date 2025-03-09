@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "id": "329",
+    "name": "Salatul Wahshat",
+    "used": "1",
+    "audio": "0",
+    "section": "Unclassified",
+    "section_rank": 0,
+    "first_line": 2,
+    "lines": 3,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Unclassified"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "وَ ابْعَثْ ثَـوَابَهَا إِلَى قَـبْرِ",
+      ""
+    ],
+    "translation": [
+      "O Allah! Bless Muḥammad and the progeny of Muḥammad,",
+      "and send the reward [of this prayer] to the grave of ",
+      "Say the name of the deceased"
+    ],
+    "transliteration": [
+      "allāhumma ṣalli `alā muḥammadiw wa-āli muḥammad",
+      "wab`ath thawābahā ilā qabr",
+      ""
+    ]
+  }
+}

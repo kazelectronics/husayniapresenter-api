@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "id": "137",
+    "name": "Ayat ul-Kursi",
+    "used": "1",
+    "audio": "2",
+    "section": "Duas.Salaat|Salaat.AfterGeneral|Months.Rajab|Months.ZilHajj",
+    "section_rank": "01",
+    "first_line": 1,
+    "lines": 3,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Duas.Salaat",
+      "Salaat.AfterGeneral",
+      "Months.Rajab",
+      "Months.ZilHajj"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِيْ السَّمَـٰوَٰتِ وَمَا فِيْ الْأَرْضِ ۗ مَن ذَا الَّذِيْ يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَـٰوَٰتِ وَالْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+      "لَآ إِكْرَاهَ فِيْ الدِّينِ ۖ قَد تَّبَيَّنَ الرُّشْدُ مِنَ الْغَىِّ ۚ فَمَن يَكْفُرْ بِالطَّـٰغُوتِ وَيُؤْمِنۢ بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انفِصَامَ لَهَا ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+      "اَللَّهُ وَلِىُّ الَّذِيْنَ ءَامَنُوْا۟ يُخْرِجُهُم مِّنَ الظُّلُمَـٰتِ إِلَى النُّورِ ۖ وَالَّذِيْنَ كَفَرُوٓا۟ أَوْلِيَآؤُهُمُ الطَّـٰغُوتُ يُخْرِجُونَهُم مِّنَ النُّورِ إِلَى الظُّلُمَـٰتِ ۗ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ النَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ"
+    ],
+    "translation": [
+      "Allah is He besides Whom there is no god, the Everliving, the Self-subsisting by Whom all subsist; slumber does not overtake Him nor sleep; whatever is in the heavens and whatever is in the earth is His; who is he that can intercede with Him but by His permission? He knows what is before them and what is behind them, and they cannot comprehend anything out of His knowledge except what He pleases, His knowledge extends over the heavens and the earth, and the preservation of them both tires Him not, and He is the Most High, the Great.",
+      "There is no compulsion in religion; truly the right way has become clearly distinct from error; therefore, whoever disbelieves in the Shaitan and believes in Allah he indeed has laid hold on the firmest handle, which shall not break off, and Allah is Hearing, Knowing.",
+      "Allah is the guardian of those who believe. He brings them out of the darkness into the light; and (as to] those who disbelieve, their guardians are Shaitans who take them out of the light into the darkness; they are the inmates of the fire, in it they shall abide."
+    ],
+    "transliteration": [
+      "allāhu lā ilāha illā huwal ḥayyul qayyūm ۚ lā ta-khudhuhu sinatun walā nawm ۚ lahu mā fis samāwāti wa mā fil-arḍ ۗ man dhal ladhī yashfa`u `indahu illā bi-idhnih ۚ ya`lamu mā bayna aydīhim wa mā khalfahum ۖ walā yuḥīṭūna bishay-in min `il-mihi illā bimā shā-a ۚ wasi`a kursiyyuhus samāwāti wal-arḍ ۖ walā ya-ūduhu ḥifẓuhumā ۚ wahuwal `aliyyul `aẓīm",
+      "lā ikrāha fid dīn ۖ qad tabayyanar rushdu minal ghayy ۚ faman yakfur biṭ ṭāghūti wayu-min billāhi faqadis-tamsaka bil `urwatil wuthqā lan-fiṣāma lahā ۗ wallāhu samī`un `alīm",
+      "allāhu waliyyul ladhīna āmanū yukhrijuhum minaẓ ẓulumāti ilan nūr ۖ wal ladhīna kafarū awliyā-uhumuṭ ṭāghūtu yukhrijūnahum minan nūri ilaẓ ẓulumāt ۗ ulā-ika aṣ-ḥābun nār ۖ hum fīhā khālidūn"
+    ]
+  }
+}

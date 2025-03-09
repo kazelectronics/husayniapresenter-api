@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "id": "400",
+    "name": "Dua 2 after Iqamah",
+    "used": "1",
+    "audio": "0",
+    "section": "Salaat.Before",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 9,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Salaat.Before"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "وَجَّهْتُ وَجْهِيَ لِلَّذِيْ فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ",
+      "حَنِيْفًا مُسْلِمًا",
+      "وَمَا اَنَا مِنَ الْمُشْرِكِيْنَ",
+      "إِنَّ صَلاَتِيْ وَنُسُكِيْ",
+      "وَمَحْيَايَ وَمَمَاتِيْ",
+      "لِلَّهِ رَبِّ الْعَالَمِيْنَ",
+      "لَا شَرِيْكَ لَهُ",
+      "وَبِذٰلِكَ اُمِرْتُ",
+      "وَاَنَا مِنَ الْمُسْلِمِيْنَ"
+    ],
+    "translation": [
+      "I have turned myself to Him Who originated the heavens and the earth,",
+      "[and I am] upright and Muslim",
+      "and I am not of the polytheists.",
+      "Surely, my prayer, my sacrifice,",
+      "my life, and my death",
+      "are (all] for Allah, the Lord of the worlds.",
+      "No associate has He;",
+      "and this am I commanded,",
+      "and I am of those who submit."
+    ],
+    "transliteration": [
+      "wajjahtu wajhiya lilladhī faṭaras samāwāti wal-ar-ḍ",
+      "ḥanīfan muslimā",
+      "wamā ana minal mushrikīn",
+      "inna ṣalātī wanusukī",
+      "wamaḥyāya wamamātī",
+      "lillāhi rabbil `ālamīn",
+      "lā sharīka lah",
+      "wabidhālika umir-t",
+      "wa-ana minal muslimīn"
+    ]
+  }
+}

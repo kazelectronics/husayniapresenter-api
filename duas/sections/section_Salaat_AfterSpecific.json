@@ -1,0 +1,48 @@
+{
+  "id": "Salaat.AfterSpecific",
+  "name": "Specific Duas After Salaat",
+  "parent": "Salaat",
+  "rank": 26,
+  "duas": [
+    {
+      "id": "296",
+      "name": "Dua after Subh - 1",
+      "lines": 28
+    },
+    {
+      "id": "297",
+      "name": "Dua after Dhuhr - 1",
+      "lines": 19
+    },
+    {
+      "id": "298",
+      "name": "Tasbih after Dhuhr",
+      "lines": 5
+    },
+    {
+      "id": "299",
+      "name": "Dua after Dhuhr - 2",
+      "lines": 11
+    },
+    {
+      "id": "300",
+      "name": "Dua after Asr",
+      "lines": 23
+    },
+    {
+      "id": "301",
+      "name": "Dua after Maghrib",
+      "lines": 12
+    },
+    {
+      "id": "302",
+      "name": "Dua after Isha",
+      "lines": 25
+    },
+    {
+      "id": "350",
+      "name": "Dua after Subh - 2",
+      "lines": 20
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "Munajat.Sahifa",
+  "name": "Sahifa Sajjadiyyah Whispered Prayers",
+  "parent": "Duas and Ziarat",
+  "rank": 19,
+  "duas": [
+    {
+      "id": "264",
+      "name": "Munajat 1 - Sahifat Sajjadiyyah",
+      "lines": 53
+    },
+    {
+      "id": "265",
+      "name": "Munajat 2 - Sahifat Sajjadiyyah",
+      "lines": 43
+    },
+    {
+      "id": "266",
+      "name": "Munajat 3 - Sahifat Sajjadiyyah",
+      "lines": 43
+    },
+    {
+      "id": "267",
+      "name": "Munajat 4 - Sahifat Sajjadiyyah",
+      "lines": 39
+    },
+    {
+      "id": "268",
+      "name": "Munajat 5 - Sahifat Sajjadiyyah",
+      "lines": 47
+    },
+    {
+      "id": "269",
+      "name": "Munajat 6 - Sahifat Sajjadiyyah",
+      "lines": 44
+    },
+    {
+      "id": "270",
+      "name": "Munajat 7 - Sahifat Sajjadiyyah",
+      "lines": 31
+    },
+    {
+      "id": "271",
+      "name": "Munajat 8 - Sahifat Sajjadiyyah",
+      "lines": 59
+    },
+    {
+      "id": "272",
+      "name": "Munajat 9 - Sahifat Sajjadiyyah",
+      "lines": 46
+    },
+    {
+      "id": "273",
+      "name": "Munajat 10 - Sahifat Sajjadiyyah",
+      "lines": 26
+    },
+    {
+      "id": "274",
+      "name": "Munajat 11 - Sahifat Sajjadiyyah",
+      "lines": 49
+    },
+    {
+      "id": "275",
+      "name": "Munajat 12 - Sahifat Sajjadiyyah",
+      "lines": 41
+    },
+    {
+      "id": "276",
+      "name": "Munajat 13 - Sahifat Sajjadiyyah",
+      "lines": 41
+    },
+    {
+      "id": "277",
+      "name": "Munajat 14 - Sahifat Sajjadiyyah",
+      "lines": 39
+    },
+    {
+      "id": "278",
+      "name": "Munajat 15 - Sahifat Sajjadiyyah",
+      "lines": 26
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "id": "298",
+    "name": "Tasbih after Dhuhr",
+    "used": "1",
+    "audio": "0",
+    "section": "Duas.Salaat|Salaat.AfterSpecific",
+    "section_rank": "11",
+    "first_line": 3,
+    "lines": 5,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Duas.Salaat",
+      "Salaat.AfterSpecific"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "",
+      "بِاللَّهِ اعْتَصَمْتُ",
+      "وَ بِاللَّهِ أَثِقُ",
+      "وَ عَلَى اللَّهِ أَتَوَكَّلُ",
+      "counter"
+    ],
+    "translation": [
+      "Repeat 10 times",
+      "With Allah I seek protection,",
+      "in Allah I trust,",
+      "and upon Allah I rely.",
+      ""
+    ],
+    "transliteration": [
+      "",
+      "billāhi`taṣamt",
+      "wa billāhi athiq",
+      "wa `alallāhi atawakkal",
+      "10"
+    ]
+  }
+}

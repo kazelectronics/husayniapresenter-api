@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "id": "150",
+    "name": "Amaal for 15th night of Rajab",
+    "used": "1",
+    "audio": "0",
+    "section": "Months.Rajab",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 3,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Rajab"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللَّهُ اَللَّهُ رَبِّي",
+      "لَا اُشْرِكُ بِهِ شَيْئًا",
+      "وَلَا اتَّخِذُ مِنْ دُونِهِ وَلِيًّا"
+    ],
+    "translation": [
+      "Allah, Allah is my Lord.",
+      "I do not associate anyone with Him",
+      "and I do not betake any Master other than Him."
+    ],
+    "transliteration": [
+      "allāhu allāhu rabbī",
+      "lā ushriku bihi shay-ā",
+      "walattakhidhu min dūnihi waliyyā"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "143",
+    "name": "Rajab General Tasbih",
+    "used": "1",
+    "audio": "0",
+    "section": "Months.Rajab",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 2,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Rajab"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَسْتَغْفِرُ اللَّهَ الَّذِيْ لَا إِلٰهَ إِلَّا هُوَ",
+      "وَأَسْأَلُهُ التَّوْبَة"
+    ],
+    "translation": [
+      "I implore the forgiveness of Allah. There is no god save Him,",
+      "and I pray to Him to accept my repentance"
+    ],
+    "transliteration": [
+      "astaghfirullāhal ladhī lā ilāha illā huw",
+      "wa-as-aluhut tawbah"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "id": "35",
+    "name": "Eid Salat Qunut",
+    "used": "1",
+    "audio": "2",
+    "section": "Months.Shawwal",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 12,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Shawwal"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللَّهُمَّ أَهْلَ الْكِبْرِيَاءِ وَالْعَظَمَةِ",
+      "وَأَهْلَ الْجُوْدِ وَالْجَبَرُوْتِ",
+      "وَأَهْلَ الْعَفْوِ وَالرَّحْمَةِ",
+      "وَأَهْلَ التَّقْوَى وَالْمَغْفِرَةِ",
+      "أَسْأَلُكَ بِحَقِّ هٰذَا الْيَوْمِ الَّذِيْ جَعَلْتَهُ لِلْمُسْلِمِيْنَ عِيْدًا",
+      "وَلِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ ذُخْرًا وَشَرَفًا وَمَزِيدًا",
+      "أَنْ تُصَلِّيَ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "وَأَنْ تُدْخِلَنِيْ فِيْ كُلِّ خَيْرٍ أَدْخَلْتَ فِيْهِ مُحَمَّدًا وَ آلَ مُحَمَّدٍ",
+      "وَأَنْ تُخْرِجَنِيْ مِنْ كُلِّ سُوْءٍ أَخْرَجْتَ مِنْهُ مُحَمَّدًا وَ آلَ مُحَمَّدٍ",
+      "صَلَوَاتُكَ عَلَيْهِ وَعَلَيْهِمْ",
+      "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ خَيْرَ مَا سَأَلَكَ مِنْهُ عِبَادُكَ الصَّالِحُوْنَ",
+      "وَأَعُوْذُ بِكَ مِمَّا اسْتَعَاذَ مِنْهُ عِبَادُكَ المُخْلَصُوْنَ"
+    ],
+    "translation": [
+      "O Allah: You are the Lord of glory and greatness",
+      "And the Lord of magnanimity and omnipotence",
+      "And the Lord of pardon and mercy,",
+      "And the worthiest of being feared and the Lord of forgiveness;",
+      "I beseech You in the name of this day, which You have decided to be feast for the Muslims,",
+      "And to be safety and increasing honor for Muhammad—peace of Allah be upon him and his Household—",
+      "(I beseech You] that You may send blessings upon Muhammad and the Household of Muhammad,",
+      "And You may include me with every item of goodness with which You have included Muhammad and the Household of Muhammad,",
+      "And that You save me from any item of evil from which You have saved Muhammad and the Household of Muhammad,",
+      "May Your blessings be upon him and upon them.",
+      "O Allah: I pray You for the best of all that for which Your righteous servants have prayed You,",
+      "And I seek Your protection against all that against which Your righteous servants have asked Your protection."
+    ],
+    "transliteration": [
+      "allāhumma ahlal kibriyā-i wal`aẓamah",
+      "wa-ahlal jūdi waljabarūt",
+      "wa-ahlal `afwi war raḥmah",
+      "wa-ahlat taqwā walmaghfirah",
+      "as-aluka biḥaqqi hādhal yawmil ladhī ja`altahu lilmuslimīna `īdā",
+      "walimuḥammadin ṣallallāhu `alayhi wa ālihi dhukhran washarafan wamazīdā",
+      "an tuṣalliya `alā muḥammadin wa āli muḥammad",
+      "wa-an tudkhilanī fī kulli khayrin adkhalta fīhi muḥammadan wa āla muḥammad",
+      "wa-an tukhrijanī min kulli sū-in akhrajta minhu muḥammadan wa āla muḥammad",
+      "ṣalawātuka `alayhi wa`alayhim",
+      "allāhumma innī as-aluka khayra mā sa-alaka minhu `ibādukaṣ ṣāliḥūn",
+      "wa-a`ūdhu bika mimmasta`ādha minhu `ibādukal mukhlaṣūn"
+    ]
+  }
+}

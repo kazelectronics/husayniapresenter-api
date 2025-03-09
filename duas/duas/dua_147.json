@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "id": "147",
+    "name": "Rajab 1st Night Tasbih",
+    "used": "1",
+    "audio": "2",
+    "section": "Months.Rajab",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 1,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Rajab"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "لَا إِلٰهَ إِلَّا اللَّهُ"
+    ],
+    "translation": [
+      "There is no god save Allah."
+    ],
+    "transliteration": [
+      "lā ilāha illallāh"
+    ]
+  }
+}

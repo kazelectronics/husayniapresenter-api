@@ -1,0 +1,6667 @@
+{
+  "Unclassified": {
+    "metadata": {
+      "id": "Unclassified",
+      "name": "Section Unclassified",
+      "parent": "Unclassified",
+      "rank": 0,
+      "duas_count": 37
+    },
+    "duas": [
+      {
+        "id": "149",
+        "name": "Dua Umm Dawood",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_149.json",
+        "lines": 290,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "317",
+        "name": "Salatul Ghufayla - First Unit Ayahs",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_317.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "318",
+        "name": "Salatul Ghufayla - Second Unit Ayah",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_318.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "319",
+        "name": "Salatul Ghufayla - Qunoot",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_319.json",
+        "lines": 10,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "321",
+        "name": "Salatul Mayyit - Takbir 1",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_321.json",
+        "lines": 3,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "322",
+        "name": "Salatul Mayyit - Takbir 2",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_322.json",
+        "lines": 10,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "323",
+        "name": "Salatul Mayyit - Takbir 3",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_323.json",
+        "lines": 7,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "324",
+        "name": "Salatul Mayyit - Takbir 4 - Man",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_324.json",
+        "lines": 8,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "325",
+        "name": "Salatul Mayyit - Takbir 4 - Woman",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_325.json",
+        "lines": 8,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "326",
+        "name": "Salatul Mayyit - Takbir 4 - Male Child",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_326.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "327",
+        "name": "Salatul Mayyit - Takbir 4 - Female Child",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_327.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "328",
+        "name": "Salatul Mayyit - Takbir 5",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_328.json",
+        "lines": 3,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "329",
+        "name": "Salatul Wahshat",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_329.json",
+        "lines": 3,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "330",
+        "name": "Namaz Jafare Tayyar - Dua in Sajdah",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_330.json",
+        "lines": 13,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "331",
+        "name": "Namaz Jafare Tayyar - Tasbih",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_331.json",
+        "lines": 18,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "332",
+        "name": "Namaz Jafare Tayyar - Dua after",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_332.json",
+        "lines": 16,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "333",
+        "name": "Salatul Layl - Dua to begin qunoot",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_333.json",
+        "lines": 11,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "334",
+        "name": "Salatul Layl - Forgiveness for others",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_334.json",
+        "lines": 5,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "335",
+        "name": "Salatul Layl - Forgiveness for yourself",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_335.json",
+        "lines": 4,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "336",
+        "name": "Salatul Layl - Repeat 7 times",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_336.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "337",
+        "name": "Salatul Layl - Pardon",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_337.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "338",
+        "name": "Salatul Layl - Forgiveness",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_338.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "339",
+        "name": "Salatul Layl - Optional dua 1 before Nafila",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_339.json",
+        "lines": 12,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "340",
+        "name": "Salatul Layl - Optional dua after 4 Nafila",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_340.json",
+        "lines": 14,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "341",
+        "name": "Salatul Layl - Optional dua after Shafa",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_341.json",
+        "lines": 22,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "342",
+        "name": "Salatul Layl - Optional dua after Witr",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_342.json",
+        "lines": 39,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "343",
+        "name": "Salatul Layl - Optional dua 2 before Nafila",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_343.json",
+        "lines": 42,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "344",
+        "name": "Salatul Layl - Optional dua for Nafila qunoot",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_344.json",
+        "lines": 17,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "345",
+        "name": "Salatul Layl - Optional dua after every Nafila",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_345.json",
+        "lines": 40,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "346",
+        "name": "Salatul Layl - Optional longer dua to begin qunoot",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_346.json",
+        "lines": 21,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "347",
+        "name": "Salatul Layl - Optional dua to end qunoot",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_347.json",
+        "lines": 25,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "348",
+        "name": "Salatul Layl - Optional dua in qiyaam",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_348.json",
+        "lines": 17,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "349",
+        "name": "Salatul Layl - Qunoot",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_349.json",
+        "lines": 22,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "361",
+        "name": "Talqeen",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_361.json",
+        "lines": 86,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "395",
+        "name": "Praising Allah",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_395.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "414",
+        "name": "Salatul Layl - Qunoot",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_414.json",
+        "lines": 33,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "415",
+        "name": "Jafare Tayyar",
+        "section": "Unclassified",
+        "section_name": "Section Unclassified",
+        "section_parent": "Unclassified",
+        "section_rank": 0,
+        "all_sections": [
+          "Unclassified"
+        ],
+        "file": "duas/dua_415.json",
+        "lines": 241,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Duas.General": {
+    "metadata": {
+      "id": "Duas.General",
+      "name": "General Duas",
+      "parent": "Duas and Ziarat",
+      "rank": 1,
+      "duas_count": 27
+    },
+    "duas": [
+      {
+        "id": "8",
+        "name": "Dua Kumayl",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General",
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_008.json",
+        "lines": 250,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "9",
+        "name": "Dua Tawassul",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_009.json",
+        "lines": 175,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "10",
+        "name": "Dua Ahad",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_010.json",
+        "lines": 84,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "11",
+        "name": "Dua Sabah",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_011.json",
+        "lines": 107,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "13",
+        "name": "Dua Simaat",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_013.json",
+        "lines": 175,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "14",
+        "name": "Dua Nudba",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General",
+          "Months.Shawwal",
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_014.json",
+        "lines": 365,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "16",
+        "name": "Hadith e Kisa",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_016.json",
+        "lines": 116,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "17",
+        "name": "Dua Faraj",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_017.json",
+        "lines": 19,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "18",
+        "name": "Dua Mashlool",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_018.json",
+        "lines": 261,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "19",
+        "name": "Dua Adeelah",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_019.json",
+        "lines": 126,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "20",
+        "name": "Dua Yastashir",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_020.json",
+        "lines": 138,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "25",
+        "name": "Dua Aaliya Madhaameen",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_025.json",
+        "lines": 214,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "53",
+        "name": "Dua Mujeer",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General",
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_053.json",
+        "lines": 275,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "109",
+        "name": "Dua at-Tawbah",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General",
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_109.json",
+        "lines": 135,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "110",
+        "name": "Dua Makarimul Akhlaq",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General",
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_110.json",
+        "lines": 224,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "111",
+        "name": "Dua Abu Hamza Thumali",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General",
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_111.json",
+        "lines": 674,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "112",
+        "name": "Dua Jawshan Kabeer",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General",
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_112.json",
+        "lines": 1410,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "131",
+        "name": "Dua Alqama",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General",
+          "Months.Muharram"
+        ],
+        "file": "duas/dua_131.json",
+        "lines": 193,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "355",
+        "name": "A Gift from Imam Hussain",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_355.json",
+        "lines": 13,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "356",
+        "name": "Dua Asharaat",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_356.json",
+        "lines": 211,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "357",
+        "name": "Dua Saif Al Sagheer-Al Qamoos",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_357.json",
+        "lines": 47,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "358",
+        "name": "Dua Hujjat",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_358.json",
+        "lines": 10,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "359",
+        "name": "Dua al Hujjah",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_359.json",
+        "lines": 10,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "360",
+        "name": "Dua Jawshan Sagheer",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_360.json",
+        "lines": 441,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "362",
+        "name": "Dua Wahdah",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_362.json",
+        "lines": 8,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "410",
+        "name": "Dua of Maqatil bin Sulayman",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_410.json",
+        "lines": 8,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "411",
+        "name": "Dua for the betterment of society",
+        "section": "Duas.General",
+        "section_name": "General Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 1,
+        "all_sections": [
+          "Duas.General"
+        ],
+        "file": "duas/dua_411.json",
+        "lines": 28,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Months.RabiAlAwwal": {
+    "metadata": {
+      "id": "Months.RabiAlAwwal",
+      "name": "Rabi Al-Awwal Duas",
+      "parent": "Islamic Months",
+      "rank": 10,
+      "duas_count": 5
+    },
+    "duas": []
+  },
+  "Months.RabiAlAkhir": {
+    "metadata": {
+      "id": "Months.RabiAlAkhir",
+      "name": "Rabi Al-Akhir Duas",
+      "parent": "Islamic Months",
+      "rank": 11,
+      "duas_count": 1
+    },
+    "duas": []
+  },
+  "Months.JumadaAlAwwal": {
+    "metadata": {
+      "id": "Months.JumadaAlAwwal",
+      "name": "Jumada Al-Awwal Duas",
+      "parent": "Islamic Months",
+      "rank": 12,
+      "duas_count": 1
+    },
+    "duas": []
+  },
+  "Months.JumadaAlAkhir": {
+    "metadata": {
+      "id": "Months.JumadaAlAkhir",
+      "name": "Jumada Al-Akhir Duas",
+      "parent": "Islamic Months",
+      "rank": 13,
+      "duas_count": 2
+    },
+    "duas": []
+  },
+  "Months.Rajab": {
+    "metadata": {
+      "id": "Months.Rajab",
+      "name": "Rajab Duas",
+      "parent": "Islamic Months",
+      "rank": 14,
+      "duas_count": 39
+    },
+    "duas": [
+      {
+        "id": "48",
+        "name": "Rajab Daily Dua 1",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_048.json",
+        "lines": 19,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "134",
+        "name": "Rajab General Dua",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_134.json",
+        "lines": 4,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "135",
+        "name": "Rajab General Tasbih",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_135.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "136",
+        "name": "Rajab General Tasbih",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_136.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "138",
+        "name": "Rajab General Dua",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_138.json",
+        "lines": 5,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "139",
+        "name": "Rajab General Dua",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_139.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "140",
+        "name": "Rajab Daily Dua 2",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_140.json",
+        "lines": 12,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "141",
+        "name": "Rajab Daily Dua 3",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_141.json",
+        "lines": 18,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "142",
+        "name": "Rajab Daily Dua 4",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_142.json",
+        "lines": 18,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "143",
+        "name": "Rajab General Tasbih",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_143.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "144",
+        "name": "Rajab Sighting of Moon",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_144.json",
+        "lines": 5,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "145",
+        "name": "Rajab Sighting of Moon",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_145.json",
+        "lines": 8,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "146",
+        "name": "Ziarat of Imam Hussain for Rajab and Shabaan",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_146.json",
+        "lines": 58,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "147",
+        "name": "Rajab 1st Night Tasbih",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_147.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "148",
+        "name": "Rajab 1st Night Dua",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_148.json",
+        "lines": 15,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "150",
+        "name": "Amaal for 15th night of Rajab",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_150.json",
+        "lines": 3,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "151",
+        "name": "Dua for 15th day of Rajab",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_151.json",
+        "lines": 22,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "153",
+        "name": "Dua for night of Mab'ath",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_153.json",
+        "lines": 14,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "154",
+        "name": "Ziarat of Imam Ali for Mab'ath",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_154.json",
+        "lines": 272,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "155",
+        "name": "Dua for day of Mab'ath",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_155.json",
+        "lines": 28,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "261",
+        "name": "Salawaat",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_261.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "262",
+        "name": "Salawaat",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_262.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "263",
+        "name": "Salawaat",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_263.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "279",
+        "name": "Lailatul Raghaib Tasbih",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_279.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "280",
+        "name": "Lailatul Raghaib Tasbih",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_280.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "281",
+        "name": "Lailatul Raghaib Tasbih",
+        "section": "Months.Rajab",
+        "section_name": "Rajab Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 14,
+        "all_sections": [
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_281.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Months.Shabaan": {
+    "metadata": {
+      "id": "Months.Shabaan",
+      "name": "Shabaan Duas",
+      "parent": "Islamic Months",
+      "rank": 15,
+      "duas_count": 22
+    },
+    "duas": [
+      {
+        "id": "156",
+        "name": "Daily amaal Shabaan",
+        "section": "Months.Shabaan",
+        "section_name": "Shabaan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 15,
+        "all_sections": [
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_156.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "157",
+        "name": "Daily salawaat Shabaan",
+        "section": "Months.Shabaan",
+        "section_name": "Shabaan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 15,
+        "all_sections": [
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_157.json",
+        "lines": 50,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "158",
+        "name": "Monthly amaal Shabaan",
+        "section": "Months.Shabaan",
+        "section_name": "Shabaan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 15,
+        "all_sections": [
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_158.json",
+        "lines": 3,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "159",
+        "name": "Dua of Imam Hussain",
+        "section": "Months.Shabaan",
+        "section_name": "Shabaan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 15,
+        "all_sections": [
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_159.json",
+        "lines": 44,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "160",
+        "name": "Dua of Imam Hussain",
+        "section": "Months.Shabaan",
+        "section_name": "Shabaan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 15,
+        "all_sections": [
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_160.json",
+        "lines": 35,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "161",
+        "name": "Munajat Shabaniya",
+        "section": "Months.Shabaan",
+        "section_name": "Shabaan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 15,
+        "all_sections": [
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_161.json",
+        "lines": 135,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "162",
+        "name": "Dua 1 - 15th Shabaan",
+        "section": "Months.Shabaan",
+        "section_name": "Shabaan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 15,
+        "all_sections": [
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_162.json",
+        "lines": 15,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "163",
+        "name": "Tasbihat Arba",
+        "section": "Months.Shabaan",
+        "section_name": "Shabaan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 15,
+        "all_sections": [
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_163.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "164",
+        "name": "Dua 2 - 15th Shabaan",
+        "section": "Months.Shabaan",
+        "section_name": "Shabaan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 15,
+        "all_sections": [
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_164.json",
+        "lines": 11,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "165",
+        "name": "Dua 3 - 15th Shabaan",
+        "section": "Months.Shabaan",
+        "section_name": "Shabaan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 15,
+        "all_sections": [
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_165.json",
+        "lines": 46,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "166",
+        "name": "Dua 4 - 15th Shabaan",
+        "section": "Months.Shabaan",
+        "section_name": "Shabaan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 15,
+        "all_sections": [
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_166.json",
+        "lines": 35,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "167",
+        "name": "Dua 5 - 15th Shabaan",
+        "section": "Months.Shabaan",
+        "section_name": "Shabaan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 15,
+        "all_sections": [
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_167.json",
+        "lines": 14,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "168",
+        "name": "Dua 6 - 15th Shabaan",
+        "section": "Months.Shabaan",
+        "section_name": "Shabaan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 15,
+        "all_sections": [
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_168.json",
+        "lines": 24,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "169",
+        "name": "Sajda Dua 1 - 15th Shabaan",
+        "section": "Months.Shabaan",
+        "section_name": "Shabaan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 15,
+        "all_sections": [
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_169.json",
+        "lines": 6,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "170",
+        "name": "Sajda Dua 2 - 15th Shabaan",
+        "section": "Months.Shabaan",
+        "section_name": "Shabaan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 15,
+        "all_sections": [
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_170.json",
+        "lines": 9,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "171",
+        "name": "Sajda Dua 3 - 15th Shabaan",
+        "section": "Months.Shabaan",
+        "section_name": "Shabaan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 15,
+        "all_sections": [
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_171.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "172",
+        "name": "Last night of Shabaan",
+        "section": "Months.Shabaan",
+        "section_name": "Shabaan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 15,
+        "all_sections": [
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_172.json",
+        "lines": 79,
+        "has_youtube": true,
+        "has_audio": true
+      }
+    ]
+  },
+  "Months.Shawwal": {
+    "metadata": {
+      "id": "Months.Shawwal",
+      "name": "Shawwal Duas",
+      "parent": "Islamic Months",
+      "rank": 16,
+      "duas_count": 10
+    },
+    "duas": [
+      {
+        "id": "28",
+        "name": "Takbir Eid",
+        "section": "Months.Shawwal",
+        "section_name": "Shawwal Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 16,
+        "all_sections": [
+          "Months.Shawwal"
+        ],
+        "file": "duas/dua_028.json",
+        "lines": 8,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "29",
+        "name": "Eid Night Dua 1",
+        "section": "Months.Shawwal",
+        "section_name": "Shawwal Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 16,
+        "all_sections": [
+          "Months.Shawwal"
+        ],
+        "file": "duas/dua_029.json",
+        "lines": 12,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "30",
+        "name": "Eid Night Dua 2",
+        "section": "Months.Shawwal",
+        "section_name": "Shawwal Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 16,
+        "all_sections": [
+          "Months.Shawwal"
+        ],
+        "file": "duas/dua_030.json",
+        "lines": 10,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "31",
+        "name": "Eid Night Salaat",
+        "section": "Months.Shawwal",
+        "section_name": "Shawwal Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 16,
+        "all_sections": [
+          "Months.Shawwal"
+        ],
+        "file": "duas/dua_031.json",
+        "lines": 11,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "32",
+        "name": "Eid Night Dua 3",
+        "section": "Months.Shawwal",
+        "section_name": "Shawwal Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 16,
+        "all_sections": [
+          "Months.Shawwal"
+        ],
+        "file": "duas/dua_032.json",
+        "lines": 146,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "34",
+        "name": "Ziarat for the day of Eid",
+        "section": "Months.Shawwal",
+        "section_name": "Shawwal Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 16,
+        "all_sections": [
+          "Months.Shawwal"
+        ],
+        "file": "duas/dua_034.json",
+        "lines": 52,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "35",
+        "name": "Eid Salat Qunut",
+        "section": "Months.Shawwal",
+        "section_name": "Shawwal Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 16,
+        "all_sections": [
+          "Months.Shawwal"
+        ],
+        "file": "duas/dua_035.json",
+        "lines": 12,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Months.ZilQad": {
+    "metadata": {
+      "id": "Months.ZilQad",
+      "name": "Zil-Qad Duas",
+      "parent": "Islamic Months",
+      "rank": 17,
+      "duas_count": 12
+    },
+    "duas": [
+      {
+        "id": "100",
+        "name": "Isteghfar - 70",
+        "section": "Months.ZilQad",
+        "section_name": "Zil-Qad Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 17,
+        "all_sections": [
+          "Months.ZilQad"
+        ],
+        "file": "duas/dua_100.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "173",
+        "name": "Dua",
+        "section": "Months.ZilQad",
+        "section_name": "Zil-Qad Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 17,
+        "all_sections": [
+          "Months.ZilQad"
+        ],
+        "file": "duas/dua_173.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "174",
+        "name": "Dua 2 - Dahwul Arz",
+        "section": "Months.ZilQad",
+        "section_name": "Zil-Qad Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 17,
+        "all_sections": [
+          "Months.ZilQad"
+        ],
+        "file": "duas/dua_174.json",
+        "lines": 7,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "175",
+        "name": "Dua 3 - Dahwul Arz",
+        "section": "Months.ZilQad",
+        "section_name": "Zil-Qad Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 17,
+        "all_sections": [
+          "Months.ZilQad"
+        ],
+        "file": "duas/dua_175.json",
+        "lines": 85,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "176",
+        "name": "Dua 3 - Zilqad Sundays",
+        "section": "Months.ZilQad",
+        "section_name": "Zil-Qad Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 17,
+        "all_sections": [
+          "Months.ZilQad"
+        ],
+        "file": "duas/dua_176.json",
+        "lines": 6,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Months.ZilHajj": {
+    "metadata": {
+      "id": "Months.ZilHajj",
+      "name": "Zil-Hajj Duas",
+      "parent": "Islamic Months",
+      "rank": 18,
+      "duas_count": 39
+    },
+    "duas": [
+      {
+        "id": "126",
+        "name": "Zilhajj Salaat",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_126.json",
+        "lines": 6,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "128",
+        "name": "Ziarat Imam Hussain Day of Arafah",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_128.json",
+        "lines": 166,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "129",
+        "name": "Dua Arafah - Imam Hussain",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_129.json",
+        "lines": 840,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "177",
+        "name": "Dua 1 - Zilhajj",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_177.json",
+        "lines": 48,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "178",
+        "name": "Dua 2 - Zilhajj",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_178.json",
+        "lines": 32,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "179",
+        "name": "Dua 3 - Zilhajj",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_179.json",
+        "lines": 10,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "180",
+        "name": "Dua 1st Zilhajj",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_180.json",
+        "lines": 8,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "181",
+        "name": "Dua 1 night of Arafah",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_181.json",
+        "lines": 266,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "182",
+        "name": "Arafah Tasbeehat",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_182.json",
+        "lines": 100,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "183",
+        "name": "Dua 2 Arafah",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_183.json",
+        "lines": 51,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "184",
+        "name": "Glorification day of Arafah",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_184.json",
+        "lines": 10,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "185",
+        "name": "Duas day of Arafah",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_185.json",
+        "lines": 90,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "186",
+        "name": "Duas day of Arafah",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_186.json",
+        "lines": 220,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "187",
+        "name": "Duas day of Arafah",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_187.json",
+        "lines": 9,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "188",
+        "name": "Salawaat day of Arafah",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_188.json",
+        "lines": 29,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "189",
+        "name": "Dua last hour of Arafah",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_189.json",
+        "lines": 10,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "191",
+        "name": "Dua Ghadeer night",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_191.json",
+        "lines": 21,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "192",
+        "name": "Ghadeer Long Ziarat",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_192.json",
+        "lines": 569,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "193",
+        "name": "Ghadeer Short Ziarat",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_193.json",
+        "lines": 45,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "194",
+        "name": "Thanking Allah",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_194.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "195",
+        "name": "Dua day of Ghadeer",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_195.json",
+        "lines": 125,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "196",
+        "name": "Praising Allah",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_196.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "197",
+        "name": "Dua Ghadeer day",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_197.json",
+        "lines": 96,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "198",
+        "name": "Tasbeeh 1 Ghadir day",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_198.json",
+        "lines": 7,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "199",
+        "name": "Greeting Ghadir day",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_199.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "200",
+        "name": "Tasbeeh 2 Ghadir day",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_200.json",
+        "lines": 4,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "201",
+        "name": "Dua Mubahila day",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_201.json",
+        "lines": 186,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "202",
+        "name": "Dua Last day of Zilhajj",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_202.json",
+        "lines": 9,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "412",
+        "name": "Duas day of Arafah",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_412.json",
+        "lines": 8,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "413",
+        "name": "Duas day of Arafah",
+        "section": "Months.ZilHajj",
+        "section_name": "Zil-Hajj Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 18,
+        "all_sections": [
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_413.json",
+        "lines": 29,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Munajat.Sahifa": {
+    "metadata": {
+      "id": "Munajat.Sahifa",
+      "name": "Sahifa Sajjadiyyah Whispered Prayers",
+      "parent": "Duas and Ziarat",
+      "rank": 19,
+      "duas_count": 15
+    },
+    "duas": [
+      {
+        "id": "264",
+        "name": "Munajat 1 - Sahifat Sajjadiyyah",
+        "section": "Munajat.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Whispered Prayers",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 19,
+        "all_sections": [
+          "Munajat.Sahifa"
+        ],
+        "file": "duas/dua_264.json",
+        "lines": 53,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "265",
+        "name": "Munajat 2 - Sahifat Sajjadiyyah",
+        "section": "Munajat.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Whispered Prayers",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 19,
+        "all_sections": [
+          "Munajat.Sahifa"
+        ],
+        "file": "duas/dua_265.json",
+        "lines": 43,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "266",
+        "name": "Munajat 3 - Sahifat Sajjadiyyah",
+        "section": "Munajat.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Whispered Prayers",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 19,
+        "all_sections": [
+          "Munajat.Sahifa"
+        ],
+        "file": "duas/dua_266.json",
+        "lines": 43,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "267",
+        "name": "Munajat 4 - Sahifat Sajjadiyyah",
+        "section": "Munajat.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Whispered Prayers",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 19,
+        "all_sections": [
+          "Munajat.Sahifa"
+        ],
+        "file": "duas/dua_267.json",
+        "lines": 39,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "268",
+        "name": "Munajat 5 - Sahifat Sajjadiyyah",
+        "section": "Munajat.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Whispered Prayers",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 19,
+        "all_sections": [
+          "Munajat.Sahifa"
+        ],
+        "file": "duas/dua_268.json",
+        "lines": 47,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "269",
+        "name": "Munajat 6 - Sahifat Sajjadiyyah",
+        "section": "Munajat.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Whispered Prayers",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 19,
+        "all_sections": [
+          "Munajat.Sahifa"
+        ],
+        "file": "duas/dua_269.json",
+        "lines": 44,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "270",
+        "name": "Munajat 7 - Sahifat Sajjadiyyah",
+        "section": "Munajat.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Whispered Prayers",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 19,
+        "all_sections": [
+          "Munajat.Sahifa"
+        ],
+        "file": "duas/dua_270.json",
+        "lines": 31,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "271",
+        "name": "Munajat 8 - Sahifat Sajjadiyyah",
+        "section": "Munajat.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Whispered Prayers",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 19,
+        "all_sections": [
+          "Munajat.Sahifa"
+        ],
+        "file": "duas/dua_271.json",
+        "lines": 59,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "272",
+        "name": "Munajat 9 - Sahifat Sajjadiyyah",
+        "section": "Munajat.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Whispered Prayers",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 19,
+        "all_sections": [
+          "Munajat.Sahifa"
+        ],
+        "file": "duas/dua_272.json",
+        "lines": 46,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "273",
+        "name": "Munajat 10 - Sahifat Sajjadiyyah",
+        "section": "Munajat.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Whispered Prayers",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 19,
+        "all_sections": [
+          "Munajat.Sahifa"
+        ],
+        "file": "duas/dua_273.json",
+        "lines": 26,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "274",
+        "name": "Munajat 11 - Sahifat Sajjadiyyah",
+        "section": "Munajat.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Whispered Prayers",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 19,
+        "all_sections": [
+          "Munajat.Sahifa"
+        ],
+        "file": "duas/dua_274.json",
+        "lines": 49,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "275",
+        "name": "Munajat 12 - Sahifat Sajjadiyyah",
+        "section": "Munajat.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Whispered Prayers",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 19,
+        "all_sections": [
+          "Munajat.Sahifa"
+        ],
+        "file": "duas/dua_275.json",
+        "lines": 41,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "276",
+        "name": "Munajat 13 - Sahifat Sajjadiyyah",
+        "section": "Munajat.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Whispered Prayers",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 19,
+        "all_sections": [
+          "Munajat.Sahifa"
+        ],
+        "file": "duas/dua_276.json",
+        "lines": 41,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "277",
+        "name": "Munajat 14 - Sahifat Sajjadiyyah",
+        "section": "Munajat.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Whispered Prayers",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 19,
+        "all_sections": [
+          "Munajat.Sahifa"
+        ],
+        "file": "duas/dua_277.json",
+        "lines": 39,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "278",
+        "name": "Munajat 15 - Sahifat Sajjadiyyah",
+        "section": "Munajat.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Whispered Prayers",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 19,
+        "all_sections": [
+          "Munajat.Sahifa"
+        ],
+        "file": "duas/dua_278.json",
+        "lines": 26,
+        "has_youtube": true,
+        "has_audio": true
+      }
+    ]
+  },
+  "Duas.Daily": {
+    "metadata": {
+      "id": "Duas.Daily",
+      "name": "Daily Duas",
+      "parent": "Duas and Ziarat",
+      "rank": 2,
+      "duas_count": 7
+    },
+    "duas": [
+      {
+        "id": "303",
+        "name": "Dua for Saturday",
+        "section": "Duas.Daily",
+        "section_name": "Daily Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 2,
+        "all_sections": [
+          "Duas.Daily"
+        ],
+        "file": "duas/dua_303.json",
+        "lines": 29,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "305",
+        "name": "Dua for Sunday",
+        "section": "Duas.Daily",
+        "section_name": "Daily Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 2,
+        "all_sections": [
+          "Duas.Daily"
+        ],
+        "file": "duas/dua_305.json",
+        "lines": 38,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "307",
+        "name": "Dua for Monday",
+        "section": "Duas.Daily",
+        "section_name": "Daily Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 2,
+        "all_sections": [
+          "Duas.Daily"
+        ],
+        "file": "duas/dua_307.json",
+        "lines": 56,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "309",
+        "name": "Dua for Tuesday",
+        "section": "Duas.Daily",
+        "section_name": "Daily Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 2,
+        "all_sections": [
+          "Duas.Daily"
+        ],
+        "file": "duas/dua_309.json",
+        "lines": 41,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "311",
+        "name": "Dua for Wednesday",
+        "section": "Duas.Daily",
+        "section_name": "Daily Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 2,
+        "all_sections": [
+          "Duas.Daily"
+        ],
+        "file": "duas/dua_311.json",
+        "lines": 37,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "313",
+        "name": "Dua for Thursday",
+        "section": "Duas.Daily",
+        "section_name": "Daily Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 2,
+        "all_sections": [
+          "Duas.Daily"
+        ],
+        "file": "duas/dua_313.json",
+        "lines": 37,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "315",
+        "name": "Dua for Friday",
+        "section": "Duas.Daily",
+        "section_name": "Daily Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 2,
+        "all_sections": [
+          "Duas.Daily"
+        ],
+        "file": "duas/dua_315.json",
+        "lines": 36,
+        "has_youtube": true,
+        "has_audio": true
+      }
+    ]
+  },
+  "Ziarat.Daily": {
+    "metadata": {
+      "id": "Ziarat.Daily",
+      "name": "Daily Ziarat",
+      "parent": "Duas and Ziarat",
+      "rank": 20,
+      "duas_count": 9
+    },
+    "duas": [
+      {
+        "id": "304",
+        "name": "Ziarat for Saturday",
+        "section": "Ziarat.Daily",
+        "section_name": "Daily Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 20,
+        "all_sections": [
+          "Ziarat.Daily"
+        ],
+        "file": "duas/dua_304.json",
+        "lines": 68,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "306",
+        "name": "Ziarat for Sunday",
+        "section": "Ziarat.Daily",
+        "section_name": "Daily Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 20,
+        "all_sections": [
+          "Ziarat.Daily"
+        ],
+        "file": "duas/dua_306.json",
+        "lines": 36,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "308",
+        "name": "Ziarat for Monday",
+        "section": "Ziarat.Daily",
+        "section_name": "Daily Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 20,
+        "all_sections": [
+          "Ziarat.Daily"
+        ],
+        "file": "duas/dua_308.json",
+        "lines": 56,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "310",
+        "name": "Ziarat for Tuesday",
+        "section": "Ziarat.Daily",
+        "section_name": "Daily Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 20,
+        "all_sections": [
+          "Ziarat.Daily"
+        ],
+        "file": "duas/dua_310.json",
+        "lines": 26,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "312",
+        "name": "Ziarat for Wednesday",
+        "section": "Ziarat.Daily",
+        "section_name": "Daily Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 20,
+        "all_sections": [
+          "Ziarat.Daily"
+        ],
+        "file": "duas/dua_312.json",
+        "lines": 28,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "314",
+        "name": "Ziarat for Thursday",
+        "section": "Ziarat.Daily",
+        "section_name": "Daily Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 20,
+        "all_sections": [
+          "Ziarat.Daily"
+        ],
+        "file": "duas/dua_314.json",
+        "lines": 14,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "316",
+        "name": "Ziarat for Friday",
+        "section": "Ziarat.Daily",
+        "section_name": "Daily Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 20,
+        "all_sections": [
+          "Ziarat.Daily"
+        ],
+        "file": "duas/dua_316.json",
+        "lines": 38,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "320",
+        "name": "Short Ziarat for Saturday",
+        "section": "Ziarat.Daily",
+        "section_name": "Daily Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 20,
+        "all_sections": [
+          "Ziarat.Daily"
+        ],
+        "file": "duas/dua_320.json",
+        "lines": 18,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Ziarat.General": {
+    "metadata": {
+      "id": "Ziarat.General",
+      "name": "General Ziarat",
+      "parent": "Duas and Ziarat",
+      "rank": 21,
+      "duas_count": 8
+    },
+    "duas": [
+      {
+        "id": "15",
+        "name": "Ziarat Waritha",
+        "section": "Ziarat.General",
+        "section_name": "General Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 21,
+        "all_sections": [
+          "Ziarat.General",
+          "Ziarat.People",
+          "Months.Ramadhan",
+          "Months.Rajab",
+          "Months.Shabaan",
+          "Months.Shawwal",
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_015.json",
+        "lines": 94,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "21",
+        "name": "Ziarat Jamia Kabeera",
+        "section": "Ziarat.General",
+        "section_name": "General Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 21,
+        "all_sections": [
+          "Ziarat.General"
+        ],
+        "file": "duas/dua_021.json",
+        "lines": 413,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "22",
+        "name": "Ziarat Ale Yasin",
+        "section": "Ziarat.General",
+        "section_name": "General Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 21,
+        "all_sections": [
+          "Ziarat.General"
+        ],
+        "file": "duas/dua_022.json",
+        "lines": 152,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "23",
+        "name": "Ziarat Ashura",
+        "section": "Ziarat.General",
+        "section_name": "General Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 21,
+        "all_sections": [
+          "Ziarat.General",
+          "Months.Muharram"
+        ],
+        "file": "duas/dua_023.json",
+        "lines": 141,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "24",
+        "name": "Ziarat Jamia Sagheera",
+        "section": "Ziarat.General",
+        "section_name": "General Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 21,
+        "all_sections": [
+          "Ziarat.General"
+        ],
+        "file": "duas/dua_024.json",
+        "lines": 24,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "41",
+        "name": "Ziarat Taziya",
+        "section": "Ziarat.General",
+        "section_name": "General Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 21,
+        "all_sections": [
+          "Ziarat.General",
+          "Months.Muharram"
+        ],
+        "file": "duas/dua_041.json",
+        "lines": 74,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "42",
+        "name": "Ziarat Nahiya",
+        "section": "Ziarat.General",
+        "section_name": "General Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 21,
+        "all_sections": [
+          "Ziarat.General"
+        ],
+        "file": "duas/dua_042.json",
+        "lines": 452,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "363",
+        "name": "General Ziarat",
+        "section": "Ziarat.General",
+        "section_name": "General Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 21,
+        "all_sections": [
+          "Ziarat.General"
+        ],
+        "file": "duas/dua_363.json",
+        "lines": 19,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Ziarat.People": {
+    "metadata": {
+      "id": "Ziarat.People",
+      "name": "Specific Ziarat",
+      "parent": "Duas and Ziarat",
+      "rank": 22,
+      "duas_count": 25
+    },
+    "duas": [
+      {
+        "id": "12",
+        "name": "12th Imam Ziarat",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Ziarat.Daily",
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_012.json",
+        "lines": 34,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "43",
+        "name": "4th Imam Ziarat 1",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.Muharram",
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_043.json",
+        "lines": 11,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "44",
+        "name": "4th Imam Ziarat 2",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.Muharram",
+          "Months.Shabaan"
+        ],
+        "file": "duas/dua_044.json",
+        "lines": 37,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "46",
+        "name": "2nd Imam Ziarat",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.Ramadhan",
+          "Months.Safar"
+        ],
+        "file": "duas/dua_046.json",
+        "lines": 22,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "47",
+        "name": "7th and 9th Imam Ziarat",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.Rajab",
+          "Months.ZilQad"
+        ],
+        "file": "duas/dua_047.json",
+        "lines": 9,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "49",
+        "name": "9th Imam Ziarat 1",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.Rajab",
+          "Months.ZilQad"
+        ],
+        "file": "duas/dua_049.json",
+        "lines": 20,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "50",
+        "name": "9th Imam Ziarat 2",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.Rajab",
+          "Months.ZilQad"
+        ],
+        "file": "duas/dua_050.json",
+        "lines": 34,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "51",
+        "name": "9th Imam Ziarat 3",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.Rajab",
+          "Months.ZilQad"
+        ],
+        "file": "duas/dua_051.json",
+        "lines": 21,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "52",
+        "name": "9th Imam Ziarat 4",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.Rajab",
+          "Months.ZilQad"
+        ],
+        "file": "duas/dua_052.json",
+        "lines": 22,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "98",
+        "name": "Ziarat of Bibi Khadija",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_098.json",
+        "lines": 16,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "108",
+        "name": "Ziarat Ameenullah",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.Ramadhan",
+          "Months.Rajab",
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_108.json",
+        "lines": 64,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "114",
+        "name": "Ziarat 1 Holy Prophet",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.Safar",
+          "Months.RabiAlAwwal"
+        ],
+        "file": "duas/dua_114.json",
+        "lines": 54,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "115",
+        "name": "Ziarat 2 Holy Prophet",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.Safar",
+          "Months.RabiAlAwwal",
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_115.json",
+        "lines": 312,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "116",
+        "name": "6th Imam Ziarat",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.RabiAlAwwal",
+          "Months.Shawwal"
+        ],
+        "file": "duas/dua_116.json",
+        "lines": 27,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "117",
+        "name": "8th Imam Ziarat",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.Safar",
+          "Months.ZilQad"
+        ],
+        "file": "duas/dua_117.json",
+        "lines": 32,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "118",
+        "name": "Ziarat Masoomah Qom",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.RabiAlAwwal",
+          "Months.ZilQad"
+        ],
+        "file": "duas/dua_118.json",
+        "lines": 76,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "119",
+        "name": "11th Imam Ziarat",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.RabiAlAwwal",
+          "Months.RabiAlAkhir"
+        ],
+        "file": "duas/dua_119.json",
+        "lines": 50,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "120",
+        "name": "Ziarat Bibi Zainab",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.JumadaAlAwwal",
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_120.json",
+        "lines": 153,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "121",
+        "name": "Ziarat Bibi Fatema",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.JumadaAlAkhir"
+        ],
+        "file": "duas/dua_121.json",
+        "lines": 61,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "122",
+        "name": "Ziarat Bibi Fatema",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.JumadaAlAkhir"
+        ],
+        "file": "duas/dua_122.json",
+        "lines": 91,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "123",
+        "name": "5th Imam Ziarat",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.Rajab",
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_123.json",
+        "lines": 35,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "124",
+        "name": "Ziarat Abu Talib",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.Rajab"
+        ],
+        "file": "duas/dua_124.json",
+        "lines": 19,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "127",
+        "name": "Ziarat Muslim bin Aqeel",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_127.json",
+        "lines": 66,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "152",
+        "name": "10th Imam Ziarat",
+        "section": "Ziarat.People",
+        "section_name": "Specific Ziarat",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 22,
+        "all_sections": [
+          "Ziarat.People",
+          "Months.Rajab",
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_152.json",
+        "lines": 67,
+        "has_youtube": true,
+        "has_audio": true
+      }
+    ]
+  },
+  "Salaat.Wudhu": {
+    "metadata": {
+      "id": "Salaat.Wudhu",
+      "name": "Duas during Wudhu",
+      "parent": "Salaat",
+      "rank": 23,
+      "duas_count": 10
+    },
+    "duas": [
+      {
+        "id": "385",
+        "name": "Wudhu - on seeing the water",
+        "section": "Salaat.Wudhu",
+        "section_name": "Duas during Wudhu",
+        "section_parent": "Salaat",
+        "section_rank": 23,
+        "all_sections": [
+          "Salaat.Wudhu"
+        ],
+        "file": "duas/dua_385.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "386",
+        "name": "Wudhu - when washing hands",
+        "section": "Salaat.Wudhu",
+        "section_name": "Duas during Wudhu",
+        "section_parent": "Salaat",
+        "section_rank": 23,
+        "all_sections": [
+          "Salaat.Wudhu"
+        ],
+        "file": "duas/dua_386.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "387",
+        "name": "Wudhu - when gargling",
+        "section": "Salaat.Wudhu",
+        "section_name": "Duas during Wudhu",
+        "section_parent": "Salaat",
+        "section_rank": 23,
+        "all_sections": [
+          "Salaat.Wudhu"
+        ],
+        "file": "duas/dua_387.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "388",
+        "name": "Wudhu - when rinsing the nose",
+        "section": "Salaat.Wudhu",
+        "section_name": "Duas during Wudhu",
+        "section_parent": "Salaat",
+        "section_rank": 23,
+        "all_sections": [
+          "Salaat.Wudhu"
+        ],
+        "file": "duas/dua_388.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "389",
+        "name": "Wudhu - when washing the face",
+        "section": "Salaat.Wudhu",
+        "section_name": "Duas during Wudhu",
+        "section_parent": "Salaat",
+        "section_rank": 23,
+        "all_sections": [
+          "Salaat.Wudhu"
+        ],
+        "file": "duas/dua_389.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "390",
+        "name": "Wudhu - when wiping the right hand",
+        "section": "Salaat.Wudhu",
+        "section_name": "Duas during Wudhu",
+        "section_parent": "Salaat",
+        "section_rank": 23,
+        "all_sections": [
+          "Salaat.Wudhu"
+        ],
+        "file": "duas/dua_390.json",
+        "lines": 3,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "391",
+        "name": "Wudhu - when wiping the left hand",
+        "section": "Salaat.Wudhu",
+        "section_name": "Duas during Wudhu",
+        "section_parent": "Salaat",
+        "section_rank": 23,
+        "all_sections": [
+          "Salaat.Wudhu"
+        ],
+        "file": "duas/dua_391.json",
+        "lines": 4,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "392",
+        "name": "Wudhu - when doing masah of the head",
+        "section": "Salaat.Wudhu",
+        "section_name": "Duas during Wudhu",
+        "section_parent": "Salaat",
+        "section_rank": 23,
+        "all_sections": [
+          "Salaat.Wudhu"
+        ],
+        "file": "duas/dua_392.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "393",
+        "name": "Wudhu - when doing masah of the feet",
+        "section": "Salaat.Wudhu",
+        "section_name": "Duas during Wudhu",
+        "section_parent": "Salaat",
+        "section_rank": 23,
+        "all_sections": [
+          "Salaat.Wudhu"
+        ],
+        "file": "duas/dua_393.json",
+        "lines": 3,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "394",
+        "name": "Wudhu - after completion",
+        "section": "Salaat.Wudhu",
+        "section_name": "Duas during Wudhu",
+        "section_parent": "Salaat",
+        "section_rank": 23,
+        "all_sections": [
+          "Salaat.Wudhu"
+        ],
+        "file": "duas/dua_394.json",
+        "lines": 3,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Salaat.Before": {
+    "metadata": {
+      "id": "Salaat.Before",
+      "name": "Duas before Salaat",
+      "parent": "Salaat",
+      "rank": 24,
+      "duas_count": 5
+    },
+    "duas": [
+      {
+        "id": "396",
+        "name": "Dua when hearing the Adhan",
+        "section": "Salaat.Before",
+        "section_name": "Duas before Salaat",
+        "section_parent": "Salaat",
+        "section_rank": 24,
+        "all_sections": [
+          "Salaat.Before"
+        ],
+        "file": "duas/dua_396.json",
+        "lines": 8,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "397",
+        "name": "Dua between Adhan and Iqamah",
+        "section": "Salaat.Before",
+        "section_name": "Duas before Salaat",
+        "section_parent": "Salaat",
+        "section_rank": 24,
+        "all_sections": [
+          "Salaat.Before"
+        ],
+        "file": "duas/dua_397.json",
+        "lines": 6,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "398",
+        "name": "Dua in Sajdah after Adhan",
+        "section": "Salaat.Before",
+        "section_name": "Duas before Salaat",
+        "section_parent": "Salaat",
+        "section_rank": 24,
+        "all_sections": [
+          "Salaat.Before"
+        ],
+        "file": "duas/dua_398.json",
+        "lines": 5,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "399",
+        "name": "Dua 1 after Iqamah",
+        "section": "Salaat.Before",
+        "section_name": "Duas before Salaat",
+        "section_parent": "Salaat",
+        "section_rank": 24,
+        "all_sections": [
+          "Salaat.Before"
+        ],
+        "file": "duas/dua_399.json",
+        "lines": 6,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "400",
+        "name": "Dua 2 after Iqamah",
+        "section": "Salaat.Before",
+        "section_name": "Duas before Salaat",
+        "section_parent": "Salaat",
+        "section_rank": 24,
+        "all_sections": [
+          "Salaat.Before"
+        ],
+        "file": "duas/dua_400.json",
+        "lines": 9,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Salaat.During": {
+    "metadata": {
+      "id": "Salaat.During",
+      "name": "Duas during Salaat",
+      "parent": "Salaat",
+      "rank": 25,
+      "duas_count": 10
+    },
+    "duas": [
+      {
+        "id": "401",
+        "name": "Dhikr of Ruku",
+        "section": "Salaat.During",
+        "section_name": "Duas during Salaat",
+        "section_parent": "Salaat",
+        "section_rank": 25,
+        "all_sections": [
+          "Salaat.During"
+        ],
+        "file": "duas/dua_401.json",
+        "lines": 9,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "402",
+        "name": "Dua in Qiyam after Ruku",
+        "section": "Salaat.During",
+        "section_name": "Duas during Salaat",
+        "section_parent": "Salaat",
+        "section_rank": 25,
+        "all_sections": [
+          "Salaat.During"
+        ],
+        "file": "duas/dua_402.json",
+        "lines": 4,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "403",
+        "name": "Dhikr of Sajdah",
+        "section": "Salaat.During",
+        "section_name": "Duas during Salaat",
+        "section_parent": "Salaat",
+        "section_rank": 25,
+        "all_sections": [
+          "Salaat.During"
+        ],
+        "file": "duas/dua_403.json",
+        "lines": 7,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "404",
+        "name": "Dua between two Sajdahs",
+        "section": "Salaat.During",
+        "section_name": "Duas during Salaat",
+        "section_parent": "Salaat",
+        "section_rank": 25,
+        "all_sections": [
+          "Salaat.During"
+        ],
+        "file": "duas/dua_404.json",
+        "lines": 5,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "405",
+        "name": "Dua in Qunoot",
+        "section": "Salaat.During",
+        "section_name": "Duas during Salaat",
+        "section_parent": "Salaat",
+        "section_rank": 25,
+        "all_sections": [
+          "Salaat.During"
+        ],
+        "file": "duas/dua_405.json",
+        "lines": 7,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "406",
+        "name": "Dhikr of Tashahhud",
+        "section": "Salaat.During",
+        "section_name": "Duas during Salaat",
+        "section_parent": "Salaat",
+        "section_rank": 25,
+        "all_sections": [
+          "Salaat.During"
+        ],
+        "file": "duas/dua_406.json",
+        "lines": 9,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Salaat.AfterSpecific": {
+    "metadata": {
+      "id": "Salaat.AfterSpecific",
+      "name": "Specific Duas After Salaat",
+      "parent": "Salaat",
+      "rank": 26,
+      "duas_count": 8
+    },
+    "duas": [
+      {
+        "id": "350",
+        "name": "Dua after Subh - 2",
+        "section": "Salaat.AfterSpecific",
+        "section_name": "Specific Duas After Salaat",
+        "section_parent": "Salaat",
+        "section_rank": 26,
+        "all_sections": [
+          "Salaat.AfterSpecific"
+        ],
+        "file": "duas/dua_350.json",
+        "lines": 20,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Salaat.AfterGeneral": {
+    "metadata": {
+      "id": "Salaat.AfterGeneral",
+      "name": "General Duas After Salaat",
+      "parent": "Salaat",
+      "rank": 27,
+      "duas_count": 12
+    },
+    "duas": [
+      {
+        "id": "407",
+        "name": "Dua after Salaat - 6",
+        "section": "Salaat.AfterGeneral",
+        "section_name": "General Duas After Salaat",
+        "section_parent": "Salaat",
+        "section_rank": 27,
+        "all_sections": [
+          "Salaat.AfterGeneral"
+        ],
+        "file": "duas/dua_407.json",
+        "lines": 6,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Etiquette.General": {
+    "metadata": {
+      "id": "Etiquette.General",
+      "name": "General Etiquette",
+      "parent": "Etiquette",
+      "rank": 28,
+      "duas_count": 20
+    },
+    "duas": [
+      {
+        "id": "365",
+        "name": "Dua upon waking up",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_365.json",
+        "lines": 6,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "366",
+        "name": "Dua after rising from your bed",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_366.json",
+        "lines": 4,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "367",
+        "name": "After waking up [3:190-194]",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_367.json",
+        "lines": 6,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "368",
+        "name": "Dua for dawn and dusk",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_368.json",
+        "lines": 6,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "369",
+        "name": "Dua when in the washroom",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_369.json",
+        "lines": 7,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "370",
+        "name": "Dua when wearing clothes",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_370.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "371",
+        "name": "Dua when wearing new clothes",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_371.json",
+        "lines": 6,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "372",
+        "name": "Dua when looking into the mirror",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_372.json",
+        "lines": 5,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "373",
+        "name": "Dua when combing hair",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_373.json",
+        "lines": 4,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "374",
+        "name": "Dua when combing hair [20:25-26]",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_374.json",
+        "lines": 3,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "375",
+        "name": "Dua before meals",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_375.json",
+        "lines": 8,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "376",
+        "name": "Dua after meals",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_376.json",
+        "lines": 5,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "377",
+        "name": "Dua when wearing shoes",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_377.json",
+        "lines": 3,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "378",
+        "name": "Dua  1 when leaving home",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_378.json",
+        "lines": 5,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "379",
+        "name": "Dua 2 when leaving home",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_379.json",
+        "lines": 3,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "380",
+        "name": "Dua in the evening",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_380.json",
+        "lines": 6,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "381",
+        "name": "Dua when lights are turned off",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_381.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "382",
+        "name": "Dua when going to bed [18:110]",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_382.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "383",
+        "name": "Salawaat when going to bed",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_383.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "384",
+        "name": "Dua before sleeping",
+        "section": "Etiquette.General",
+        "section_name": "General Etiquette",
+        "section_parent": "Etiquette",
+        "section_rank": 28,
+        "all_sections": [
+          "Etiquette.General"
+        ],
+        "file": "duas/dua_384.json",
+        "lines": 9,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Etiquette.Quran": {
+    "metadata": {
+      "id": "Etiquette.Quran",
+      "name": "Duas for reciting the Holy Quran",
+      "parent": "Etiquette",
+      "rank": 29,
+      "duas_count": 2
+    },
+    "duas": [
+      {
+        "id": "408",
+        "name": "Dua before reciting the Quran",
+        "section": "Etiquette.Quran",
+        "section_name": "Duas for reciting the Holy Quran",
+        "section_parent": "Etiquette",
+        "section_rank": 29,
+        "all_sections": [
+          "Etiquette.Quran"
+        ],
+        "file": "duas/dua_408.json",
+        "lines": 12,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "409",
+        "name": "Dua after reciting the Quran",
+        "section": "Etiquette.Quran",
+        "section_name": "Duas for reciting the Holy Quran",
+        "section_parent": "Etiquette",
+        "section_rank": 29,
+        "all_sections": [
+          "Etiquette.Quran"
+        ],
+        "file": "duas/dua_409.json",
+        "lines": 6,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Duas.Qunoot": {
+    "metadata": {
+      "id": "Duas.Qunoot",
+      "name": "Qunoot Duas",
+      "parent": "Salaat",
+      "rank": 3,
+      "duas_count": 4
+    },
+    "duas": [
+      {
+        "id": "292",
+        "name": "Dua for Qunoot - 1 [3:147]",
+        "section": "Duas.Qunoot",
+        "section_name": "Qunoot Duas",
+        "section_parent": "Salaat",
+        "section_rank": 3,
+        "all_sections": [
+          "Duas.Qunoot",
+          "Salaat.During"
+        ],
+        "file": "duas/dua_292.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "293",
+        "name": "Dua for Qunoot - 2 [3:8]",
+        "section": "Duas.Qunoot",
+        "section_name": "Qunoot Duas",
+        "section_parent": "Salaat",
+        "section_rank": 3,
+        "all_sections": [
+          "Duas.Qunoot",
+          "Salaat.During"
+        ],
+        "file": "duas/dua_293.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "294",
+        "name": "Dua for Qunoot - 3 [27:19]",
+        "section": "Duas.Qunoot",
+        "section_name": "Qunoot Duas",
+        "section_parent": "Salaat",
+        "section_rank": 3,
+        "all_sections": [
+          "Duas.Qunoot",
+          "Salaat.During"
+        ],
+        "file": "duas/dua_294.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "295",
+        "name": "Dua for Qunoot - 4 [3:38]",
+        "section": "Duas.Qunoot",
+        "section_name": "Qunoot Duas",
+        "section_parent": "Salaat",
+        "section_rank": 3,
+        "all_sections": [
+          "Duas.Qunoot",
+          "Salaat.During"
+        ],
+        "file": "duas/dua_295.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Etiquette.Cemetery": {
+    "metadata": {
+      "id": "Etiquette.Cemetery",
+      "name": "Visiting the cemetery",
+      "parent": "Etiquette",
+      "rank": 30,
+      "duas_count": 3
+    },
+    "duas": [
+      {
+        "id": "352",
+        "name": "Dua for entering the cemetary - I.  Ali",
+        "section": "Etiquette.Cemetery",
+        "section_name": "Visiting the cemetery",
+        "section_parent": "Etiquette",
+        "section_rank": 30,
+        "all_sections": [
+          "Etiquette.Cemetery"
+        ],
+        "file": "duas/dua_352.json",
+        "lines": 12,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "353",
+        "name": "Dua for entering the cemetary - I.  Hussain",
+        "section": "Etiquette.Cemetery",
+        "section_name": "Visiting the cemetery",
+        "section_parent": "Etiquette",
+        "section_rank": 30,
+        "all_sections": [
+          "Etiquette.Cemetery"
+        ],
+        "file": "duas/dua_353.json",
+        "lines": 5,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "354",
+        "name": "Dua for entering the cemetary - I.  Sadiq",
+        "section": "Etiquette.Cemetery",
+        "section_name": "Visiting the cemetery",
+        "section_parent": "Etiquette",
+        "section_rank": 30,
+        "all_sections": [
+          "Etiquette.Cemetery"
+        ],
+        "file": "duas/dua_354.json",
+        "lines": 3,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Duas.Sahifa": {
+    "metadata": {
+      "id": "Duas.Sahifa",
+      "name": "Sahifa Sajjadiyyah Duas",
+      "parent": "Duas and Ziarat",
+      "rank": 4,
+      "duas_count": 61
+    },
+    "duas": [
+      {
+        "id": "125",
+        "name": "Dua 20 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_125.json",
+        "lines": 224,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "130",
+        "name": "Dua 47 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa",
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_130.json",
+        "lines": 419,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "190",
+        "name": "Dua 48 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa",
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_190.json",
+        "lines": 195,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "203",
+        "name": "Dua 1 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_203.json",
+        "lines": 125,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "204",
+        "name": "Dua 2 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_204.json",
+        "lines": 50,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "205",
+        "name": "Dua 3 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_205.json",
+        "lines": 62,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "206",
+        "name": "Dua 4 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_206.json",
+        "lines": 47,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "207",
+        "name": "Dua 5 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_207.json",
+        "lines": 56,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "208",
+        "name": "Dua 6 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_208.json",
+        "lines": 80,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "209",
+        "name": "Dua 7 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_209.json",
+        "lines": 39,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "210",
+        "name": "Dua 8 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_210.json",
+        "lines": 31,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "211",
+        "name": "Dua 9 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_211.json",
+        "lines": 25,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "212",
+        "name": "Dua 10 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_212.json",
+        "lines": 22,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "213",
+        "name": "Dua 11 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_213.json",
+        "lines": 23,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "214",
+        "name": "Dua 12 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_214.json",
+        "lines": 72,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "215",
+        "name": "Dua 13 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_215.json",
+        "lines": 55,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "216",
+        "name": "Dua 14 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_216.json",
+        "lines": 48,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "217",
+        "name": "Dua 15 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_217.json",
+        "lines": 31,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "218",
+        "name": "Dua 16 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_218.json",
+        "lines": 130,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "219",
+        "name": "Dua 17 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_219.json",
+        "lines": 60,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "220",
+        "name": "Dua 18 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_220.json",
+        "lines": 12,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "221",
+        "name": "Dua 19 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_221.json",
+        "lines": 35,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "222",
+        "name": "Dua 21 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_222.json",
+        "lines": 71,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "223",
+        "name": "Dua 22 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_223.json",
+        "lines": 97,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "224",
+        "name": "Dua 23 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_224.json",
+        "lines": 50,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "225",
+        "name": "Dua 24 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_225.json",
+        "lines": 78,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "226",
+        "name": "Dua 25 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_226.json",
+        "lines": 67,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "227",
+        "name": "Dua 26 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_227.json",
+        "lines": 29,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "228",
+        "name": "Dua 27 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_228.json",
+        "lines": 124,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "229",
+        "name": "Dua 28 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_229.json",
+        "lines": 32,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "230",
+        "name": "Dua 29 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_230.json",
+        "lines": 17,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "231",
+        "name": "Dua 30 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_231.json",
+        "lines": 31,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "232",
+        "name": "Dua 31 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_232.json",
+        "lines": 135,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "233",
+        "name": "Dua 32 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_233.json",
+        "lines": 136,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "234",
+        "name": "Dua 33 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_234.json",
+        "lines": 22,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "235",
+        "name": "Dua 34 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_235.json",
+        "lines": 24,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "236",
+        "name": "Dua 35 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_236.json",
+        "lines": 25,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "237",
+        "name": "Dua 36 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_237.json",
+        "lines": 37,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "238",
+        "name": "Dua 37 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_238.json",
+        "lines": 68,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "239",
+        "name": "Dua 38 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_239.json",
+        "lines": 18,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "240",
+        "name": "Dua 39 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_240.json",
+        "lines": 71,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "241",
+        "name": "Dua 40 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_241.json",
+        "lines": 25,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "242",
+        "name": "Dua 41 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_242.json",
+        "lines": 22,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "243",
+        "name": "Dua 42 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_243.json",
+        "lines": 133,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "244",
+        "name": "Dua 43 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_244.json",
+        "lines": 46,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "245",
+        "name": "Dua 44 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_245.json",
+        "lines": 110,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "246",
+        "name": "Dua 45 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_246.json",
+        "lines": 224,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "247",
+        "name": "Dua 46 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_247.json",
+        "lines": 79,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "248",
+        "name": "Dua 49 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_248.json",
+        "lines": 92,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "249",
+        "name": "Dua 50 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_249.json",
+        "lines": 44,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "250",
+        "name": "Dua 51 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_250.json",
+        "lines": 67,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "251",
+        "name": "Dua 52 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_251.json",
+        "lines": 55,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "252",
+        "name": "Dua 53 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_252.json",
+        "lines": 28,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "253",
+        "name": "Dua 54 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_253.json",
+        "lines": 80,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "254",
+        "name": "Dua 55 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_254.json",
+        "lines": 25,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "255",
+        "name": "Dua 56 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_255.json",
+        "lines": 57,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "256",
+        "name": "Dua 57 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_256.json",
+        "lines": 13,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "257",
+        "name": "Dua 58 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_257.json",
+        "lines": 19,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "258",
+        "name": "Dua 59 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_258.json",
+        "lines": 52,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "259",
+        "name": "Dua 60 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_259.json",
+        "lines": 37,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "260",
+        "name": "Dua 61 - Sahifat Sajjadiyyah",
+        "section": "Duas.Sahifa",
+        "section_name": "Sahifa Sajjadiyyah Duas",
+        "section_parent": "Duas and Ziarat",
+        "section_rank": 4,
+        "all_sections": [
+          "Duas.Sahifa"
+        ],
+        "file": "duas/dua_260.json",
+        "lines": 38,
+        "has_youtube": true,
+        "has_audio": true
+      }
+    ]
+  },
+  "Duas.Sajda": {
+    "metadata": {
+      "id": "Duas.Sajda",
+      "name": "Sajdah Duas",
+      "parent": "Salaat",
+      "rank": 5,
+      "duas_count": 3
+    },
+    "duas": [
+      {
+        "id": "289",
+        "name": "Dua for Sajdah ash-Shukr - 1",
+        "section": "Duas.Sajda",
+        "section_name": "Sajdah Duas",
+        "section_parent": "Salaat",
+        "section_rank": 5,
+        "all_sections": [
+          "Duas.Sajda",
+          "Salaat.AfterGeneral"
+        ],
+        "file": "duas/dua_289.json",
+        "lines": 6,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "290",
+        "name": "Dua for Sajdah ash-Shukr - 2",
+        "section": "Duas.Sajda",
+        "section_name": "Sajdah Duas",
+        "section_parent": "Salaat",
+        "section_rank": 5,
+        "all_sections": [
+          "Duas.Sajda",
+          "Salaat.AfterGeneral"
+        ],
+        "file": "duas/dua_290.json",
+        "lines": 3,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "291",
+        "name": "Dua for Sajdah ash-Shukr - 3",
+        "section": "Duas.Sajda",
+        "section_name": "Sajdah Duas",
+        "section_parent": "Salaat",
+        "section_rank": 5,
+        "all_sections": [
+          "Duas.Sajda",
+          "Salaat.AfterGeneral"
+        ],
+        "file": "duas/dua_291.json",
+        "lines": 8,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Duas.Salaat": {
+    "metadata": {
+      "id": "Duas.Salaat",
+      "name": "Salaat Duas",
+      "parent": "Salaat",
+      "rank": 6,
+      "duas_count": 15
+    },
+    "duas": [
+      {
+        "id": "137",
+        "name": "Ayat ul-Kursi",
+        "section": "Duas.Salaat",
+        "section_name": "Salaat Duas",
+        "section_parent": "Salaat",
+        "section_rank": 6,
+        "all_sections": [
+          "Duas.Salaat",
+          "Salaat.AfterGeneral",
+          "Months.Rajab",
+          "Months.ZilHajj"
+        ],
+        "file": "duas/dua_137.json",
+        "lines": 3,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "282",
+        "name": "Dua after Salaat - 1",
+        "section": "Duas.Salaat",
+        "section_name": "Salaat Duas",
+        "section_parent": "Salaat",
+        "section_rank": 6,
+        "all_sections": [
+          "Duas.Salaat",
+          "Salaat.AfterGeneral"
+        ],
+        "file": "duas/dua_282.json",
+        "lines": 16,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "283",
+        "name": "Dua after Salaat - 2",
+        "section": "Duas.Salaat",
+        "section_name": "Salaat Duas",
+        "section_parent": "Salaat",
+        "section_rank": 6,
+        "all_sections": [
+          "Duas.Salaat",
+          "Salaat.AfterGeneral"
+        ],
+        "file": "duas/dua_283.json",
+        "lines": 30,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "284",
+        "name": "Dua after Salaat - 3",
+        "section": "Duas.Salaat",
+        "section_name": "Salaat Duas",
+        "section_parent": "Salaat",
+        "section_rank": 6,
+        "all_sections": [
+          "Duas.Salaat",
+          "Salaat.AfterGeneral"
+        ],
+        "file": "duas/dua_284.json",
+        "lines": 10,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "285",
+        "name": "Dua after Salaat - 4",
+        "section": "Duas.Salaat",
+        "section_name": "Salaat Duas",
+        "section_parent": "Salaat",
+        "section_rank": 6,
+        "all_sections": [
+          "Duas.Salaat",
+          "Salaat.AfterGeneral"
+        ],
+        "file": "duas/dua_285.json",
+        "lines": 22,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "286",
+        "name": "Dua after Salaat - 5",
+        "section": "Duas.Salaat",
+        "section_name": "Salaat Duas",
+        "section_parent": "Salaat",
+        "section_rank": 6,
+        "all_sections": [
+          "Duas.Salaat",
+          "Salaat.AfterGeneral"
+        ],
+        "file": "duas/dua_286.json",
+        "lines": 11,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "287",
+        "name": "Ayat ush-Shahadah [3:18-19]",
+        "section": "Duas.Salaat",
+        "section_name": "Salaat Duas",
+        "section_parent": "Salaat",
+        "section_rank": 6,
+        "all_sections": [
+          "Duas.Salaat",
+          "Salaat.AfterGeneral"
+        ],
+        "file": "duas/dua_287.json",
+        "lines": 3,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "288",
+        "name": "Ayat ul-Mulk [3:26-27]",
+        "section": "Duas.Salaat",
+        "section_name": "Salaat Duas",
+        "section_parent": "Salaat",
+        "section_rank": 6,
+        "all_sections": [
+          "Duas.Salaat",
+          "Salaat.AfterGeneral"
+        ],
+        "file": "duas/dua_288.json",
+        "lines": 3,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "296",
+        "name": "Dua after Subh - 1",
+        "section": "Duas.Salaat",
+        "section_name": "Salaat Duas",
+        "section_parent": "Salaat",
+        "section_rank": 6,
+        "all_sections": [
+          "Duas.Salaat",
+          "Salaat.AfterSpecific"
+        ],
+        "file": "duas/dua_296.json",
+        "lines": 28,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "297",
+        "name": "Dua after Dhuhr - 1",
+        "section": "Duas.Salaat",
+        "section_name": "Salaat Duas",
+        "section_parent": "Salaat",
+        "section_rank": 6,
+        "all_sections": [
+          "Duas.Salaat",
+          "Salaat.AfterSpecific"
+        ],
+        "file": "duas/dua_297.json",
+        "lines": 19,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "298",
+        "name": "Tasbih after Dhuhr",
+        "section": "Duas.Salaat",
+        "section_name": "Salaat Duas",
+        "section_parent": "Salaat",
+        "section_rank": 6,
+        "all_sections": [
+          "Duas.Salaat",
+          "Salaat.AfterSpecific"
+        ],
+        "file": "duas/dua_298.json",
+        "lines": 5,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "299",
+        "name": "Dua after Dhuhr - 2",
+        "section": "Duas.Salaat",
+        "section_name": "Salaat Duas",
+        "section_parent": "Salaat",
+        "section_rank": 6,
+        "all_sections": [
+          "Duas.Salaat",
+          "Salaat.AfterSpecific"
+        ],
+        "file": "duas/dua_299.json",
+        "lines": 11,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "300",
+        "name": "Dua after Asr",
+        "section": "Duas.Salaat",
+        "section_name": "Salaat Duas",
+        "section_parent": "Salaat",
+        "section_rank": 6,
+        "all_sections": [
+          "Duas.Salaat",
+          "Salaat.AfterSpecific"
+        ],
+        "file": "duas/dua_300.json",
+        "lines": 23,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "301",
+        "name": "Dua after Maghrib",
+        "section": "Duas.Salaat",
+        "section_name": "Salaat Duas",
+        "section_parent": "Salaat",
+        "section_rank": 6,
+        "all_sections": [
+          "Duas.Salaat",
+          "Salaat.AfterSpecific"
+        ],
+        "file": "duas/dua_301.json",
+        "lines": 12,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "302",
+        "name": "Dua after Isha",
+        "section": "Duas.Salaat",
+        "section_name": "Salaat Duas",
+        "section_parent": "Salaat",
+        "section_rank": 6,
+        "all_sections": [
+          "Duas.Salaat",
+          "Salaat.AfterSpecific"
+        ],
+        "file": "duas/dua_302.json",
+        "lines": 25,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Months.Ramadhan": {
+    "metadata": {
+      "id": "Months.Ramadhan",
+      "name": "Ramadhan Duas",
+      "parent": "Islamic Months",
+      "rank": 7,
+      "duas_count": 71
+    },
+    "duas": [
+      {
+        "id": "1",
+        "name": "Ramadhan Daily Dua 1",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_001.json",
+        "lines": 20,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "2",
+        "name": "Ramadhan Daily Dua 2",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_002.json",
+        "lines": 16,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "3",
+        "name": "Ramadhan Daily Dua 3",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_003.json",
+        "lines": 11,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "4",
+        "name": "Dua Iftetah",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_004.json",
+        "lines": 238,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "5",
+        "name": "Ramadhan Daily Dua 5",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_005.json",
+        "lines": 25,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "6",
+        "name": "Ramadhan Daily Dua 6",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_006.json",
+        "lines": 15,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "7",
+        "name": "Ramadhan Daily Dua 7",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_007.json",
+        "lines": 4,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "33",
+        "name": "Ziarat for the night of Eid",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_033.json",
+        "lines": 86,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "54",
+        "name": "Dua for last 10 nights",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_054.json",
+        "lines": 50,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "55",
+        "name": "Dua on sighting new Ramadhan Moon",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_055.json",
+        "lines": 9,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "56",
+        "name": "Dua Sahar",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_056.json",
+        "lines": 18,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "57",
+        "name": "Ramadhan Dua Day 1",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_057.json",
+        "lines": 7,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "58",
+        "name": "Ramadhan Dua Day 2",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_058.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "59",
+        "name": "Ramadhan Dua Day 3",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_059.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "60",
+        "name": "Ramadhan Dua Day 4",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_060.json",
+        "lines": 7,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "61",
+        "name": "Ramadhan Dua Day 5",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_061.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "62",
+        "name": "Ramadhan Dua Day 6",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_062.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "63",
+        "name": "Ramadhan Dua Day 7",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_063.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "64",
+        "name": "Ramadhan Dua Day 8",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_064.json",
+        "lines": 7,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "65",
+        "name": "Ramadhan Dua Day 9",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_065.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "66",
+        "name": "Ramadhan Dua Day 10",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_066.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "67",
+        "name": "Ramadhan Dua Day 11",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_067.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "68",
+        "name": "Ramadhan Dua Day 12",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_068.json",
+        "lines": 7,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "69",
+        "name": "Ramadhan Dua Day 13",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_069.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "70",
+        "name": "Ramadhan Dua Day 14",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_070.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "71",
+        "name": "Ramadhan Dua Day 15",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_071.json",
+        "lines": 5,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "72",
+        "name": "Ramadhan Dua Day 16",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_072.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "73",
+        "name": "Ramadhan Dua Day 17",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_073.json",
+        "lines": 7,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "74",
+        "name": "Ramadhan Dua Day 18",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_074.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "75",
+        "name": "Ramadhan Dua Day 19",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_075.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "76",
+        "name": "Ramadhan Dua Day 20",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_076.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "77",
+        "name": "Ramadhan Dua Day 21",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_077.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "78",
+        "name": "Ramadhan Dua Day 22",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_078.json",
+        "lines": 7,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "79",
+        "name": "Ramadhan Dua Day 23",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_079.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "80",
+        "name": "Ramadhan Dua Day 24",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_080.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "81",
+        "name": "Ramadhan Dua Day 25",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_081.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "82",
+        "name": "Ramadhan Dua Day 26",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_082.json",
+        "lines": 7,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "83",
+        "name": "Ramadhan Dua Day 27",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_083.json",
+        "lines": 7,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "84",
+        "name": "Ramadhan Dua Day 28",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_084.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "85",
+        "name": "Ramadhan Dua Day 29",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_085.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "86",
+        "name": "Ramadhan Dua Day 30",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_086.json",
+        "lines": 6,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "87",
+        "name": "Ramadhan Dua for Night 21",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_087.json",
+        "lines": 26,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "88",
+        "name": "Ramadhan Dua for Night 22",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_088.json",
+        "lines": 28,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "89",
+        "name": "Ramadhan Dua for Night 23",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_089.json",
+        "lines": 30,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "90",
+        "name": "Ramadhan Dua for Night 24",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_090.json",
+        "lines": 30,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "91",
+        "name": "Ramadhan Dua for Night 25",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_091.json",
+        "lines": 28,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "92",
+        "name": "Ramadhan Dua for Night 26",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_092.json",
+        "lines": 26,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "93",
+        "name": "Ramadhan Dua for Night 27",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_093.json",
+        "lines": 34,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "94",
+        "name": "Ramadhan Dua for Night 28",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_094.json",
+        "lines": 27,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "95",
+        "name": "Ramadhan Dua for Night 29",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_095.json",
+        "lines": 26,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "96",
+        "name": "Ramadhan Dua for Night 30",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_096.json",
+        "lines": 30,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "97",
+        "name": "Dua Wida",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_097.json",
+        "lines": 99,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "99",
+        "name": "Tasbih",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_099.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "101",
+        "name": "Dua 2 on the night of Qadr",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_101.json",
+        "lines": 22,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "102",
+        "name": "Dua 3 on the night of Qadr",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_102.json",
+        "lines": 11,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "103",
+        "name": "Dua 4 on the night of Qadr",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_103.json",
+        "lines": 16,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "104",
+        "name": "Qur'an Amaal Dua 1",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_104.json",
+        "lines": 8,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "105",
+        "name": "Qur'an Amaal",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_105.json",
+        "lines": 53,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "106",
+        "name": "La'an on 19th and 21st",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_106.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "107",
+        "name": "Munajat of Imam Ali",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_107.json",
+        "lines": 97,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "351",
+        "name": "Isteghfar",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_351.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "416",
+        "name": "Dua Bahaa",
+        "section": "Months.Ramadhan",
+        "section_name": "Ramadhan Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 7,
+        "all_sections": [
+          "Months.Ramadhan"
+        ],
+        "file": "duas/dua_416.json",
+        "lines": 68,
+        "has_youtube": true,
+        "has_audio": true
+      }
+    ]
+  },
+  "Months.Muharram": {
+    "metadata": {
+      "id": "Months.Muharram",
+      "name": "Muharram Duas",
+      "parent": "Islamic Months",
+      "rank": 8,
+      "duas_count": 13
+    },
+    "duas": [
+      {
+        "id": "26",
+        "name": "Dua on sighting new Muharram Moon",
+        "section": "Months.Muharram",
+        "section_name": "Muharram Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 8,
+        "all_sections": [
+          "Months.Muharram"
+        ],
+        "file": "duas/dua_026.json",
+        "lines": 15,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "27",
+        "name": "Dua on first day of Muharram",
+        "section": "Months.Muharram",
+        "section_name": "Muharram Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 8,
+        "all_sections": [
+          "Months.Muharram"
+        ],
+        "file": "duas/dua_027.json",
+        "lines": 34,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "36",
+        "name": "Takibat After Namaz Ashura Night",
+        "section": "Months.Muharram",
+        "section_name": "Muharram Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 8,
+        "all_sections": [
+          "Months.Muharram"
+        ],
+        "file": "duas/dua_036.json",
+        "lines": 5,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "37",
+        "name": "La'an on Day of Ashura",
+        "section": "Months.Muharram",
+        "section_name": "Muharram Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 8,
+        "all_sections": [
+          "Months.Muharram"
+        ],
+        "file": "duas/dua_037.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "38",
+        "name": "La'an on Day of Ashura",
+        "section": "Months.Muharram",
+        "section_name": "Muharram Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 8,
+        "all_sections": [
+          "Months.Muharram"
+        ],
+        "file": "duas/dua_038.json",
+        "lines": 2,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "39",
+        "name": "Condolences",
+        "section": "Months.Muharram",
+        "section_name": "Muharram Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 8,
+        "all_sections": [
+          "Months.Muharram"
+        ],
+        "file": "duas/dua_039.json",
+        "lines": 3,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "40",
+        "name": "7 times back and forth",
+        "section": "Months.Muharram",
+        "section_name": "Muharram Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 8,
+        "all_sections": [
+          "Months.Muharram"
+        ],
+        "file": "duas/dua_040.json",
+        "lines": 3,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "364",
+        "name": "4th Imam Ziarat 3",
+        "section": "Months.Muharram",
+        "section_name": "Muharram Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 8,
+        "all_sections": [
+          "Months.Muharram"
+        ],
+        "file": "duas/dua_364.json",
+        "lines": 19,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  },
+  "Months.Safar": {
+    "metadata": {
+      "id": "Months.Safar",
+      "name": "Safar Duas",
+      "parent": "Islamic Months",
+      "rank": 9,
+      "duas_count": 8
+    },
+    "duas": [
+      {
+        "id": "45",
+        "name": "Safar Daily Dua",
+        "section": "Months.Safar",
+        "section_name": "Safar Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 9,
+        "all_sections": [
+          "Months.Safar"
+        ],
+        "file": "duas/dua_045.json",
+        "lines": 16,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "113",
+        "name": "Ziarat Arbaeen",
+        "section": "Months.Safar",
+        "section_name": "Safar Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 9,
+        "all_sections": [
+          "Months.Safar"
+        ],
+        "file": "duas/dua_113.json",
+        "lines": 78,
+        "has_youtube": true,
+        "has_audio": true
+      },
+      {
+        "id": "132",
+        "name": "Salawaat",
+        "section": "Months.Safar",
+        "section_name": "Safar Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 9,
+        "all_sections": [
+          "Months.Safar"
+        ],
+        "file": "duas/dua_132.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      },
+      {
+        "id": "133",
+        "name": "La'an on Abu Sufyan",
+        "section": "Months.Safar",
+        "section_name": "Safar Duas",
+        "section_parent": "Islamic Months",
+        "section_rank": 9,
+        "all_sections": [
+          "Months.Safar"
+        ],
+        "file": "duas/dua_133.json",
+        "lines": 1,
+        "has_youtube": false,
+        "has_audio": true
+      }
+    ]
+  }
+}

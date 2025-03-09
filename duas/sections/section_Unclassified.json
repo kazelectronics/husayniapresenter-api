@@ -1,0 +1,193 @@
+{
+  "id": "Unclassified",
+  "name": "Section Unclassified",
+  "parent": "Unclassified",
+  "rank": 0,
+  "duas": [
+    {
+      "id": "149",
+      "name": "Dua Umm Dawood",
+      "lines": 290
+    },
+    {
+      "id": "317",
+      "name": "Salatul Ghufayla - First Unit Ayahs",
+      "lines": 2
+    },
+    {
+      "id": "318",
+      "name": "Salatul Ghufayla - Second Unit Ayah",
+      "lines": 1
+    },
+    {
+      "id": "319",
+      "name": "Salatul Ghufayla - Qunoot",
+      "lines": 10
+    },
+    {
+      "id": "321",
+      "name": "Salatul Mayyit - Takbir 1",
+      "lines": 3
+    },
+    {
+      "id": "322",
+      "name": "Salatul Mayyit - Takbir 2",
+      "lines": 10
+    },
+    {
+      "id": "323",
+      "name": "Salatul Mayyit - Takbir 3",
+      "lines": 7
+    },
+    {
+      "id": "324",
+      "name": "Salatul Mayyit - Takbir 4 - Man",
+      "lines": 8
+    },
+    {
+      "id": "325",
+      "name": "Salatul Mayyit - Takbir 4 - Woman",
+      "lines": 8
+    },
+    {
+      "id": "326",
+      "name": "Salatul Mayyit - Takbir 4 - Male Child",
+      "lines": 1
+    },
+    {
+      "id": "327",
+      "name": "Salatul Mayyit - Takbir 4 - Female Child",
+      "lines": 1
+    },
+    {
+      "id": "328",
+      "name": "Salatul Mayyit - Takbir 5",
+      "lines": 3
+    },
+    {
+      "id": "329",
+      "name": "Salatul Wahshat",
+      "lines": 3
+    },
+    {
+      "id": "330",
+      "name": "Namaz Jafare Tayyar - Dua in Sajdah",
+      "lines": 13
+    },
+    {
+      "id": "331",
+      "name": "Namaz Jafare Tayyar - Tasbih",
+      "lines": 18
+    },
+    {
+      "id": "332",
+      "name": "Namaz Jafare Tayyar - Dua after",
+      "lines": 16
+    },
+    {
+      "id": "333",
+      "name": "Salatul Layl - Dua to begin qunoot",
+      "lines": 11
+    },
+    {
+      "id": "334",
+      "name": "Salatul Layl - Forgiveness for others",
+      "lines": 5
+    },
+    {
+      "id": "335",
+      "name": "Salatul Layl - Forgiveness for yourself",
+      "lines": 4
+    },
+    {
+      "id": "336",
+      "name": "Salatul Layl - Repeat 7 times",
+      "lines": 2
+    },
+    {
+      "id": "337",
+      "name": "Salatul Layl - Pardon",
+      "lines": 1
+    },
+    {
+      "id": "338",
+      "name": "Salatul Layl - Forgiveness",
+      "lines": 2
+    },
+    {
+      "id": "339",
+      "name": "Salatul Layl - Optional dua 1 before Nafila",
+      "lines": 12
+    },
+    {
+      "id": "340",
+      "name": "Salatul Layl - Optional dua after 4 Nafila",
+      "lines": 14
+    },
+    {
+      "id": "341",
+      "name": "Salatul Layl - Optional dua after Shafa",
+      "lines": 22
+    },
+    {
+      "id": "342",
+      "name": "Salatul Layl - Optional dua after Witr",
+      "lines": 39
+    },
+    {
+      "id": "343",
+      "name": "Salatul Layl - Optional dua 2 before Nafila",
+      "lines": 42
+    },
+    {
+      "id": "344",
+      "name": "Salatul Layl - Optional dua for Nafila qunoot",
+      "lines": 17
+    },
+    {
+      "id": "345",
+      "name": "Salatul Layl - Optional dua after every Nafila",
+      "lines": 40
+    },
+    {
+      "id": "346",
+      "name": "Salatul Layl - Optional longer dua to begin qunoot",
+      "lines": 21
+    },
+    {
+      "id": "347",
+      "name": "Salatul Layl - Optional dua to end qunoot",
+      "lines": 25
+    },
+    {
+      "id": "348",
+      "name": "Salatul Layl - Optional dua in qiyaam",
+      "lines": 17
+    },
+    {
+      "id": "349",
+      "name": "Salatul Layl - Qunoot",
+      "lines": 22
+    },
+    {
+      "id": "361",
+      "name": "Talqeen",
+      "lines": 86
+    },
+    {
+      "id": "395",
+      "name": "Praising Allah",
+      "lines": 1
+    },
+    {
+      "id": "414",
+      "name": "Salatul Layl - Qunoot",
+      "lines": 33
+    },
+    {
+      "id": "415",
+      "name": "Jafare Tayyar",
+      "lines": 241
+    }
+  ]
+}

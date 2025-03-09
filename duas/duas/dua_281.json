@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "id": "281",
+    "name": "Lailatul Raghaib Tasbih",
+    "used": "1",
+    "audio": "0",
+    "section": "Months.Rajab",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 1,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Rajab"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "رَبِّ اغْفِرْ وَارْحَمْ وَتَجَاوَزْ عَمَّا تَعْلَمُ إِنَّكَ اَنْتَ الْعَلِيُّ الْاَعْظَمُ"
+    ],
+    "translation": [
+      "O Lord! Forgive, have mercy and be indulgent about that which Thou knows well, verily Thou art Sublime, Mighty."
+    ],
+    "transliteration": [
+      "rabbighfir war-ḥam watajāwaz `ammā ta`lamu innaka antal `aliyyul a`ẓam"
+    ]
+  }
+}

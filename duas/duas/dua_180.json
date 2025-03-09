@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "id": "180",
+    "name": "Dua 1st Zilhajj",
+    "used": "1",
+    "audio": "0",
+    "section": "Months.ZilHajj",
+    "section_rank": 0,
+    "first_line": 3,
+    "lines": 8,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.ZilHajj"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "سُبْحَانَ ذِيْ الْعِزِّ الشَّامِخِ الْمُنِيفِ",
+      "سُبْحَانَ ذِيْ الْجَلالِ الْبَاذِخِ الْعَظِيمِ",
+      "سُبْحَانَ ذِيْ الْمُلْكِ الْفَاخِرِ الْقَدِيمِ",
+      "سُبْحَانَ مَنْ يَرىٰ أَثَرَ النَّمْلَةِ فِيْ الصَّفَا",
+      "سُبْحَانَ مَنْ يَرىٰ وَقْعَ الطَّيْرِ فِيْ الْهَوَاءِ",
+      "سُبْحَانَ مَنْ هُوَ هٰكَذَا وَلَا هٰكَذَا غَيْرُهُ"
+    ],
+    "translation": [
+      "In the Name of Allāh, the All-beneficent, the All-merciful.",
+      "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+      "Glory be to the Lord of Honor and Sublime Authority.",
+      "Glory be to the Lord of Majesty and Exalted Greatness.",
+      "Glory be to the Lord of eternal, splendid sovereignty.",
+      "Glory be to Him Who makes out the footprints of the ant on the stone.",
+      "Glory be to Him Who knows the exact time and place of the bird dipping down through the air.",
+      "Glory be to Him Who is like this and no one other than Him is like this."
+    ],
+    "transliteration": [
+      "bismillāhir raḥmānir raḥīm",
+      "allāhumma ṣalli `alā muḥammadin wa āli muḥammad",
+      "subḥāna dhil `izzish shāmikhil munīf",
+      "subḥāna dhil jalālil bādhikhil `aẓīm",
+      "subḥāna dhil mulkil fākhiril qadīm",
+      "subḥāna man yarā atharan namlati fiṣ ṣafā",
+      "subḥāna man yarā waq`aṭ ṭayri fil hawā",
+      "subḥāna man huwa hākadhā walā hākadhā ghayruh"
+    ]
+  }
+}

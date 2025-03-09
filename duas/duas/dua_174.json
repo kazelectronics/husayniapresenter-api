@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "id": "174",
+    "name": "Dua 2 - Dahwul Arz",
+    "used": "1",
+    "audio": "2",
+    "section": "Months.ZilQad",
+    "section_rank": 0,
+    "first_line": 3,
+    "lines": 7,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.ZilQad"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "يَا مُقِيلَ الْعَثَرَاتِ أَقِلْنِيْ عَثْرَتِيْ",
+      "يَا مُجِيبَ الدَّعَوَاتِ أَجِبْ دَعْوَتِيْ",
+      "يَا سَامِعَ الْأَصْوَاتِ اسْمَعْ صَوْتِيْ",
+      "وَارْحَمْنِيْ وَتَجَاوَزْ عَنْ سَيِّئاتِيْ وَمَا عِنْدِيْ",
+      "يَا ذَا الْجَلالِ وَالْإِكْرَامِ"
+    ],
+    "translation": [
+      "In the Name of Allāh, the All-beneficent, the All-merciful.",
+      "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+      "O He Who overlooks slips, (please] overlook my slip.",
+      "O He Who responds to prayers, (please] respond to my prayer.",
+      "O He Who hears all sounds, (please] listen to mine,",
+      "have mercy on me, and excuse my wrongdoings and whatever I have committed.",
+      "O Lord of majesty and honor!"
+    ],
+    "transliteration": [
+      "bismillāhir raḥmānir raḥīm",
+      "allāhumma ṣalli `alā muḥammadin wa āli muḥammad",
+      "yā muqīlal `atharāti aqilnī `athratī",
+      "yā mujībad da`awāti ajib da`watī",
+      "yā sāmi`al aṣwātisma` ṣawtī",
+      "war-ḥamnī watajāwaz `an sayyi-ātī wamā `indī",
+      "yā dhal jalāli wal-ikrām"
+    ]
+  }
+}

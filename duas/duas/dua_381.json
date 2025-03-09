@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "id": "381",
+    "name": "Dua when lights are turned off",
+    "used": "1",
+    "audio": "0",
+    "section": "Etiquette.General",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 1,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Etiquette.General"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللَّهُمَّ اَخْرِجْنَا مِنَ الظُّلُمَاتِ اِلَى النُّوْرِ"
+    ],
+    "translation": [
+      "O Allah, remove us from darkness into light"
+    ],
+    "transliteration": [
+      "allāhumma akhrijnā minaẓ ẓulumāti ilan nūr"
+    ]
+  }
+}

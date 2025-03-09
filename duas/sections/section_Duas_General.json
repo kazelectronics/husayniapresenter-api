@@ -1,0 +1,143 @@
+{
+  "id": "Duas.General",
+  "name": "General Duas",
+  "parent": "Duas and Ziarat",
+  "rank": 1,
+  "duas": [
+    {
+      "id": "8",
+      "name": "Dua Kumayl",
+      "lines": 250
+    },
+    {
+      "id": "9",
+      "name": "Dua Tawassul",
+      "lines": 175
+    },
+    {
+      "id": "10",
+      "name": "Dua Ahad",
+      "lines": 84
+    },
+    {
+      "id": "11",
+      "name": "Dua Sabah",
+      "lines": 107
+    },
+    {
+      "id": "13",
+      "name": "Dua Simaat",
+      "lines": 175
+    },
+    {
+      "id": "14",
+      "name": "Dua Nudba",
+      "lines": 365
+    },
+    {
+      "id": "16",
+      "name": "Hadith e Kisa",
+      "lines": 116
+    },
+    {
+      "id": "17",
+      "name": "Dua Faraj",
+      "lines": 19
+    },
+    {
+      "id": "18",
+      "name": "Dua Mashlool",
+      "lines": 261
+    },
+    {
+      "id": "19",
+      "name": "Dua Adeelah",
+      "lines": 126
+    },
+    {
+      "id": "20",
+      "name": "Dua Yastashir",
+      "lines": 138
+    },
+    {
+      "id": "25",
+      "name": "Dua Aaliya Madhaameen",
+      "lines": 214
+    },
+    {
+      "id": "53",
+      "name": "Dua Mujeer",
+      "lines": 275
+    },
+    {
+      "id": "109",
+      "name": "Dua at-Tawbah",
+      "lines": 135
+    },
+    {
+      "id": "110",
+      "name": "Dua Makarimul Akhlaq",
+      "lines": 224
+    },
+    {
+      "id": "111",
+      "name": "Dua Abu Hamza Thumali",
+      "lines": 674
+    },
+    {
+      "id": "112",
+      "name": "Dua Jawshan Kabeer",
+      "lines": 1410
+    },
+    {
+      "id": "131",
+      "name": "Dua Alqama",
+      "lines": 193
+    },
+    {
+      "id": "355",
+      "name": "A Gift from Imam Hussain",
+      "lines": 13
+    },
+    {
+      "id": "356",
+      "name": "Dua Asharaat",
+      "lines": 211
+    },
+    {
+      "id": "357",
+      "name": "Dua Saif Al Sagheer-Al Qamoos",
+      "lines": 47
+    },
+    {
+      "id": "358",
+      "name": "Dua Hujjat",
+      "lines": 10
+    },
+    {
+      "id": "359",
+      "name": "Dua al Hujjah",
+      "lines": 10
+    },
+    {
+      "id": "360",
+      "name": "Dua Jawshan Sagheer",
+      "lines": 441
+    },
+    {
+      "id": "362",
+      "name": "Dua Wahdah",
+      "lines": 8
+    },
+    {
+      "id": "410",
+      "name": "Dua of Maqatil bin Sulayman",
+      "lines": 8
+    },
+    {
+      "id": "411",
+      "name": "Dua for the betterment of society",
+      "lines": 28
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "id": "396",
+    "name": "Dua when hearing the Adhan",
+    "used": "1",
+    "audio": "0",
+    "section": "Salaat.Before",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 8,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Salaat.Before"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللَّهُمَّ اِنِّيْ اَسْئَلُكَ بِإِقْبَالِ نَهَارِكَ",
+      "وَاَدْبَارِ لَيْلِكَ",
+      "وَحُضُوْرِ صَلَوَاتِكَ",
+      "وَاَصْوَاتِ دُعَائِكَ",
+      "وَتَسْبِيْحَ مَلَائِكَتِكَ",
+      "اَنْ تُصَلِّيَ عَلَى مُحَمَّدٍ وَّآلِ مُحَمَّدٍ",
+      "وَاَنْ تَتُوْبَ عَلَيَّ",
+      "اِنَّكَ اَنْتَ التَّوَّابُ الرَّحِيْمِ"
+    ],
+    "translation": [
+      "O Allah, I ask you, by the approaching of Your day",
+      "and the retreating of Your night ",
+      "and the arrival of [the time of] Your prayers",
+      "and the voices of those who pray to You",
+      "and the glorification of the angels",
+      "that You bless Muhammad and his family",
+      "and that You turn to me",
+      "Surely You are the Oft-Returning, the Merciful"
+    ],
+    "transliteration": [
+      "allāhumma innī as-aluka bi-iqbāli nahārik",
+      "wa-adbāri laylik",
+      "waḥuḍūri ṣalawātik",
+      "wa-aṣwāti du`ā-ik",
+      "watasbīḥa malā-ikatik",
+      "an tuṣalliya `alā muḥammadiw wa-āli muḥammad",
+      "wa-an tatūba `alayy",
+      "innaka antat tawwābur raḥīm"
+    ]
+  }
+}

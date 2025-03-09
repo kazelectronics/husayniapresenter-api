@@ -1,0 +1,58 @@
+{
+  "id": "Salaat.Wudhu",
+  "name": "Duas during Wudhu",
+  "parent": "Salaat",
+  "rank": 23,
+  "duas": [
+    {
+      "id": "385",
+      "name": "Wudhu - on seeing the water",
+      "lines": 1
+    },
+    {
+      "id": "386",
+      "name": "Wudhu - when washing hands",
+      "lines": 2
+    },
+    {
+      "id": "387",
+      "name": "Wudhu - when gargling",
+      "lines": 2
+    },
+    {
+      "id": "388",
+      "name": "Wudhu - when rinsing the nose",
+      "lines": 2
+    },
+    {
+      "id": "389",
+      "name": "Wudhu - when washing the face",
+      "lines": 2
+    },
+    {
+      "id": "390",
+      "name": "Wudhu - when wiping the right hand",
+      "lines": 3
+    },
+    {
+      "id": "391",
+      "name": "Wudhu - when wiping the left hand",
+      "lines": 4
+    },
+    {
+      "id": "392",
+      "name": "Wudhu - when doing masah of the head",
+      "lines": 1
+    },
+    {
+      "id": "393",
+      "name": "Wudhu - when doing masah of the feet",
+      "lines": 3
+    },
+    {
+      "id": "394",
+      "name": "Wudhu - after completion",
+      "lines": 3
+    }
+  ]
+}

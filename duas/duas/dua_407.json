@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "id": "407",
+    "name": "Dua after Salaat - 6",
+    "used": "1",
+    "audio": "0",
+    "section": "Salaat.AfterGeneral",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 6,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Salaat.AfterGeneral"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللَّهُمَّ اِنِّيْ اَسْئَلُكَ مِنْ كُلِّ خَيْرٍ",
+      "اَحَاطَ بِهِ عِلْمُكَ",
+      "وَاَعُوْذُ بِكَ مِنْ كُلِّ سُوْءٍ",
+      "اَحَاطَ بِهِ عِلْمُكَ",
+      "اَللَّهُمَّ اِنِّيْ اَسْئَلُكَ عَافِيَتِكَ فِيْ اُمُوْرِيْ كُلِّهَا",
+      "وَاَعُوْذُ بِكَ مِنْ خِزْيِ الدُّنْيَا وَعَذَابَ الْآخِرَةِ"
+    ],
+    "translation": [
+      "O Allah, I beseech You for all the good",
+      "that Your knowledge encompasses",
+      "and I seek refuge in You from all the evil",
+      "that Your knowledge encompasses",
+      "O Allah I beseech You for well-being in all my affairs",
+      "and I seek refuge in You from the disgrace of the world and the heareafter"
+    ],
+    "transliteration": [
+      "allāhumma innī as-aluka min kulli khayr",
+      "aḥāṭa bihi `ilmuk",
+      "wa-a`ūdhu bika min kulli su",
+      "aḥāṭa bihi `ilmuk",
+      "allāhumma innī as-aluka `āfiyatika fī umūrī kullihā",
+      "wa-a`ūdhu bika min khizyid dunyā wa`adhābal-ākhirah"
+    ]
+  }
+}

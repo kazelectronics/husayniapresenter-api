@@ -1,0 +1,48 @@
+{
+  "id": "Months.Safar",
+  "name": "Safar Duas",
+  "parent": "Islamic Months",
+  "rank": 9,
+  "duas": [
+    {
+      "id": "45",
+      "name": "Safar Daily Dua",
+      "lines": 16
+    },
+    {
+      "id": "46",
+      "name": "2nd Imam Ziarat",
+      "lines": 22
+    },
+    {
+      "id": "113",
+      "name": "Ziarat Arbaeen",
+      "lines": 78
+    },
+    {
+      "id": "114",
+      "name": "Ziarat 1 Holy Prophet",
+      "lines": 54
+    },
+    {
+      "id": "115",
+      "name": "Ziarat 2 Holy Prophet",
+      "lines": 312
+    },
+    {
+      "id": "117",
+      "name": "8th Imam Ziarat",
+      "lines": 32
+    },
+    {
+      "id": "132",
+      "name": "Salawaat",
+      "lines": 1
+    },
+    {
+      "id": "133",
+      "name": "La'an on Abu Sufyan",
+      "lines": 1
+    }
+  ]
+}

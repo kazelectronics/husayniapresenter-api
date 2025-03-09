@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "156",
+    "name": "Daily amaal Shabaan",
+    "used": "1",
+    "audio": "0",
+    "section": "Months.Shabaan",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 2,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Shabaan"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَسْتَغْفِرُ اللَّهَ الَّذِيْ لَا إِلٰهَ إِلَّا هُوَ الرَّحْمٰنُ الرَّحِيمُ",
+      "اَلْحَيُّ الْقَيُّوْمُ وَاَتُوبُ إِلَيْهِ"
+    ],
+    "translation": [
+      "I seek forgiveness of Allah who is “There is no God save  He”, the Beneficent, the Merciful; ",
+      "the Ever living, the Eternal, and I turn repentant to Him"
+    ],
+    "transliteration": [
+      "astaghfirullāhal ladhī lā ilāha illā huwar raḥmānur raḥīm",
+      "al ḥayyul qayyūmu wa-atūbu ilayh"
+    ]
+  }
+}

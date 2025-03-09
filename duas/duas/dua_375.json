@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "id": "375",
+    "name": "Dua before meals",
+    "used": "1",
+    "audio": "0",
+    "section": "Etiquette.General",
+    "section_rank": 0,
+    "first_line": 3,
+    "lines": 8,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Etiquette.General"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "اَللَّهُمَّ اِنِّيْ اَسْئَلُكَ فِيْ اَكْلِيْ وَ شُرْبِيْ السَّلاَمَةَ مِنْ وَعْكَهِ",
+      "وَ الْقُوَّةَ بِهِ عَلَى طَاعَتِكَ",
+      "وَ ذِكْرِكَ وَ شُكْرِكَ",
+      "فِيْمَا اَبْقَيْتَهُ فِيْ بَدَنِيْ",
+      "وَ اَنْ تَشَجِّعْنِيْ بِقُوَّتِهَا عَلَى عِبَادَتِكَ",
+      "وَ اَنْ تُلْهِمَنِيْ حُسْنَ التَّحْرِرِ مِنْ مَعْصِيَتِكَ"
+    ],
+    "translation": [
+      "In the name of Allah, the Beneficent, the Merciful.",
+      "O Allah, bless Muhammad and his family.",
+      "O Allah, I ask You, in my eating and drinking, safety from illness,",
+      "and strength from it to obey You ",
+      "and remember You and be thankful to You,",
+      "as long as it remains in my body,",
+      "and through its strength encourage me towards Your worship",
+      "and inspire me to refrain from Your disobedience."
+    ],
+    "transliteration": [
+      "bismillāhir raḥmanir raḥīm",
+      "allāhumma ṣalli `alā muḥammadin wa āli muḥammad",
+      "allāhumma innī as-aluka fī aklī wa shur-bis salāmata min wa`kah",
+      "wal quwwata bihi `alā ṭā`atik",
+      "wa dhikrika wa shukrik",
+      "fīmā abqaytahu fī badanī",
+      "wa an tashajji`nī biquwwatihā `alā `ibādatik",
+      "wa an tulhimanī ḥusnat taḥriri min ma`ṣiyatik"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "id": "301",
+    "name": "Dua after Maghrib",
+    "used": "1",
+    "audio": "2",
+    "section": "Duas.Salaat|Salaat.AfterSpecific",
+    "section_rank": "14",
+    "first_line": 3,
+    "lines": 12,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Duas.Salaat",
+      "Salaat.AfterSpecific"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "اَللّٰهُمَّ إِنِّي أَسْأَلُكَ مُوْجِبَاتِ رَحْمَتِكَ",
+      "وَعَزَائِمَ مَغْفِرَتِكَ",
+      "وَالنَّجَاةَ مِنَ النَّارِ",
+      "وَمِنْ كُلِّ بَلِيَّةٍ",
+      "وَالْفَوْزَ بِالْجَنَّةِ",
+      "وَالرِّضْوَانَ فِيْ دَارِ السَّلامِ",
+      "وَجِوَارِ نَبِيِّكَ مُحَمَّدٍ عَلَيْهِ وَ آلِهِ السَّلامُ",
+      "اَللّٰهُمَّ مَا بِنَا مِنْ نِعْمَةٍ فَمِنْكَ",
+      "لَاإِلٰهَ إِلَّا أَنْتَ",
+      "أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ"
+    ],
+    "translation": [
+      "In the Name of Allāh, the All-beneficent, the All-merciful.",
+      "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+      "O Allah! I beseech You for the motives of Your mercy,",
+      "the determining causes of Your forgiveness,",
+      "deliverance from Hellfire",
+      "and all misfortunes,",
+      "winning Paradise,",
+      "Divine Contentment in the Abode of Peace,",
+      "and the vicinity of Your Prophet Muhammad—peace be upon him and his Household.",
+      "O Allah, You are certainly the source of each and every favor that covers us.",
+      "There is no god save You.",
+      "I pray Your forgiveness and I repent before You."
+    ],
+    "transliteration": [
+      "bismillāhir raḥmānir raḥīm",
+      "allāhumma ṣalli `alā muḥammadin wa āli muḥammad",
+      "allāhumma innī as-aluka mūjibāti raḥmatik",
+      "wa`azā-ima maghfiratik",
+      "wan najāta minan nār",
+      "wamin kulli baliyyah",
+      "walfawza bil jannah",
+      "war riḍwāna fī dāris salām",
+      "wajiwāri nabiyyika muḥammadin `alayhi wa ālihis salām",
+      "allāhumma mā binā min ni`matin famink",
+      "la-ilāha illā ant",
+      "astaghfiruka wa-atūbu ilayk"
+    ]
+  }
+}

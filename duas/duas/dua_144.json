@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "id": "144",
+    "name": "Rajab Sighting of Moon",
+    "used": "1",
+    "audio": "0",
+    "section": "Months.Rajab",
+    "section_rank": 0,
+    "first_line": 3,
+    "lines": 5,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Rajab"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "اَللَّهُمَّ اَهِلَّهُ عَلَيْنَا بِالْاَمْنِ وَالْاِيـمَانِ",
+      "وَالسَّلاَمَةِ وَالْاِسْلاَمِ",
+      "رَبِّيْ وَرَبُّكَ اللَّهُ عَزَّ وَجَلَّ"
+    ],
+    "translation": [
+      "In the Name of Allāh, the All-beneficent, the All-merciful.",
+      "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+      "O Allah, cause it (i.e. the moon] to appear carrying for us security, faith,",
+      "safety, and Islam.",
+      "Your and my Lord is Allah, the Glorified and Majestic."
+    ],
+    "transliteration": [
+      "bismillāhir raḥmānir raḥīm",
+      "allāhumma ṣalli `alā muḥammadin wa āli muḥammad",
+      "allāhumma ahillahu `alaynā bil amni wal-īmān",
+      "was salāmati wal-islām",
+      "rabbī warabbukallāhu `azza wajall"
+    ]
+  }
+}

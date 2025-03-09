@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "389",
+    "name": "Wudhu - when washing the face",
+    "used": "1",
+    "audio": "0",
+    "section": "Salaat.Wudhu",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 2,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Salaat.Wudhu"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللّٰهُمَّ بَيِّضْ وَجْهِىْ يَوْمَ تَسْوَدُّ الْوُجُوْهُ",
+      "وَلَا تُسَوِّدْ وَجْهِىْ يَوْمَ تَبْيَضُّ الْوُجُوْهُ"
+    ],
+    "translation": [
+      "O Lord! Make my face bright on the Day when the faces will turn dark.",
+      "Do not darken my face on the Day when the faces are bright."
+    ],
+    "transliteration": [
+      "allāhumma bayyiḍ wajhī yawma taswaddul wujūh",
+      "walā tusawwid wajhī yawma tabyaḍḍul wujūh"
+    ]
+  }
+}

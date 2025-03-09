@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "id": "376",
+    "name": "Dua after meals",
+    "used": "1",
+    "audio": "0",
+    "section": "Etiquette.General",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 5,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Etiquette.General"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَلْحَمْدُ لِلَّهِ الَّذِيْ اَطْعَمَنَا",
+      "وَسَقَانَا، وَكَفَانَا",
+      "وَاَيَّدَنَا، وَ آوَانَا",
+      "وَاَنْعَمَ عَلَيْنَا، وَاَفْضَلَ",
+      "اَلْحَمْدُ لِلَّهِ الَّذِيْ يُطْعِمُ وَلَا يُطْعَمُ"
+    ],
+    "translation": [
+      "Praise be to Allah Who has: fed us,",
+      "provided water for us, sufficed us,",
+      "supported us, sheltered us,",
+      "favored us, and bestowed benefits.",
+      "Praise be to Allah Who feeds but is not fed."
+    ],
+    "transliteration": [
+      "al ḥamdu lillāhil ladhī aṭ`amanā",
+      "wasaqānā, wakafānā",
+      "wa-ayyadanā, wa āwānā",
+      "wa-an`ama `alaynā, wa-afḍal",
+      "al ḥamdu lillāhil ladhī yuṭ`imu walā yuṭ`am"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "id": "378",
+    "name": "Dua  1 when leaving home",
+    "used": "1",
+    "audio": "0",
+    "section": "Etiquette.General",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 5,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Etiquette.General"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "خَرَجْتُ بِحَوْلِ اللَّهِ وَقُوَّتِهِ",
+      "لَا بِحَوْلِيْ وَقُوَّتِي",
+      "بَلْ بِحَوْلِكَ وَقُوَّتِكَ",
+      "يَا رَبِّ مُتَعَرِّظًا لِرِزْقِكَ",
+      "فَأْتِنِيْ بِهِ فِيْ عَافِيَةٍ"
+    ],
+    "translation": [
+      "I left home with the power of Allah and His strength",
+      "not with my power and strength",
+      "but with Your power and Your strength.",
+      "O Lord! I am seeking sustenance provided by Thee.",
+      "Then please grant it to me along with health."
+    ],
+    "transliteration": [
+      "kharajtu biḥawlillāhi waquwwatih",
+      "lā biḥawlī waquwwatī",
+      "bal biḥawlika waquwwatik",
+      "yā rabbi muta`arriẓan lirizqik",
+      "fa-tinī bihi fī `āfiyah"
+    ]
+  }
+}

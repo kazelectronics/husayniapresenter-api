@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "id": "3",
+    "name": "Ramadhan Daily Dua 3",
+    "used": "1",
+    "audio": "3",
+    "section": "Months.Ramadhan",
+    "section_rank": 0,
+    "first_line": 3,
+    "lines": 11,
+    "has_youtube": true,
+    "youtube_ids": [
+      "PtPyZvaYqz8",
+      "rQb3O2Eeg3s"
+    ],
+    "all_sections": [
+      "Months.Ramadhan"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "اَللَّهُمَّ رَبَّ شَهْرِ رَمَضَانَ",
+      "اَلَّذِيْ أَنْزَلْتَ فِيْهِ الْقُرْآنَ",
+      "وَافْتَرَضْتَ عَلَى عِبَادِكَ فِيْهِ الصِّيَامَ",
+      "صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "وَارْزُقْنِيْ حَجَّ بَيْتِكَ الْحَرَامِ",
+      "فِيْ عَامِيْ هٰذَا وَْفِيْ كُلِّ عَامٍ",
+      "وَاغْفِرْ لِيْ تِلْكَ الذُّنُوبَ الْعِظَامَ",
+      "فَإِنَّهُ لَا يَغْفِرُهَا غَيْرُكَ",
+      "يَا رَحْمٰنُ يَا عَلَّامُ"
+    ],
+    "translation": [
+      "In the Name of Allāh, the All-beneficent, the All-merciful.",
+      "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+      "O Allah, the Lord of the month of Ramadan",
+      "in which You have revealed the Qur'an",
+      "and made obligatory fasting in this month upon Your servants!",
+      "Please, send blessings to Muhammad and the Household of Muhammad",
+      "and provide me with the opportunity to go to Your ‘Sacred House’ for pilgrimage",
+      "in this year and in all years.",
+      "Forgive my overbearing sins,",
+      "for verily no one other than You can forgive them.",
+      "O All-beneficent! O All-knowing!"
+    ],
+    "transliteration": [
+      "bismillāhir raḥmānir raḥīm",
+      "allāhumma ṣalli `alā muḥammadin wa āli muḥammad",
+      "allāhumma rabba shahri ramaḍān",
+      "al ladhī anzalta fīhil qur-ān",
+      "waftaraḍta `alā `ibādika fīhiṣ ṣiyām",
+      "ṣalli `alā muḥammadin wa āli muḥammad",
+      "war-zuqnī ḥajja baytikal ḥarām",
+      "fī `āmī hādhā wafī kulli `ām",
+      "waghfir lī tilkadh dhunūbal `iẓām",
+      "fa-innahu lā yaghfiruhā ghayruk",
+      "yā raḥmānu yā `allām"
+    ]
+  }
+}

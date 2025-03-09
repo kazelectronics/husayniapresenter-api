@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "id": "365",
+    "name": "Dua upon waking up",
+    "used": "1",
+    "audio": "0",
+    "section": "Etiquette.General",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 6,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Etiquette.General"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "أَلْحَمْدُ لِلَّهِ الَّذِيْ أَحْـيَانِيْ",
+      "بَعْدَ مَا أَمَاتَـنِيْ",
+      "وَ إِلَيْهِ النُّشُوْرِ",
+      "اَلْحَمْدُ لِلَّهِ الَّذِيْ",
+      "رَدَّ عَلَيَّ رُوْحِيْ",
+      "لِأَحْمَدَهُ وَاَعْبُدَهُ"
+    ],
+    "translation": [
+      "All praise be to Allah who gave me life",
+      "after causing me to die,",
+      "and to Him is the return.",
+      "All praise is for Allah ",
+      "He who returned my soul to me",
+      "so that I praise Him and worship Him"
+    ],
+    "transliteration": [
+      "alḥamdu lillāhil ladhī aḥyānī",
+      "ba`da mā amātanī",
+      "wa ilayhin nushūr",
+      "al ḥamdu lillāhil ladhī",
+      "radda `alayya rūḥī",
+      "li-aḥmadahu wa-a`budah"
+    ]
+  }
+}

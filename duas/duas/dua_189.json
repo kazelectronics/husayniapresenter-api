@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "id": "189",
+    "name": "Dua last hour of Arafah",
+    "used": "1",
+    "audio": "2",
+    "section": "Months.ZilHajj",
+    "section_rank": 0,
+    "first_line": 3,
+    "lines": 10,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.ZilHajj"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "يَا رَبِّ إِنَّ ذُنُوْبِيْ لَا تَضُرُّكَ",
+      "وَإِنَّ مَغْفِرَتَكَ لِيْ لَا تَنْقُصُكَ",
+      "فَأَعْطِنِيْ مَا لَا يَنْقُصُكَ",
+      "وَاغْفِرْ لِيْ مَا لَا يَضُرُّكَ",
+      "",
+      "اَللَّهُمَّ لَا تَحْرِمْنِيْ خَيْرَ مَا عِنْدَكَ لِشَرِّ مَا عِنْدِيْ",
+      "فَإِنْ أَنْتَ لَمْ تَرْحَمْنِيْ بِتَعَبِيْ وَنَصَبِيْ",
+      "فَلَا تَحْرِمْنِيْ أَجْرَ الْمُصَابِ عَلَى مُصِيْبَتِهِ"
+    ],
+    "translation": [
+      "In the Name of Allāh, the All-beneficent, the All-merciful.",
+      "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+      "O my Lord, my sins do not harm You",
+      "nor will Your forgiveness to me reduce Your Grandeur.",
+      "So, (please do] grant me that which does not reduce Your Grandeur",
+      "and forgive me that which does not harm You.",
+      "Then say:",
+      "O Allah, (please] do not deprive me of the good that You have because of the evil that I have.",
+      "If You do not have mercy upon me due to my fatigue and tiredness,",
+      "(please] then do not deprive me of the reward of those whom are afflicted with misfortunes."
+    ],
+    "transliteration": [
+      "bismillāhir raḥmānir raḥīm",
+      "allāhumma ṣalli `alā muḥammadin wa āli muḥammad",
+      "yā rabbi inna dhunūbī lā taḍurruk",
+      "wa-inna maghfirataka lī lā tanquṣuk",
+      "fa-a`ṭinī mā lā yanquṣuk",
+      "waghfir lī mā lā yaḍurruk",
+      "",
+      "allāhumma lā taḥrimnī khayra mā `indaka lisharri mā `indī",
+      "fa-in anta lam tar-ḥamnī bita`abī wanaṣabī",
+      "falā taḥrimnī ajral muṣābi `alā muṣībatih"
+    ]
+  }
+}

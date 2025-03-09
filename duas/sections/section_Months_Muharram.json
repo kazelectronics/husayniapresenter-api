@@ -1,0 +1,73 @@
+{
+  "id": "Months.Muharram",
+  "name": "Muharram Duas",
+  "parent": "Islamic Months",
+  "rank": 8,
+  "duas": [
+    {
+      "id": "23",
+      "name": "Ziarat Ashura",
+      "lines": 141
+    },
+    {
+      "id": "26",
+      "name": "Dua on sighting new Muharram Moon",
+      "lines": 15
+    },
+    {
+      "id": "27",
+      "name": "Dua on first day of Muharram",
+      "lines": 34
+    },
+    {
+      "id": "36",
+      "name": "Takibat After Namaz Ashura Night",
+      "lines": 5
+    },
+    {
+      "id": "37",
+      "name": "La'an on Day of Ashura",
+      "lines": 1
+    },
+    {
+      "id": "38",
+      "name": "La'an on Day of Ashura",
+      "lines": 2
+    },
+    {
+      "id": "39",
+      "name": "Condolences",
+      "lines": 3
+    },
+    {
+      "id": "40",
+      "name": "7 times back and forth",
+      "lines": 3
+    },
+    {
+      "id": "41",
+      "name": "Ziarat Taziya",
+      "lines": 74
+    },
+    {
+      "id": "43",
+      "name": "4th Imam Ziarat 1",
+      "lines": 11
+    },
+    {
+      "id": "44",
+      "name": "4th Imam Ziarat 2",
+      "lines": 37
+    },
+    {
+      "id": "131",
+      "name": "Dua Alqama",
+      "lines": 193
+    },
+    {
+      "id": "364",
+      "name": "4th Imam Ziarat 3",
+      "lines": 19
+    }
+  ]
+}

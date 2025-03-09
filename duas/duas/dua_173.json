@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "id": "173",
+    "name": "Dua",
+    "used": "1",
+    "audio": "2",
+    "section": "Months.ZilQad",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 1,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.ZilQad"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَليِّ الْعَظِيمِ"
+    ],
+    "translation": [
+      "There is no power and no strength except with Allah, the Most High, the All-great."
+    ],
+    "transliteration": [
+      "lā ḥawla walā quwwata illā billāhil `alyyil `aẓīm"
+    ]
+  }
+}

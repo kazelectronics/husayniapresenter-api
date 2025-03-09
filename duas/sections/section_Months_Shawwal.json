@@ -1,0 +1,58 @@
+{
+  "id": "Months.Shawwal",
+  "name": "Shawwal Duas",
+  "parent": "Islamic Months",
+  "rank": 16,
+  "duas": [
+    {
+      "id": "14",
+      "name": "Dua Nudba",
+      "lines": 365
+    },
+    {
+      "id": "15",
+      "name": "Ziarat Waritha",
+      "lines": 94
+    },
+    {
+      "id": "28",
+      "name": "Takbir Eid",
+      "lines": 8
+    },
+    {
+      "id": "29",
+      "name": "Eid Night Dua 1",
+      "lines": 12
+    },
+    {
+      "id": "30",
+      "name": "Eid Night Dua 2",
+      "lines": 10
+    },
+    {
+      "id": "31",
+      "name": "Eid Night Salaat",
+      "lines": 11
+    },
+    {
+      "id": "32",
+      "name": "Eid Night Dua 3",
+      "lines": 146
+    },
+    {
+      "id": "34",
+      "name": "Ziarat for the day of Eid",
+      "lines": 52
+    },
+    {
+      "id": "35",
+      "name": "Eid Salat Qunut",
+      "lines": 12
+    },
+    {
+      "id": "116",
+      "name": "6th Imam Ziarat",
+      "lines": 27
+    }
+  ]
+}

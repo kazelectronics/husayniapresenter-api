@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "163",
+    "name": "Tasbihat Arba",
+    "used": "1",
+    "audio": "2",
+    "section": "Months.Shabaan",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 2,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Shabaan"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "سُبْحَانَ اللَّهِ وَ الْحَمْدُ لِلَّهِ",
+      "وَ لَا اِلٰهَ اِلَّا اللَّهُ وَ اللَّهُ اَكْبَرُ"
+    ],
+    "translation": [
+      "Glory be to Allah and praise be to Allah ",
+      "and there is no god except Allah and Allah is Greater than anything else"
+    ],
+    "transliteration": [
+      "subḥānallāhi wal ḥamdu lillāh",
+      "wa lā ilāha illallāhu wallāhu akbar"
+    ]
+  }
+}

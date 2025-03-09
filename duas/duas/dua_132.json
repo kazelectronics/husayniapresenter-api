@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "id": "132",
+    "name": "Salawaat",
+    "used": "1",
+    "audio": "2",
+    "section": "Months.Safar",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 1,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Safar"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ"
+    ],
+    "translation": [
+      "O' Allāh send Your blessings on Muhammad and the family of Muhammad."
+    ],
+    "transliteration": [
+      "allāhumma ṣalli `alā muḥammadin wa āli muḥammad"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Etiquette.Cemetery",
+  "name": "Visiting the cemetery",
+  "parent": "Etiquette",
+  "rank": 30,
+  "duas": [
+    {
+      "id": "352",
+      "name": "Dua for entering the cemetary - I.  Ali",
+      "lines": 12
+    },
+    {
+      "id": "353",
+      "name": "Dua for entering the cemetary - I.  Hussain",
+      "lines": 5
+    },
+    {
+      "id": "354",
+      "name": "Dua for entering the cemetary - I.  Sadiq",
+      "lines": 3
+    }
+  ]
+}

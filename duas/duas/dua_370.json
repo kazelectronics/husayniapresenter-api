@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "370",
+    "name": "Dua when wearing clothes",
+    "used": "1",
+    "audio": "0",
+    "section": "Etiquette.General",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 2,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Etiquette.General"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَلْحَمْدُ لِلَّهِ الَّذِيْ كَسَانِيْ مَا يُوَارِيْ عَوْرَتِيْ",
+      "وَاَتَجَمَّلُ بِهِ فِيْ النَّاسِ"
+    ],
+    "translation": [
+      "All praise is for Allah who clothed me with what I cover my private parts",
+      "and beatify myself among people"
+    ],
+    "transliteration": [
+      "al ḥamdu lillāhil ladhī kasānī mā yuwārī `awratī",
+      "wa-atajammalu bihi fin nās"
+    ]
+  }
+}

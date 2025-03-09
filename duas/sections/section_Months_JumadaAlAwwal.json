@@ -1,0 +1,13 @@
+{
+  "id": "Months.JumadaAlAwwal",
+  "name": "Jumada Al-Awwal Duas",
+  "parent": "Islamic Months",
+  "rank": 12,
+  "duas": [
+    {
+      "id": "120",
+      "name": "Ziarat Bibi Zainab",
+      "lines": 153
+    }
+  ]
+}

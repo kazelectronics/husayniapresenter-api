@@ -1,0 +1,23 @@
+{
+  "id": "Duas.Sajda",
+  "name": "Sajdah Duas",
+  "parent": "Salaat",
+  "rank": 5,
+  "duas": [
+    {
+      "id": "289",
+      "name": "Dua for Sajdah ash-Shukr - 1",
+      "lines": 6
+    },
+    {
+      "id": "290",
+      "name": "Dua for Sajdah ash-Shukr - 2",
+      "lines": 3
+    },
+    {
+      "id": "291",
+      "name": "Dua for Sajdah ash-Shukr - 3",
+      "lines": 8
+    }
+  ]
+}

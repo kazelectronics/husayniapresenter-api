@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "id": "328",
+    "name": "Salatul Mayyit - Takbir 5",
+    "used": "1",
+    "audio": "0",
+    "section": "Unclassified",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 3,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Unclassified"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "رَبَّنَا اٰتِنَا فِيْ الدُّنْيَا حَسَنَةً",
+      "وَ فِيْ الْاٰخِرَةِ حَسَنَةً",
+      "وَقِنَا عَذَابَ النَّارِ"
+    ],
+    "translation": [
+      "Our Lord! Grant us good in this world",
+      "and good in the hereafter,",
+      "and save us from the chastisement of the fire."
+    ],
+    "transliteration": [
+      "rabbanā ātinā fid dunyā ḥasanah",
+      "wa fil ākhirati ḥasanah",
+      "waqinā `adhāban nār"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "199",
+    "name": "Greeting Ghadir day",
+    "used": "1",
+    "audio": "0",
+    "section": "Months.ZilHajj",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 2,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.ZilHajj"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَلْحَمْدُ لِلَّهِ الَّذِيْ جَعَلَنَا مِنَ الْمُتَمَسِّكِينَ",
+      "بِوِلَايَةِ اَمِيرِ الْمُؤْمِنِيْنَ وَالْاَئِمَّةِ عَلَيْهِمُ السَّلاَمُ"
+    ],
+    "translation": [
+      "Praise be to Allah Who has blessed us to be among those who cling and hold",
+      "to the divinely commissioned leadership and authority of Amir al- Mu'minin and all the Imams, peace be upon them all."
+    ],
+    "transliteration": [
+      "al ḥamdu lillāhil ladhī ja`alanā minal mutamassikīn",
+      "biwilāyati amīril mu-minīna wal-a-immati `alayhimus salām"
+    ]
+  }
+}

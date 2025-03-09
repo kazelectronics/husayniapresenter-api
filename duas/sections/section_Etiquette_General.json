@@ -1,0 +1,108 @@
+{
+  "id": "Etiquette.General",
+  "name": "General Etiquette",
+  "parent": "Etiquette",
+  "rank": 28,
+  "duas": [
+    {
+      "id": "365",
+      "name": "Dua upon waking up",
+      "lines": 6
+    },
+    {
+      "id": "366",
+      "name": "Dua after rising from your bed",
+      "lines": 4
+    },
+    {
+      "id": "367",
+      "name": "After waking up [3:190-194]",
+      "lines": 6
+    },
+    {
+      "id": "368",
+      "name": "Dua for dawn and dusk",
+      "lines": 6
+    },
+    {
+      "id": "369",
+      "name": "Dua when in the washroom",
+      "lines": 7
+    },
+    {
+      "id": "370",
+      "name": "Dua when wearing clothes",
+      "lines": 2
+    },
+    {
+      "id": "371",
+      "name": "Dua when wearing new clothes",
+      "lines": 6
+    },
+    {
+      "id": "372",
+      "name": "Dua when looking into the mirror",
+      "lines": 5
+    },
+    {
+      "id": "373",
+      "name": "Dua when combing hair",
+      "lines": 4
+    },
+    {
+      "id": "374",
+      "name": "Dua when combing hair [20:25-26]",
+      "lines": 3
+    },
+    {
+      "id": "375",
+      "name": "Dua before meals",
+      "lines": 8
+    },
+    {
+      "id": "376",
+      "name": "Dua after meals",
+      "lines": 5
+    },
+    {
+      "id": "377",
+      "name": "Dua when wearing shoes",
+      "lines": 3
+    },
+    {
+      "id": "378",
+      "name": "Dua  1 when leaving home",
+      "lines": 5
+    },
+    {
+      "id": "379",
+      "name": "Dua 2 when leaving home",
+      "lines": 3
+    },
+    {
+      "id": "380",
+      "name": "Dua in the evening",
+      "lines": 6
+    },
+    {
+      "id": "381",
+      "name": "Dua when lights are turned off",
+      "lines": 1
+    },
+    {
+      "id": "382",
+      "name": "Dua when going to bed [18:110]",
+      "lines": 2
+    },
+    {
+      "id": "383",
+      "name": "Salawaat when going to bed",
+      "lines": 2
+    },
+    {
+      "id": "384",
+      "name": "Dua before sleeping",
+      "lines": 9
+    }
+  ]
+}

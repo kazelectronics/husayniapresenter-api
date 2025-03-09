@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "id": "351",
+    "name": "Isteghfar",
+    "used": "1",
+    "audio": "0",
+    "section": "Months.Ramadhan",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 1,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Ramadhan"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "أَسْتَغْفِرُ اللَّهَ رَبِّيْ وَأَتُوبُ إِلَيْهِ"
+    ],
+    "translation": [
+      "I seek the forgiveness of Allah, my Lord, and I repent before Him"
+    ],
+    "transliteration": [
+      "astaghfirullāha rabbī wa-atūbu ilayh"
+    ]
+  }
+}

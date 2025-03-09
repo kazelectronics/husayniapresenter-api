@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "id": "99",
+    "name": "Tasbih",
+    "used": "1",
+    "audio": "2",
+    "section": "Months.Ramadhan",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 1,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Ramadhan"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "أَسْتَغْفِرُ اللّٰهَ وَأَتُوبُ اِلَيْهِ"
+    ],
+    "translation": [
+      "I seek the forgiveness of Allah and I repent before Him."
+    ],
+    "transliteration": [
+      "astaghfirullāha wa-atūbu ilayh"
+    ]
+  }
+}

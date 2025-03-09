@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "id": "379",
+    "name": "Dua 2 when leaving home",
+    "used": "1",
+    "audio": "0",
+    "section": "Etiquette.General",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 3,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Etiquette.General"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّهِ",
+      "آمَنْتُ بِاللَّهِ",
+      "وَتَوَكَّلْتُ عَلَى اللَّهِ"
+    ],
+    "translation": [
+      "In the name of Allah",
+      "I believe in Allah",
+      "and I rely on Allah"
+    ],
+    "transliteration": [
+      "bismillāh",
+      "āmantu billāh",
+      "watawakkaltu `alallāh"
+    ]
+  }
+}

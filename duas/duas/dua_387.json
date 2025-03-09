@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "387",
+    "name": "Wudhu - when gargling",
+    "used": "1",
+    "audio": "0",
+    "section": "Salaat.Wudhu",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 2,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Salaat.Wudhu"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللّٰهُمَّ لَقِّنِىْ حُجَّتِىْ يَوْمَ اَلْقَاكَ",
+      "وَاَطْلِقْ لِسَانِىْ بِذِكْرِاكَ"
+    ],
+    "translation": [
+      "O Lord! Dictate to me the principles of faith on the Day I meet You,",
+      "and make my tongue fluent with Your remembrance."
+    ],
+    "transliteration": [
+      "allāhumma laqqinī ḥujjatī yawma alqāk",
+      "wa-aṭliq lisānī bidhikrik"
+    ]
+  }
+}

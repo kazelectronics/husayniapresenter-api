@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "id": "398",
+    "name": "Dua in Sajdah after Adhan",
+    "used": "1",
+    "audio": "0",
+    "section": "Salaat.Before",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 5,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Salaat.Before"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "لَا اِلٰهَ إِلَّا اَنْتَ رَبِّيْ",
+      "سَجَدْتُ لَكَ خَاشِعًا خَاضِعًا ذَلِيْلًا",
+      "فَصَلِّ عَلَى مُحَمَّدٍ وَّآلِ مُحَمَّدٍ",
+      "وَاغْفِرْلِيْ وَارْحَمْنِيْ وَتُبْ عَلَيَّ",
+      "اِنَّكَ اَنْتَ التَّوَّابُ الرَّحِيْمِ"
+    ],
+    "translation": [
+      "There is no god except You my Lord",
+      "I have prostrated to You submissively, humbly, lowly",
+      "So bless Muhammad and his family",
+      "and forgive me, have mercy on me, and turn to me",
+      "Surely You are the Oft-Returning, the Merciful"
+    ],
+    "transliteration": [
+      "lā ilāha illā anta rabbī",
+      "sajadtu laka khāshi`an khāḍi`an dhalīlā",
+      "faṣalli `alā muḥammadiw wa-āli muḥammad",
+      "waghfir-lī war-ḥamnī watub `alayy",
+      "innaka antat tawwābur raḥīm"
+    ]
+  }
+}

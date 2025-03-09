@@ -1,0 +1,203 @@
+{
+  "id": "Months.Rajab",
+  "name": "Rajab Duas",
+  "parent": "Islamic Months",
+  "rank": 14,
+  "duas": [
+    {
+      "id": "15",
+      "name": "Ziarat Waritha",
+      "lines": 94
+    },
+    {
+      "id": "47",
+      "name": "7th and 9th Imam Ziarat",
+      "lines": 9
+    },
+    {
+      "id": "48",
+      "name": "Rajab Daily Dua 1",
+      "lines": 19
+    },
+    {
+      "id": "49",
+      "name": "9th Imam Ziarat 1",
+      "lines": 20
+    },
+    {
+      "id": "50",
+      "name": "9th Imam Ziarat 2",
+      "lines": 34
+    },
+    {
+      "id": "51",
+      "name": "9th Imam Ziarat 3",
+      "lines": 21
+    },
+    {
+      "id": "52",
+      "name": "9th Imam Ziarat 4",
+      "lines": 22
+    },
+    {
+      "id": "108",
+      "name": "Ziarat Ameenullah",
+      "lines": 64
+    },
+    {
+      "id": "115",
+      "name": "Ziarat 2 Holy Prophet",
+      "lines": 312
+    },
+    {
+      "id": "120",
+      "name": "Ziarat Bibi Zainab",
+      "lines": 153
+    },
+    {
+      "id": "123",
+      "name": "5th Imam Ziarat",
+      "lines": 35
+    },
+    {
+      "id": "124",
+      "name": "Ziarat Abu Talib",
+      "lines": 19
+    },
+    {
+      "id": "134",
+      "name": "Rajab General Dua",
+      "lines": 4
+    },
+    {
+      "id": "135",
+      "name": "Rajab General Tasbih",
+      "lines": 1
+    },
+    {
+      "id": "136",
+      "name": "Rajab General Tasbih",
+      "lines": 2
+    },
+    {
+      "id": "137",
+      "name": "Ayat ul-Kursi",
+      "lines": 3
+    },
+    {
+      "id": "138",
+      "name": "Rajab General Dua",
+      "lines": 5
+    },
+    {
+      "id": "139",
+      "name": "Rajab General Dua",
+      "lines": 1
+    },
+    {
+      "id": "140",
+      "name": "Rajab Daily Dua 2",
+      "lines": 12
+    },
+    {
+      "id": "141",
+      "name": "Rajab Daily Dua 3",
+      "lines": 18
+    },
+    {
+      "id": "142",
+      "name": "Rajab Daily Dua 4",
+      "lines": 18
+    },
+    {
+      "id": "143",
+      "name": "Rajab General Tasbih",
+      "lines": 2
+    },
+    {
+      "id": "144",
+      "name": "Rajab Sighting of Moon",
+      "lines": 5
+    },
+    {
+      "id": "145",
+      "name": "Rajab Sighting of Moon",
+      "lines": 8
+    },
+    {
+      "id": "146",
+      "name": "Ziarat of Imam Hussain for Rajab and Shabaan",
+      "lines": 58
+    },
+    {
+      "id": "147",
+      "name": "Rajab 1st Night Tasbih",
+      "lines": 1
+    },
+    {
+      "id": "148",
+      "name": "Rajab 1st Night Dua",
+      "lines": 15
+    },
+    {
+      "id": "150",
+      "name": "Amaal for 15th night of Rajab",
+      "lines": 3
+    },
+    {
+      "id": "151",
+      "name": "Dua for 15th day of Rajab",
+      "lines": 22
+    },
+    {
+      "id": "152",
+      "name": "10th Imam Ziarat",
+      "lines": 67
+    },
+    {
+      "id": "153",
+      "name": "Dua for night of Mab'ath",
+      "lines": 14
+    },
+    {
+      "id": "154",
+      "name": "Ziarat of Imam Ali for Mab'ath",
+      "lines": 272
+    },
+    {
+      "id": "155",
+      "name": "Dua for day of Mab'ath",
+      "lines": 28
+    },
+    {
+      "id": "261",
+      "name": "Salawaat",
+      "lines": 1
+    },
+    {
+      "id": "262",
+      "name": "Salawaat",
+      "lines": 1
+    },
+    {
+      "id": "263",
+      "name": "Salawaat",
+      "lines": 1
+    },
+    {
+      "id": "279",
+      "name": "Lailatul Raghaib Tasbih",
+      "lines": 1
+    },
+    {
+      "id": "280",
+      "name": "Lailatul Raghaib Tasbih",
+      "lines": 1
+    },
+    {
+      "id": "281",
+      "name": "Lailatul Raghaib Tasbih",
+      "lines": 1
+    }
+  ]
+}

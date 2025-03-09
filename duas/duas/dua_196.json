@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "id": "196",
+    "name": "Praising Allah",
+    "used": "1",
+    "audio": "2",
+    "section": "Months.ZilHajj",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 1,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.ZilHajj"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَلْحَمْدُ لِلَّهِ"
+    ],
+    "translation": [
+      "All praise be to Allah."
+    ],
+    "transliteration": [
+      "al ḥamdu lillāh"
+    ]
+  }
+}

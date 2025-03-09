@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "383",
+    "name": "Salawaat when going to bed",
+    "used": "1",
+    "audio": "0",
+    "section": "Etiquette.General",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 2,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Etiquette.General"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّعَلَى آلِهِ",
+      "وَعَلَى جَمِيْعِ اَنْبِيَائِكَ وَرُسُلِكَ"
+    ],
+    "translation": [
+      "O Allah, bless Muhammad and his family",
+      "and all Your Prophets and Your Messengers"
+    ],
+    "transliteration": [
+      "allāhumma ṣalli `alā muḥammadiw wa`alā-ālih",
+      "wa`alā jamī`i anbiyā-ika warusulik"
+    ]
+  }
+}

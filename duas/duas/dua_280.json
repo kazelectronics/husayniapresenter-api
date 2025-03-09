@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "id": "280",
+    "name": "Lailatul Raghaib Tasbih",
+    "used": "1",
+    "audio": "0",
+    "section": "Months.Rajab",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 1,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Rajab"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "سُبُّوحٌ قُدُّوسٌ رَبُّ الْمَلَائِكَةِ وَالرُّوحِ"
+    ],
+    "translation": [
+      "Holy and most Holy is the Lord of the Angels and spirits."
+    ],
+    "transliteration": [
+      "subbūḥun quddūsun rabbul malā-ikati war rūḥ"
+    ]
+  }
+}

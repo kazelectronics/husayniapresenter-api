@@ -1,0 +1,43 @@
+{
+  "id": "Duas.Daily",
+  "name": "Daily Duas",
+  "parent": "Duas and Ziarat",
+  "rank": 2,
+  "duas": [
+    {
+      "id": "303",
+      "name": "Dua for Saturday",
+      "lines": 29
+    },
+    {
+      "id": "305",
+      "name": "Dua for Sunday",
+      "lines": 38
+    },
+    {
+      "id": "307",
+      "name": "Dua for Monday",
+      "lines": 56
+    },
+    {
+      "id": "309",
+      "name": "Dua for Tuesday",
+      "lines": 41
+    },
+    {
+      "id": "311",
+      "name": "Dua for Wednesday",
+      "lines": 37
+    },
+    {
+      "id": "313",
+      "name": "Dua for Thursday",
+      "lines": 37
+    },
+    {
+      "id": "315",
+      "name": "Dua for Friday",
+      "lines": 36
+    }
+  ]
+}

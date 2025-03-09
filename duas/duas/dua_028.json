@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "id": "28",
+    "name": "Takbir Eid",
+    "used": "1",
+    "audio": "0",
+    "section": "Months.Shawwal",
+    "section_rank": 0,
+    "first_line": 3,
+    "lines": 8,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Shawwal"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+      "اَللَّهُ اَكْبَرُ اَللَّهُ اَكْبَرُ",
+      "لَا إِلٰهَ إِلَّا اللَّهُ",
+      "وَاللَّهُ اَكْبَرُ اَللَّهُ اَكْبَرُ",
+      "وَلِلَّهِ الْحَمْدُ",
+      "اَلْحَمْدُ لِلَّهِ عَلَى مَا هَدَانَا",
+      "وَلَهُ الشُّكْرُ عَلَى مَا اَوْلاَنَا",
+      "counter"
+    ],
+    "translation": [
+      "In the Name of Allāh, the All-beneficent, the All-merciful.",
+      "Allah is Great. Allah is Great.",
+      "There is no god save Allah.",
+      "And Allah is Great.Allah is Great.",
+      "All praise be to Allah.",
+      "All praise be to Allah for He has shown us the Right Path.",
+      "All thanks be to Him for that which He has conferred upon us.",
+      ""
+    ],
+    "transliteration": [
+      "bismillāhir raḥmānir raḥīm",
+      "allāhu akbaru allāhu akbar",
+      "lā ilāha illallāh",
+      "wallāhu akbaru allāhu akbar",
+      "walillāhil ḥamd",
+      "al ḥamdu lillāhi `alā mā hadānā",
+      "walahush shukru `alā mā awlānā",
+      "3"
+    ]
+  }
+}

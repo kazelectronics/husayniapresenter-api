@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "id": "394",
+    "name": "Wudhu - after completion",
+    "used": "1",
+    "audio": "0",
+    "section": "Salaat.Wudhu",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 3,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Salaat.Wudhu"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللّٰهُمَّ اِنِّيْ اَسْئَلُكَ تَمَامَ الْوُضُوْءِ",
+      "وَتَمَامَ الصَّلَاةِ ",
+      "وَتَمَامَ رِضْوَانِكَ وَالْجَنَّةَ"
+    ],
+    "translation": [
+      "O Allah, I ask for perfection in widhu,",
+      "perfection in salaat",
+      "and Your complete pleasure, and Paradise"
+    ],
+    "transliteration": [
+      "allāhumma innī as-aluka tamāmal wuḍū",
+      "watamāmaṣ ṣalāh ",
+      "watamāma riḍwānika waljannah"
+    ]
+  }
+}

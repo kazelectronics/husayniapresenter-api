@@ -1,0 +1,18 @@
+{
+  "id": "Etiquette.Quran",
+  "name": "Duas for reciting the Holy Quran",
+  "parent": "Etiquette",
+  "rank": 29,
+  "duas": [
+    {
+      "id": "408",
+      "name": "Dua before reciting the Quran",
+      "lines": 12
+    },
+    {
+      "id": "409",
+      "name": "Dua after reciting the Quran",
+      "lines": 6
+    }
+  ]
+}

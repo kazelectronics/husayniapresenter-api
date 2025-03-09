@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "id": "406",
+    "name": "Dhikr of Tashahhud",
+    "used": "1",
+    "audio": "0",
+    "section": "Salaat.During",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 9,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Salaat.During"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّهِ وَبِاللَّهِ وَالْحَمْدُ لِلَّهِ وَخَيْرُ الْأَسْمَاءِ لِلَّهِ",
+      "اَشْهَدُ اَنْ لَا اِلٰهَ اِلَّا اللَّهُ",
+      "وَحْدَهُ لَا شَرِيْكَ لَهُ",
+      "وَاَشْهَدُ اَنَّ مُحَمَّدً عَبْدُهُ وَرَسُوْلُهُ",
+      "اَرْسَلَهُ بِالْحَقِّ بَشِيْرًا وَنَذِيْرًا بَيْنَ يَدَيَّ السَّاعَةِ",
+      "وَاَشْهَدُ اَنَّكَ نِعْمَ الرَّبُّ",
+      "وَاَنَّ مُحَمَّدً نِعَمَ الرَّسُوْلُ",
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "وَتَقَبَّلْ شَفَاعَتَهُ فِيْ اُمَّتِهِ وَارْفَعْ دَرَجَتَهُ"
+    ],
+    "translation": [
+      "In the name of Allah, by Allah, all Praise is for Allah, and the best names are for Allah",
+      "I bear witness that there is no god but Allah",
+      "there is no partner for Him",
+      "and I bear witness that Muhammad is His slave and His Messenger",
+      "He sent him with the Truth as a bearer of good news and a warner, before the coming of the hour",
+      "and I bear witness that You are the best Lord",
+      "and that Muhammad is the best Messenger",
+      "O Allah bless Muhammad and his family",
+      "and accept his intercession for his Ummah and raise his status"
+    ],
+    "transliteration": [
+      "bismillāhi wabillāhi walḥamdu lillāhi wakhayrul asmā-i lillāh",
+      "ash-hadu an lā ilāha illallāh",
+      "waḥdahu lā sharīka lah",
+      "wa-ash-hadu anna muḥammadan `abduhu warasūluh",
+      "ar-salahu bil ḥaqqi bashīran wanadhīran bayna yadayyas sā`ah",
+      "wa-ash-hadu annaka ni`mar rabb",
+      "wa-anna muḥammadan ni`amar rasūl",
+      "allāhumma ṣalli `alā muḥammadin wa āli muḥammad",
+      "wataqabbal shafā`atahu fī ummatihi war-fa` darajatah"
+    ]
+  }
+}

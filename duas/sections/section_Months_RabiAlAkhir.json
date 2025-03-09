@@ -1,0 +1,13 @@
+{
+  "id": "Months.RabiAlAkhir",
+  "name": "Rabi Al-Akhir Duas",
+  "parent": "Islamic Months",
+  "rank": 11,
+  "duas": [
+    {
+      "id": "119",
+      "name": "11th Imam Ziarat",
+      "lines": 50
+    }
+  ]
+}

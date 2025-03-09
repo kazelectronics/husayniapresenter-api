@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "id": "354",
+    "name": "Dua for entering the cemetary - I.  Sadiq",
+    "used": "1",
+    "audio": "0",
+    "section": "Etiquette.Cemetery",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 3,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Etiquette.Cemetery"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَلسَّلاَمُ عَلَى اَهْلِ الدِّيَارِ مِنَ الْمُؤْمِنِيْنَ وَالْمُسْلِمِيْنَ",
+      "اَنْتُمْ لَنَا فَرَطٌ",
+      "وَنَحْنُ إِنْ شَاءَ اللَّهُ بِكُمْ لاَحِقُونَ"
+    ],
+    "translation": [
+      "Peace upon the inhabitants of these graves from amongst the believers and the Muslims",
+      "You have preceded us",
+      "and we if God wishes will join you"
+    ],
+    "transliteration": [
+      "as salāmu `alā ahlid diyāri minal mu-minīna walmuslimīn",
+      "antum lanā faraṭ",
+      "wanaḥnu in shā-allāhu bikum lāḥiqūn"
+    ]
+  }
+}

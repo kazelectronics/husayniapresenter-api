@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "id": "104",
+    "name": "Qur'an Amaal Dua 1",
+    "used": "1",
+    "audio": "2",
+    "section": "Months.Ramadhan",
+    "section_rank": 0,
+    "first_line": 3,
+    "lines": 8,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Ramadhan"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ بِكِتَابِكَ الْمُنْزَلِ",
+      "وَ مَا فِيْهِ وَ فِيْهِ اسْمُكَ الْأَكْبَرُ",
+      "وَ أَسْمَاؤُكَ الْحُسْنَى",
+      "وَ مَا يُخَافُ وَ يُرْجَى",
+      "أَنْ تَجْعَلَنِيْ مِنْ عُتَقَائِكَ مِنَ النَّارِ",
+      ""
+    ],
+    "translation": [
+      "In the Name of Allāh, the All-beneficent, the All-merciful.",
+      "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+      "O Allah I beseech Thee in the name of Thy revealed Book ",
+      "and that which is in it, and Thy Great Name ",
+      "and Thy (Other] beautiful names are in it, ",
+      "and in it there is that which warns and gives hope ",
+      "to include me among those who have been set free from the Hellfire.",
+      "Hajaat"
+    ],
+    "transliteration": [
+      "bismillāhir raḥmānir raḥīm",
+      "allāhumma ṣalli `alā muḥammadin wa āli muḥammad",
+      "allāhumma innī as-aluka bikitābikal munzal",
+      "wa mā fīhi wa fīhismukal akbar",
+      "wa asma-ukal ḥusnā",
+      "wa mā yukhāfu wa yur-jā",
+      "an taj`alanī min `utaqā-ika minan nār",
+      ""
+    ]
+  }
+}

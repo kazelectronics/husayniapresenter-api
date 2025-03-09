@@ -1,0 +1,313 @@
+{
+  "id": "Duas.Sahifa",
+  "name": "Sahifa Sajjadiyyah Duas",
+  "parent": "Duas and Ziarat",
+  "rank": 4,
+  "duas": [
+    {
+      "id": "125",
+      "name": "Dua 20 - Sahifat Sajjadiyyah",
+      "lines": 224
+    },
+    {
+      "id": "130",
+      "name": "Dua 47 - Sahifat Sajjadiyyah",
+      "lines": 419
+    },
+    {
+      "id": "190",
+      "name": "Dua 48 - Sahifat Sajjadiyyah",
+      "lines": 195
+    },
+    {
+      "id": "203",
+      "name": "Dua 1 - Sahifat Sajjadiyyah",
+      "lines": 125
+    },
+    {
+      "id": "204",
+      "name": "Dua 2 - Sahifat Sajjadiyyah",
+      "lines": 50
+    },
+    {
+      "id": "205",
+      "name": "Dua 3 - Sahifat Sajjadiyyah",
+      "lines": 62
+    },
+    {
+      "id": "206",
+      "name": "Dua 4 - Sahifat Sajjadiyyah",
+      "lines": 47
+    },
+    {
+      "id": "207",
+      "name": "Dua 5 - Sahifat Sajjadiyyah",
+      "lines": 56
+    },
+    {
+      "id": "208",
+      "name": "Dua 6 - Sahifat Sajjadiyyah",
+      "lines": 80
+    },
+    {
+      "id": "209",
+      "name": "Dua 7 - Sahifat Sajjadiyyah",
+      "lines": 39
+    },
+    {
+      "id": "210",
+      "name": "Dua 8 - Sahifat Sajjadiyyah",
+      "lines": 31
+    },
+    {
+      "id": "211",
+      "name": "Dua 9 - Sahifat Sajjadiyyah",
+      "lines": 25
+    },
+    {
+      "id": "212",
+      "name": "Dua 10 - Sahifat Sajjadiyyah",
+      "lines": 22
+    },
+    {
+      "id": "213",
+      "name": "Dua 11 - Sahifat Sajjadiyyah",
+      "lines": 23
+    },
+    {
+      "id": "214",
+      "name": "Dua 12 - Sahifat Sajjadiyyah",
+      "lines": 72
+    },
+    {
+      "id": "215",
+      "name": "Dua 13 - Sahifat Sajjadiyyah",
+      "lines": 55
+    },
+    {
+      "id": "216",
+      "name": "Dua 14 - Sahifat Sajjadiyyah",
+      "lines": 48
+    },
+    {
+      "id": "217",
+      "name": "Dua 15 - Sahifat Sajjadiyyah",
+      "lines": 31
+    },
+    {
+      "id": "218",
+      "name": "Dua 16 - Sahifat Sajjadiyyah",
+      "lines": 130
+    },
+    {
+      "id": "219",
+      "name": "Dua 17 - Sahifat Sajjadiyyah",
+      "lines": 60
+    },
+    {
+      "id": "220",
+      "name": "Dua 18 - Sahifat Sajjadiyyah",
+      "lines": 12
+    },
+    {
+      "id": "221",
+      "name": "Dua 19 - Sahifat Sajjadiyyah",
+      "lines": 35
+    },
+    {
+      "id": "222",
+      "name": "Dua 21 - Sahifat Sajjadiyyah",
+      "lines": 71
+    },
+    {
+      "id": "223",
+      "name": "Dua 22 - Sahifat Sajjadiyyah",
+      "lines": 97
+    },
+    {
+      "id": "224",
+      "name": "Dua 23 - Sahifat Sajjadiyyah",
+      "lines": 50
+    },
+    {
+      "id": "225",
+      "name": "Dua 24 - Sahifat Sajjadiyyah",
+      "lines": 78
+    },
+    {
+      "id": "226",
+      "name": "Dua 25 - Sahifat Sajjadiyyah",
+      "lines": 67
+    },
+    {
+      "id": "227",
+      "name": "Dua 26 - Sahifat Sajjadiyyah",
+      "lines": 29
+    },
+    {
+      "id": "228",
+      "name": "Dua 27 - Sahifat Sajjadiyyah",
+      "lines": 124
+    },
+    {
+      "id": "229",
+      "name": "Dua 28 - Sahifat Sajjadiyyah",
+      "lines": 32
+    },
+    {
+      "id": "230",
+      "name": "Dua 29 - Sahifat Sajjadiyyah",
+      "lines": 17
+    },
+    {
+      "id": "231",
+      "name": "Dua 30 - Sahifat Sajjadiyyah",
+      "lines": 31
+    },
+    {
+      "id": "232",
+      "name": "Dua 31 - Sahifat Sajjadiyyah",
+      "lines": 135
+    },
+    {
+      "id": "233",
+      "name": "Dua 32 - Sahifat Sajjadiyyah",
+      "lines": 136
+    },
+    {
+      "id": "234",
+      "name": "Dua 33 - Sahifat Sajjadiyyah",
+      "lines": 22
+    },
+    {
+      "id": "235",
+      "name": "Dua 34 - Sahifat Sajjadiyyah",
+      "lines": 24
+    },
+    {
+      "id": "236",
+      "name": "Dua 35 - Sahifat Sajjadiyyah",
+      "lines": 25
+    },
+    {
+      "id": "237",
+      "name": "Dua 36 - Sahifat Sajjadiyyah",
+      "lines": 37
+    },
+    {
+      "id": "238",
+      "name": "Dua 37 - Sahifat Sajjadiyyah",
+      "lines": 68
+    },
+    {
+      "id": "239",
+      "name": "Dua 38 - Sahifat Sajjadiyyah",
+      "lines": 18
+    },
+    {
+      "id": "240",
+      "name": "Dua 39 - Sahifat Sajjadiyyah",
+      "lines": 71
+    },
+    {
+      "id": "241",
+      "name": "Dua 40 - Sahifat Sajjadiyyah",
+      "lines": 25
+    },
+    {
+      "id": "242",
+      "name": "Dua 41 - Sahifat Sajjadiyyah",
+      "lines": 22
+    },
+    {
+      "id": "243",
+      "name": "Dua 42 - Sahifat Sajjadiyyah",
+      "lines": 133
+    },
+    {
+      "id": "244",
+      "name": "Dua 43 - Sahifat Sajjadiyyah",
+      "lines": 46
+    },
+    {
+      "id": "245",
+      "name": "Dua 44 - Sahifat Sajjadiyyah",
+      "lines": 110
+    },
+    {
+      "id": "246",
+      "name": "Dua 45 - Sahifat Sajjadiyyah",
+      "lines": 224
+    },
+    {
+      "id": "247",
+      "name": "Dua 46 - Sahifat Sajjadiyyah",
+      "lines": 79
+    },
+    {
+      "id": "248",
+      "name": "Dua 49 - Sahifat Sajjadiyyah",
+      "lines": 92
+    },
+    {
+      "id": "249",
+      "name": "Dua 50 - Sahifat Sajjadiyyah",
+      "lines": 44
+    },
+    {
+      "id": "250",
+      "name": "Dua 51 - Sahifat Sajjadiyyah",
+      "lines": 67
+    },
+    {
+      "id": "251",
+      "name": "Dua 52 - Sahifat Sajjadiyyah",
+      "lines": 55
+    },
+    {
+      "id": "252",
+      "name": "Dua 53 - Sahifat Sajjadiyyah",
+      "lines": 28
+    },
+    {
+      "id": "253",
+      "name": "Dua 54 - Sahifat Sajjadiyyah",
+      "lines": 80
+    },
+    {
+      "id": "254",
+      "name": "Dua 55 - Sahifat Sajjadiyyah",
+      "lines": 25
+    },
+    {
+      "id": "255",
+      "name": "Dua 56 - Sahifat Sajjadiyyah",
+      "lines": 57
+    },
+    {
+      "id": "256",
+      "name": "Dua 57 - Sahifat Sajjadiyyah",
+      "lines": 13
+    },
+    {
+      "id": "257",
+      "name": "Dua 58 - Sahifat Sajjadiyyah",
+      "lines": 19
+    },
+    {
+      "id": "258",
+      "name": "Dua 59 - Sahifat Sajjadiyyah",
+      "lines": 52
+    },
+    {
+      "id": "259",
+      "name": "Dua 60 - Sahifat Sajjadiyyah",
+      "lines": 37
+    },
+    {
+      "id": "260",
+      "name": "Dua 61 - Sahifat Sajjadiyyah",
+      "lines": 38
+    }
+  ]
+}

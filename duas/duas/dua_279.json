@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "id": "279",
+    "name": "Lailatul Raghaib Tasbih",
+    "used": "1",
+    "audio": "0",
+    "section": "Months.Rajab",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 1,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Rajab"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ النَّبِيِّ الْاُمِّيِّ وَعَلَى آلِهِ"
+    ],
+    "translation": [
+      "O Allah send blessings on Muhammad, the Ummi Prophet, and on his descendants."
+    ],
+    "transliteration": [
+      "allāhumma ṣalli `alā muḥammadin nabiyyil ummiyyi wa`alā-ālih"
+    ]
+  }
+}

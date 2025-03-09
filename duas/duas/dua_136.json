@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "136",
+    "name": "Rajab General Tasbih",
+    "used": "1",
+    "audio": "0",
+    "section": "Months.Rajab",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 2,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Rajab"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَسْتَغْفِرُ اللَّهَ ذَا الْجَلاَلِ وَالْاِكْرَامِ",
+      "مِنْ جَمِيْعِ الذُّنُوبِ وَالْآثَامِ"
+    ],
+    "translation": [
+      "I implore Allah, the Lord of majesty and honor,",
+      "to forgive my all sins and offenses."
+    ],
+    "transliteration": [
+      "astaghfirullāha dhal jalāli wal-ikrām",
+      "min jamī`idh dhunūbi wal-āthām"
+    ]
+  }
+}

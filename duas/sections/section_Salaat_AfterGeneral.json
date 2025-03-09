@@ -1,0 +1,68 @@
+{
+  "id": "Salaat.AfterGeneral",
+  "name": "General Duas After Salaat",
+  "parent": "Salaat",
+  "rank": 27,
+  "duas": [
+    {
+      "id": "137",
+      "name": "Ayat ul-Kursi",
+      "lines": 3
+    },
+    {
+      "id": "282",
+      "name": "Dua after Salaat - 1",
+      "lines": 16
+    },
+    {
+      "id": "283",
+      "name": "Dua after Salaat - 2",
+      "lines": 30
+    },
+    {
+      "id": "284",
+      "name": "Dua after Salaat - 3",
+      "lines": 10
+    },
+    {
+      "id": "285",
+      "name": "Dua after Salaat - 4",
+      "lines": 22
+    },
+    {
+      "id": "286",
+      "name": "Dua after Salaat - 5",
+      "lines": 11
+    },
+    {
+      "id": "287",
+      "name": "Ayat ush-Shahadah [3:18-19]",
+      "lines": 3
+    },
+    {
+      "id": "288",
+      "name": "Ayat ul-Mulk [3:26-27]",
+      "lines": 3
+    },
+    {
+      "id": "289",
+      "name": "Dua for Sajdah ash-Shukr - 1",
+      "lines": 6
+    },
+    {
+      "id": "290",
+      "name": "Dua for Sajdah ash-Shukr - 2",
+      "lines": 3
+    },
+    {
+      "id": "291",
+      "name": "Dua for Sajdah ash-Shukr - 3",
+      "lines": 8
+    },
+    {
+      "id": "407",
+      "name": "Dua after Salaat - 6",
+      "lines": 6
+    }
+  ]
+}

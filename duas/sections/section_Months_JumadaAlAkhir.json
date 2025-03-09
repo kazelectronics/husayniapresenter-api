@@ -1,0 +1,18 @@
+{
+  "id": "Months.JumadaAlAkhir",
+  "name": "Jumada Al-Akhir Duas",
+  "parent": "Islamic Months",
+  "rank": 13,
+  "duas": [
+    {
+      "id": "121",
+      "name": "Ziarat Bibi Fatema",
+      "lines": 61
+    },
+    {
+      "id": "122",
+      "name": "Ziarat Bibi Fatema",
+      "lines": 91
+    }
+  ]
+}

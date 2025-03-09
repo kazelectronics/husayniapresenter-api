@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "id": "290",
+    "name": "Dua for Sajdah ash-Shukr - 2",
+    "used": "1",
+    "audio": "2",
+    "section": "Duas.Sajda|Salaat.AfterGeneral",
+    "section_rank": "02",
+    "first_line": 1,
+    "lines": 3,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Duas.Sajda",
+      "Salaat.AfterGeneral"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللَّهُمَّ مَغْفِرَتُكَ اَوْسَعُ مِنْ ذُنُوبِي",
+      "وَرَحْمَتُكَ اَرْجَىٰ عِنْدِيْ مِنْ عَمَلِي",
+      "فَاغْفِرْ لِيْ ذُنُوبِيْ يَا حَيًّا لَا يَمُوتُ"
+    ],
+    "translation": [
+      "O Allah, Your forgiveness is more expansive than my sin",
+      "and Your mercy is more hopeful for me than my deeds.",
+      "So, (please] forgive my sins. O He Who is Ever-living and never dies!"
+    ],
+    "transliteration": [
+      "allāhumma maghfiratuka awsa`u min dhunūbī",
+      "waraḥmatuka ar-jā `indī min `amalī",
+      "faghfir lī dhunūbī yā ḥayyan lā yamūt"
+    ]
+  }
+}

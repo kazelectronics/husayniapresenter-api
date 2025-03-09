@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "id": "403",
+    "name": "Dhikr of Sajdah",
+    "used": "1",
+    "audio": "0",
+    "section": "Salaat.During",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 7,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Salaat.During"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللَّهُمَّ لَكَ سَجَدْتُ وَلَكَ اَسْلَمْتُ",
+      "وَبِكَ آمَنْتُ وَعَلَيْكَ تَوَكَّلْتٌ",
+      "وَاَنْتَ رَبِّيْ",
+      "سَجَدَ وَجْهِيْ لِلَّذِيْ خَلَقَهُ",
+      "وَشَقَّ سَمْعَهُ وَبَصَرَهُ",
+      "اَلْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِيْنَ",
+      "تَبَارَكَ اللَّهُ اَحْسَنَ الْخَالِقِيْنَ"
+    ],
+    "translation": [
+      "O Allah, I have prostrated to You and submitted to You",
+      "and believed in You and relied on You",
+      "You are my Lord",
+      "My face has prostrated for the He who created it",
+      "and split open its hearing and sight",
+      "All Praise is for Allah, Lord of the Worlds",
+      "Blessed is Allah, the best of Creators"
+    ],
+    "transliteration": [
+      "allāhumma laka sajadtu walaka aslamt",
+      "wabika-āmantu wa`alayka tawakkalt",
+      "wa-anta rabbī",
+      "sajada wajhī lilladhī khalaqah",
+      "washaqqa sam`ahu wabaṣarah",
+      "al ḥamdu lillāhi rabbil `ālamīn",
+      "tabārakallāhu aḥsanal khāliqīn"
+    ]
+  }
+}

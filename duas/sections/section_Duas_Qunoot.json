@@ -1,0 +1,28 @@
+{
+  "id": "Duas.Qunoot",
+  "name": "Qunoot Duas",
+  "parent": "Salaat",
+  "rank": 3,
+  "duas": [
+    {
+      "id": "292",
+      "name": "Dua for Qunoot - 1 [3:147]",
+      "lines": 2
+    },
+    {
+      "id": "293",
+      "name": "Dua for Qunoot - 2 [3:8]",
+      "lines": 2
+    },
+    {
+      "id": "294",
+      "name": "Dua for Qunoot - 3 [27:19]",
+      "lines": 2
+    },
+    {
+      "id": "295",
+      "name": "Dua for Qunoot - 4 [3:38]",
+      "lines": 2
+    }
+  ]
+}

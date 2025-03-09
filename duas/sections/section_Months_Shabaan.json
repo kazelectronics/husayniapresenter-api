@@ -1,0 +1,118 @@
+{
+  "id": "Months.Shabaan",
+  "name": "Shabaan Duas",
+  "parent": "Islamic Months",
+  "rank": 15,
+  "duas": [
+    {
+      "id": "8",
+      "name": "Dua Kumayl",
+      "lines": 250
+    },
+    {
+      "id": "12",
+      "name": "12th Imam Ziarat",
+      "lines": 34
+    },
+    {
+      "id": "15",
+      "name": "Ziarat Waritha",
+      "lines": 94
+    },
+    {
+      "id": "43",
+      "name": "4th Imam Ziarat 1",
+      "lines": 11
+    },
+    {
+      "id": "44",
+      "name": "4th Imam Ziarat 2",
+      "lines": 37
+    },
+    {
+      "id": "156",
+      "name": "Daily amaal Shabaan",
+      "lines": 2
+    },
+    {
+      "id": "157",
+      "name": "Daily salawaat Shabaan",
+      "lines": 50
+    },
+    {
+      "id": "158",
+      "name": "Monthly amaal Shabaan",
+      "lines": 3
+    },
+    {
+      "id": "159",
+      "name": "Dua of Imam Hussain",
+      "lines": 44
+    },
+    {
+      "id": "160",
+      "name": "Dua of Imam Hussain",
+      "lines": 35
+    },
+    {
+      "id": "161",
+      "name": "Munajat Shabaniya",
+      "lines": 135
+    },
+    {
+      "id": "162",
+      "name": "Dua 1 - 15th Shabaan",
+      "lines": 15
+    },
+    {
+      "id": "163",
+      "name": "Tasbihat Arba",
+      "lines": 2
+    },
+    {
+      "id": "164",
+      "name": "Dua 2 - 15th Shabaan",
+      "lines": 11
+    },
+    {
+      "id": "165",
+      "name": "Dua 3 - 15th Shabaan",
+      "lines": 46
+    },
+    {
+      "id": "166",
+      "name": "Dua 4 - 15th Shabaan",
+      "lines": 35
+    },
+    {
+      "id": "167",
+      "name": "Dua 5 - 15th Shabaan",
+      "lines": 14
+    },
+    {
+      "id": "168",
+      "name": "Dua 6 - 15th Shabaan",
+      "lines": 24
+    },
+    {
+      "id": "169",
+      "name": "Sajda Dua 1 - 15th Shabaan",
+      "lines": 6
+    },
+    {
+      "id": "170",
+      "name": "Sajda Dua 2 - 15th Shabaan",
+      "lines": 9
+    },
+    {
+      "id": "171",
+      "name": "Sajda Dua 3 - 15th Shabaan",
+      "lines": 2
+    },
+    {
+      "id": "172",
+      "name": "Last night of Shabaan",
+      "lines": 79
+    }
+  ]
+}

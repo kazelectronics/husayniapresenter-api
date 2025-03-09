@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "id": "384",
+    "name": "Dua before sleeping",
+    "used": "1",
+    "audio": "0",
+    "section": "Etiquette.General",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 9,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Etiquette.General"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّهِ",
+      "اَللَّهُمَّ إِنِّيْ أَسْلَمْتُ نَفْسِيْ إِلَيْكَ",
+      "وَوَجَّهْتُ وَجْهِيْ إِلَيْكَ",
+      "وَفَوَّضْتُ أَمْرِيْ إِلَيْكَ",
+      "وَأَلْجَأْتُ ظَهْرِيْ إِلَيْكَ",
+      "وَتَوَكَّلْتُ عَلَيْكَ رَهْبَةً مِنْكَ وَرَغْبَةً إِلَيْكَ",
+      "لَا مَلْجَأَ وَلَا مَنْجَى مِنْكَ إِلَّا إِلَيْكَ",
+      "آمَنْتُ بِكِتَابِكَ الَّذِيْ أَنْزَلْتَ",
+      "وَبِرَسُوْلِكَ الَّذِيْ أَرْسَلْتَ"
+    ],
+    "translation": [
+      "In the name of Allah",
+      "O Allah, I submit myself to You",
+      "I turn my face toward You",
+      "I entrust my affairs to You",
+      "I seek refuge in You",
+      "I trust in You with awe of You and hope in You",
+      "there is no refuge nor sanctuary from You except in You",
+      "I believe in Your Book which You revealed",
+      "and Your Messenger whom You sent"
+    ],
+    "transliteration": [
+      "bismillāh",
+      "allāhumma innī aslamtu nafsī ilayk",
+      "wawajjahtu wajhī ilayk",
+      "wafawwaḍtu amrī ilayk",
+      "wa-alja-tu ẓahrī ilayk",
+      "watawakkaltu `alayka rahbatan minka waraghbatan ilayk",
+      "lā malja-a walā manjā minka illā ilayk",
+      "āmantu bikitābikal ladhī anzalt",
+      "wabirasūlikal ladhī ar-salt"
+    ]
+  }
+}

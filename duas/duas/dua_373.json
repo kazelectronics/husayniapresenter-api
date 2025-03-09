@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "id": "373",
+    "name": "Dua when combing hair",
+    "used": "1",
+    "audio": "0",
+    "section": "Etiquette.General",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 4,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Etiquette.General"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللَّهُمَّ سَرِّحْ عَنِّيْ",
+      "اَلْهُمُوْمَ وَالْغُمُوْمَ",
+      "وَوَحْشَةَ الصَّدْرِ",
+      "وَوَسْوَسَةَ الشَّيْطَانِ"
+    ],
+    "translation": [
+      "O Allah dispel from me",
+      "all worries and sorrows",
+      "and loneliness in the chest",
+      "and the whisperings of the Shaytan"
+    ],
+    "transliteration": [
+      "allāhumma sarriḥ `annī",
+      "al humūma walghumūm",
+      "wawaḥshataṣ ṣadr",
+      "wawaswasatash shayṭān"
+    ]
+  }
+}

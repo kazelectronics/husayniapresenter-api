@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "id": "30",
+    "name": "Eid Night Dua 2",
+    "used": "1",
+    "audio": "2",
+    "section": "Months.Shawwal",
+    "section_rank": 0,
+    "first_line": 4,
+    "lines": 10,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Shawwal"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "يَا دَائِمَ الْفَضْلِ عَلَى الْبَرِيِّةِ",
+      "يَا بَاسِطَ الْيَدَيْنِ بِالْعَطِيَّةِ",
+      "يَا صَاحِبَ الْمَوَاهِبِ السَّنِيَّةِ",
+      "صَلِّ عَلَى مُحَمِّدٍ وَ آلِهِ",
+      "خَيْرِ الْوَرَىٰ سَجِيَّةً",
+      "وَاغْفِرْ لَنَا يَا ذَا الْعُلَىٰ",
+      "ْفِيْ هٰذِهِ الْعَشِيَّةِ",
+      "counter"
+    ],
+    "translation": [
+      "In the Name of Allāh, the All-beneficent, the All-merciful.",
+      "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+      "O He Who is ever-Favorer on the beings!",
+      "O He Who is openhandedly Bestower of gifts!",
+      "O He Who is the Giver of sublime donations!",
+      "Bless Muhammad and his Household,",
+      "the best of all creatures in traits,",
+      "and forgive us, O Lord of Highness,",
+      "at this evening.",
+      ""
+    ],
+    "transliteration": [
+      "bismillāhir raḥmānir raḥīm",
+      "allāhumma ṣalli `alā muḥammadin wa āli muḥammad",
+      "yā dā-imal faḍli `alal bariyyih",
+      "yā bāsiṭal yadayni bil `aṭiyyah",
+      "yā ṣāḥibal mawāhibis saniyyah",
+      "ṣalli `alā muḥammidin wa ālih",
+      "khayril warā sajiyyah",
+      "waghfir lanā yā dhal `ulā",
+      "fī hādhihil `ashiyyah",
+      "10"
+    ]
+  }
+}

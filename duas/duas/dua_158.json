@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "id": "158",
+    "name": "Monthly amaal Shabaan",
+    "used": "1",
+    "audio": "0",
+    "section": "Months.Shabaan",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 3,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Shabaan"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "لَا إِلٰهَ إِلَّا اللَّهُ  وَلَا نَعْبُدُ إِلَّا إِيَّاهُ",
+      "مُخْلِصِينَ لَهُ الدِّينَ",
+      "وَلَوْ كَرِهَ الْمُشْرِكُون"
+    ],
+    "translation": [
+      "There is no god save Allah. We do not worship save “He” alone,",
+      "making religion pure for Him (only],",
+      "however much the disbelievers be averse."
+    ],
+    "transliteration": [
+      "lā ilāha illallāhu walā na`budu illā iyyāh",
+      "mukhliṣīna lahud dīn",
+      "walaw karihal mushrikūn"
+    ]
+  }
+}

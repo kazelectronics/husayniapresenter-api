@@ -1,0 +1,48 @@
+{
+  "id": "Ziarat.General",
+  "name": "General Ziarat",
+  "parent": "Duas and Ziarat",
+  "rank": 21,
+  "duas": [
+    {
+      "id": "15",
+      "name": "Ziarat Waritha",
+      "lines": 94
+    },
+    {
+      "id": "21",
+      "name": "Ziarat Jamia Kabeera",
+      "lines": 413
+    },
+    {
+      "id": "22",
+      "name": "Ziarat Ale Yasin",
+      "lines": 152
+    },
+    {
+      "id": "23",
+      "name": "Ziarat Ashura",
+      "lines": 141
+    },
+    {
+      "id": "24",
+      "name": "Ziarat Jamia Sagheera",
+      "lines": 24
+    },
+    {
+      "id": "41",
+      "name": "Ziarat Taziya",
+      "lines": 74
+    },
+    {
+      "id": "42",
+      "name": "Ziarat Nahiya",
+      "lines": 452
+    },
+    {
+      "id": "363",
+      "name": "General Ziarat",
+      "lines": 19
+    }
+  ]
+}

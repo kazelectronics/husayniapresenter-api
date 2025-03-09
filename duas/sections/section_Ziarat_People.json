@@ -1,0 +1,133 @@
+{
+  "id": "Ziarat.People",
+  "name": "Specific Ziarat",
+  "parent": "Duas and Ziarat",
+  "rank": 22,
+  "duas": [
+    {
+      "id": "12",
+      "name": "12th Imam Ziarat",
+      "lines": 34
+    },
+    {
+      "id": "15",
+      "name": "Ziarat Waritha",
+      "lines": 94
+    },
+    {
+      "id": "43",
+      "name": "4th Imam Ziarat 1",
+      "lines": 11
+    },
+    {
+      "id": "44",
+      "name": "4th Imam Ziarat 2",
+      "lines": 37
+    },
+    {
+      "id": "46",
+      "name": "2nd Imam Ziarat",
+      "lines": 22
+    },
+    {
+      "id": "47",
+      "name": "7th and 9th Imam Ziarat",
+      "lines": 9
+    },
+    {
+      "id": "49",
+      "name": "9th Imam Ziarat 1",
+      "lines": 20
+    },
+    {
+      "id": "50",
+      "name": "9th Imam Ziarat 2",
+      "lines": 34
+    },
+    {
+      "id": "51",
+      "name": "9th Imam Ziarat 3",
+      "lines": 21
+    },
+    {
+      "id": "52",
+      "name": "9th Imam Ziarat 4",
+      "lines": 22
+    },
+    {
+      "id": "98",
+      "name": "Ziarat of Bibi Khadija",
+      "lines": 16
+    },
+    {
+      "id": "108",
+      "name": "Ziarat Ameenullah",
+      "lines": 64
+    },
+    {
+      "id": "114",
+      "name": "Ziarat 1 Holy Prophet",
+      "lines": 54
+    },
+    {
+      "id": "115",
+      "name": "Ziarat 2 Holy Prophet",
+      "lines": 312
+    },
+    {
+      "id": "116",
+      "name": "6th Imam Ziarat",
+      "lines": 27
+    },
+    {
+      "id": "117",
+      "name": "8th Imam Ziarat",
+      "lines": 32
+    },
+    {
+      "id": "118",
+      "name": "Ziarat Masoomah Qom",
+      "lines": 76
+    },
+    {
+      "id": "119",
+      "name": "11th Imam Ziarat",
+      "lines": 50
+    },
+    {
+      "id": "120",
+      "name": "Ziarat Bibi Zainab",
+      "lines": 153
+    },
+    {
+      "id": "121",
+      "name": "Ziarat Bibi Fatema",
+      "lines": 61
+    },
+    {
+      "id": "122",
+      "name": "Ziarat Bibi Fatema",
+      "lines": 91
+    },
+    {
+      "id": "123",
+      "name": "5th Imam Ziarat",
+      "lines": 35
+    },
+    {
+      "id": "124",
+      "name": "Ziarat Abu Talib",
+      "lines": 19
+    },
+    {
+      "id": "127",
+      "name": "Ziarat Muslim bin Aqeel",
+      "lines": 66
+    },
+    {
+      "id": "152",
+      "name": "10th Imam Ziarat",
+      "lines": 67
+    }
+  ]
+}

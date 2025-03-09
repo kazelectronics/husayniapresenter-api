@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "id": "29",
+    "name": "Eid Night Dua 1",
+    "used": "1",
+    "audio": "0",
+    "section": "Months.Shawwal",
+    "section_rank": 0,
+    "first_line": 3,
+    "lines": 12,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Shawwal"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "يَا ذَا الْمَنِّ وَالطَّوْلِ",
+      "يَا ذَا الْجُودِ",
+      "يَا مُصْطَفِيَ مُحَمَّدٍ وَنَاصِرَهُ",
+      "صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "وَاغْفِرْ لِيْ كُلَّ ذَنْبٍ اَحْصَيْتَهُ",
+      "وَهُوَ عِنْدَكَ فِيْ كِتَابٍ مُبِينٍ",
+      "",
+      "أَتُوبُ إِلَى اللَّهِ",
+      "counter",
+      ""
+    ],
+    "translation": [
+      "In the Name of Allāh, the All-beneficent, the All-merciful.",
+      "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+      "O Lord of favor and bounty!",
+      "O Lord of magnanimity!",
+      "O He Who has chosen Muhammad and granted him victory!",
+      "(Please] send blessings to Muhammad and the Household of Muhammad",
+      "and forgive me all the sins that You have known (from me]",
+      "and they are written with you in a manifest record.",
+      "Then prostrate and say 100 times in Sajdah:",
+      "I turn repentant unto Allah",
+      "",
+      "Then invoke Allah to fulfill your legitimate desires."
+    ],
+    "transliteration": [
+      "bismillāhir raḥmānir raḥīm",
+      "allāhumma ṣalli `alā muḥammadin wa āli muḥammad",
+      "yā dhal manni waṭ ṭawl",
+      "yā dhal jūd",
+      "yā muṣṭafiya muḥammadin wanāṣirah",
+      "ṣalli `alā muḥammadin wa āli muḥammad",
+      "waghfir lī kulla dhanbin aḥṣaytah",
+      "wahuwa `indaka fī kitābin mubīn",
+      "",
+      "atūbu ilallāh",
+      "100",
+      ""
+    ]
+  }
+}

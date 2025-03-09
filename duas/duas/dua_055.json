@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "id": "55",
+    "name": "Dua on sighting new Ramadhan Moon",
+    "used": "1",
+    "audio": "2",
+    "section": "Months.Ramadhan",
+    "section_rank": 0,
+    "first_line": 3,
+    "lines": 9,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Ramadhan"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "رَبِّيْ وَرَبُّكَ اللَّهُ رَبُّ الْعَالَمِيْنَ",
+      "اَللَّهُمَّ أَهِلَّهُ عَلَيْنَا بِالْاَمْنِ وَالْإِيْمَانِ",
+      "وَالسَّلاَمَةِ وَالْإِسْلاَمِ",
+      "وَالْمُسَارَعَةِ إِلَى مَا تُحِبُّ وَتَرْضَى",
+      "اَللَّهُمَّ بَارِكْ لَنَا فِيْ شَهْرِنَا هٰذَا",
+      "وَارْزُقْنَا خَيْرَهُ وَعَوْنَهُ",
+      "وَاصْرِفْ عَنَّا ضُرَّهُ وَشَرَّهُ وَبَلاءَهُ وَفِتْنَتَهُ"
+    ],
+    "translation": [
+      "In the Name of Allāh, the All-beneficent, the All-merciful.",
+      "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+      "Your and my Lord is Allah; the Lord of the worlds.",
+      "O Allah: (please do] cause this crescent to carry with it for us security and faith",
+      "And safety and Islam",
+      "And expedition to whatever You love and please.",
+      "O Allah: (please do] bless us in this month,",
+      "And confer upon us with its goodness and aid,",
+      "And save us from its harm, evil, ordeals, and sedition."
+    ],
+    "transliteration": [
+      "bismillāhir raḥmānir raḥīm",
+      "allāhumma ṣalli `alā muḥammadin wa āli muḥammad",
+      "rabbī warabbukallāhu rabbul `ālamīn",
+      "allāhumma ahillahu `alaynā bil amni wal-īmān",
+      "was salāmati wal-islām",
+      "walmusāra`ati ilā mā tuḥibbu watar-ḍā",
+      "allāhumma bārik lanā fī shahrinā hādhā",
+      "war-zuqnā khayrahu wa`awnah",
+      "waṣrif `annā ḍurrahu washarrahu wabalā-ahu wafitnatah"
+    ]
+  }
+}

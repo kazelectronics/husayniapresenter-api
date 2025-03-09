@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "id": "287",
+    "name": "Ayat ush-Shahadah [3:18-19]",
+    "used": "1",
+    "audio": "2",
+    "section": "Duas.Salaat|Salaat.AfterGeneral",
+    "section_rank": "02",
+    "first_line": 2,
+    "lines": 3,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Duas.Salaat",
+      "Salaat.AfterGeneral"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+      "شَهِدَ اللَّهُ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا هُوَ وَالْمَلَـٰٓئِكَةُ وَأُو۟لُوْا۟ الْعِلْمِ قَآئِمًۢا بِالْقِسْطِ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ",
+      "إِنَّ الدِّينَ عِندَ اللَّهِ الْإِسْلَـٰمُ ۗ وَمَا اخْتَلَفَ الَّذِيْنَ أُوتُوَا۟ الْكِتَـٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ الْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۗ وَمَن يَكْفُرْ بِـَٔايَـٰتِ اللَّهِ فَإِنَّ اللَّهَ سَرِيعُ الْحِسَابِ"
+    ],
+    "translation": [
+      "In the name of Allah, the Beneficent, the Merciful.",
+      "Allah bears witness that there is no god but He, and (so do] the angels and those possessed of knowledge, maintaining His creation with justice; there is no god but He, the Mighty, the Wise.",
+      "Surely the (true] religion with Allah is Islam, and those to whom the Book had been given did not show opposition but after knowledge had come to them, out of envy among themselves; and whoever disbelieves in the communications of Allah then surely Allah is quick in reckoning."
+    ],
+    "transliteration": [
+      "bismillāhir raḥmānir raḥīm",
+      "shahidallāhu annahu lā ilāha illā huwa wal malā-ikatu wa-ulul `il-mi qā-iman bil qisṭ ۚ lā ilāha illā huwal `azīzul ḥakīm",
+      "innad dīna `indallāhil-islām ۗ wa makh-talafal ladhīna ūtul kitāba illā min ba`di mā jā-ahumul `il-mu baghyan baynahum ۗ wa man yakfur bi-āyātillāhi fa-innallāha sarī`ul ḥisāb"
+    ]
+  }
+}

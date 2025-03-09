@@ -1,0 +1,363 @@
+{
+  "id": "Months.Ramadhan",
+  "name": "Ramadhan Duas",
+  "parent": "Islamic Months",
+  "rank": 7,
+  "duas": [
+    {
+      "id": "1",
+      "name": "Ramadhan Daily Dua 1",
+      "lines": 20
+    },
+    {
+      "id": "2",
+      "name": "Ramadhan Daily Dua 2",
+      "lines": 16
+    },
+    {
+      "id": "3",
+      "name": "Ramadhan Daily Dua 3",
+      "lines": 11
+    },
+    {
+      "id": "4",
+      "name": "Dua Iftetah",
+      "lines": 238
+    },
+    {
+      "id": "5",
+      "name": "Ramadhan Daily Dua 5",
+      "lines": 25
+    },
+    {
+      "id": "6",
+      "name": "Ramadhan Daily Dua 6",
+      "lines": 15
+    },
+    {
+      "id": "7",
+      "name": "Ramadhan Daily Dua 7",
+      "lines": 4
+    },
+    {
+      "id": "15",
+      "name": "Ziarat Waritha",
+      "lines": 94
+    },
+    {
+      "id": "33",
+      "name": "Ziarat for the night of Eid",
+      "lines": 86
+    },
+    {
+      "id": "46",
+      "name": "2nd Imam Ziarat",
+      "lines": 22
+    },
+    {
+      "id": "53",
+      "name": "Dua Mujeer",
+      "lines": 275
+    },
+    {
+      "id": "54",
+      "name": "Dua for last 10 nights",
+      "lines": 50
+    },
+    {
+      "id": "55",
+      "name": "Dua on sighting new Ramadhan Moon",
+      "lines": 9
+    },
+    {
+      "id": "56",
+      "name": "Dua Sahar",
+      "lines": 18
+    },
+    {
+      "id": "57",
+      "name": "Ramadhan Dua Day 1",
+      "lines": 7
+    },
+    {
+      "id": "58",
+      "name": "Ramadhan Dua Day 2",
+      "lines": 6
+    },
+    {
+      "id": "59",
+      "name": "Ramadhan Dua Day 3",
+      "lines": 6
+    },
+    {
+      "id": "60",
+      "name": "Ramadhan Dua Day 4",
+      "lines": 7
+    },
+    {
+      "id": "61",
+      "name": "Ramadhan Dua Day 5",
+      "lines": 6
+    },
+    {
+      "id": "62",
+      "name": "Ramadhan Dua Day 6",
+      "lines": 6
+    },
+    {
+      "id": "63",
+      "name": "Ramadhan Dua Day 7",
+      "lines": 6
+    },
+    {
+      "id": "64",
+      "name": "Ramadhan Dua Day 8",
+      "lines": 7
+    },
+    {
+      "id": "65",
+      "name": "Ramadhan Dua Day 9",
+      "lines": 6
+    },
+    {
+      "id": "66",
+      "name": "Ramadhan Dua Day 10",
+      "lines": 6
+    },
+    {
+      "id": "67",
+      "name": "Ramadhan Dua Day 11",
+      "lines": 6
+    },
+    {
+      "id": "68",
+      "name": "Ramadhan Dua Day 12",
+      "lines": 7
+    },
+    {
+      "id": "69",
+      "name": "Ramadhan Dua Day 13",
+      "lines": 6
+    },
+    {
+      "id": "70",
+      "name": "Ramadhan Dua Day 14",
+      "lines": 6
+    },
+    {
+      "id": "71",
+      "name": "Ramadhan Dua Day 15",
+      "lines": 5
+    },
+    {
+      "id": "72",
+      "name": "Ramadhan Dua Day 16",
+      "lines": 6
+    },
+    {
+      "id": "73",
+      "name": "Ramadhan Dua Day 17",
+      "lines": 7
+    },
+    {
+      "id": "74",
+      "name": "Ramadhan Dua Day 18",
+      "lines": 6
+    },
+    {
+      "id": "75",
+      "name": "Ramadhan Dua Day 19",
+      "lines": 6
+    },
+    {
+      "id": "76",
+      "name": "Ramadhan Dua Day 20",
+      "lines": 6
+    },
+    {
+      "id": "77",
+      "name": "Ramadhan Dua Day 21",
+      "lines": 6
+    },
+    {
+      "id": "78",
+      "name": "Ramadhan Dua Day 22",
+      "lines": 7
+    },
+    {
+      "id": "79",
+      "name": "Ramadhan Dua Day 23",
+      "lines": 6
+    },
+    {
+      "id": "80",
+      "name": "Ramadhan Dua Day 24",
+      "lines": 6
+    },
+    {
+      "id": "81",
+      "name": "Ramadhan Dua Day 25",
+      "lines": 6
+    },
+    {
+      "id": "82",
+      "name": "Ramadhan Dua Day 26",
+      "lines": 7
+    },
+    {
+      "id": "83",
+      "name": "Ramadhan Dua Day 27",
+      "lines": 7
+    },
+    {
+      "id": "84",
+      "name": "Ramadhan Dua Day 28",
+      "lines": 6
+    },
+    {
+      "id": "85",
+      "name": "Ramadhan Dua Day 29",
+      "lines": 6
+    },
+    {
+      "id": "86",
+      "name": "Ramadhan Dua Day 30",
+      "lines": 6
+    },
+    {
+      "id": "87",
+      "name": "Ramadhan Dua for Night 21",
+      "lines": 26
+    },
+    {
+      "id": "88",
+      "name": "Ramadhan Dua for Night 22",
+      "lines": 28
+    },
+    {
+      "id": "89",
+      "name": "Ramadhan Dua for Night 23",
+      "lines": 30
+    },
+    {
+      "id": "90",
+      "name": "Ramadhan Dua for Night 24",
+      "lines": 30
+    },
+    {
+      "id": "91",
+      "name": "Ramadhan Dua for Night 25",
+      "lines": 28
+    },
+    {
+      "id": "92",
+      "name": "Ramadhan Dua for Night 26",
+      "lines": 26
+    },
+    {
+      "id": "93",
+      "name": "Ramadhan Dua for Night 27",
+      "lines": 34
+    },
+    {
+      "id": "94",
+      "name": "Ramadhan Dua for Night 28",
+      "lines": 27
+    },
+    {
+      "id": "95",
+      "name": "Ramadhan Dua for Night 29",
+      "lines": 26
+    },
+    {
+      "id": "96",
+      "name": "Ramadhan Dua for Night 30",
+      "lines": 30
+    },
+    {
+      "id": "97",
+      "name": "Dua Wida",
+      "lines": 99
+    },
+    {
+      "id": "98",
+      "name": "Ziarat of Bibi Khadija",
+      "lines": 16
+    },
+    {
+      "id": "99",
+      "name": "Tasbih",
+      "lines": 1
+    },
+    {
+      "id": "101",
+      "name": "Dua 2 on the night of Qadr",
+      "lines": 22
+    },
+    {
+      "id": "102",
+      "name": "Dua 3 on the night of Qadr",
+      "lines": 11
+    },
+    {
+      "id": "103",
+      "name": "Dua 4 on the night of Qadr",
+      "lines": 16
+    },
+    {
+      "id": "104",
+      "name": "Qur'an Amaal Dua 1",
+      "lines": 8
+    },
+    {
+      "id": "105",
+      "name": "Qur'an Amaal",
+      "lines": 53
+    },
+    {
+      "id": "106",
+      "name": "La'an on 19th and 21st",
+      "lines": 1
+    },
+    {
+      "id": "107",
+      "name": "Munajat of Imam Ali",
+      "lines": 97
+    },
+    {
+      "id": "108",
+      "name": "Ziarat Ameenullah",
+      "lines": 64
+    },
+    {
+      "id": "109",
+      "name": "Dua at-Tawbah",
+      "lines": 135
+    },
+    {
+      "id": "110",
+      "name": "Dua Makarimul Akhlaq",
+      "lines": 224
+    },
+    {
+      "id": "111",
+      "name": "Dua Abu Hamza Thumali",
+      "lines": 674
+    },
+    {
+      "id": "112",
+      "name": "Dua Jawshan Kabeer",
+      "lines": 1410
+    },
+    {
+      "id": "351",
+      "name": "Isteghfar",
+      "lines": 1
+    },
+    {
+      "id": "416",
+      "name": "Dua Bahaa",
+      "lines": 68
+    }
+  ]
+}

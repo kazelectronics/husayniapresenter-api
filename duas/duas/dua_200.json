@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "id": "200",
+    "name": "Tasbeeh 2 Ghadir day",
+    "used": "1",
+    "audio": "0",
+    "section": "Months.ZilHajj",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 4,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.ZilHajj"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَلْحَمْدُ لِلَّهِ الَّذِيْ جَعَلَ كَمَالَ دِينِهِ",
+      "وَتَمَامَ نِعْمَتِهِ",
+      "بِوِلَايَةِ أَمِيرِ الْمُؤمِنِيْنَ",
+      "عَلِيِّ بْنِ أَبِيْ طَالِبٍ عَلَيْهِ السَّلاَمُ"
+    ],
+    "translation": [
+      "All praise be to Allah Who has made the perfection of His religion",
+      "and the completion of His grace",
+      "in the leadership of the Commander of the Believers,",
+      "`Ali the son of Abu-Talib, peace be upon him."
+    ],
+    "transliteration": [
+      "al ḥamdu lillāhil ladhī ja`ala kamāla dīnih",
+      "watamāma ni`matih",
+      "biwilāyati amīril mu-minīn",
+      "`aliyyibni abī ṭālibin `alayhis salām"
+    ]
+  }
+}

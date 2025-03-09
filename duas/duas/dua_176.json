@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "id": "176",
+    "name": "Dua 3 - Zilqad Sundays",
+    "used": "1",
+    "audio": "0",
+    "section": "Months.ZilQad",
+    "section_rank": 0,
+    "first_line": 3,
+    "lines": 6,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.ZilQad"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "يَا عَزِيزُ يَا غَفَّارُ",
+      "اِغْفِرْ لِيْ ذُنُوبِي",
+      "وَذُنُوبَ جَمِيْعِ الْمُؤْمِنِيْنَ وَالْمُؤْمِنَاتِ",
+      "فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ"
+    ],
+    "translation": [
+      "In the Name of Allāh, the All-beneficent, the All-merciful.",
+      "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+      "O Almighty! O All-forgiving!",
+      "(Please] forgive my sins",
+      "and the sins of all believing men and women",
+      "for none can forgive sins save You."
+    ],
+    "transliteration": [
+      "bismillāhir raḥmānir raḥīm",
+      "allāhumma ṣalli `alā muḥammadin wa āli muḥammad",
+      "yā `azīzu yā ghaffār",
+      "ighfir lī dhunūbī",
+      "wadhunūba jamī`il mu-minīna walmu-mināt",
+      "fa-innahu lā yaghfirudh dhunūba illā ant"
+    ]
+  }
+}

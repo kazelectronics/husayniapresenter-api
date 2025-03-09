@@ -1,0 +1,33 @@
+{
+  "id": "Salaat.Before",
+  "name": "Duas before Salaat",
+  "parent": "Salaat",
+  "rank": 24,
+  "duas": [
+    {
+      "id": "396",
+      "name": "Dua when hearing the Adhan",
+      "lines": 8
+    },
+    {
+      "id": "397",
+      "name": "Dua between Adhan and Iqamah",
+      "lines": 6
+    },
+    {
+      "id": "398",
+      "name": "Dua in Sajdah after Adhan",
+      "lines": 5
+    },
+    {
+      "id": "399",
+      "name": "Dua 1 after Iqamah",
+      "lines": 6
+    },
+    {
+      "id": "400",
+      "name": "Dua 2 after Iqamah",
+      "lines": 9
+    }
+  ]
+}

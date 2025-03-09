@@ -1,0 +1,68 @@
+{
+  "id": "Months.ZilQad",
+  "name": "Zil-Qad Duas",
+  "parent": "Islamic Months",
+  "rank": 17,
+  "duas": [
+    {
+      "id": "47",
+      "name": "7th and 9th Imam Ziarat",
+      "lines": 9
+    },
+    {
+      "id": "49",
+      "name": "9th Imam Ziarat 1",
+      "lines": 20
+    },
+    {
+      "id": "50",
+      "name": "9th Imam Ziarat 2",
+      "lines": 34
+    },
+    {
+      "id": "51",
+      "name": "9th Imam Ziarat 3",
+      "lines": 21
+    },
+    {
+      "id": "52",
+      "name": "9th Imam Ziarat 4",
+      "lines": 22
+    },
+    {
+      "id": "100",
+      "name": "Isteghfar - 70",
+      "lines": 1
+    },
+    {
+      "id": "117",
+      "name": "8th Imam Ziarat",
+      "lines": 32
+    },
+    {
+      "id": "118",
+      "name": "Ziarat Masoomah Qom",
+      "lines": 76
+    },
+    {
+      "id": "173",
+      "name": "Dua",
+      "lines": 1
+    },
+    {
+      "id": "174",
+      "name": "Dua 2 - Dahwul Arz",
+      "lines": 7
+    },
+    {
+      "id": "175",
+      "name": "Dua 3 - Dahwul Arz",
+      "lines": 85
+    },
+    {
+      "id": "176",
+      "name": "Dua 3 - Zilqad Sundays",
+      "lines": 6
+    }
+  ]
+}

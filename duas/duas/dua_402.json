@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "id": "402",
+    "name": "Dua in Qiyam after Ruku",
+    "used": "1",
+    "audio": "0",
+    "section": "Salaat.During",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 4,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Salaat.During"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ",
+      "اَلْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِيْنَ",
+      "اَهْلَ الْجَبَرُوْتِ وَالْكِبْرِيَاءِ",
+      "وَالْعَظَمَةِ لِلَّهِ رَبِّ الْعَالَمِيْنَ"
+    ],
+    "translation": [
+      "Allah hears one who praises Him",
+      "All Praise is for Allah the Lord of the Worlds",
+      "The Posessor of Power and Greatness",
+      "All Majesty is for Allah, Lord of the Worlds"
+    ],
+    "transliteration": [
+      "sami`allāhu liman ḥamidah",
+      "al ḥamdu lillāhi rabbil `ālamīn",
+      "ahlal jabarūti walkibriyā",
+      "wal`aẓamati lillāhi rabbil `ālamīn"
+    ]
+  }
+}

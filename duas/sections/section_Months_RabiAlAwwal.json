@@ -1,0 +1,33 @@
+{
+  "id": "Months.RabiAlAwwal",
+  "name": "Rabi Al-Awwal Duas",
+  "parent": "Islamic Months",
+  "rank": 10,
+  "duas": [
+    {
+      "id": "114",
+      "name": "Ziarat 1 Holy Prophet",
+      "lines": 54
+    },
+    {
+      "id": "115",
+      "name": "Ziarat 2 Holy Prophet",
+      "lines": 312
+    },
+    {
+      "id": "116",
+      "name": "6th Imam Ziarat",
+      "lines": 27
+    },
+    {
+      "id": "118",
+      "name": "Ziarat Masoomah Qom",
+      "lines": 76
+    },
+    {
+      "id": "119",
+      "name": "11th Imam Ziarat",
+      "lines": 50
+    }
+  ]
+}

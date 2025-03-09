@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "id": "36",
+    "name": "Takibat After Namaz Ashura Night",
+    "used": "1",
+    "audio": "0",
+    "section": "Months.Muharram",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 5,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Muharram"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "سُبْحَانَ اللَّهِ",
+      "وَالْحَمْدُ لِلَّهِ",
+      "وَلَا إِلٰهَ إِلَّا اللَّهُ",
+      "وَاللَّهُ أَكْبَرُ",
+      "وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ"
+    ],
+    "translation": [
+      "All glory be to Allah,",
+      "all praise be to Allah,",
+      "there is no god save Allah,",
+      "Allah is the Greatest,",
+      "and there is neither might nor power save with Allah, the All-high the All-great."
+    ],
+    "transliteration": [
+      "subḥānallāh",
+      "walḥamdu lillāh",
+      "walā ilāha illallāh",
+      "wallāhu akbar",
+      "walā ḥawla walā quwwata illā billāhil `aliyyil `aẓīm"
+    ]
+  }
+}

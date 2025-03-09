@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "id": "401",
+    "name": "Dhikr of Ruku",
+    "used": "1",
+    "audio": "0",
+    "section": "Salaat.During",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 9,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Salaat.During"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللَّهُمَّ لَكَ رَكَعْتُ وَلَكَ اَسْلَمْتُ",
+      "وَبِكَ آمَنْتُ وَعَلَيْكَ تَوَكَّلْتٌ",
+      "وَاَنْتَ رَبِّيْ خَشَعَ لَكَ قَلْبِيْ",
+      "وَسَمْعِيْ وَبَصَرِيْ",
+      "وَبَشَرِيْ وَشَعْرِيْ",
+      "وَلَحْمِيْ وَدَمِيْ",
+      "وَمُخِّيْ وَعَصَبِيْ وَعِظَامِيْ",
+      "وَجَمِيْعِ جَوَارِحِيْ غَيْرَ",
+      "مُسْتَنْكِفٍ وَلَا مُسْتَكْبِرٍ وَلَا مُسْتَحْسِرٍ"
+    ],
+    "translation": [
+      "O Allah I have bowed for You and submitted to You",
+      "and believed in You and I rely on You",
+      "You are my Lord, my heart",
+      "my hearing, my sight",
+      "my skin, my hair",
+      "my flesh, my blood",
+      "my nerves, my bones, my brain",
+      "and all my organs",
+      "have humbled before You without any resistance, nor pride, nor fatigue"
+    ],
+    "transliteration": [
+      "allāhumma laka raka`tu walaka aslamt",
+      "wabika-āmantu wa`alayka tawakkalt",
+      "wa-anta rabbī khasha`a laka qalbī",
+      "wasam`ī wabaṣarī",
+      "wabasharī washa`rī",
+      "walaḥmī wadamī",
+      "wamukhhī wa`aṣabī wa`iẓāmī",
+      "wajamī`i jawāriḥī ghayr",
+      "mustankifin walā mustakbirin walā mustaḥsir"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "id": "405",
+    "name": "Dua in Qunoot",
+    "used": "1",
+    "audio": "0",
+    "section": "Salaat.During",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 7,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Salaat.During"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللَّهُمَّ مَنْ اَصْبَحَ وَاَمْسَى",
+      "وَلَهُ ثِقَةٌ وَرَجَاءٌ غَيْرُكَ",
+      "فَاَنْتَ ثِقَتِيْ وَرَجَائِيْ",
+      "يَا اَجْوَدَ مَنْ سُئِلَ",
+      "وَيَا اَرْحَمَ مَنِ اسْتُرْحِمَ",
+      "اِرْحَمْ ضَعْفِيْ وَمَسْكَنَتِيْ",
+      "وَقِلَّةَ حِيْلَتِيْ"
+    ],
+    "translation": [
+      "O Allah, whover enters dawn and dusk",
+      "And has confidence and hope in other than You",
+      "[but] You are my confidence and hope",
+      "O the most generous of he who is asked",
+      "And the most Merciful of he whose mercy is sought",
+      "Have mercy on my weakness and my poverty",
+      "And the paucity [smallness] of my solutions"
+    ],
+    "transliteration": [
+      "allāhumma man aṣbaḥa wa-amsā",
+      "walahu thiqatun warajā-un ghayruk",
+      "fa-anta thiqatī warajā-ī",
+      "yā ajwada man su-il",
+      "wayā ar-ḥama manistur-ḥim",
+      "ir-ḥam ḍa`fī wamaskanatī",
+      "waqillata ḥīlatī"
+    ]
+  }
+}

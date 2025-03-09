@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "id": "284",
+    "name": "Dua after Salaat - 3",
+    "used": "1",
+    "audio": "2",
+    "section": "Duas.Salaat|Salaat.AfterGeneral",
+    "section_rank": "06",
+    "first_line": 3,
+    "lines": 10,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Duas.Salaat",
+      "Salaat.AfterGeneral"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+      "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "اَللَّهُمَّ إِنَّ مَغْفِرَتَكَ أَرْجَى مِنْ عَمَلِيْ",
+      "وَإِنَّ رَحْمَتُكَ أَوْسَعُ مِنْ ذَنْبِيْ",
+      "اَللَّهُمَّ اِنْ كَانَ ذَنْبِيْ عِنْدَكَ عَظِيْمًا",
+      "فَعَفْوُكَ أَعْظَمُ مِنْ ذَنْبِيْ",
+      "اَللَّهُمَّ إِنْ لَمْ أَكُنْ أَهْلًا أَنْ أَبْلُغَ رَحْمَتَكَ",
+      "فَرَحْمَتُكَ أَهْلٌ أَنْ تَبْلُغَنِيْ وَتَسَعَنِيْ",
+      "لِأَنَّهَا وَسِعَتْ كُلَّ شَيْء",
+      "بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِيْنَ"
+    ],
+    "translation": [
+      "In the Name of Allāh, the All-beneficent, the All-merciful.",
+      "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+      "O Allah, Truly, I hope for Your forgiveness more than I trust my deed.",
+      "Your mercy is verily more expansive than my sin.",
+      "O Allah, If my sin is grave in Your view,",
+      "then Your pardon is greater than my sin.",
+      "O Allah, If I do not deserve to attain Your mercy,",
+      "then Your mercy is so liberal that it can reach and include me,",
+      "because it has included all things;",
+      "[Let it be] by Your mercy; O most Merciful of all those who show mercy."
+    ],
+    "transliteration": [
+      "bismillāhir raḥmānir raḥīm",
+      "allāhumma ṣalli `alā muḥammadin wa āli muḥammad",
+      "allāhumma inna maghfirataka ar-jā min `amalī",
+      "wa-inna raḥmatuka awsa`u min dhanbī",
+      "allāhumma in kāna dhanbī `indaka `aẓīmā",
+      "fa`afwuka a`ẓamu min dhanbī",
+      "allāhumma in lam akun ahlan an ablugha raḥmatak",
+      "faraḥmatuka ahlun an tablughanī watasa`anī",
+      "li-annahā wasi`at kulla shay",
+      "biraḥmatika yā ar-ḥamar rāḥimīn"
+    ]
+  }
+}

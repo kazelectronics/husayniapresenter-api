@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "id": "404",
+    "name": "Dua between two Sajdahs",
+    "used": "1",
+    "audio": "0",
+    "section": "Salaat.During",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 5,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Salaat.During"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَسْتَغْفِرُ اللَّهَ رَبِّيْ وَاَتُوْبُ اِلَيْهِ",
+      "اَللَّهُمَّ اغْفِرْ لِيْ وَارْحَمْنِيْ",
+      "وَاجْبُرْنِيْ وَادْفَعْ عَنِّيْ وَعَافِنِيْ",
+      "وَ اِنِّيْ لِمَا اَنْزَلْتَ اِلَيَّ مِنْ خَيْرٍ فَقِيْرٍ",
+      "تَبَارَكَ اللَّهُ رَبَّ الْعَالَمِيْنَ"
+    ],
+    "translation": [
+      "I seek forgiveness of Allah and I turn to Him",
+      "O Allah, forgive me and have mercy on me",
+      "help me, and avert from me, and grant me well-being",
+      "And, Surely I am in need of any good You may send down on me",
+      "Blessed be Allah the Lord of the Worlds"
+    ],
+    "transliteration": [
+      "astaghfirullāha rabbī wa-atūbu ilayh",
+      "allāhummaghfir lī war-ḥamnī",
+      "wajbur-nī wadfa` `annī wa`āfinī",
+      "wa innī limā anzalta ilayya min khayrin faqīr",
+      "tabārakallāhu rabbal `ālamīn"
+    ]
+  }
+}

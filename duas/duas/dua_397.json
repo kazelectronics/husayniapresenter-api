@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "id": "397",
+    "name": "Dua between Adhan and Iqamah",
+    "used": "1",
+    "audio": "0",
+    "section": "Salaat.Before",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 6,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Salaat.Before"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللَّهُمَّ اجْعَلْ قَلْبِيْ بَارًّا",
+      "وَعَيْشِيْ قَارًّا",
+      "وَرِزْقِيْ دَارًّا",
+      "وَاجْعَلْ لِيْ عِنْدَ قَبْرِ رَسُوْلِكَ",
+      "صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ",
+      "مُسْتَقَرًّا وَقَرَارًا"
+    ],
+    "translation": [
+      "O Allah, (please] make my heart dutiful,",
+      "my livelihood delightful,",
+      "my sustenance profuse,",
+      "and make for me at the tomb of Your Messenger,",
+      "may Allah bless him and his Household,",
+      "an abode and a dwelling."
+    ],
+    "transliteration": [
+      "allāhummaj`al qalbī bārrā",
+      "wa`ayshī qārrā",
+      "warizqī dārrā",
+      "waj`al lī `inda qabri rasūlik",
+      "ṣallallāhu `alayhi wa ālih",
+      "mustaqarran waqarārā"
+    ]
+  }
+}

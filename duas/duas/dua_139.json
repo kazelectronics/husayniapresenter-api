@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "id": "139",
+    "name": "Rajab General Dua",
+    "used": "1",
+    "audio": "0",
+    "section": "Months.Rajab",
+    "section_rank": 0,
+    "first_line": 1,
+    "lines": 1,
+    "has_youtube": false,
+    "youtube_ids": [],
+    "all_sections": [
+      "Months.Rajab"
+    ]
+  },
+  "content": {
+    "arabic": [
+      "اَللَّهُمَّ اغْفِرْ لِلْمُؤْمِنِيْنَ وَالْمُؤْمِنَاتِ"
+    ],
+    "translation": [
+      "Allah please forgive the believing men & women"
+    ],
+    "transliteration": [
+      "allāhummaghfir lilmu-minīna walmu-mināt"
+    ]
+  }
+}
