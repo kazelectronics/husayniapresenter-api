@@ -1,22 +1,58 @@
 [
     {
         "id": "1",
+        "abbreviation": "quran",
         "name": "Holy Quran",
-        "folder_path": "quran"
+        "nameLocal": "Holy Quran",
+        "description": null,
+        "source": "api.shiadevotions",
+        "sourceKey": "quran-01",
+        "language": "ara",
+        "copyright": "Public Domain",
+        "attributionRequired": false,
+        "attributionString": "",
+        "countryList": []
     },
     {
         "id": "2",
+        "abbreviation": "duas",
         "name": "Duas",
-        "folder_path": "duas"
+        "nameLocal": "Duas",
+        "description": null,
+        "source": "api.shiadevotions",
+        "sourceKey": "duas-01",
+        "language": "ara",
+        "copyright": "Public Domain",
+        "attributionRequired": false,
+        "attributionString": "",
+        "countryList": []
     },
     {
         "id": "3",
+        "abbreviation": "ziyarat",
         "name": "Ziyarat",
-        "folder_path": "ziyarat"
+        "nameLocal": "Ziyarat",
+        "description": null,
+        "source": "api.shiadevotions",
+        "sourceKey": "ziyarat-01",
+        "language": "ara",
+        "copyright": "Public Domain",
+        "attributionRequired": false,
+        "attributionString": "",
+        "countryList": []
     },
     {
         "id": "4",
+        "abbreviation": "sahifa",
         "name": "Sahifa Sajjadiyah",
-        "folder_path": "sahifa"
+        "nameLocal": "Sahifa Sajjadiyah",
+        "description": null,
+        "source": "api.shiadevotions",
+        "sourceKey": "sahifa-01",
+        "language": "ara",
+        "copyright": "Public Domain",
+        "attributionRequired": false,
+        "attributionString": "",
+        "countryList": []
     }
 ]
