@@ -1,32 +1,22 @@
-{
-    "metadata": {
-      "source": "HussayniyyahPresenter",
-      "format_version": "1.0",
-      "converted_date": "2025-03-10",
-      "copyright": "HussayniyyahPresenter 2025"
+[
+    {
+        "id": "1",
+        "name": "Holy Quran",
+        "folder_path": "quran"
     },
-    "data_folders": [
-        {
-            "folder_name": "Holy Quran",
-            "folder_path": "quran",
-            "folder_id": "1"
-        }
-    ],
-    "_comment": [
-        {
-            "folder_name": "Duas",
-            "folder_path": "duas",
-            "folder_id": "2"
-        },
-        {
-            "folder_name": "Ziyarat",
-            "folder_path": "ziyarat",
-            "folder_id": "3"
-        },
-        {
-            "folder_name": "Sahifa Sajjadiyah",
-            "folder_path": "sahifa",
-            "folder_id": "4"
-        }
-    ]
-}
+    {
+        "id": "2",
+        "name": "Duas",
+        "folder_path": "duas"
+    },
+    {
+        "id": "3",
+        "name": "Ziyarat",
+        "folder_path": "ziyarat"
+    },
+    {
+        "id": "4",
+        "name": "Sahifa Sajjadiyah",
+        "folder_path": "sahifa"
+    }
+]
