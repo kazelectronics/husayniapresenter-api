@@ -11,7 +11,8 @@
         "copyright": "Public Domain",
         "attributionRequired": false,
         "attributionString": "",
-        "countryList": []
+        "countryList": [],
+        "type": "quran"
     },
     {
         "id": "on9ikzgeaysn7sdl-01",
@@ -25,7 +26,8 @@
         "copyright": "Public Domain",
         "attributionRequired": false,
         "attributionString": "",
-        "countryList": []
+        "countryList": [],
+        "type": "duas"
     },
     {
         "id": "vyvlornw2lj6lh8r-01",
@@ -39,7 +41,8 @@
         "copyright": "Public Domain",
         "attributionRequired": false,
         "attributionString": "",
-        "countryList": []
+        "countryList": [],
+        "type": "ziyarat"
     },
     {
         "id": "6wy1s6ogen21oxky-01",
@@ -53,6 +56,7 @@
         "copyright": "Public Domain",
         "attributionRequired": false,
         "attributionString": "",
-        "countryList": []
+        "countryList": [],
+        "type": "sahifa"
     }
 ]
