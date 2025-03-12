@@ -1,0 +1,34 @@
+[
+    {
+        "id": "fjsh8h8rn5tlpez2-01",
+        "name": "Holy Quran with English Translation",
+        "copyright": "Public Domain",
+        "attributionRequired": false,
+        "attributionString": "",
+        "type": "quran"
+    },
+    {
+        "id": "on9ikzgeaysn7sdl-01",
+        "name": "Duas",
+        "copyright": "Public Domain",
+        "attributionRequired": false,
+        "attributionString": "",
+        "type": "duas"
+    },
+    {
+        "id": "vyvlornw2lj6lh8r-01",
+        "name": "Ziyarat",
+        "copyright": "Public Domain",
+        "attributionRequired": false,
+        "attributionString": "",
+        "type": "ziyarat"
+    },
+    {
+        "id": "6wy1s6ogen21oxky-01",
+        "name": "Sahifa Sajjadiyah",
+        "copyright": "Public Domain",
+        "attributionRequired": false,
+        "attributionString": "",
+        "type": "sahifa"
+    }
+]
