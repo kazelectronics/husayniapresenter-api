@@ -1,0 +1,64 @@
+{
+  "index": 104,
+  "name": "الهمزة",
+  "arabic_name": "الهُمَزَة",
+  "english_name": "Al-Humazah",
+  "english_meaning": "The Traducer",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+      "translation": "Woe to every (kind of) scandal-monger and-backbiter,",
+      "transliteration": "waylul likulli humazatin lumazah",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+      "translation": "Who pileth up wealth and layeth it by,",
+      "transliteration": "alladhī jama`a mālan wa`addadah"
+    },
+    {
+      "index": 3,
+      "arabic": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "translation": "Thinking that his wealth would make him last for ever!",
+      "transliteration": "yaḥsabu anna mālahu akhladah"
+    },
+    {
+      "index": 4,
+      "arabic": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+      "translation": "By no means! He will be sure to be thrown into That which Breaks to Pieces,",
+      "transliteration": "kallā ۖ layunbadhanna fil ḥuṭamah"
+    },
+    {
+      "index": 5,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+      "translation": "And what will explain to thee That which Breaks to Pieces?",
+      "transliteration": "wa mā adrāka mal ḥuṭamah"
+    },
+    {
+      "index": 6,
+      "arabic": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+      "translation": "(It is) the Fire of (the Wrath of) Allah kindled (to a blaze),",
+      "transliteration": "nārullāhil mūqadah"
+    },
+    {
+      "index": 7,
+      "arabic": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+      "translation": "The which doth mount (Right) to the Hearts:",
+      "transliteration": "allatī taṭṭali`u `alal-af-idah"
+    },
+    {
+      "index": 8,
+      "arabic": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+      "translation": "It shall be made into a vault over them,",
+      "transliteration": "innahā `alayhim mu-ṣadah"
+    },
+    {
+      "index": 9,
+      "arabic": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+      "translation": "In columns outstretched.",
+      "transliteration": "fī `amadin mumaddadah"
+    }
+  ]
+}

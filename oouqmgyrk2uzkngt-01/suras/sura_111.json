@@ -1,0 +1,40 @@
+{
+  "index": 111,
+  "name": "المسد",
+  "arabic_name": "المَسَد",
+  "english_name": "Al-Masad",
+  "english_meaning": "The Palm Fiber",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+      "translation": "Perish the hands of Abu Lahab, and perish he!",
+      "transliteration": "tabbat yadā abī lahabin watabb",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "translation": "Neither his wealth availed him, nor what he had earned.",
+      "transliteration": "mā aghnā `anhu māluhu wa mā kasab"
+    },
+    {
+      "index": 3,
+      "arabic": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "translation": "Soon he will enter the blazing fire,",
+      "transliteration": "sayaṣlā nāran dhāta lahab"
+    },
+    {
+      "index": 4,
+      "arabic": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "translation": "and his wife [too], the firewood carrier,",
+      "transliteration": "wamra-atuhu ḥammālatal ḥaṭab"
+    },
+    {
+      "index": 5,
+      "arabic": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+      "translation": "with a rope of palm fibre around her neck.",
+      "transliteration": "fī jīdihā ḥablun min masad"
+    }
+  ]
+}

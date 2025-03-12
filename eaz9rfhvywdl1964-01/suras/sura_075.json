@@ -1,0 +1,250 @@
+{
+  "index": 75,
+  "name": "القيامة",
+  "arabic_name": "القِيَامَة",
+  "english_name": "Al-Qiyāmah",
+  "english_meaning": "The Resurrection",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "لَآ أُقْسِمُ بِيَوْمِ ٱلْقِيَـٰمَةِ",
+      "translation": "Nay! I swear by the day of resurrection.",
+      "transliteration": "lā uqsimu biyawmil qiyāmah",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "وَلَآ أُقْسِمُ بِٱلنَّفْسِ ٱللَّوَّامَةِ",
+      "translation": "Nay! I swear by the self-accusing soul.",
+      "transliteration": "walā uqsimu bin nafsillawwāmah"
+    },
+    {
+      "index": 3,
+      "arabic": "أَيَحْسَبُ ٱلْإِنسَـٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ",
+      "translation": "Does man think that We shall not gather his bones?",
+      "transliteration": "ayaḥsabul-insānu allan najma`a `iẓāmah"
+    },
+    {
+      "index": 4,
+      "arabic": "بَلَىٰ قَـٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ",
+      "translation": "Yea! We are able to make complete his very fingertips",
+      "transliteration": "balā qādirīna `alā an nusawwiya banānah"
+    },
+    {
+      "index": 5,
+      "arabic": "بَلْ يُرِيدُ ٱلْإِنسَـٰنُ لِيَفْجُرَ أَمَامَهُۥ",
+      "translation": "Nay! man desires to give the lie to what is before him.",
+      "transliteration": "bal yurīdul-insānu liyafjura amāmah"
+    },
+    {
+      "index": 6,
+      "arabic": "يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَـٰمَةِ",
+      "translation": "He asks: When is the day of resurrection?",
+      "transliteration": "yas-alu ayyāna yawmul qiyāmah"
+    },
+    {
+      "index": 7,
+      "arabic": "فَإِذَا بَرِقَ ٱلْبَصَرُ",
+      "translation": "So when the sight becomes dazed,",
+      "transliteration": "fa-idhā bariqal baṣar"
+    },
+    {
+      "index": 8,
+      "arabic": "وَخَسَفَ ٱلْقَمَرُ",
+      "translation": "And the moon becomes dark,",
+      "transliteration": "wakhasafal qamar"
+    },
+    {
+      "index": 9,
+      "arabic": "وَجُمِعَ ٱلشَّمْسُ وَٱلْقَمَرُ",
+      "translation": "And the sun and the moon are brought together,",
+      "transliteration": "wajumi`ash shamsu wal qamar"
+    },
+    {
+      "index": 10,
+      "arabic": "يَقُولُ ٱلْإِنسَـٰنُ يَوْمَئِذٍ أَيْنَ ٱلْمَفَرُّ",
+      "translation": "Man shall say on that day: Whither to fly to?",
+      "transliteration": "yaqūlul-insānu yawma-idhin aynal mafarr"
+    },
+    {
+      "index": 11,
+      "arabic": "كَلَّا لَا وَزَرَ",
+      "translation": "By no means! there shall be no place of refuge!",
+      "transliteration": "kallā lā wazar"
+    },
+    {
+      "index": 12,
+      "arabic": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمُسْتَقَرُّ",
+      "translation": "With your Lord alone shall on that day be the place of rest.",
+      "transliteration": "ilā rabbika yawma-idhinil-mustaqarr"
+    },
+    {
+      "index": 13,
+      "arabic": "يُنَبَّؤُا۟ ٱلْإِنسَـٰنُ يَوْمَئِذٍۭ بِمَا قَدَّمَ وَأَخَّرَ",
+      "translation": "Man shall on that day be informed of what he sent before and (what he) put off.",
+      "transliteration": "yunabba-ul-insānu yawma-idhin bimā qaddama wa-akhhar"
+    },
+    {
+      "index": 14,
+      "arabic": "بَلِ ٱلْإِنسَـٰنُ عَلَىٰ نَفْسِهِۦ بَصِيرَةٌ",
+      "translation": "Nay! man is evidence against himself,",
+      "transliteration": "balil-insānu `alā nafsihi baṣīrah"
+    },
+    {
+      "index": 15,
+      "arabic": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُۥ",
+      "translation": "Though he puts forth his excuses.",
+      "transliteration": "walaw alqā ma`ādhīrah"
+    },
+    {
+      "index": 16,
+      "arabic": "لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ",
+      "translation": "Do not move your tongue with it to make haste with it,",
+      "transliteration": "lā tuḥarrik bihi lisānaka lita`jala bih"
+    },
+    {
+      "index": 17,
+      "arabic": "إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ",
+      "translation": "Surely on Us (devolves) the collecting of it and the reciting of it.",
+      "transliteration": "inna `alaynā jam`ahu waqur-ānah"
+    },
+    {
+      "index": 18,
+      "arabic": "فَإِذَا قَرَأْنَـٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ",
+      "translation": "Therefore when We have recited it, follow its recitation.",
+      "transliteration": "fa-idhā qara-nāhu fattabi` qur-ānah"
+    },
+    {
+      "index": 19,
+      "arabic": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُۥ",
+      "translation": "Again on Us (devolves) the explaining of it.",
+      "transliteration": "thumma inna `alaynā bayānah"
+    },
+    {
+      "index": 20,
+      "arabic": "كَلَّا بَلْ تُحِبُّونَ ٱلْعَاجِلَةَ",
+      "translation": "Nay! But you love the present life,",
+      "transliteration": "kallā bal tuḥibbūnal `ājilah"
+    },
+    {
+      "index": 21,
+      "arabic": "وَتَذَرُونَ ٱلْـَٔاخِرَةَ",
+      "translation": "And neglect the hereafter.",
+      "transliteration": "watadharūnal-ākhirah"
+    },
+    {
+      "index": 22,
+      "arabic": "وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ",
+      "translation": "(Some) faces on that day shall be bright,",
+      "transliteration": "wujūhun yawma-idhin nāḍirah"
+    },
+    {
+      "index": 23,
+      "arabic": "إِلَىٰ رَبِّهَا نَاظِرَةٌ",
+      "translation": "Looking to their Lord.",
+      "transliteration": "ilā rabbihā nāẓirah"
+    },
+    {
+      "index": 24,
+      "arabic": "وَوُجُوهٌ يَوْمَئِذٍۭ بَاسِرَةٌ",
+      "translation": "And (other) faces on that day shall be gloomy,",
+      "transliteration": "wawujūhun yawma-idhin bāsirah"
+    },
+    {
+      "index": 25,
+      "arabic": "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ",
+      "translation": "Knowing that there will be made to befall them some great calamity.",
+      "transliteration": "taẓunnu an yuf`ala bihā fāqirah"
+    },
+    {
+      "index": 26,
+      "arabic": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِىَ",
+      "translation": "Nay! When it comes up to the throat,",
+      "transliteration": "kallā idhā balaghatit tarāqiy"
+    },
+    {
+      "index": 27,
+      "arabic": "وَقِيلَ مَنْ ۜ رَاقٍ",
+      "translation": "And it is said: Who will be a magician?",
+      "transliteration": "waqīla man ۜ rāq"
+    },
+    {
+      "index": 28,
+      "arabic": "وَظَنَّ أَنَّهُ ٱلْفِرَاقُ",
+      "translation": "And he is sure that it is the (hour of) parting",
+      "transliteration": "waẓanna annahul firāq"
+    },
+    {
+      "index": 29,
+      "arabic": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+      "translation": "And affliction is combined with affliction;",
+      "transliteration": "wal taffatis sāqu bis sāq"
+    },
+    {
+      "index": 30,
+      "arabic": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمَسَاقُ",
+      "translation": "To your Lord on that day shall be the driving.",
+      "transliteration": "ilā rabbika yawma-idhinil-masāq"
+    },
+    {
+      "index": 31,
+      "arabic": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+      "translation": "So he did not accept the truth, nor did he pray,",
+      "transliteration": "falā ṣaddaqa walā ṣallā"
+    },
+    {
+      "index": 32,
+      "arabic": "وَلَـٰكِن كَذَّبَ وَتَوَلَّىٰ",
+      "translation": "But called the truth a lie and turned back,",
+      "transliteration": "walākin kadhhaba watawallā"
+    },
+    {
+      "index": 33,
+      "arabic": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهْلِهِۦ يَتَمَطَّىٰٓ",
+      "translation": "Then he went to his followers, walking away in haughtiness.",
+      "transliteration": "thumma dhahaba ilā ahlihi yatamaṭṭā"
+    },
+    {
+      "index": 34,
+      "arabic": "أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+      "translation": "Nearer to you (is destruction) and nearer,",
+      "transliteration": "awlā laka fa-awlā"
+    },
+    {
+      "index": 35,
+      "arabic": "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰٓ",
+      "translation": "Again (consider how) nearer to you and nearer.",
+      "transliteration": "thumma awlā laka fa-awlā"
+    },
+    {
+      "index": 36,
+      "arabic": "أَيَحْسَبُ ٱلْإِنسَـٰنُ أَن يُتْرَكَ سُدًى",
+      "translation": "Does man think that he is to be left to wander without an aim?",
+      "transliteration": "ayaḥsabul-insānu an yutraka sudā"
+    },
+    {
+      "index": 37,
+      "arabic": "أَلَمْ يَكُ نُطْفَةً مِّن مَّنِىٍّ يُمْنَىٰ",
+      "translation": "Was he not a small seed in the seminal elements,",
+      "transliteration": "alam yaku nuṭfatan min maniyyin yumnā"
+    },
+    {
+      "index": 38,
+      "arabic": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ",
+      "translation": "Then he was a clot of blood, so He created (him) then made (him) perfect.",
+      "transliteration": "thumma kāna `alaqatan fakhalaqa fasawwā"
+    },
+    {
+      "index": 39,
+      "arabic": "فَجَعَلَ مِنْهُ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+      "translation": "Then He made of him two kinds, the male and the female.",
+      "transliteration": "faja`ala minhuz zawjaynidh dhakara wal-unthā"
+    },
+    {
+      "index": 40,
+      "arabic": "أَلَيْسَ ذَٰلِكَ بِقَـٰدِرٍ عَلَىٰٓ أَن يُحْـِۧىَ ٱلْمَوْتَىٰ",
+      "translation": "Is not He able to give life to the dead?",
+      "transliteration": "alaysa dhālika biqādirin `alā an yuḥ-yiyal mawtā"
+    }
+  ]
+}

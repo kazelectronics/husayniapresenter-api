@@ -1,0 +1,364 @@
+{
+  "index": 44,
+  "name": "الدخان",
+  "arabic_name": "الدُّخان",
+  "english_name": "Ad-Dukhān",
+  "english_meaning": "The Smoke",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "حمٓ",
+      "translation": "Ha-Mim.",
+      "transliteration": "ḥā mīm",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "وَٱلْكِتَـٰبِ ٱلْمُبِينِ",
+      "translation": "By the Book that makes things clear;-",
+      "transliteration": "wal kitābil mubīn"
+    },
+    {
+      "index": 3,
+      "arabic": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةٍ مُّبَـٰرَكَةٍ ۚ إِنَّا كُنَّا مُنذِرِينَ",
+      "translation": "We sent it down during a Blessed Night: for We (ever) wish to warn (against Evil).",
+      "transliteration": "innā anzalnāhu fī laylatim mubārakah ۚ innā kunnā mundhirīn"
+    },
+    {
+      "index": 4,
+      "arabic": "فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ",
+      "translation": "In the (Night) is made distinct every affair of wisdom,",
+      "transliteration": "fīhā yufraqu kullu amrin ḥakīm"
+    },
+    {
+      "index": 5,
+      "arabic": "أَمْرًا مِّنْ عِندِنَآ ۚ إِنَّا كُنَّا مُرْسِلِينَ",
+      "translation": "By command, from Our Presence. For We (ever) send (revelations),",
+      "transliteration": "amran min `indinā ۚ innā kunnā mursilīn"
+    },
+    {
+      "index": 6,
+      "arabic": "رَحْمَةً مِّن رَّبِّكَ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "translation": "As Mercy from thy Lord: for He hears and knows (all things);",
+      "transliteration": "raḥmatan min rabbik ۚ innahu huwas samī`ul `alīm"
+    },
+    {
+      "index": 7,
+      "arabic": "رَبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُم مُّوقِنِينَ",
+      "translation": "The Lord of the heavens and the earth and all between them, if ye (but) have an assured faith.",
+      "transliteration": "rabbis samāwāti wal-arḍi wa mā baynahumā ۖ in kuntum mūqinīn"
+    },
+    {
+      "index": 8,
+      "arabic": "لَآ إِلَـٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+      "translation": "There is no god but He: It is He Who gives life and gives death,- The Lord and Cherisher to you and your earliest ancestors.",
+      "transliteration": "lā ilāha illā huwa yuḥyī wayumīt ۖ rabbukum warabbu ābā-ikumul-awwalīn"
+    },
+    {
+      "index": 9,
+      "arabic": "بَلْ هُمْ فِى شَكٍّ يَلْعَبُونَ",
+      "translation": "Yet they play about in doubt.",
+      "transliteration": "bal hum fī shakkiy yal`abūn"
+    },
+    {
+      "index": 10,
+      "arabic": "فَٱرْتَقِبْ يَوْمَ تَأْتِى ٱلسَّمَآءُ بِدُخَانٍ مُّبِينٍ",
+      "translation": "Then watch thou for the Day that the sky will bring forth a kind of smoke (or mist) plainly visible,",
+      "transliteration": "fartaqib yawma ta-tis samā-u bidukhānin mubīn"
+    },
+    {
+      "index": 11,
+      "arabic": "يَغْشَى ٱلنَّاسَ ۖ هَـٰذَا عَذَابٌ أَلِيمٌ",
+      "translation": "Enveloping the people: this will be a Penalty Grievous.",
+      "transliteration": "yaghshan nās ۖ hādhā `adhābun alīm"
+    },
+    {
+      "index": 12,
+      "arabic": "رَّبَّنَا ٱكْشِفْ عَنَّا ٱلْعَذَابَ إِنَّا مُؤْمِنُونَ",
+      "translation": "(They will say:) \"Our Lord! remove the Penalty from us, for we do really believe!\"",
+      "transliteration": "rabbanak-shif `annal `adhāba innā mu-minūn"
+    },
+    {
+      "index": 13,
+      "arabic": "أَنَّىٰ لَهُمُ ٱلذِّكْرَىٰ وَقَدْ جَآءَهُمْ رَسُولٌ مُّبِينٌ",
+      "translation": "How shall the message be (effectual) for them, seeing that an Messenger explaining things clearly has (already) come to them,-",
+      "transliteration": "annā lahumudh dhikrā waqad jā-ahum rasūlun mubīn"
+    },
+    {
+      "index": 14,
+      "arabic": "ثُمَّ تَوَلَّوْا۟ عَنْهُ وَقَالُوا۟ مُعَلَّمٌ مَّجْنُونٌ",
+      "translation": "Yet they turn away from him and say: \"Tutored (by others), a man possessed!\"",
+      "transliteration": "thumma tawallaw `anhu waqālū mu`allamun majnūn"
+    },
+    {
+      "index": 15,
+      "arabic": "إِنَّا كَاشِفُوا۟ ٱلْعَذَابِ قَلِيلًا ۚ إِنَّكُمْ عَآئِدُونَ",
+      "translation": "We shall indeed remove the Penalty for a while, (but) truly ye will revert (to your ways).",
+      "transliteration": "innā kāshiful `adhābi qalīlā ۚ innakum `ā-idūn"
+    },
+    {
+      "index": 16,
+      "arabic": "يَوْمَ نَبْطِشُ ٱلْبَطْشَةَ ٱلْكُبْرَىٰٓ إِنَّا مُنتَقِمُونَ",
+      "translation": "One day We shall seize you with a mighty onslaught: We will indeed (then) exact Retribution!",
+      "transliteration": "yawma nabṭishul baṭshatal kubrā innā muntaqimūn"
+    },
+    {
+      "index": 17,
+      "arabic": "وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَآءَهُمْ رَسُولٌ كَرِيمٌ",
+      "translation": "We did, before them, try the people of Pharaoh: there came to them a messenger most honourable,",
+      "transliteration": "walaqad fatannā qablahum qawma fir`awna wajā-ahum rasūlun karīm"
+    },
+    {
+      "index": 18,
+      "arabic": "أَنْ أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ ۖ إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+      "translation": "Saying: \"Restore to me the Servants of Allah: I am to you an messenger worthy of all trust;",
+      "transliteration": "an addū ilayya `ibādallāh ۖ innī lakum rasūlun amīn"
+    },
+    {
+      "index": 19,
+      "arabic": "وَأَن لَّا تَعْلُوا۟ عَلَى ٱللَّهِ ۖ إِنِّىٓ ءَاتِيكُم بِسُلْطَـٰنٍ مُّبِينٍ",
+      "translation": "\"And be not arrogant as against Allah: for I come to you with authority manifest.",
+      "transliteration": "wa-an lā ta`lū `alallāh ۖ innī ātīkum bisulṭānin mubīn"
+    },
+    {
+      "index": 20,
+      "arabic": "وَإِنِّى عُذْتُ بِرَبِّى وَرَبِّكُمْ أَن تَرْجُمُونِ",
+      "translation": "\"For me, I have sought safety with my Lord and your Lord, against your injuring me.",
+      "transliteration": "wa innī `udhtu birabbī warabbikum an tarjumūn"
+    },
+    {
+      "index": 21,
+      "arabic": "وَإِن لَّمْ تُؤْمِنُوا۟ لِى فَٱعْتَزِلُونِ",
+      "translation": "\"If ye believe me not, at least keep yourselves away from me.\"",
+      "transliteration": "wa in lam tu-minū lī fa`tazilūn"
+    },
+    {
+      "index": 22,
+      "arabic": "فَدَعَا رَبَّهُۥٓ أَنَّ هَـٰٓؤُلَآءِ قَوْمٌ مُّجْرِمُونَ",
+      "translation": "(But they were aggressive:) then he cried to his Lord: \"These are indeed a people given to sin.\"",
+      "transliteration": "fada`ā rabbahu anna hā-ulā-i qawmun mujrimūn"
+    },
+    {
+      "index": 23,
+      "arabic": "فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ",
+      "translation": "(The reply came:) \"March forth with My Servants by night: for ye are sure to be pursued.",
+      "transliteration": "fa-asri bi`ibādī laylan innakum muttaba`ūn"
+    },
+    {
+      "index": 24,
+      "arabic": "وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا ۖ إِنَّهُمْ جُندٌ مُّغْرَقُونَ",
+      "translation": "\"And leave the sea as a furrow (divided): for they are a host (destined) to be drowned.\"",
+      "transliteration": "wātrukil baḥra rahwā ۖ innahum jundun mughraqūn"
+    },
+    {
+      "index": 25,
+      "arabic": "كَمْ تَرَكُوا۟ مِن جَنَّـٰتٍ وَعُيُونٍ",
+      "translation": "How many were the gardens and springs they left behind,",
+      "transliteration": "kam tarakū min jannātin wa`uyūn"
+    },
+    {
+      "index": 26,
+      "arabic": "وَزُرُوعٍ وَمَقَامٍ كَرِيمٍ",
+      "translation": "And corn-fields and noble buildings,",
+      "transliteration": "wazurū`in wa maqāmin karīm"
+    },
+    {
+      "index": 27,
+      "arabic": "وَنَعْمَةٍ كَانُوا۟ فِيهَا فَـٰكِهِينَ",
+      "translation": "And wealth (and conveniences of life), wherein they had taken such delight!",
+      "transliteration": "wana`matin kānū fīhā fākihīn"
+    },
+    {
+      "index": 28,
+      "arabic": "كَذَٰلِكَ ۖ وَأَوْرَثْنَـٰهَا قَوْمًا ءَاخَرِينَ",
+      "translation": "Thus (was their end)! And We made other people inherit (those things)!",
+      "transliteration": "kadhālik ۖ wa-awrathnāhā qawman ākharīn"
+    },
+    {
+      "index": 29,
+      "arabic": "فَمَا بَكَتْ عَلَيْهِمُ ٱلسَّمَآءُ وَٱلْأَرْضُ وَمَا كَانُوا۟ مُنظَرِينَ",
+      "translation": "And neither heaven nor earth shed a tear over them: nor were they given a respite (again).",
+      "transliteration": "famā bakat `alayhimus samā-u wal-arḍu wa mā kānū munẓarīn"
+    },
+    {
+      "index": 30,
+      "arabic": "وَلَقَدْ نَجَّيْنَا بَنِىٓ إِسْرَٰٓءِيلَ مِنَ ٱلْعَذَابِ ٱلْمُهِينِ",
+      "translation": "We did deliver aforetime the Children of Israel from humiliating Punishment,",
+      "transliteration": "walaqad najjaynā banī isrā-iyla minal `adhābil muhīn"
+    },
+    {
+      "index": 31,
+      "arabic": "مِن فِرْعَوْنَ ۚ إِنَّهُۥ كَانَ عَالِيًا مِّنَ ٱلْمُسْرِفِينَ",
+      "translation": "Inflicted by Pharaoh, for he was arrogant (even) among inordinate transgressors.",
+      "transliteration": "min fir`awn ۚ innahu kāna `āliyan minal musrifīn"
+    },
+    {
+      "index": 32,
+      "arabic": "وَلَقَدِ ٱخْتَرْنَـٰهُمْ عَلَىٰ عِلْمٍ عَلَى ٱلْعَـٰلَمِينَ",
+      "translation": "And We chose them aforetime above the nations, knowingly,",
+      "transliteration": "walaqadikh-tarnāhum `alā `il-min `alal-`ālamīn"
+    },
+    {
+      "index": 33,
+      "arabic": "وَءَاتَيْنَـٰهُم مِّنَ ٱلْـَٔايَـٰتِ مَا فِيهِ بَلَـٰٓؤٌا۟ مُّبِينٌ",
+      "translation": "And granted them Signs in which there was a manifest trial",
+      "transliteration": "wa-ātaynāhum minal-āyāti mā fīhi balā-un mubīn"
+    },
+    {
+      "index": 34,
+      "arabic": "إِنَّ هَـٰٓؤُلَآءِ لَيَقُولُونَ",
+      "translation": "As to these (Quraish), they say forsooth:",
+      "transliteration": "inna hā-ulā-i layaqūlūn"
+    },
+    {
+      "index": 35,
+      "arabic": "إِنْ هِىَ إِلَّا مَوْتَتُنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُنشَرِينَ",
+      "translation": "\"There is nothing beyond our first death, and we shall not be raised again.",
+      "transliteration": "in hiya illā mawtatunal-ūlā wa mā naḥnu bimunsharīn"
+    },
+    {
+      "index": 36,
+      "arabic": "فَأْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَـٰدِقِينَ",
+      "translation": "\"Then bring (back) our forefathers, if what ye say is true!\"",
+      "transliteration": "fa-tū bi-ābā-inā in kuntum ṣādiqīn"
+    },
+    {
+      "index": 37,
+      "arabic": "أَهُمْ خَيْرٌ أَمْ قَوْمُ تُبَّعٍ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ أَهْلَكْنَـٰهُمْ ۖ إِنَّهُمْ كَانُوا۟ مُجْرِمِينَ",
+      "translation": "What! Are they better than the people of Tubba and those who were before them? We destroyed them because they were guilty of sin.",
+      "transliteration": "ahum khayrun am qawmu tubba`in wal ladhīna min qablihim ۚ ahlaknāhum ۖ innahum kānū mujrimīn"
+    },
+    {
+      "index": 38,
+      "arabic": "وَمَا خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا لَـٰعِبِينَ",
+      "translation": "We created not the heavens, the earth, and all between them, merely in (idle) sport:",
+      "transliteration": "wa mā khalaqnas samāwāti wal-arḍa wa mā baynahumā lā`ibīn"
+    },
+    {
+      "index": 39,
+      "arabic": "مَا خَلَقْنَـٰهُمَآ إِلَّا بِٱلْحَقِّ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "translation": "We created them not except for just ends: but most of them do not understand.",
+      "transliteration": "mā khalaqnāhumā illā bil ḥaqqi walākinna aktharahum lā ya`lamūn"
+    },
+    {
+      "index": 40,
+      "arabic": "إِنَّ يَوْمَ ٱلْفَصْلِ مِيقَـٰتُهُمْ أَجْمَعِينَ",
+      "translation": "Verily the Day of sorting out is the time appointed for all of them,-",
+      "transliteration": "inna yawmal faṣli mīqātuhum ajma`īn"
+    },
+    {
+      "index": 41,
+      "arabic": "يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًى شَيْـًٔا وَلَا هُمْ يُنصَرُونَ",
+      "translation": "The Day when no protector can avail his client in aught, and no help can they receive,",
+      "transliteration": "yawma lā yughnī mawlan `an mawlan shay-an walā hum yunṣarūn"
+    },
+    {
+      "index": 42,
+      "arabic": "إِلَّا مَن رَّحِمَ ٱللَّهُ ۚ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "translation": "Except such as receive Allah's Mercy: for He is Exalted in Might, Most Merciful.",
+      "transliteration": "illā man raḥimallāh ۚ innahu huwal `azīzur raḥīm"
+    },
+    {
+      "index": 43,
+      "arabic": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
+      "translation": "Verily the tree of Zaqqum",
+      "transliteration": "inna shajarataz zaqqūm"
+    },
+    {
+      "index": 44,
+      "arabic": "طَعَامُ ٱلْأَثِيمِ",
+      "translation": "Will be the food of the Sinful,-",
+      "transliteration": "ṭa`āmul-athīm"
+    },
+    {
+      "index": 45,
+      "arabic": "كَٱلْمُهْلِ يَغْلِى فِى ٱلْبُطُونِ",
+      "translation": "Like molten brass; it will boil in their insides.",
+      "transliteration": "kal muhli yaghlī fil buṭūn"
+    },
+    {
+      "index": 46,
+      "arabic": "كَغَلْىِ ٱلْحَمِيمِ",
+      "translation": "Like the boiling of scalding water.",
+      "transliteration": "kaghalyil ḥamīm"
+    },
+    {
+      "index": 47,
+      "arabic": "خُذُوهُ فَٱعْتِلُوهُ إِلَىٰ سَوَآءِ ٱلْجَحِيمِ",
+      "translation": "(A voice will cry: \"Seize ye him and drag him into the midst of the Blazing Fire!",
+      "transliteration": "khudhūhu fa`tilūhu ilā sawā-il jaḥīm"
+    },
+    {
+      "index": 48,
+      "arabic": "ثُمَّ صُبُّوا۟ فَوْقَ رَأْسِهِۦ مِنْ عَذَابِ ٱلْحَمِيمِ",
+      "translation": "\"Then pour over his head the Penalty of Boiling Water,",
+      "transliteration": "thumma ṣubbū fawqa ra-sihi min `adhābil ḥamīm"
+    },
+    {
+      "index": 49,
+      "arabic": "ذُقْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْكَرِيمُ",
+      "translation": "\"Taste thou (this)! Truly wast thou mighty, full of honour!",
+      "transliteration": "dhuq innaka antal `azīzul karīm"
+    },
+    {
+      "index": 50,
+      "arabic": "إِنَّ هَـٰذَا مَا كُنتُم بِهِۦ تَمْتَرُونَ",
+      "translation": "\"Truly this is what ye used to doubt!\"",
+      "transliteration": "inna hādhā mā kuntum bihi tamtarūn"
+    },
+    {
+      "index": 51,
+      "arabic": "إِنَّ ٱلْمُتَّقِينَ فِى مَقَامٍ أَمِينٍ",
+      "translation": "As to the Righteous (they will be) in a position of Security,",
+      "transliteration": "innal muttaqīna fī maqāmin amīn"
+    },
+    {
+      "index": 52,
+      "arabic": "فِى جَنَّـٰتٍ وَعُيُونٍ",
+      "translation": "Among Gardens and Springs;",
+      "transliteration": "fī jannātin wa`uyūn"
+    },
+    {
+      "index": 53,
+      "arabic": "يَلْبَسُونَ مِن سُندُسٍ وَإِسْتَبْرَقٍ مُّتَقَـٰبِلِينَ",
+      "translation": "Dressed in fine silk and in rich brocade, they will face each other;",
+      "transliteration": "yalbasūna min sundusin wa istabraqin mutaqābilīn"
+    },
+    {
+      "index": 54,
+      "arabic": "كَذَٰلِكَ وَزَوَّجْنَـٰهُم بِحُورٍ عِينٍ",
+      "translation": "So; and We shall join them to fair women with beautiful, big, and lustrous eyes.",
+      "transliteration": "kadhālika wazawwajnāhum biḥūrin `īn"
+    },
+    {
+      "index": 55,
+      "arabic": "يَدْعُونَ فِيهَا بِكُلِّ فَـٰكِهَةٍ ءَامِنِينَ",
+      "translation": "There can they call for every kind of fruit in peace and security;",
+      "transliteration": "yad`ūna fīhā bikulli fākihatin āminīn"
+    },
+    {
+      "index": 56,
+      "arabic": "لَا يَذُوقُونَ فِيهَا ٱلْمَوْتَ إِلَّا ٱلْمَوْتَةَ ٱلْأُولَىٰ ۖ وَوَقَىٰهُمْ عَذَابَ ٱلْجَحِيمِ",
+      "translation": "Nor will they there taste Death, except the first death; and He will preserve them from the Penalty of the Blazing Fire,-",
+      "transliteration": "lā yadhūqūna fīhal mawta illal-mawtatal-ūlā ۖ wawaqāhum `adhābal jaḥīm"
+    },
+    {
+      "index": 57,
+      "arabic": "فَضْلًا مِّن رَّبِّكَ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "translation": "As a Bounty from thy Lord! that will be the supreme achievement!",
+      "transliteration": "faḍlan min rabbik ۚ dhālika huwal fawzul `aẓīm"
+    },
+    {
+      "index": 58,
+      "arabic": "فَإِنَّمَا يَسَّرْنَـٰهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+      "translation": "Verily, We have made this (Qur'an) easy, in thy tongue, in order that they may give heed.",
+      "transliteration": "fa-innamā yassarnāhu bilisānika la`allahum yatadhakkarūn"
+    },
+    {
+      "index": 59,
+      "arabic": "فَٱرْتَقِبْ إِنَّهُم مُّرْتَقِبُونَ",
+      "translation": "So wait thou and watch; for they (too) are waiting.",
+      "transliteration": "fartaqib innahum murtaqibūn"
+    }
+  ]
+}

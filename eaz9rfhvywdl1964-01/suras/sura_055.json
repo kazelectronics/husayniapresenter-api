@@ -1,0 +1,478 @@
+{
+  "index": 55,
+  "name": "الرحمن",
+  "arabic_name": "الرَّحمن",
+  "english_name": "Ar-Raḥmān",
+  "english_meaning": "The Most Merciful",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "ٱلرَّحْمَـٰنُ",
+      "translation": "The Beneficent Allah,",
+      "transliteration": "ar-raḥmān",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "عَلَّمَ ٱلْقُرْءَانَ",
+      "translation": "Taught the Quran.",
+      "transliteration": "`allamal qur-ān"
+    },
+    {
+      "index": 3,
+      "arabic": "خَلَقَ ٱلْإِنسَـٰنَ",
+      "translation": "He created man,",
+      "transliteration": "khalaqal-insān"
+    },
+    {
+      "index": 4,
+      "arabic": "عَلَّمَهُ ٱلْبَيَانَ",
+      "translation": "Taught him the mode of expression.",
+      "transliteration": "`allamahul bayān"
+    },
+    {
+      "index": 5,
+      "arabic": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ",
+      "translation": "The sun and the moon follow a reckoning.",
+      "transliteration": "ash-shamsu wal qamaru biḥusbān"
+    },
+    {
+      "index": 6,
+      "arabic": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+      "translation": "And the herbs and the trees do prostrate (to Him).",
+      "transliteration": "wan najmu wash shajaru yasjudān"
+    },
+    {
+      "index": 7,
+      "arabic": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+      "translation": "And the heaven, He raised it high, and He made the balance",
+      "transliteration": "was samā-a rafa`ahā wawaḍa`al mīzān"
+    },
+    {
+      "index": 8,
+      "arabic": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ",
+      "translation": "That you may not be inordinate in respect of the measure.",
+      "transliteration": "allā taṭghaw fil mīzān"
+    },
+    {
+      "index": 9,
+      "arabic": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+      "translation": "And keep up the balance with equity and do not make the measure deficient.",
+      "transliteration": "wa-aqīmul wazna bil qisṭi walā tukhsirul mīzān"
+    },
+    {
+      "index": 10,
+      "arabic": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+      "translation": "And the earth, He has set it for living creatures;",
+      "transliteration": "wal-arḍa waḍa`ahā lil-anām"
+    },
+    {
+      "index": 11,
+      "arabic": "فِيهَا فَـٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ",
+      "translation": "Therein is fruit and palms having sheathed clusters,",
+      "transliteration": "fīhā fākihatun wan nakhlu dhātul-akmām"
+    },
+    {
+      "index": 12,
+      "arabic": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ",
+      "translation": "And the grain with (its) husk and fragrance.",
+      "transliteration": "wal ḥabbu dhul `aṣfi war rayḥān"
+    },
+    {
+      "index": 13,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 14,
+      "arabic": "خَلَقَ ٱلْإِنسَـٰنَ مِن صَلْصَـٰلٍ كَٱلْفَخَّارِ",
+      "translation": "He created man from dry clay like earthen vessels,",
+      "transliteration": "khalaqal-insāna min ṣalṣālin kal fakhhār"
+    },
+    {
+      "index": 15,
+      "arabic": "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ",
+      "translation": "And He created the jinn of a flame of fire.",
+      "transliteration": "wakhalaqal jānna min mārijin min nār"
+    },
+    {
+      "index": 16,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 17,
+      "arabic": "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ",
+      "translation": "Lord of the East and Lord of the West.",
+      "transliteration": "rabbul mashriqayni warabbul maghribayn"
+    },
+    {
+      "index": 18,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 19,
+      "arabic": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ",
+      "translation": "He has made the two seas to flow freely (so that) they meet together:",
+      "transliteration": "marajal baḥrayni yaltaqiyān"
+    },
+    {
+      "index": 20,
+      "arabic": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ",
+      "translation": "Between them is a barrier which they cannot pass.",
+      "transliteration": "baynahumā barzakhul lā yabghiyān"
+    },
+    {
+      "index": 21,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 22,
+      "arabic": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ",
+      "translation": "There come forth from them pearls, both large and small.",
+      "transliteration": "yakhruju minhumallu-lu-u wal marjān"
+    },
+    {
+      "index": 23,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 24,
+      "arabic": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَـٰمِ",
+      "translation": "And His are the ships reared aloft in the sea like mountains.",
+      "transliteration": "walahul jawāril munsha-ātu fil baḥri kal-a`lām"
+    },
+    {
+      "index": 25,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 26,
+      "arabic": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+      "translation": "Everyone on it must pass away.",
+      "transliteration": "kullu man `alayhā fān"
+    },
+    {
+      "index": 27,
+      "arabic": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+      "translation": "And there will endure for ever the person of your Lord, the Lord of glory and honor.",
+      "transliteration": "wayabqā wajhu rabbika dhul jalāli wal-ikrām"
+    },
+    {
+      "index": 28,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 29,
+      "arabic": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍ",
+      "translation": "All those who are in the heavens and the earth ask of Him; every moment He is in a state (of glory).",
+      "transliteration": "yas-aluhu man fis samāwāti wal-arḍ ۚ kulla yawmin huwa fī sha-n"
+    },
+    {
+      "index": 30,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 31,
+      "arabic": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+      "translation": "Soon will We apply Ourselves to you, O you two armies.",
+      "transliteration": "sanafrughu lakum ayyuhath thaqalān"
+    },
+    {
+      "index": 32,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 33,
+      "arabic": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَـٰنٍ",
+      "translation": "O assembly of the jinn and the men! If you are able to pass through the regions of the heavens and the earth, then pass through; you cannot pass through but with authority.",
+      "transliteration": "yāma`sharal jinni wal-insi inis-taṭa`tum an tanfudhū min aqṭāris samāwāti wal-arḍi fanfudhū ۚ lā tanfudhūna illā bisulṭān"
+    },
+    {
+      "index": 34,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 35,
+      "arabic": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ",
+      "translation": "The flames of fire and smoke will be sent on you two, then you will not be able to defend yourselves.",
+      "transliteration": "yursalu `alaykumā shuwāẓun min nārin wanuḥāsun falā tantaṣirān"
+    },
+    {
+      "index": 36,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 37,
+      "arabic": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً كَٱلدِّهَانِ",
+      "translation": "And when the heaven is rent asunder, and then becomes red like red hide.",
+      "transliteration": "fa-idhan-shaqqatis samā-u fakānat wardatan kad dihān"
+    },
+    {
+      "index": 38,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 39,
+      "arabic": "فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌ وَلَا جَآنٌّ",
+      "translation": "So on that day neither man nor jinni shall be asked about his sin.",
+      "transliteration": "fayawma-idhin lā yus-alu `an dhanbihi insun walā jānn"
+    },
+    {
+      "index": 40,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 41,
+      "arabic": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ",
+      "translation": "The guilty shall be recognized by their marks, so they shall be seized by the forelocks and the feet.",
+      "transliteration": "yu`raful mujrimūna bisīmāhum fayu-khadhu bin nawāṣī wal-aqdām"
+    },
+    {
+      "index": 42,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 43,
+      "arabic": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ",
+      "translation": "This is the hell which the guilty called a lie.",
+      "transliteration": "hādhihi jahannamul latī yukadhhibu bihal mujrimūn"
+    },
+    {
+      "index": 44,
+      "arabic": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ",
+      "translation": "Round about shall they go between it and hot, boiling water.",
+      "transliteration": "yaṭūfūna baynahā wabayna ḥamīmin ān"
+    },
+    {
+      "index": 45,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 46,
+      "arabic": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+      "translation": "And for him who fears to stand before his Lord are two gardens.",
+      "transliteration": "waliman khāfa maqāma rabbihi jannatān"
+    },
+    {
+      "index": 47,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 48,
+      "arabic": "ذَوَاتَآ أَفْنَانٍ",
+      "translation": "Having in them various kinds.",
+      "transliteration": "dhawātā afnān"
+    },
+    {
+      "index": 49,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 50,
+      "arabic": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+      "translation": "In both of them are two fountains flowing.",
+      "transliteration": "fīhimā `aynāni tajriyān"
+    },
+    {
+      "index": 51,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 52,
+      "arabic": "فِيهِمَا مِن كُلِّ فَـٰكِهَةٍ زَوْجَانِ",
+      "translation": "In both of them are two pairs of every fruit.",
+      "transliteration": "fīhimā min kulli fākihatin zawjān"
+    },
+    {
+      "index": 53,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 54,
+      "arabic": "مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍ",
+      "translation": "Reclining on beds, the inner coverings of which are of silk brocade; and the fruits of the two gardens shall be within reach.",
+      "transliteration": "muttaki-īna `alā furushin baṭā-inuhā min istabraq ۚ wajanal jannatayni dān"
+    },
+    {
+      "index": 55,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 56,
+      "arabic": "فِيهِنَّ قَـٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+      "translation": "In them shall be those who restrained their eyes; before them neither man nor jinni shall have touched them.",
+      "transliteration": "fīhinna qāṣirātuṭ ṭarfi lam yaṭmith-hunna insun qablahum walā jānn"
+    },
+    {
+      "index": 57,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 58,
+      "arabic": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
+      "translation": "As though they were rubies and pearls.",
+      "transliteration": "ka-annahunnal yāqūtu wal marjān"
+    },
+    {
+      "index": 59,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 60,
+      "arabic": "هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ",
+      "translation": "Is the reward of goodness aught but goodness?",
+      "transliteration": "hal jazā-ul-iḥsāni illal-iḥsān"
+    },
+    {
+      "index": 61,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 62,
+      "arabic": "وَمِن دُونِهِمَا جَنَّتَانِ",
+      "translation": "And besides these two are two (other) gardens:",
+      "transliteration": "wa min dūnihimā jannatān"
+    },
+    {
+      "index": 63,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 64,
+      "arabic": "مُدْهَآمَّتَانِ",
+      "translation": "Both inclining to blackness.",
+      "transliteration": "mud-hāmmatān"
+    },
+    {
+      "index": 65,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 66,
+      "arabic": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+      "translation": "In both of them are two springs gushing forth.",
+      "transliteration": "fīhimā `aynāni naḍḍākhatān"
+    },
+    {
+      "index": 67,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 68,
+      "arabic": "فِيهِمَا فَـٰكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+      "translation": "In both are fruits and palms and pomegranates.",
+      "transliteration": "fīhimā fākihatun wanakhlun warummān"
+    },
+    {
+      "index": 69,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 70,
+      "arabic": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌ",
+      "translation": "In them are goodly things, beautiful ones.",
+      "transliteration": "fīhinna khayrātun ḥisān"
+    },
+    {
+      "index": 71,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 72,
+      "arabic": "حُورٌ مَّقْصُورَٰتٌ فِى ٱلْخِيَامِ",
+      "translation": "Pure ones confined to the pavilions.",
+      "transliteration": "ḥūrun maqṣūrātun fil khiyām"
+    },
+    {
+      "index": 73,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 74,
+      "arabic": "لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+      "translation": "Man has not touched them before them nor jinni.",
+      "transliteration": "lam yaṭmith-hunna insun qablahum walā jānn"
+    },
+    {
+      "index": 75,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 76,
+      "arabic": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِىٍّ حِسَانٍ",
+      "translation": "Reclining on green cushions and beautiful carpets.",
+      "transliteration": "muttaki-īna `alā rafrafin khuḍrin wa`abqariyyin ḥisān"
+    },
+    {
+      "index": 77,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "translation": "Which then of the bounties of your Lord will you deny?",
+      "transliteration": "fabi-ayyi ālā-i rabbikumā tukadhhibān"
+    },
+    {
+      "index": 78,
+      "arabic": "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+      "translation": "Blessed be the name of your Lord, the Lord of Glory and Honor!",
+      "transliteration": "tabārakas-mu rabbika dhil jalāli wal-ikrām"
+    }
+  ]
+}

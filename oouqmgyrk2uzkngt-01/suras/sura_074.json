@@ -1,0 +1,346 @@
+{
+  "index": 74,
+  "name": "المدثر",
+  "arabic_name": "المُدَّثِّر",
+  "english_name": "Al-Muddaththir",
+  "english_meaning": "The Cloaked One",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ",
+      "translation": "O you wrapped up in your mantle!",
+      "transliteration": "yā-ayyuhal muddathhir",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "قُمْ فَأَنذِرْ",
+      "translation": "Rise up and warn!",
+      "transliteration": "qum fa-andhir"
+    },
+    {
+      "index": 3,
+      "arabic": "وَرَبَّكَ فَكَبِّرْ",
+      "translation": "Magnify your Lord,",
+      "transliteration": "warabbaka fakabbir"
+    },
+    {
+      "index": 4,
+      "arabic": "وَثِيَابَكَ فَطَهِّرْ",
+      "translation": "and purify your clothes,",
+      "transliteration": "wathiyābaka faṭahhir"
+    },
+    {
+      "index": 5,
+      "arabic": "وَٱلرُّجْزَ فَٱهْجُرْ",
+      "translation": "and keep away from all impurity!",
+      "transliteration": "war rujza fahjur"
+    },
+    {
+      "index": 6,
+      "arabic": "وَلَا تَمْنُن تَسْتَكْثِرُ",
+      "translation": "Do not grant a favour seeking a greater gain,",
+      "transliteration": "walā tamnun tastakthir"
+    },
+    {
+      "index": 7,
+      "arabic": "وَلِرَبِّكَ فَٱصْبِرْ",
+      "translation": "and be patient for the sake of your Lord.",
+      "transliteration": "walirabbika faṣbir"
+    },
+    {
+      "index": 8,
+      "arabic": "فَإِذَا نُقِرَ فِى ٱلنَّاقُورِ",
+      "translation": "When the Trumpet will be sounded,",
+      "transliteration": "fa-idhā nuqira fin nāqūr"
+    },
+    {
+      "index": 9,
+      "arabic": "فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ",
+      "translation": "that will be a day of hardship,",
+      "transliteration": "fadhālika yawma-idhiy yawmun `asīr"
+    },
+    {
+      "index": 10,
+      "arabic": "عَلَى ٱلْكَـٰفِرِينَ غَيْرُ يَسِيرٍ",
+      "translation": "not at all easy for the faithless.",
+      "transliteration": "`alal-kāfirīna ghayru yasīr"
+    },
+    {
+      "index": 11,
+      "arabic": "ذَرْنِى وَمَنْ خَلَقْتُ وَحِيدًا",
+      "translation": "Leave Me [to deal] with him whom I created alone,",
+      "transliteration": "dharnī wa man khalaqtu waḥīdā"
+    },
+    {
+      "index": 12,
+      "arabic": "وَجَعَلْتُ لَهُۥ مَالًا مَّمْدُودًا",
+      "translation": "and furnished him with extensive means,",
+      "transliteration": "waja`altu lahu mālan mamdūdā"
+    },
+    {
+      "index": 13,
+      "arabic": "وَبَنِينَ شُهُودًا",
+      "translation": "[gave him] sons to be at his side,",
+      "transliteration": "wabanīna shuhūdā"
+    },
+    {
+      "index": 14,
+      "arabic": "وَمَهَّدتُّ لَهُۥ تَمْهِيدًا",
+      "translation": "and facilitated [all matters] for him.",
+      "transliteration": "wa mahhadtu lahu tamhīdā"
+    },
+    {
+      "index": 15,
+      "arabic": "ثُمَّ يَطْمَعُ أَنْ أَزِيدَ",
+      "translation": "Still he is eager that I should give him more.",
+      "transliteration": "thumma yaṭma`u an azīd"
+    },
+    {
+      "index": 16,
+      "arabic": "كَلَّآ ۖ إِنَّهُۥ كَانَ لِـَٔايَـٰتِنَا عَنِيدًا",
+      "translation": "No indeed! He is an obstinate opponent of Our signs.",
+      "transliteration": "kallā ۖ innahu kāna li-āyātinā `anīdā"
+    },
+    {
+      "index": 17,
+      "arabic": "سَأُرْهِقُهُۥ صَعُودًا",
+      "translation": "Soon I will overwhelm him with hardship.",
+      "transliteration": "sa-urhiquhu ṣa`ūdā"
+    },
+    {
+      "index": 18,
+      "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+      "translation": "Indeed he reflected and decided.",
+      "transliteration": "innahu fakkara waqaddar"
+    },
+    {
+      "index": 19,
+      "arabic": "فَقُتِلَ كَيْفَ قَدَّرَ",
+      "translation": "Perish he, how he decided!",
+      "transliteration": "faqutila kayfa qaddar"
+    },
+    {
+      "index": 20,
+      "arabic": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ",
+      "translation": "Again, perish he, how he decided!",
+      "transliteration": "thumma qutila kayfa qaddar"
+    },
+    {
+      "index": 21,
+      "arabic": "ثُمَّ نَظَرَ",
+      "translation": "Then he looked;",
+      "transliteration": "thumma naẓar"
+    },
+    {
+      "index": 22,
+      "arabic": "ثُمَّ عَبَسَ وَبَسَرَ",
+      "translation": "then frowned and scowled.",
+      "transliteration": "thumma `abasa wabasar"
+    },
+    {
+      "index": 23,
+      "arabic": "ثُمَّ أَدْبَرَ وَٱسْتَكْبَرَ",
+      "translation": "Then he walked away disdainfully,",
+      "transliteration": "thumma adbara wastakbar"
+    },
+    {
+      "index": 24,
+      "arabic": "فَقَالَ إِنْ هَـٰذَآ إِلَّا سِحْرٌ يُؤْثَرُ",
+      "translation": "saying, ‘It is nothing but traditional sorcery.",
+      "transliteration": "faqāla in hādhā illā siḥrun yu-thar"
+    },
+    {
+      "index": 25,
+      "arabic": "إِنْ هَـٰذَآ إِلَّا قَوْلُ ٱلْبَشَرِ",
+      "translation": "It is nothing but the speech of a human.’",
+      "transliteration": "in hādhā illā qawlul bashar"
+    },
+    {
+      "index": 26,
+      "arabic": "سَأُصْلِيهِ سَقَرَ",
+      "translation": "Soon I will cast him into Saqar.",
+      "transliteration": "sa-uṣlīhi saqar"
+    },
+    {
+      "index": 27,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا سَقَرُ",
+      "translation": "And what will show you what is Saqar?",
+      "transliteration": "wa mā adrāka mā saqar"
+    },
+    {
+      "index": 28,
+      "arabic": "لَا تُبْقِى وَلَا تَذَرُ",
+      "translation": "It neither spares, nor leaves [anything].",
+      "transliteration": "lā tubqī walā tadhar"
+    },
+    {
+      "index": 29,
+      "arabic": "لَوَّاحَةٌ لِّلْبَشَرِ",
+      "translation": "It burns the skin.",
+      "transliteration": "lawwāḥatun lilbashar"
+    },
+    {
+      "index": 30,
+      "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+      "translation": "There are nineteen [keepers] over it.",
+      "transliteration": "`alayhā tis`ata `ashar"
+    },
+    {
+      "index": 31,
+      "arabic": "وَمَا جَعَلْنَآ أَصْحَـٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَـٰنًا ۙ وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْمُؤْمِنُونَ ۙ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْكَـٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ",
+      "translation": "We have assigned only angels as keepers of the Fire, and We have made their number merely a stumbling block for the faithless, and so that those who were given the Book may be reassured, and the faithful may increase in [their] faith, and so that those who were given the Book and the faithful may not be in doubt, and so that the faithless and those in whose hearts is a sickness may say, ‘What did Allah mean by this description?’ Thus does Allah lead astray whomever He wishes and guides whomever He wishes. No one knows the hosts of your Lord except Him, and it is just an admonition for all humans.",
+      "transliteration": "wa mā ja`alnā aṣ-ḥāban nāri illā malā-ikatan wa mā ja`alnā `iddatahum illā fitnatan lilladhīna kafarū liyastayqinal ladhīna ūtul kitāba wayazdādal ladhīna āmanū-iymānan walā yartābal ladhīna ūtul kitāba wal mu-minūna waliyaqūlal ladhīna fī qulūbihim maraḍun wal kāfirūna mādhā arādallāhu bihādhā mathalā ۚ kadhālika yuḍillullāhu man yashā-u wayahdī man yashā-u ۚ wa mā ya`lamu junūda rabbika illā huw ۚ wa mā hiya illā dhikrā lilbashar"
+    },
+    {
+      "index": 32,
+      "arabic": "كَلَّا وَٱلْقَمَرِ",
+      "translation": "No indeed! By the Moon!",
+      "transliteration": "kallā wal qamar"
+    },
+    {
+      "index": 33,
+      "arabic": "وَٱلَّيْلِ إِذْ أَدْبَرَ",
+      "translation": "By the night when it recedes!",
+      "transliteration": "wal layli idh adbar"
+    },
+    {
+      "index": 34,
+      "arabic": "وَٱلصُّبْحِ إِذَآ أَسْفَرَ",
+      "translation": "By the dawn when it brightens!",
+      "transliteration": "waṣ ṣubḥi idhā asfar"
+    },
+    {
+      "index": 35,
+      "arabic": "إِنَّهَا لَإِحْدَى ٱلْكُبَرِ",
+      "translation": "Indeed they are one of the greatest [signs of God]",
+      "transliteration": "innahā la-iḥdal kubar"
+    },
+    {
+      "index": 36,
+      "arabic": "نَذِيرًا لِّلْبَشَرِ",
+      "translation": "—a warner to all humans,",
+      "transliteration": "nadhīral lilbashar"
+    },
+    {
+      "index": 37,
+      "arabic": "لِمَن شَآءَ مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ",
+      "translation": "[alike] for those of you who like to advance ahead and those who would remain behind.",
+      "transliteration": "liman shā-a minkum an yataqaddama aw yata-akhhar"
+    },
+    {
+      "index": 38,
+      "arabic": "كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ رَهِينَةٌ",
+      "translation": "Every soul is hostage to what it has earned,",
+      "transliteration": "kullu nafsin bimā kasabat rahīnah"
+    },
+    {
+      "index": 39,
+      "arabic": "إِلَّآ أَصْحَـٰبَ ٱلْيَمِينِ",
+      "translation": "except the People of the Right Hand.",
+      "transliteration": "illā aṣ-ḥābal yamīn"
+    },
+    {
+      "index": 40,
+      "arabic": "فِى جَنَّـٰتٍ يَتَسَآءَلُونَ",
+      "translation": "[They will be] in gardens, questioning",
+      "transliteration": "fī jannātiy yatasā-alūn"
+    },
+    {
+      "index": 41,
+      "arabic": "عَنِ ٱلْمُجْرِمِينَ",
+      "translation": "the guilty:",
+      "transliteration": "`anil mujrimīn"
+    },
+    {
+      "index": 42,
+      "arabic": "مَا سَلَكَكُمْ فِى سَقَرَ",
+      "translation": "‘What drew you into Hell?’",
+      "transliteration": "mā salakakum fī saqar"
+    },
+    {
+      "index": 43,
+      "arabic": "قَالُوا۟ لَمْ نَكُ مِنَ ٱلْمُصَلِّينَ",
+      "translation": "They will answer, ‘We were not among those who prayed.",
+      "transliteration": "qālū lam naku minal muṣallīn"
+    },
+    {
+      "index": 44,
+      "arabic": "وَلَمْ نَكُ نُطْعِمُ ٱلْمِسْكِينَ",
+      "translation": "Nor did we feed the poor.",
+      "transliteration": "walam naku nuṭ`imul miskīn"
+    },
+    {
+      "index": 45,
+      "arabic": "وَكُنَّا نَخُوضُ مَعَ ٱلْخَآئِضِينَ",
+      "translation": "We used to indulge in [profane] gossip along with the gossipers,",
+      "transliteration": "wakunnā nakhūḍu ma`al khā-iḍīn"
+    },
+    {
+      "index": 46,
+      "arabic": "وَكُنَّا نُكَذِّبُ بِيَوْمِ ٱلدِّينِ",
+      "translation": "and we used to deny the Day of Retribution",
+      "transliteration": "wakunnā nukadhhibu biyawmid dīn"
+    },
+    {
+      "index": 47,
+      "arabic": "حَتَّىٰٓ أَتَىٰنَا ٱلْيَقِينُ",
+      "translation": "until death came to us.’",
+      "transliteration": "ḥattā atānal yaqīn"
+    },
+    {
+      "index": 48,
+      "arabic": "فَمَا تَنفَعُهُمْ شَفَـٰعَةُ ٱلشَّـٰفِعِينَ",
+      "translation": "So the intercession of the intercessors will not avail them.",
+      "transliteration": "famā tanfa`uhum shafā`atush shhāfi`īn"
+    },
+    {
+      "index": 49,
+      "arabic": "فَمَا لَهُمْ عَنِ ٱلتَّذْكِرَةِ مُعْرِضِينَ",
+      "translation": "What is the matter with them that they evade the Reminder",
+      "transliteration": "famā lahum `anit tadhkirati mu`riḍīn"
+    },
+    {
+      "index": 50,
+      "arabic": "كَأَنَّهُمْ حُمُرٌ مُّسْتَنفِرَةٌ",
+      "translation": "as if they were terrified asses",
+      "transliteration": "ka-annahum ḥumurun mustanfirah"
+    },
+    {
+      "index": 51,
+      "arabic": "فَرَّتْ مِن قَسْوَرَةٍۭ",
+      "translation": "fleeing from a lion?",
+      "transliteration": "farrat min qaswarah"
+    },
+    {
+      "index": 52,
+      "arabic": "بَلْ يُرِيدُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًا مُّنَشَّرَةً",
+      "translation": "But everyone of them desires to be given unrolled scriptures [from Allah]!",
+      "transliteration": "bal yurīdu kullum-ri-in minhum an yu-tā ṣuḥufan munashharah"
+    },
+    {
+      "index": 53,
+      "arabic": "كَلَّا ۖ بَل لَّا يَخَافُونَ ٱلْـَٔاخِرَةَ",
+      "translation": "No! Indeed, they do not fear the Hereafter.",
+      "transliteration": "kallā ۖ bal lā yakhāfūnal-ākhirah"
+    },
+    {
+      "index": 54,
+      "arabic": "كَلَّآ إِنَّهُۥ تَذْكِرَةٌ",
+      "translation": "No! It is indeed a reminder.",
+      "transliteration": "kallā innahu tadhkirah"
+    },
+    {
+      "index": 55,
+      "arabic": "فَمَن شَآءَ ذَكَرَهُۥ",
+      "translation": "So let anyone who wishes be mindful of it.",
+      "transliteration": "faman shā-a dhakarah"
+    },
+    {
+      "index": 56,
+      "arabic": "وَمَا يَذْكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ هُوَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ",
+      "translation": "And they will not be mindful unless Allah wishes. He is worthy of [your] being wary [of Him] and He is worthy to forgive.",
+      "transliteration": "wa mā yadhkurūna illā an yashā-allāh ۚ huwa ahlut taqwā wa-ahlul maghfirah"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "index": 108,
+  "name": "الكوثر",
+  "arabic_name": "الكَوْثَر",
+  "english_name": "Al-Kawthar",
+  "english_meaning": "Abundance",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+      "translation": "Surely We have given you Kausar,",
+      "transliteration": "innā a`ṭaynākal kawthar",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "translation": "Therefore pray to your Lord and make a sacrifice.",
+      "transliteration": "faṣalli lirabbika wanḥar"
+    },
+    {
+      "index": 3,
+      "arabic": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "translation": "Surely your enemy is the one who shall be without posterity,",
+      "transliteration": "inna shāni-aka huwal-abtar"
+    }
+  ]
+}

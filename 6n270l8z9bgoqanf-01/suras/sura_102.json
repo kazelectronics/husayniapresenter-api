@@ -1,0 +1,58 @@
+{
+  "index": 102,
+  "name": "التكاثر",
+  "arabic_name": "التَّكَاثر",
+  "english_name": "At-Takāthur",
+  "english_meaning": "The Rivalry in World Increase",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "translation": "Rivalry in worldly increase distracteth you",
+      "transliteration": "alhākumut takāthur",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+      "translation": "Until ye come to the graves.",
+      "transliteration": "ḥattā zurtumul maqābir"
+    },
+    {
+      "index": 3,
+      "arabic": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "translation": "Nay, but ye will come to know!",
+      "transliteration": "kallā sawfa ta`lamūn"
+    },
+    {
+      "index": 4,
+      "arabic": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "translation": "Nay, but ye will come to know!",
+      "transliteration": "thumma kallā sawfa ta`lamūn"
+    },
+    {
+      "index": 5,
+      "arabic": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+      "translation": "Nay, would that ye knew (now) with a sure knowledge!",
+      "transliteration": "kallā law ta`lamūna `il-mal yaqīn"
+    },
+    {
+      "index": 6,
+      "arabic": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+      "translation": "For ye will behold hell-fire.",
+      "transliteration": "latarawunnal jaḥīm"
+    },
+    {
+      "index": 7,
+      "arabic": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+      "translation": "Aye, ye will behold it with sure vision.",
+      "transliteration": "thumma latarawunnahā `aynal yaqīn"
+    },
+    {
+      "index": 8,
+      "arabic": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "translation": "Then, on that day, ye will be asked concerning pleasure.",
+      "transliteration": "thumma latus-alunna yawma-idhin `anin na`īm"
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "index": 53,
+  "name": "النجم",
+  "arabic_name": "النَّجْم",
+  "english_name": "An-Najm",
+  "english_meaning": "The Star",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "وَٱلنَّجْمِ إِذَا هَوَىٰ",
+      "translation": "By the Star when it setteth,",
+      "transliteration": "wan najmi idhā hawā",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ",
+      "translation": "Your comrade erreth not, nor is deceived;",
+      "transliteration": "mā ḍalla ṣāḥibukum wa mā ghawā"
+    },
+    {
+      "index": 3,
+      "arabic": "وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ",
+      "translation": "Nor doth he speak of (his own) desire.",
+      "transliteration": "wa mā yanṭiqu `anil hawā"
+    },
+    {
+      "index": 4,
+      "arabic": "إِنْ هُوَ إِلَّا وَحْىٌ يُوحَىٰ",
+      "translation": "It is naught save an inspiration that is inspired,",
+      "transliteration": "in huwa illā waḥyun yūḥā"
+    },
+    {
+      "index": 5,
+      "arabic": "عَلَّمَهُۥ شَدِيدُ ٱلْقُوَىٰ",
+      "translation": "Which one of mighty powers hath taught him,",
+      "transliteration": "`allamahu shadīdul quwā"
+    },
+    {
+      "index": 6,
+      "arabic": "ذُو مِرَّةٍ فَٱسْتَوَىٰ",
+      "translation": "One vigorous; and he grew clear to view",
+      "transliteration": "dhū mirratin fastawā"
+    },
+    {
+      "index": 7,
+      "arabic": "وَهُوَ بِٱلْأُفُقِ ٱلْأَعْلَىٰ",
+      "translation": "When he was on the uppermost horizon.",
+      "transliteration": "wahuwa bil-ufuqil-a`lā"
+    },
+    {
+      "index": 8,
+      "arabic": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+      "translation": "Then he drew nigh and came down",
+      "transliteration": "thumma danā fatadallā"
+    },
+    {
+      "index": 9,
+      "arabic": "فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ",
+      "translation": "Till he was (distant) two bows' length or even nearer,",
+      "transliteration": "fakāna qāba qawsayni aw adnā"
+    },
+    {
+      "index": 10,
+      "arabic": "فَأَوْحَىٰٓ إِلَىٰ عَبْدِهِۦ مَآ أَوْحَىٰ",
+      "translation": "And He revealed unto His slave that which He revealed.",
+      "transliteration": "fa-awḥā ilā `abdihi mā awḥā"
+    },
+    {
+      "index": 11,
+      "arabic": "مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ",
+      "translation": "The heart lied not (in seeing) what it saw.",
+      "transliteration": "mā kadhabal fu-ādu mā ra-ā"
+    },
+    {
+      "index": 12,
+      "arabic": "أَفَتُمَـٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+      "translation": "Will ye then dispute with him concerning what he seeth?",
+      "transliteration": "afatumārūnahu `alā mā yarā"
+    },
+    {
+      "index": 13,
+      "arabic": "وَلَقَدْ رَءَاهُ نَزْلَةً أُخْرَىٰ",
+      "translation": "And verily he saw him yet another time",
+      "transliteration": "walaqad ra-āhu nazlatan ukhrā"
+    },
+    {
+      "index": 14,
+      "arabic": "عِندَ سِدْرَةِ ٱلْمُنتَهَىٰ",
+      "translation": "By the lote-tree of the utmost boundary,",
+      "transliteration": "`inda sidratil muntahā"
+    },
+    {
+      "index": 15,
+      "arabic": "عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ",
+      "translation": "Nigh unto which is the Garden of Abode.",
+      "transliteration": "`indahā jannatul ma-wā"
+    },
+    {
+      "index": 16,
+      "arabic": "إِذْ يَغْشَى ٱلسِّدْرَةَ مَا يَغْشَىٰ",
+      "translation": "When that which shroudeth did enshroud the lote-tree,",
+      "transliteration": "idh yaghshas sidrata mā yaghshā"
+    },
+    {
+      "index": 17,
+      "arabic": "مَا زَاغَ ٱلْبَصَرُ وَمَا طَغَىٰ",
+      "translation": "The eye turned not aside nor yet was overbold.",
+      "transliteration": "mā zāghal baṣaru wa mā ṭaghā"
+    },
+    {
+      "index": 18,
+      "arabic": "لَقَدْ رَأَىٰ مِنْ ءَايَـٰتِ رَبِّهِ ٱلْكُبْرَىٰٓ",
+      "translation": "Verily he saw one of the greater revelations of his Lord.",
+      "transliteration": "laqad ra-ā min āyāti rabbihil kubrā"
+    },
+    {
+      "index": 19,
+      "arabic": "أَفَرَءَيْتُمُ ٱللَّـٰتَ وَٱلْعُزَّىٰ",
+      "translation": "Have ye thought upon Al-Lat and Al-'Uzza",
+      "transliteration": "afara aytumullāta wal `uzzā"
+    },
+    {
+      "index": 20,
+      "arabic": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلْأُخْرَىٰٓ",
+      "translation": "And Manat, the third, the other?",
+      "transliteration": "wa manātath thālithatal-ukhrā"
+    },
+    {
+      "index": 21,
+      "arabic": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلْأُنثَىٰ",
+      "translation": "Are yours the males and His the females?",
+      "transliteration": "alakumudh dhakaru walahul-unthā"
+    },
+    {
+      "index": 22,
+      "arabic": "تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰٓ",
+      "translation": "That indeed were an unfair division!",
+      "transliteration": "tilka idhan qismatun ḍīzā"
+    },
+    {
+      "index": 23,
+      "arabic": "إِنْ هِىَ إِلَّآ أَسْمَآءٌ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَـٰنٍ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهْوَى ٱلْأَنفُسُ ۖ وَلَقَدْ جَآءَهُم مِّن رَّبِّهِمُ ٱلْهُدَىٰٓ",
+      "translation": "They are but names which ye have named, ye and your fathers, for which Allah hath revealed no warrant. They follow but a guess and that which (they) themselves desire. And now the guidance from their Lord hath come unto them.",
+      "transliteration": "in hiya illā asmā-un sammaytumūhā antum wa-ābā-ukum mā anzalallāhu bihā min sulṭān ۚ in yattabi`ūna illaẓ ẓanna wa mā tahwal-anfus ۖ walaqad jā-ahum min rabbihimul hudā"
+    },
+    {
+      "index": 24,
+      "arabic": "أَمْ لِلْإِنسَـٰنِ مَا تَمَنَّىٰ",
+      "translation": "Or shall man have what he coveteth?",
+      "transliteration": "am lilinsāni mā tamannā"
+    },
+    {
+      "index": 25,
+      "arabic": "فَلِلَّهِ ٱلْـَٔاخِرَةُ وَٱلْأُولَىٰ",
+      "translation": "But unto Allah belongeth the after (life), and the former.",
+      "transliteration": "falillāhil-ākhiratu wal-ūlā"
+    },
+    {
+      "index": 26,
+      "arabic": "وَكَم مِّن مَّلَكٍ فِى ٱلسَّمَـٰوَٰتِ لَا تُغْنِى شَفَـٰعَتُهُمْ شَيْـًٔا إِلَّا مِنۢ بَعْدِ أَن يَأْذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرْضَىٰٓ",
+      "translation": "And how many angels are in the heavens whose intercession availeth naught save after Allah giveth leave to whom He chooseth and accepteth.",
+      "transliteration": "wakam min malakin fis samāwāti lā tughnī shafā`atuhum shay-an illā min ba`di an ya-dhanallāhu liman yashā-u wayarḍā"
+    },
+    {
+      "index": 27,
+      "arabic": "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ لَيُسَمُّونَ ٱلْمَلَـٰٓئِكَةَ تَسْمِيَةَ ٱلْأُنثَىٰ",
+      "translation": "Lo! it is those who disbelieve in the Hereafter who name the angels with the names of females.",
+      "transliteration": "innal ladhīna lā yu-minūna bil-ākhirati layusammūnal malā-ikata tasmiyatal-unthā"
+    },
+    {
+      "index": 28,
+      "arabic": "وَمَا لَهُم بِهِۦ مِنْ عِلْمٍ ۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ ۖ وَإِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا",
+      "translation": "And they have no knowledge thereof. They follow but a guess, and lo! a guess can never take the place of the truth.",
+      "transliteration": "wa mā lahum bihi min `il-m ۖ in yattabi`ūna illaẓ ẓann ۖ wa innaẓ ẓanna lā yughnī minal ḥaqqi shay-ā"
+    },
+    {
+      "index": 29,
+      "arabic": "فَأَعْرِضْ عَن مَّن تَوَلَّىٰ عَن ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+      "translation": "Then withdraw (O Muhammad) from him who fleeth from Our remembrance and desireth but the life of the world.",
+      "transliteration": "fa-a`riḍ `an man tawallā `an dhikrinā walam yurid illal-ḥayātad dunyā"
+    },
+    {
+      "index": 30,
+      "arabic": "ذَٰلِكَ مَبْلَغُهُم مِّنَ ٱلْعِلْمِ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِمَنِ ٱهْتَدَىٰ",
+      "translation": "Such is their sum of knowledge. Lo! thy Lord is Best Aware of him who strayeth, and He is Best Aware of him whom goeth right.",
+      "transliteration": "dhālika mablaghuhum minal `il-m ۚ inna rabbaka huwa a`lamu biman ḍalla `an sabīlihi wahuwa a`lamu bimanih-tadā"
+    },
+    {
+      "index": 31,
+      "arabic": "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ لِيَجْزِىَ ٱلَّذِينَ أَسَـٰٓـُٔوا۟ بِمَا عَمِلُوا۟ وَيَجْزِىَ ٱلَّذِينَ أَحْسَنُوا۟ بِٱلْحُسْنَى",
+      "translation": "And unto Allah belongeth whatsoever is in the heavens and whatsoever is in the earth, that He may reward those who do evil with that which they have done, and reward those who do good with goodness.",
+      "transliteration": "walillāhi mā fis samāwāti wa mā fil-arḍi liyajziyal ladhīna asā-ū bimā `amilū wayajziyal ladhīna aḥsanū bil ḥusnā"
+    },
+    {
+      "index": 32,
+      "arabic": "ٱلَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ ۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ ۚ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌ فِى بُطُونِ أُمَّهَـٰتِكُمْ ۖ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ",
+      "translation": "Those who avoid enormities of sin and abominations, save the unwilled offences - (for them) lo! thy Lord is of vast mercy. He is Best Aware of you (from the time) when He created you from the earth, and when ye were hidden in the bellies of your mothers. Therefor ascribe not purity unto yourselves. He is Best Aware of him who wardeth off (evil).",
+      "transliteration": "alladhīna yajtanibūna kabā-iral-ithmi wal fawāḥisha illallamam ۚ inna rabbaka wāsi`ul maghfirah ۚ huwa a`lamu bikum idh ansha-akum minal-arḍi wa idh antum ajinnatun fī buṭūni ummahātikum ۖ falā tuzakkū anfusakum ۖ huwa a`lamu bimanit-taqā"
+    },
+    {
+      "index": 33,
+      "arabic": "أَفَرَءَيْتَ ٱلَّذِى تَوَلَّىٰ",
+      "translation": "Didst thou (O Muhammad) observe him who turned away,",
+      "transliteration": "afara aytal ladhī tawallā"
+    },
+    {
+      "index": 34,
+      "arabic": "وَأَعْطَىٰ قَلِيلًا وَأَكْدَىٰٓ",
+      "translation": "And gave a little, then was grudging?",
+      "transliteration": "wa-a`ṭā qalīlan wa-akdā"
+    },
+    {
+      "index": 35,
+      "arabic": "أَعِندَهُۥ عِلْمُ ٱلْغَيْبِ فَهُوَ يَرَىٰٓ",
+      "translation": "Hath he knowledge of the Unseen so that he seeth?",
+      "transliteration": "a`indahu `il-mul ghaybi fahuwa yarā"
+    },
+    {
+      "index": 36,
+      "arabic": "أَمْ لَمْ يُنَبَّأْ بِمَا فِى صُحُفِ مُوسَىٰ",
+      "translation": "Or hath he not had news of what is in the books of Moses",
+      "transliteration": "am lam yunabba-bimā fī ṣuḥufi mūsā"
+    },
+    {
+      "index": 37,
+      "arabic": "وَإِبْرَٰهِيمَ ٱلَّذِى وَفَّىٰٓ",
+      "translation": "And Abraham who paid his debt:",
+      "transliteration": "wa ibrāhīmal ladhī waffā"
+    },
+    {
+      "index": 38,
+      "arabic": "أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ",
+      "translation": "That no laden one shall bear another's load,",
+      "transliteration": "allā taziru wāziratun wizra ukhrā"
+    },
+    {
+      "index": 39,
+      "arabic": "وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ",
+      "translation": "And that man hath only that for which he maketh effort,",
+      "transliteration": "wa-an laysa lilinsāni illā mā sa`ā"
+    },
+    {
+      "index": 40,
+      "arabic": "وَأَنَّ سَعْيَهُۥ سَوْفَ يُرَىٰ",
+      "translation": "And that his effort will be seen.",
+      "transliteration": "wa-anna sa`yahu sawfa yurā"
+    },
+    {
+      "index": 41,
+      "arabic": "ثُمَّ يُجْزَىٰهُ ٱلْجَزَآءَ ٱلْأَوْفَىٰ",
+      "translation": "And afterward he will be repaid for it with fullest payment;",
+      "transliteration": "thumma yujzāhul jazā-al-awfā"
+    },
+    {
+      "index": 42,
+      "arabic": "وَأَنَّ إِلَىٰ رَبِّكَ ٱلْمُنتَهَىٰ",
+      "translation": "And that thy Lord, He is the goal;",
+      "transliteration": "wa-anna ilā rabbikal muntahā"
+    },
+    {
+      "index": 43,
+      "arabic": "وَأَنَّهُۥ هُوَ أَضْحَكَ وَأَبْكَىٰ",
+      "translation": "And that He it is who maketh laugh, and maketh weep,",
+      "transliteration": "wa-annahu huwa aḍ-ḥaka wa-abkā"
+    },
+    {
+      "index": 44,
+      "arabic": "وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحْيَا",
+      "translation": "And that He it is Who giveth death and giveth life;",
+      "transliteration": "wa-annahu huwa amāta wa-aḥyā"
+    },
+    {
+      "index": 45,
+      "arabic": "وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ",
+      "translation": "And that He createth the two spouses, the male and the female,",
+      "transliteration": "wa-annahu khalaqaz zawjaynidh dhakara wal-unthā"
+    },
+    {
+      "index": 46,
+      "arabic": "مِن نُّطْفَةٍ إِذَا تُمْنَىٰ",
+      "translation": "From a drop (of seed) when it is poured forth;",
+      "transliteration": "min nuṭfatin idhā tumnā"
+    },
+    {
+      "index": 47,
+      "arabic": "وَأَنَّ عَلَيْهِ ٱلنَّشْأَةَ ٱلْأُخْرَىٰ",
+      "translation": "And that He hath ordained the second bringing forth;",
+      "transliteration": "wa-anna `alayhin nash-atal-ukhrā"
+    },
+    {
+      "index": 48,
+      "arabic": "وَأَنَّهُۥ هُوَ أَغْنَىٰ وَأَقْنَىٰ",
+      "translation": "And that He it is Who enricheth and contenteth;",
+      "transliteration": "wa-annahu huwa aghnā wa-aqnā"
+    },
+    {
+      "index": 49,
+      "arabic": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ",
+      "translation": "And that He it is Who is the Lord of Sirius;",
+      "transliteration": "wa-annahu huwa rabbush shi`rā"
+    },
+    {
+      "index": 50,
+      "arabic": "وَأَنَّهُۥٓ أَهْلَكَ عَادًا ٱلْأُولَىٰ",
+      "translation": "And that He destroyed the former (tribe of) A'ad,",
+      "transliteration": "wa-annahu ahlaka `ādanl-ūlā"
+    },
+    {
+      "index": 51,
+      "arabic": "وَثَمُودَا۟ فَمَآ أَبْقَىٰ",
+      "translation": "And (the tribe of) Thamud He spared not;",
+      "transliteration": "wathamūda famā abqā"
+    },
+    {
+      "index": 52,
+      "arabic": "وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ هُمْ أَظْلَمَ وَأَطْغَىٰ",
+      "translation": "And the folk of Noah aforetime, Lo! they were more unjust and more rebellious;",
+      "transliteration": "waqawma nūḥin min qabl ۖ innahum kānū hum aẓlama wa-aṭghā"
+    },
+    {
+      "index": 53,
+      "arabic": "وَٱلْمُؤْتَفِكَةَ أَهْوَىٰ",
+      "translation": "And Al-Mu'tafikah He destroyed",
+      "transliteration": "wal mu-tafikata ahwā"
+    },
+    {
+      "index": 54,
+      "arabic": "فَغَشَّىٰهَا مَا غَشَّىٰ",
+      "translation": "So that there covered them that which did cover.",
+      "transliteration": "faghashhāhā mā ghashhā"
+    },
+    {
+      "index": 55,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ",
+      "translation": "Concerning which then, of the bounties of thy Lord, canst thou dispute?",
+      "transliteration": "fabi-ayyi ālā-i rabbika tatamārā"
+    },
+    {
+      "index": 56,
+      "arabic": "هَـٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ",
+      "translation": "This is a warner of the warners of old.",
+      "transliteration": "hādhā nadhīrun minan nudhuril-ūlā"
+    },
+    {
+      "index": 57,
+      "arabic": "أَزِفَتِ ٱلْـَٔازِفَةُ",
+      "translation": "The threatened Hour is nigh.",
+      "transliteration": "azifatil-āzifah"
+    },
+    {
+      "index": 58,
+      "arabic": "لَيْسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ",
+      "translation": "None beside Allah can disclose it.",
+      "transliteration": "laysa lahā min dūnillāhi kāshifah"
+    },
+    {
+      "index": 59,
+      "arabic": "أَفَمِنْ هَـٰذَا ٱلْحَدِيثِ تَعْجَبُونَ",
+      "translation": "Marvel ye then at this statement,",
+      "transliteration": "afamin hādhal ḥadīthi ta`jabūn"
+    },
+    {
+      "index": 60,
+      "arabic": "وَتَضْحَكُونَ وَلَا تَبْكُونَ",
+      "translation": "And laugh and not weep,",
+      "transliteration": "wataḍ-ḥakūna walā tabkūn"
+    },
+    {
+      "index": 61,
+      "arabic": "وَأَنتُمْ سَـٰمِدُونَ",
+      "translation": "While ye amuse yourselves?",
+      "transliteration": "wa-antum sāmidūn"
+    },
+    {
+      "index": 62,
+      "arabic": "فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩",
+      "translation": "Rather prostrate yourselves before Allah and serve Him.",
+      "transliteration": "fasjudū lillāhi wa`budū ۩"
+    }
+  ]
+}

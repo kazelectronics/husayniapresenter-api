@@ -1,0 +1,76 @@
+{
+  "index": 93,
+  "name": "الضحى",
+  "arabic_name": "الضُّحَى",
+  "english_name": "Aḍ-Ḍuhā",
+  "english_meaning": "The Morning Hours",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "وَٱلضُّحَىٰ",
+      "translation": "I CALL TO witness the early hours of morning,",
+      "transliteration": "waḍ ḍuḥā",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "translation": "And the night when dark and still,",
+      "transliteration": "wal layli idhā sajā"
+    },
+    {
+      "index": 3,
+      "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "translation": "Your Lord has neither left you, nor despises you.",
+      "transliteration": "mā wadda`aka rabbuka wa mā qalā"
+    },
+    {
+      "index": 4,
+      "arabic": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "translation": "What is to come is better for you than what has gone before;",
+      "transliteration": "walal-ākhiratu khayrul laka minal-ūlā"
+    },
+    {
+      "index": 5,
+      "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "translation": "For your Lord will certainly give you, and you will be content.",
+      "transliteration": "walasawfa yu`ṭīka rabbuka fatarḍā"
+    },
+    {
+      "index": 6,
+      "arabic": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+      "translation": "Did He not find you an orphan and take care of you?",
+      "transliteration": "alam yajidka yatīman fa-āwā"
+    },
+    {
+      "index": 7,
+      "arabic": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "translation": "Did He not find you perplexed, and show you the way?",
+      "transliteration": "wawajadaka ḍāllan fahadā"
+    },
+    {
+      "index": 8,
+      "arabic": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "translation": "Did He not find you poor and enrich you?",
+      "transliteration": "wawajadaka `ā-ilan fa-aghnā"
+    },
+    {
+      "index": 9,
+      "arabic": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+      "translation": "So do not oppress the orphan,",
+      "transliteration": "fa-ammal yatīma falā taqhar"
+    },
+    {
+      "index": 10,
+      "arabic": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "translation": "And do not drive the beggar away,",
+      "transliteration": "wa-ammas sā-ila falā tanhar"
+    },
+    {
+      "index": 11,
+      "arabic": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "translation": "And keep recounting the favours of your Lord.",
+      "transliteration": "wa-ammā bini`mati rabbika faḥaddith"
+    }
+  ]
+}

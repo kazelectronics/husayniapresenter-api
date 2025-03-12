@@ -1,0 +1,34 @@
+{
+  "index": 112,
+  "name": "الإخلاص",
+  "arabic_name": "الإخْلَاص",
+  "english_name": "Al-Ikhlāṣ",
+  "english_meaning": "The Sincerity",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+      "translation": "SAY: \"HE IS God the one the most unique,",
+      "transliteration": "qul huwallāhu aḥad",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "ٱللَّهُ ٱلصَّمَدُ",
+      "translation": "God the immanently indispensable.",
+      "transliteration": "allāhuṣ ṣamad"
+    },
+    {
+      "index": 3,
+      "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "translation": "He has begotten no one, and is begotten of none.",
+      "transliteration": "lam yalid walam yūlad"
+    },
+    {
+      "index": 4,
+      "arabic": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+      "translation": "There is no one comparable to Him.\"",
+      "transliteration": "walam yakun lahu kufuwan aḥad"
+    }
+  ]
+}

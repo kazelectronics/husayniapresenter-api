@@ -1,0 +1,76 @@
+{
+  "index": 101,
+  "name": "القارعة",
+  "arabic_name": "القَارِعة",
+  "english_name": "Al-Qāri`ah",
+  "english_meaning": "The Calamity",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "ٱلْقَارِعَةُ",
+      "translation": "THE STARTLING CALAMITY.",
+      "transliteration": "al-qāri`ah",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "مَا ٱلْقَارِعَةُ",
+      "translation": "What is the startling calamity?",
+      "transliteration": "mal qāri`ah"
+    },
+    {
+      "index": 3,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "translation": "How will you comprehend what the startling calamity is? --",
+      "transliteration": "wa mā adrāka mal qāri`ah"
+    },
+    {
+      "index": 4,
+      "arabic": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "translation": "A Day on which human beings would be like so many scattered moths,",
+      "transliteration": "yawma yakūnun nāsu kal farāshil mabthūth"
+    },
+    {
+      "index": 5,
+      "arabic": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "translation": "The mountains like the tufts of carded wool.",
+      "transliteration": "watakūnul jibālu kal `ihnil manfūsh"
+    },
+    {
+      "index": 6,
+      "arabic": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "translation": "Then he whose deeds shall weigh heavier in the scale",
+      "transliteration": "fa-ammā man thaqulat mawāzīnuh"
+    },
+    {
+      "index": 7,
+      "arabic": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+      "translation": "Will have a tranquil life;",
+      "transliteration": "fahuwa fī `īshatin rāḍiyah"
+    },
+    {
+      "index": 8,
+      "arabic": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "translation": "But he whose deeds are lighter in the balance",
+      "transliteration": "wa-ammā man khaffat mawāzīnuh"
+    },
+    {
+      "index": 9,
+      "arabic": "فَأُمُّهُۥ هَاوِيَةٌ",
+      "translation": "Will have the Abyss for abode.",
+      "transliteration": "fa-ummuhu hāwiyah"
+    },
+    {
+      "index": 10,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "translation": "How will you comprehend what that is?",
+      "transliteration": "wa mā adrāka mā hiyah"
+    },
+    {
+      "index": 11,
+      "arabic": "نَارٌ حَامِيَةٌۢ",
+      "translation": "It is the scorching fire.",
+      "transliteration": "nārun ḥāmiyah"
+    }
+  ]
+}

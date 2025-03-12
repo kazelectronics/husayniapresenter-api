@@ -1,0 +1,46 @@
+{
+  "index": 114,
+  "name": "الناس",
+  "arabic_name": "النَّاس",
+  "english_name": "An-Nās",
+  "english_meaning": "Mankind",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "translation": "Say: I seek refuge with the Lord and Cherisher of Mankind,",
+      "transliteration": "qul a`ūdhu birabbin nās",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "مَلِكِ ٱلنَّاسِ",
+      "translation": "The King (or Ruler) of Mankind,",
+      "transliteration": "malikin nās"
+    },
+    {
+      "index": 3,
+      "arabic": "إِلَـٰهِ ٱلنَّاسِ",
+      "translation": "The god (or judge) of Mankind,-",
+      "transliteration": "ilāhin nās"
+    },
+    {
+      "index": 4,
+      "arabic": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "translation": "From the mischief of the Whisperer (of Evil), who withdraws (after his whisper),-",
+      "transliteration": "min sharril waswāsil khannās"
+    },
+    {
+      "index": 5,
+      "arabic": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "translation": "(The same) who whispers into the hearts of Mankind,-",
+      "transliteration": "alladhī yuwaswisu fī ṣudūrin nās"
+    },
+    {
+      "index": 6,
+      "arabic": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "translation": "Among Jinns and among men.",
+      "transliteration": "minal jinnati wan nās"
+    }
+  ]
+}

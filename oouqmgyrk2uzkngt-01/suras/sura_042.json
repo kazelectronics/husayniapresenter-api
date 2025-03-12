@@ -1,0 +1,328 @@
+{
+  "index": 42,
+  "name": "الشورى",
+  "arabic_name": "الشُّورَى",
+  "english_name": "Ash-Shūrā",
+  "english_meaning": "The Consultation",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "حمٓ",
+      "translation": "Ha, Meem,",
+      "transliteration": "ḥā mīm",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "عٓسٓقٓ",
+      "translation": "‘Ayn, Seen, Qaf.",
+      "transliteration": "'ain sīn qāf"
+    },
+    {
+      "index": 3,
+      "arabic": "كَذَٰلِكَ يُوحِىٓ إِلَيْكَ وَإِلَى ٱلَّذِينَ مِن قَبْلِكَ ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "translation": "Allah, the All-mighty and the All-wise, thus reveals to you and to those who were before you:",
+      "transliteration": "kadhālika yūḥī ilayka wa ilal ladhīna min qablikallāhul `azīzul ḥakīm"
+    },
+    {
+      "index": 4,
+      "arabic": "لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+      "translation": "whatever is in the heavens and whatever is in the earth belongs to Him, and He is the All-exalted, the All-supreme.",
+      "transliteration": "lahu mā fis samāwāti wa mā fil-arḍ ۖ wahuwal `aliyyul `aẓīm"
+    },
+    {
+      "index": 5,
+      "arabic": "تَكَادُ ٱلسَّمَـٰوَٰتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ ۚ وَٱلْمَلَـٰٓئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَن فِى ٱلْأَرْضِ ۗ أَلَآ إِنَّ ٱللَّهَ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+      "translation": "The heavens are about to be rent apart from above them, while the angels celebrate the praise of their Lord and plead for forgiveness for those [faithful] who are on the earth. Indeed, Allah is the All-forgiving, the All-merciful!",
+      "transliteration": "takādus samāwātu yatafaṭṭarna min fawqihinn ۚ wal malā-ikatu yusabbiḥūna biḥamdi rabbihim wayastaghfirūna liman fil-arḍ ۗ alā innallāha huwal ghafūrur raḥīm"
+    },
+    {
+      "index": 6,
+      "arabic": "وَٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ٱللَّهُ حَفِيظٌ عَلَيْهِمْ وَمَآ أَنتَ عَلَيْهِم بِوَكِيلٍ",
+      "translation": "As for those who have taken awliya besides Him, Allah is watchful over them, and you are not their keeper.",
+      "transliteration": "wal ladhīnat-takhadhū min dūnihi awliyā-allāhu ḥafīẓun `alayhim wa mā anta `alayhim biwakīl"
+    },
+    {
+      "index": 7,
+      "arabic": "وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ قُرْءَانًا عَرَبِيًّا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ ٱلْجَمْعِ لَا رَيْبَ فِيهِ ۚ فَرِيقٌ فِى ٱلْجَنَّةِ وَفَرِيقٌ فِى ٱلسَّعِيرِ",
+      "translation": "Thus have We revealed to you an Arabic Quran that you may warn [the people of] the Mother of the Towns and those around it, and warn [them] of the Day of Gathering, in which there is no doubt, [whereupon] a part [of mankind] will be in paradise and a part will be in the Blaze.",
+      "transliteration": "wakadhālika awḥaynā ilayka qur-ānan `arabiyyal litundhira ummal qurā wa man ḥawlahā watundhira yawmal jam`i lā rayba fīh ۚ farīqun fil jannati wafarīqun fis sa`īr"
+    },
+    {
+      "index": 8,
+      "arabic": "وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَهُمْ أُمَّةً وَٰحِدَةً وَلَـٰكِن يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّـٰلِمُونَ مَا لَهُم مِّن وَلِىٍّ وَلَا نَصِيرٍ",
+      "translation": "Had Allah wished, He would have surely made them one community; but He admits whomever He wishes into His mercy, and the wrongdoers do not have any guardian or helper.",
+      "transliteration": "walaw shā-allāhu laja`alahum ummatan wāḥidatan walākin yudkhilu man yashā-u fī raḥmatih ۚ waẓ ẓālimūna mā lahum min waliyyin walā naṣīr"
+    },
+    {
+      "index": 9,
+      "arabic": "أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۖ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "translation": "Have they taken awliya besides Him? [Say,] ‘It is Allah, who is the [true] Wali, and He revives the dead, and He has power over all things.",
+      "transliteration": "amit-takhadhū min dūnihi awliyā-a ۖ fallāhu huwal waliyyu wahuwa yuḥyil mawtā wahuwa `alā kulli shay-in qadīr"
+    },
+    {
+      "index": 10,
+      "arabic": "وَمَا ٱخْتَلَفْتُمْ فِيهِ مِن شَىْءٍ فَحُكْمُهُۥٓ إِلَى ٱللَّهِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبِّى عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+      "translation": "Whatever thing you may differ about, its judgement is with Allah. That is Allah, my Lord. In Him, I have put my trust, and to Him do I turn penitently.",
+      "transliteration": "wa makh-talaftum fīhi min shay-in faḥukmuhu ilallāh ۚ dhālikumullāhu rabbī `alayhi tawakkaltu wa ilayhi unīb"
+    },
+    {
+      "index": 11,
+      "arabic": "فَاطِرُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَـٰمِ أَزْوَٰجًا ۖ يَذْرَؤُكُمْ فِيهِ ۚ لَيْسَ كَمِثْلِهِۦ شَىْءٌ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+      "translation": "The originator of the heavens and the earth, He made for you mates from your own selves, and mates of the cattle, by which means He multiplies you. Nothing is like Him, and He is the All-hearing, the All-seeing.",
+      "transliteration": "fāṭirus samāwāti wal-arḍ ۚ ja`ala lakum min anfusikum azwājan wa minal-an`āmi azwājā ۖ yadhra-ukum fīh ۚ laysa kamithlihi shay-u ۖ wahuwas samī`ul baṣīr"
+    },
+    {
+      "index": 12,
+      "arabic": "لَهُۥ مَقَالِيدُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "translation": "To Him belong the keys of the heavens and the earth: He expands the provision for whomever He wishes, and tightens it [for whomever He wishes]. Indeed He has knowledge of all things.’",
+      "transliteration": "lahu maqālīdus samāwāti wal-arḍ ۖ yabsuṭur rizqa liman yashā-u wayaqdir ۚ innahu bikulli shay-in `alīm"
+    },
+    {
+      "index": 13,
+      "arabic": "شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحًا وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَمَا وَصَّيْنَا بِهِۦٓ إِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓ ۖ أَنْ أَقِيمُوا۟ ٱلدِّينَ وَلَا تَتَفَرَّقُوا۟ فِيهِ ۚ كَبُرَ عَلَى ٱلْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ۚ ٱللَّهُ يَجْتَبِىٓ إِلَيْهِ مَن يَشَآءُ وَيَهْدِىٓ إِلَيْهِ مَن يُنِيبُ",
+      "translation": "He has prescribed for you the religion which He had enjoined upon Noah and which We have [also] revealed to you, and which We had enjoined upon Abraham, Moses and Jesus, declaring, ‘Maintain the religion, and do not be divided in it.’ Hard on the polytheists is that to which you summon them. Allah chooses for it whomever He wishes, and He guides to it whomever returns penitently [to Him].",
+      "transliteration": "shara`a lakum minad dīni mā waṣṣā bihi nūḥan wal ladhī awḥaynā ilayka wa mā waṣṣaynā bihi ibrāhīma wa mūsā wa`īsā ۖ an aqīmud dīna walā tatafarraqū fīh ۚ kabura `alal-mushrikīna mā tad`ūhum ilayh ۚ allāhu yajtabī ilayhi man yashā-u wayahdī ilayhi man yunīb"
+    },
+    {
+      "index": 14,
+      "arabic": "وَمَا تَفَرَّقُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ إِلَىٰٓ أَجَلٍ مُّسَمًّى لَّقُضِىَ بَيْنَهُمْ ۚ وَإِنَّ ٱلَّذِينَ أُورِثُوا۟ ٱلْكِتَـٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ",
+      "translation": "They did not divide [into sects] except after the knowledge had come to them, out of envy among themselves; and were it not for a prior decree of your Lord [granting them reprieve] until a specified time, decision would have been made between them. Indeed those who were made heirs to the Book after them are in grave doubt concerning it.",
+      "transliteration": "wa mā tafarraqū illā min ba`di mā jā-ahumul `il-mu baghyan baynahum ۚ walawlā kalimatun sabaqat min rabbika ilā ajalin musamman laquḍiya baynahum ۚ wa innal ladhīna ūrithul kitāba min ba`dihim lafī shakkin minhu murīb"
+    },
+    {
+      "index": 15,
+      "arabic": "فَلِذَٰلِكَ فَٱدْعُ ۖ وَٱسْتَقِمْ كَمَآ أُمِرْتَ ۖ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ ۖ وَقُلْ ءَامَنتُ بِمَآ أَنزَلَ ٱللَّهُ مِن كِتَـٰبٍ ۖ وَأُمِرْتُ لِأَعْدِلَ بَيْنَكُمُ ۖ ٱللَّهُ رَبُّنَا وَرَبُّكُمْ ۖ لَنَآ أَعْمَـٰلُنَا وَلَكُمْ أَعْمَـٰلُكُمْ ۖ لَا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ ۖ ٱللَّهُ يَجْمَعُ بَيْنَنَا ۖ وَإِلَيْهِ ٱلْمَصِيرُ",
+      "translation": "So summon to this [unity of religion], and be steadfast, just as you have been commanded, and do not follow their desires, and say, ‘I believe in whatever Book Allah has sent down. I have been commanded to do justice among you. Allah is our Lord and your Lord. Our deeds belong to us and your deeds belong to you. There is no quarrel between us and you. Allah will bring us together and toward Him is the destination.’",
+      "transliteration": "falidhālika fad` ۖ wastaqim kamā umirt ۖ walā tattabi` ahwā-ahum ۖ waqul āmantu bimā anzalallāhu min kitāb ۖ wa-umirtu li-a`dila baynakum ۖ allāhu rabbunā warabbukum ۖ lanā a`mālunā walakum a`mālukum ۖ lā ḥujjata baynanā wabaynakum ۖ allāhu yajma`u baynanā ۖ wa ilayhil maṣīr"
+    },
+    {
+      "index": 16,
+      "arabic": "وَٱلَّذِينَ يُحَآجُّونَ فِى ٱللَّهِ مِنۢ بَعْدِ مَا ٱسْتُجِيبَ لَهُۥ حُجَّتُهُمْ دَاحِضَةٌ عِندَ رَبِّهِمْ وَعَلَيْهِمْ غَضَبٌ وَلَهُمْ عَذَابٌ شَدِيدٌ",
+      "translation": "Those who argue concerning Allah, after His call has been answered, their argument stands refuted with their Lord, and upon them shall be [His] wrath, and there is a severe punishment for them.",
+      "transliteration": "wal ladhīna yuḥājjūna fillāhi min ba`di mas-tujība lahu ḥujjatuhum dāḥiḍatun `inda rabbihim wa`alayhim ghaḍabun walahum `adhābun shadīd"
+    },
+    {
+      "index": 17,
+      "arabic": "ٱللَّهُ ٱلَّذِىٓ أَنزَلَ ٱلْكِتَـٰبَ بِٱلْحَقِّ وَٱلْمِيزَانَ ۗ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ قَرِيبٌ",
+      "translation": "It is Allah who has sent down the Book with the truth and [He has sent down] the Balance. What do you know—maybe the Hour is near!",
+      "transliteration": "allāhul ladhī anzalal-kitāba bil ḥaqqi wal mīzān ۗ wa mā yudrīka la`allas sā`ata qarīb"
+    },
+    {
+      "index": 18,
+      "arabic": "يَسْتَعْجِلُ بِهَا ٱلَّذِينَ لَا يُؤْمِنُونَ بِهَا ۖ وَٱلَّذِينَ ءَامَنُوا۟ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا ٱلْحَقُّ ۗ أَلَآ إِنَّ ٱلَّذِينَ يُمَارُونَ فِى ٱلسَّاعَةِ لَفِى ضَلَـٰلٍۭ بَعِيدٍ",
+      "translation": "Those who do not believe in it ask [you] to hasten it, but those who have faith are apprehensive of it, and know that it is true. Indeed those who are in doubt about the Hour are in extreme error!",
+      "transliteration": "yasta`jilu bihal ladhīna lā yu-minūna bihā ۖ wal ladhīna āmanū mushfiqūna minhā waya`lamūna annahal ḥaqq ۗ alā innal ladhīna yumārūna fis sā`ati lafī ḍalālin ba`īd"
+    },
+    {
+      "index": 19,
+      "arabic": "ٱللَّهُ لَطِيفٌۢ بِعِبَادِهِۦ يَرْزُقُ مَن يَشَآءُ ۖ وَهُوَ ٱلْقَوِىُّ ٱلْعَزِيزُ",
+      "translation": "Allah is all-attentive to His servants. He provides for whomever He wishes, and He is the All-strong, the All-mighty.",
+      "transliteration": "allāhu laṭīfun bi`ibādihi yarzuqu man yashā-u ۖ wahuwal qawiyyul `azīz"
+    },
+    {
+      "index": 20,
+      "arabic": "مَن كَانَ يُرِيدُ حَرْثَ ٱلْـَٔاخِرَةِ نَزِدْ لَهُۥ فِى حَرْثِهِۦ ۖ وَمَن كَانَ يُرِيدُ حَرْثَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِن نَّصِيبٍ",
+      "translation": "Whoever desires the tillage of the Hereafter, We will enhance for him his tillage, and whoever desires the tillage of the world, We will give it to him, but he will have no share in the Hereafter.",
+      "transliteration": "man kāna yurīdu ḥarthal-ākhirati nazid lahu fī ḥarthih ۖ wa man kāna yurīdu ḥarthad dunyā nu-tihi minhā wa mā lahu fil-ākhirati min naṣīb"
+    },
+    {
+      "index": 21,
+      "arabic": "أَمْ لَهُمْ شُرَكَـٰٓؤُا۟ شَرَعُوا۟ لَهُم مِّنَ ٱلدِّينِ مَا لَمْ يَأْذَنۢ بِهِ ٱللَّهُ ۚ وَلَوْلَا كَلِمَةُ ٱلْفَصْلِ لَقُضِىَ بَيْنَهُمْ ۗ وَإِنَّ ٱلظَّـٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ",
+      "translation": "Do they have deities [besides Allah] who have ordained for them a religion not permitted by Allah? Were it not for a [prior] conclusive word, judgement would have been made between them, and indeed a painful punishment awaits the wrongdoers.",
+      "transliteration": "am lahum shurakā-u shara`ū lahum minad dīni mā lam ya-dhan bihillāh ۚ walawlā kalimatul faṣli laquḍiya baynahum ۗ wa innaẓ ẓālimīna lahum `adhābun alīm"
+    },
+    {
+      "index": 22,
+      "arabic": "تَرَى ٱلظَّـٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا۟ وَهُوَ وَاقِعٌۢ بِهِمْ ۗ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فِى رَوْضَاتِ ٱلْجَنَّاتِ ۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ",
+      "translation": "When it is about to befall them, You will see the wrongdoers fearful because of what they have earned; but those who have faith and do righteous deeds will be in the gardens of paradise: they will have whatever they wish near their Lord. That is the mighty grace.",
+      "transliteration": "taraẓ ẓālimīna mushfiqīna mimmā kasabū wahuwa wāqi`un bihim ۗ wal ladhīna āmanū wa`amiluṣ ṣāliḥāti fī rawḍātil jannāt ۖ lahum mā yashā-ūna `inda rabbihim ۚ dhālika huwal faḍlul kabīr"
+    },
+    {
+      "index": 23,
+      "arabic": "ذَٰلِكَ ٱلَّذِى يُبَشِّرُ ٱللَّهُ عِبَادَهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِلَّا ٱلْمَوَدَّةَ فِى ٱلْقُرْبَىٰ ۗ وَمَن يَقْتَرِفْ حَسَنَةً نَّزِدْ لَهُۥ فِيهَا حُسْنًا ۚ إِنَّ ٱللَّهَ غَفُورٌ شَكُورٌ",
+      "translation": "Such is the good news that Allah gives to His servants who have faith and do righteous deeds! Say, ‘I do not ask you any reward for it except the love of [my] relatives.’ Whoever performs a good deed, We shall enhance its goodness for him. Indeed Allah is all-forgiving, all-appreciative.",
+      "transliteration": "dhālikal ladhī yubashhirullāhu `ibādahul ladhīna āmanū wa`amiluṣ ṣāliḥāt ۗ qul lā as-alukum `alayhi ajran illal-mawaddata fil qurbā ۗ wa man yaqtarif ḥasanatan nazid lahu fīhā ḥusnā ۚ innallāha ghafūrun shakūr"
+    },
+    {
+      "index": 24,
+      "arabic": "أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا ۖ فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ ۗ وَيَمْحُ ٱللَّهُ ٱلْبَـٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَـٰتِهِۦٓ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "translation": "Do they say, ‘He has fabricated a lie against Allah’? If so, should Allah wish He would set a seal on your heart, and Allah will efface the falsehood and confirm the truth with His words. Indeed He knows well what is in the breasts.",
+      "transliteration": "am yaqūlūnaf-tarā `alallāhi kadhibā ۖ fa-in yasha-illāhu yakhtim `alā qalbik ۗ wayamḥullāhul bāṭila wayuḥiqqul ḥaqqa bikalimātih ۚ innahu `alīmun bidhātiṣ ṣudūr"
+    },
+    {
+      "index": 25,
+      "arabic": "وَهُوَ ٱلَّذِى يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَعْفُوا۟ عَنِ ٱلسَّيِّـَٔاتِ وَيَعْلَمُ مَا تَفْعَلُونَ",
+      "translation": "It is He who accepts the repentance of His servants, and excuses their misdeeds and knows what you do.",
+      "transliteration": "wahuwal ladhī yaqbalut tawbata `an `ibādihi waya`fū `anis sayyi-āti waya`lamu mā taf`alūn"
+    },
+    {
+      "index": 26,
+      "arabic": "وَيَسْتَجِيبُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَيَزِيدُهُم مِّن فَضْلِهِۦ ۚ وَٱلْكَـٰفِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ",
+      "translation": "He answers [the supplications of] those who have faith and do righteous deeds and enhances them out of His grace. But as for the faithless, there is a severe punishment for them.",
+      "transliteration": "wayastajībul ladhīna āmanū wa`amiluṣ ṣāliḥāti wayazīduhum min faḍlih ۚ wal kāfirūna lahum `adhābun shadīd"
+    },
+    {
+      "index": 27,
+      "arabic": "وَلَوْ بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى ٱلْأَرْضِ وَلَـٰكِن يُنَزِّلُ بِقَدَرٍ مَّا يَشَآءُ ۚ إِنَّهُۥ بِعِبَادِهِۦ خَبِيرٌۢ بَصِيرٌ",
+      "translation": "Were Allah to expand the provision for [all] His servants, they would surely create havoc on the earth. But He sends down in a [precise] measure whatever He wishes. Indeed, He is all-aware, all-seeing about His servants.",
+      "transliteration": "walaw basaṭallāhur rizqa li`ibādihi labaghaw fil-arḍi walākin yunazzilu biqadarin mā yashā-u ۚ innahu bi`ibādihi khabīrun baṣīr"
+    },
+    {
+      "index": 28,
+      "arabic": "وَهُوَ ٱلَّذِى يُنَزِّلُ ٱلْغَيْثَ مِنۢ بَعْدِ مَا قَنَطُوا۟ وَيَنشُرُ رَحْمَتَهُۥ ۚ وَهُوَ ٱلْوَلِىُّ ٱلْحَمِيدُ",
+      "translation": "It is He who sends down the rain after they have been despondent, and unfolds His mercy, and He is the Guardian, the All-laudable.",
+      "transliteration": "wahuwal ladhī yunazzilul ghaytha min ba`di mā qanaṭū wayanshuru raḥmatah ۚ wahuwal waliyyul ḥamīd"
+    },
+    {
+      "index": 29,
+      "arabic": "وَمِنْ ءَايَـٰتِهِۦ خَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَثَّ فِيهِمَا مِن دَآبَّةٍ ۚ وَهُوَ عَلَىٰ جَمْعِهِمْ إِذَا يَشَآءُ قَدِيرٌ",
+      "translation": "Among His signs is the creation of the heavens and the earth and whatever creatures He has scattered in them, and He is able to gather them whenever He wishes.",
+      "transliteration": "wa min āyātihi khalqus samāwāti wal-arḍi wa mā bathha fīhimā min dābbah ۚ wahuwa `alā jam`ihim idhā yashā-u qadīr"
+    },
+    {
+      "index": 30,
+      "arabic": "وَمَآ أَصَـٰبَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُوا۟ عَن كَثِيرٍ",
+      "translation": "Whatever affliction that may visit you is because of what your hands have earned, and He excuses many [an offense of yours].",
+      "transliteration": "wa mā aṣābakum min muṣībatin fabimā kasabat aydīkum waya`fū `an kathīr"
+    },
+    {
+      "index": 31,
+      "arabic": "وَمَآ أَنتُم بِمُعْجِزِينَ فِى ٱلْأَرْضِ ۖ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ",
+      "translation": "You cannot frustrate [Allah] on the earth, and you do not have besides Allah any guardian or helper.",
+      "transliteration": "wa mā antum bimu`jizīna fil-arḍ ۖ wa mā lakum min dūnillāhi min waliyyin walā naṣīr"
+    },
+    {
+      "index": 32,
+      "arabic": "وَمِنْ ءَايَـٰتِهِ ٱلْجَوَارِ فِى ٱلْبَحْرِ كَٱلْأَعْلَـٰمِ",
+      "translation": "Among His signs are the ships [that run] on the sea [appearing] like landmarks.",
+      "transliteration": "wa min āyātihil jawāri fil baḥri kal-a`lām"
+    },
+    {
+      "index": 33,
+      "arabic": "إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "translation": "If He wishes He stills the wind, whereat they remain standstill on its surface. There are indeed signs in that for every patient and grateful [servant].",
+      "transliteration": "in yasha-yuskinir rīḥa fayaẓlalna rawākida `alā ẓahrih ۚ inna fī dhālika la-āyātin likulli ṣabbārin shakūr"
+    },
+    {
+      "index": 34,
+      "arabic": "أَوْ يُوبِقْهُنَّ بِمَا كَسَبُوا۟ وَيَعْفُ عَن كَثِيرٍ",
+      "translation": "Or He wrecks them because of what they have earned, and He excuses many [an offense].",
+      "transliteration": "aw yūbiqhunna bimā kasabū waya`fu `an kathīr"
+    },
+    {
+      "index": 35,
+      "arabic": "وَيَعْلَمَ ٱلَّذِينَ يُجَـٰدِلُونَ فِىٓ ءَايَـٰتِنَا مَا لَهُم مِّن مَّحِيصٍ",
+      "translation": "Let those who dispute Our signs know that there is no escape for them.",
+      "transliteration": "waya`lamal ladhīna yujādilūna fī āyātinā mā lahum min maḥīṣ"
+    },
+    {
+      "index": 36,
+      "arabic": "فَمَآ أُوتِيتُم مِّن شَىْءٍ فَمَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَمَا عِندَ ٱللَّهِ خَيْرٌ وَأَبْقَىٰ لِلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+      "translation": "Whatever you have been given are the wares of the life of this world, but what is with Allah is better and more lasting for those who have faith and who put their trust in their Lord",
+      "transliteration": "famā ūtītum min shay-in famatā`ul ḥayātid dunyā ۖ wa mā `indallāhi khayrun wa-abqā lilladhīna āmanū wa`alā rabbihim yatawakkalūn"
+    },
+    {
+      "index": 37,
+      "arabic": "وَٱلَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ",
+      "translation": "—those who avoid major sins and indecencies, and forgive when angered;",
+      "transliteration": "wal ladhīna yajtanibūna kabā-iral-ithmi wal fawāḥisha wa idhā mā ghaḍibū hum yaghfirūn"
+    },
+    {
+      "index": 38,
+      "arabic": "وَٱلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+      "translation": "those who answer their Lord, maintain the prayer, and [conduct] their affairs by counsel among themselves, and they spend out of what We have provided them;",
+      "transliteration": "wal ladhīnas-tajābū lirabbihim wa-aqāmuṣ ṣalāta wa-amruhum shūrā baynahum wa mimmā razaqnāhum yunfiqūn"
+    },
+    {
+      "index": 39,
+      "arabic": "وَٱلَّذِينَ إِذَآ أَصَابَهُمُ ٱلْبَغْىُ هُمْ يَنتَصِرُونَ",
+      "translation": "those who, when afflicted by oppression, defend themselves.",
+      "transliteration": "wal ladhīna idhā aṣābahumul baghyu hum yantaṣirūn"
+    },
+    {
+      "index": 40,
+      "arabic": "وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلظَّـٰلِمِينَ",
+      "translation": "The requital of evil is an evil like it, so whoever excuses and conciliates, his reward lies with Allah. Indeed, He does not like the wrongdoers.",
+      "transliteration": "wajazā-u sayyi-atin sayyi-atun mithluhā ۖ faman `afā wa-aṣlaḥa fa-ajruhu `alallāh ۚ innahu lā yuḥibbuẓ ẓālimīn"
+    },
+    {
+      "index": 41,
+      "arabic": "وَلَمَنِ ٱنتَصَرَ بَعْدَ ظُلْمِهِۦ فَأُو۟لَـٰٓئِكَ مَا عَلَيْهِم مِّن سَبِيلٍ",
+      "translation": "As for those who retaliate after being wronged, there is no ground for action against them.",
+      "transliteration": "walamanin-taṣara ba`da ẓul-mihi fa-ulā-ika mā `alayhim min sabīl"
+    },
+    {
+      "index": 42,
+      "arabic": "إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَظْلِمُونَ ٱلنَّاسَ وَيَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ ۚ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ",
+      "translation": "The ground for action is only against those who oppress the people and commit tyranny in the land in violation of justice. For such there will be a painful punishment.",
+      "transliteration": "innamas sabīlu `alal ladhīna yaẓlimūnan nāsa wayabghūna fil-arḍi bighayril ḥaqq ۚ ulā-ika lahum `adhābun alīm"
+    },
+    {
+      "index": 43,
+      "arabic": "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ",
+      "translation": "As for someone who endures patiently and forgives—that is indeed the steadiest of courses.",
+      "transliteration": "walaman ṣabara waghafara inna dhālika lamin `azmil-umūr"
+    },
+    {
+      "index": 44,
+      "arabic": "وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن وَلِىٍّ مِّنۢ بَعْدِهِۦ ۗ وَتَرَى ٱلظَّـٰلِمِينَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ يَقُولُونَ هَلْ إِلَىٰ مَرَدٍّ مِّن سَبِيلٍ",
+      "translation": "Those whom Allah leads astray have no guardian apart from Him. You will see the wrongdoers, when they sight the punishment, saying, ‘Is there any way for a retreat?’",
+      "transliteration": "wa man yuḍlilillāhu famā lahu min waliyyin min ba`dih ۗ wataraẓ ẓālimīna lammā ra-awul `adhāba yaqūlūna hal ilā maraddin min sabīl"
+    },
+    {
+      "index": 45,
+      "arabic": "وَتَرَىٰهُمْ يُعْرَضُونَ عَلَيْهَا خَـٰشِعِينَ مِنَ ٱلذُّلِّ يَنظُرُونَ مِن طَرْفٍ خَفِىٍّ ۗ وَقَالَ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ ٱلْخَـٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَـٰمَةِ ۗ أَلَآ إِنَّ ٱلظَّـٰلِمِينَ فِى عَذَابٍ مُّقِيمٍ",
+      "translation": "You will see them being exposed to it, humbled by abasement, furtively looking askance. The faithful will say, ‘Indeed the losers are those who have ruined themselves and their families on the Day of Resurrection. Indeed, the wrongdoers will abide in lasting punishment.",
+      "transliteration": "watarāhum yu`raḍūna `alayhā khāshi`īna minadh dhulli yanẓurūna min ṭarfin khafiyy ۗ waqālal ladhīna āmanū innal khāsirīnal ladhīna khasirū anfusahum wa-ahlīhim yawmal qiyāmah ۗ alā innaẓ ẓālimīna fī `adhābin muqīm"
+    },
+    {
+      "index": 46,
+      "arabic": "وَمَا كَانَ لَهُم مِّنْ أَوْلِيَآءَ يَنصُرُونَهُم مِّن دُونِ ٱللَّهِ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن سَبِيلٍ",
+      "translation": "They have no awliya to help them besides Allah. There is no way out for those whom Allah leads astray.’",
+      "transliteration": "wa mā kāna lahum min awliyā-a yanṣurūnahum min dūnillāh ۗ wa man yuḍlilillāhu famā lahu min sabīl"
+    },
+    {
+      "index": 47,
+      "arabic": "ٱسْتَجِيبُوا۟ لِرَبِّكُم مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِ ۚ مَا لَكُم مِّن مَّلْجَإٍ يَوْمَئِذٍ وَمَا لَكُم مِّن نَّكِيرٍ",
+      "translation": "Respond to your Lord before there comes a day for which there will be no revoking from Allah. On that day you will have no refuge, nor will you have [any chance for] denial [of your sins].",
+      "transliteration": "is-tajībū lirabbikum min qabli an ya-tiya yawmul lā maradda lahu minallāh ۚ mā lakum min malja-in yawma-idhin wa mā lakum min nakīr"
+    },
+    {
+      "index": 48,
+      "arabic": "فَإِنْ أَعْرَضُوا۟ فَمَآ أَرْسَلْنَـٰكَ عَلَيْهِمْ حَفِيظًا ۖ إِنْ عَلَيْكَ إِلَّا ٱلْبَلَـٰغُ ۗ وَإِنَّآ إِذَآ أَذَقْنَا ٱلْإِنسَـٰنَ مِنَّا رَحْمَةً فَرِحَ بِهَا ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَإِنَّ ٱلْإِنسَـٰنَ كَفُورٌ",
+      "translation": "But if they disregard [your warnings], [keep in mind that] We have not sent you as their keeper. Your duty is only to communicate. Indeed when We let man taste Our mercy, he boasts about it; but should an ill visit him because of what his hands have sent ahead, then man is very ungrateful.",
+      "transliteration": "fa-in a`raḍū famā arsalnāka `alayhim ḥafīẓā ۖ in `alayka illal-balāgh ۗ wa innā idhā adhaqnal-insāna minnā raḥmatan fariḥa bihā ۖ wa in tuṣibhum sayyi-atun bimā qaddamat aydīhim fa-innal-insāna kafūr"
+    },
+    {
+      "index": 49,
+      "arabic": "لِّلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ يَخْلُقُ مَا يَشَآءُ ۚ يَهَبُ لِمَن يَشَآءُ إِنَـٰثًا وَيَهَبُ لِمَن يَشَآءُ ٱلذُّكُورَ",
+      "translation": "To Allah belongs the kingdom of the heavens and the earth. He creates whatever He wishes; He gives females to whomever He wishes, and males to whomever He wishes,",
+      "transliteration": "lillāhi mulkus samāwāti wal-arḍ ۚ yakhluqu mā yashā-u ۚ yahabu liman yashā-u ināthan wayahabu liman yashā-udh dhukūr"
+    },
+    {
+      "index": 50,
+      "arabic": "أَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَـٰثًا ۖ وَيَجْعَلُ مَن يَشَآءُ عَقِيمًا ۚ إِنَّهُۥ عَلِيمٌ قَدِيرٌ",
+      "translation": "or He combines them males and females, and makes sterile whomever He wishes. Indeed, He is all-knowing, all-powerful.",
+      "transliteration": "aw yuzawwijuhum dhukrānan wa ināthā ۖ wayaj`alu man yashā-u `aqīmā ۚ innahu `alīmun qadīr"
+    },
+    {
+      "index": 51,
+      "arabic": "وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَآئِ حِجَابٍ أَوْ يُرْسِلَ رَسُولًا فَيُوحِىَ بِإِذْنِهِۦ مَا يَشَآءُ ۚ إِنَّهُۥ عَلِىٌّ حَكِيمٌ",
+      "translation": "It is not [possible] for any human that Allah should speak to him except through revelation or from behind a veil, or send a messenger who reveals by His permission whatever He wishes. Indeed He is all-exalted, all-wise.",
+      "transliteration": "wa mā kāna libasharin an yukallimahullāhu illā waḥyan aw min warā-i ḥijābin aw yursila rasūlan fayūḥiya bi-idhnihi mā yashā-u ۚ innahu `aliyyun ḥakīm"
+    },
+    {
+      "index": 52,
+      "arabic": "وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا ٱلْكِتَـٰبُ وَلَا ٱلْإِيمَـٰنُ وَلَـٰكِن جَعَلْنَـٰهُ نُورًا نَّهْدِى بِهِۦ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَإِنَّكَ لَتَهْدِىٓ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "translation": "Thus have We imbued you with a Spirit of Our command. You did not know what the Book is, nor what is faith; but We made it a light that We may guide by its means whomever We wish of Our servants. Indeed, you guide to a straight path,",
+      "transliteration": "wakadhālika awḥaynā ilayka rūḥan min amrinā ۚ mā kunta tadrī mal kitābu walal-iymānu walākin ja`alnāhu nūran nahdī bihi man nashā-u min `ibādinā ۚ wa innaka latahdī ilā ṣirāṭin mustaqīm"
+    },
+    {
+      "index": 53,
+      "arabic": "صِرَٰطِ ٱللَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ أَلَآ إِلَى ٱللَّهِ تَصِيرُ ٱلْأُمُورُ",
+      "translation": "the path of Allah, to whom belongs whatever is in the heavens and whatever is in the earth. Indeed all matters return to Allah!",
+      "transliteration": "ṣirāṭillāhil ladhī lahu mā fis samāwāti wa mā fil-arḍ ۗ alā ilallāhi taṣīrul-umūr"
+    }
+  ]
+}

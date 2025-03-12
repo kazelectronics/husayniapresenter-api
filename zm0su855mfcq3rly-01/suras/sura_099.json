@@ -1,0 +1,58 @@
+{
+  "index": 99,
+  "name": "الزلزلة",
+  "arabic_name": "الزَّلزَلة",
+  "english_name": "Az-Zalzalah",
+  "english_meaning": "The Earthquake",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "translation": "WHEN THE WORLD is shaken up by its cataclysm,",
+      "transliteration": "idhā zulzilatil-arḍu zilzālahā",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "translation": "And the earth throws out its burdens,",
+      "transliteration": "wa-akhrajatil-arḍu athqālahā"
+    },
+    {
+      "index": 3,
+      "arabic": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+      "translation": "And man enquires: \"What has come over it?\"",
+      "transliteration": "waqālal-insānu mā lahā"
+    },
+    {
+      "index": 4,
+      "arabic": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "translation": "That day it will narrate its annals,",
+      "transliteration": "yawma-idhin tuḥaddithu akhbārahā"
+    },
+    {
+      "index": 5,
+      "arabic": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "translation": "For your Lord will have commanded it.",
+      "transliteration": "bi-anna rabbaka awḥā lahā"
+    },
+    {
+      "index": 6,
+      "arabic": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+      "translation": "That day people will proceed separately to be shown their deeds.",
+      "transliteration": "yawma-idhiy yaṣdurun nāsu ashtātal liyuraw a`mālahum"
+    },
+    {
+      "index": 7,
+      "arabic": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+      "translation": "Whosoever has done even an atom's weight of good will behold it;",
+      "transliteration": "faman ya`mal mithqāla dharratin khayran yarah"
+    },
+    {
+      "index": 8,
+      "arabic": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "translation": "And whosoever has done even an atom's weight of evil will behold that.",
+      "transliteration": "wa man ya`mal mithqāla dharratin sharran yarah"
+    }
+  ]
+}

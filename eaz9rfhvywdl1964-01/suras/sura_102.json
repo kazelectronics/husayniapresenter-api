@@ -1,0 +1,58 @@
+{
+  "index": 102,
+  "name": "التكاثر",
+  "arabic_name": "التَّكَاثر",
+  "english_name": "At-Takāthur",
+  "english_meaning": "The Rivalry in World Increase",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "translation": "Abundance diverts you,",
+      "transliteration": "alhākumut takāthur",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+      "translation": "Until you come to the graves.",
+      "transliteration": "ḥattā zurtumul maqābir"
+    },
+    {
+      "index": 3,
+      "arabic": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "translation": "Nay! you shall soon know,",
+      "transliteration": "kallā sawfa ta`lamūn"
+    },
+    {
+      "index": 4,
+      "arabic": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "translation": "Nay! Nay! you shall soon know.",
+      "transliteration": "thumma kallā sawfa ta`lamūn"
+    },
+    {
+      "index": 5,
+      "arabic": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+      "translation": "Nay! if you had known with a certain knowledge,",
+      "transliteration": "kallā law ta`lamūna `il-mal yaqīn"
+    },
+    {
+      "index": 6,
+      "arabic": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+      "translation": "You should most certainly have seen the hell;",
+      "transliteration": "latarawunnal jaḥīm"
+    },
+    {
+      "index": 7,
+      "arabic": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+      "translation": "Then you shall most certainly see it with the eye of certainty;",
+      "transliteration": "thumma latarawunnahā `aynal yaqīn"
+    },
+    {
+      "index": 8,
+      "arabic": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "translation": "Then on that day you shall most certainly be questioned about the boons.",
+      "transliteration": "thumma latus-alunna yawma-idhin `anin na`īm"
+    }
+  ]
+}

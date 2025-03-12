@@ -1,0 +1,250 @@
+{
+  "index": 78,
+  "name": "النبإ",
+  "arabic_name": "النَّبَأ",
+  "english_name": "An-Naba",
+  "english_meaning": "The Announcement",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "عَمَّ يَتَسَآءَلُونَ",
+      "translation": "Concerning what are they disputing?",
+      "transliteration": "`amma yatasā-alūn",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "عَنِ ٱلنَّبَإِ ٱلْعَظِيمِ",
+      "translation": "Concerning the Great News,",
+      "transliteration": "`anin naba-il `aẓīm"
+    },
+    {
+      "index": 3,
+      "arabic": "ٱلَّذِى هُمْ فِيهِ مُخْتَلِفُونَ",
+      "translation": "About which they cannot agree.",
+      "transliteration": "alladhī hum fīhi mukhtalifūn"
+    },
+    {
+      "index": 4,
+      "arabic": "كَلَّا سَيَعْلَمُونَ",
+      "translation": "Verily, they shall soon (come to) know!",
+      "transliteration": "kallā saya`lamūn"
+    },
+    {
+      "index": 5,
+      "arabic": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
+      "translation": "Verily, verily they shall soon (come to) know!",
+      "transliteration": "thumma kallā saya`lamūn"
+    },
+    {
+      "index": 6,
+      "arabic": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَـٰدًا",
+      "translation": "Have We not made the earth as a wide expanse,",
+      "transliteration": "alam naj`alil-arḍa mihādā"
+    },
+    {
+      "index": 7,
+      "arabic": "وَٱلْجِبَالَ أَوْتَادًا",
+      "translation": "And the mountains as pegs?",
+      "transliteration": "wal jibāla awtādā"
+    },
+    {
+      "index": 8,
+      "arabic": "وَخَلَقْنَـٰكُمْ أَزْوَٰجًا",
+      "translation": "And (have We not) created you in pairs,",
+      "transliteration": "wakhalaqnākum azwājā"
+    },
+    {
+      "index": 9,
+      "arabic": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+      "translation": "And made your sleep for rest,",
+      "transliteration": "waja`alnā nawmakum subātā"
+    },
+    {
+      "index": 10,
+      "arabic": "وَجَعَلْنَا ٱلَّيْلَ لِبَاسًا",
+      "translation": "And made the night as a covering,",
+      "transliteration": "waja`alnal layla libāsā"
+    },
+    {
+      "index": 11,
+      "arabic": "وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًا",
+      "translation": "And made the day as a means of subsistence?",
+      "transliteration": "waja`alnan nahāra ma`āshā"
+    },
+    {
+      "index": 12,
+      "arabic": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+      "translation": "And (have We not) built over you the seven firmaments,",
+      "transliteration": "wabanaynā fawqakum sab`an shidādā"
+    },
+    {
+      "index": 13,
+      "arabic": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+      "translation": "And placed (therein) a Light of Splendour?",
+      "transliteration": "waja`alnā sirājan wahhājā"
+    },
+    {
+      "index": 14,
+      "arabic": "وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءً ثَجَّاجًا",
+      "translation": "And do We not send down from the clouds water in abundance,",
+      "transliteration": "wa-anzalnā minal mu`ṣirāti mā-an thajjājā"
+    },
+    {
+      "index": 15,
+      "arabic": "لِّنُخْرِجَ بِهِۦ حَبًّا وَنَبَاتًا",
+      "translation": "That We may produce therewith corn and vegetables,",
+      "transliteration": "linukhrija bihi ḥabban wanabātā"
+    },
+    {
+      "index": 16,
+      "arabic": "وَجَنَّـٰتٍ أَلْفَافًا",
+      "translation": "And gardens of luxurious growth?",
+      "transliteration": "wajannātin alfāfā"
+    },
+    {
+      "index": 17,
+      "arabic": "إِنَّ يَوْمَ ٱلْفَصْلِ كَانَ مِيقَـٰتًا",
+      "translation": "Verily the Day of Sorting out is a thing appointed,",
+      "transliteration": "inna yawmal faṣli kāna mīqātā"
+    },
+    {
+      "index": 18,
+      "arabic": "يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+      "translation": "The Day that the Trumpet shall be sounded, and ye shall come forth in crowds;",
+      "transliteration": "yawma yunfakhu fiṣ ṣūri fata-tūna afwājā"
+    },
+    {
+      "index": 19,
+      "arabic": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًا",
+      "translation": "And the heavens shall be opened as if there were doors,",
+      "transliteration": "wafutiḥatis samā-u fakānat abwābā"
+    },
+    {
+      "index": 20,
+      "arabic": "وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا",
+      "translation": "And the mountains shall vanish, as if they were a mirage.",
+      "transliteration": "wasuyyiratil jibālu fakānat sarābā"
+    },
+    {
+      "index": 21,
+      "arabic": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+      "translation": "Truly Hell is as a place of ambush,",
+      "transliteration": "inna jahannama kānat mirṣādā"
+    },
+    {
+      "index": 22,
+      "arabic": "لِّلطَّـٰغِينَ مَـَٔابًا",
+      "translation": "For the transgressors a place of destination:",
+      "transliteration": "liṭṭāghīna ma-ābā"
+    },
+    {
+      "index": 23,
+      "arabic": "لَّـٰبِثِينَ فِيهَآ أَحْقَابًا",
+      "translation": "They will dwell therein for ages.",
+      "transliteration": "lābithīna fīhā aḥqābā"
+    },
+    {
+      "index": 24,
+      "arabic": "لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا",
+      "translation": "Nothing cool shall they taste therein, nor any drink,",
+      "transliteration": "lā yadhūqūna fīhā bardan walā sharābā"
+    },
+    {
+      "index": 25,
+      "arabic": "إِلَّا حَمِيمًا وَغَسَّاقًا",
+      "translation": "Save a boiling fluid and a fluid, dark, murky, intensely cold,",
+      "transliteration": "illā ḥamīman waghassāqā"
+    },
+    {
+      "index": 26,
+      "arabic": "جَزَآءً وِفَاقًا",
+      "translation": "A fitting recompense (for them).",
+      "transliteration": "jazā-an wifāqā"
+    },
+    {
+      "index": 27,
+      "arabic": "إِنَّهُمْ كَانُوا۟ لَا يَرْجُونَ حِسَابًا",
+      "translation": "For that they used not to fear any account (for their deeds),",
+      "transliteration": "innahum kānū lā yarjūna ḥisābā"
+    },
+    {
+      "index": 28,
+      "arabic": "وَكَذَّبُوا۟ بِـَٔايَـٰتِنَا كِذَّابًا",
+      "translation": "But they (impudently) treated Our Signs as false.",
+      "transliteration": "wakadhhabū bi-āyātinā kidhhābā"
+    },
+    {
+      "index": 29,
+      "arabic": "وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ كِتَـٰبًا",
+      "translation": "And all things have We preserved on record.",
+      "transliteration": "wakulla shay-in aḥṣaynāhu kitābā"
+    },
+    {
+      "index": 30,
+      "arabic": "فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا",
+      "translation": "\"So taste ye (the fruits of your deeds); for no increase shall We grant you, except in Punishment.\"",
+      "transliteration": "fadhūqū falan nazīdakum illā `adhābā"
+    },
+    {
+      "index": 31,
+      "arabic": "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
+      "translation": "Verily for the Righteous there will be a fulfilment of (the heart's) desires;",
+      "transliteration": "inna lil-muttaqīna mafāzā"
+    },
+    {
+      "index": 32,
+      "arabic": "حَدَآئِقَ وَأَعْنَـٰبًا",
+      "translation": "Gardens enclosed, and grapevines;",
+      "transliteration": "ḥadā-iqa wa-a`nābā"
+    },
+    {
+      "index": 33,
+      "arabic": "وَكَوَاعِبَ أَتْرَابًا",
+      "translation": "And voluptuous women of equal age;",
+      "transliteration": "wakawā`iba atrābā"
+    },
+    {
+      "index": 34,
+      "arabic": "وَكَأْسًا دِهَاقًا",
+      "translation": "And a cup full (to the brim).",
+      "transliteration": "waka-san dihāqā"
+    },
+    {
+      "index": 35,
+      "arabic": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّٰبًا",
+      "translation": "No vanity shall they hear therein, nor Untruth:-",
+      "transliteration": "lā yasma`ūna fīhā laghwan walā kidhhābā"
+    },
+    {
+      "index": 36,
+      "arabic": "جَزَآءً مِّن رَّبِّكَ عَطَآءً حِسَابًا",
+      "translation": "Recompense from thy Lord, a gift, (amply) sufficient,",
+      "transliteration": "jazā-an min rabbika `aṭā-an ḥisābā"
+    },
+    {
+      "index": 37,
+      "arabic": "رَّبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَـٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+      "translation": "(From) the Lord of the heavens and the earth, and all between, (Allah) Most Gracious: None shall have power to argue with Him.",
+      "transliteration": "rabbis samāwāti wal-arḍi wa mā baynahumar raḥmān ۖ lā yamlikūna minhu khiṭābā"
+    },
+    {
+      "index": 38,
+      "arabic": "يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَـٰٓئِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَـٰنُ وَقَالَ صَوَابًا",
+      "translation": "The Day that the Spirit and the angels will stand forth in ranks, none shall speak except any who is permitted by (Allah) Most Gracious, and He will say what is right.",
+      "transliteration": "yawma yaqūmur rūḥu wal malā-ikatu ṣaffā ۖ lā yatakallamūna illā man adhina lahur raḥmānu waqāla ṣawābā"
+    },
+    {
+      "index": 39,
+      "arabic": "ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا",
+      "translation": "That Day will be the sure Reality: Therefore, whoso will, let him take a (straight) return to his Lord!",
+      "transliteration": "dhālikal yawmul ḥaqq ۖ faman shā-at-takhadha ilā rabbihi ma-ābā"
+    },
+    {
+      "index": 40,
+      "arabic": "إِنَّآ أَنذَرْنَـٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَـٰلَيْتَنِى كُنتُ تُرَٰبًۢا",
+      "translation": "Verily, We have warned you of a Penalty near, the Day when man will see (the deeds) which his hands have sent forth, and the Unbeliever will say, \"Woe unto me! Would that I were (metre) dust!\"",
+      "transliteration": "innā andharnākum `adhāban qarīban yawma yanẓurul mar-u mā qaddamat yadāhu wayaqūlul kāfiru yālaytanī kuntu turābā"
+    }
+  ]
+}

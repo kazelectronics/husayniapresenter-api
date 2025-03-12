@@ -1,0 +1,34 @@
+{
+  "index": 106,
+  "name": "قريش",
+  "arabic_name": "قُرَيْش",
+  "english_name": "Quraysh",
+  "english_meaning": "Quraysh",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "لِإِيلَـٰفِ قُرَيْشٍ",
+      "translation": "For the protection of the Qureaish--",
+      "transliteration": "li-iylāfi quraysh",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+      "translation": "Their protection during their trading caravans in the winter and the summer--",
+      "transliteration": "iylāfihim riḥlatash shitā-i waṣ ṣayf"
+    },
+    {
+      "index": 3,
+      "arabic": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
+      "translation": "So let them serve the Lord of this House",
+      "transliteration": "falya`budū rabba hādhal bayt"
+    },
+    {
+      "index": 4,
+      "arabic": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+      "translation": "Who feeds them against hunger and gives them security against fear.",
+      "transliteration": "alladhī aṭ`amahum min jū`in wa-āmanahum min khawf"
+    }
+  ]
+}

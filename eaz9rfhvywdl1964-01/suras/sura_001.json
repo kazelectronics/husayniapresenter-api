@@ -1,0 +1,51 @@
+{
+  "index": 1,
+  "name": "الفاتحة",
+  "arabic_name": "الفَاتِحَة",
+  "english_name": "Al-Fātiḥah",
+  "english_meaning": "The Opening",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
+    },
+    {
+      "index": 2,
+      "arabic": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+      "translation": "All praise is due to Allah, the Lord of the Worlds.",
+      "transliteration": "al-ḥamdu lillāhi rabbil `ālamīn"
+    },
+    {
+      "index": 3,
+      "arabic": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "The Beneficent, the Merciful.",
+      "transliteration": "ar-raḥmānir raḥīm"
+    },
+    {
+      "index": 4,
+      "arabic": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+      "translation": "Master of the Day of Judgment.",
+      "transliteration": "māliki yawmid dīn"
+    },
+    {
+      "index": 5,
+      "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "translation": "Thee do we serve and Thee do we beseech for help.",
+      "transliteration": "iyyāka na`budu wa iyyāka nasta`īn"
+    },
+    {
+      "index": 6,
+      "arabic": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+      "translation": "Keep us on the right path.",
+      "transliteration": "ihdinaṣ ṣirāṭal mustaqīm"
+    },
+    {
+      "index": 7,
+      "arabic": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+      "translation": "The path of those upon whom Thou hast bestowed favors. Not (the path) of those upon whom Thy wrath is brought down, nor of those who go astray.",
+      "transliteration": "ṣirāṭal ladhīna an`amta `alayhim ghayril maghḍūbi `alayhim walaḍ ḍāllīn"
+    }
+  ]
+}

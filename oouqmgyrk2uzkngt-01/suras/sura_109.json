@@ -1,0 +1,46 @@
+{
+  "index": 109,
+  "name": "الكافرون",
+  "arabic_name": "الكَافِرُون",
+  "english_name": "Al-Kāfirūn",
+  "english_meaning": "The Disbelievers",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+      "translation": "Say, ‘O faithless ones!",
+      "transliteration": "qul yā-ayyuhal kāfirūn",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+      "translation": "I do not worship what you worship,",
+      "transliteration": "lā a`budu mā ta`budūn"
+    },
+    {
+      "index": 3,
+      "arabic": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "translation": "nor do you worship what I worship;",
+      "transliteration": "walā antum `ābidūna mā a`bud"
+    },
+    {
+      "index": 4,
+      "arabic": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+      "translation": "nor will I worship what you have worshipped,",
+      "transliteration": "walā ana `ābidun mā `abadtum"
+    },
+    {
+      "index": 5,
+      "arabic": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "translation": "nor will you worship what I worship.",
+      "transliteration": "walā antum `ābidūna mā a`bud"
+    },
+    {
+      "index": 6,
+      "arabic": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+      "translation": "To you your religion, and to me my religion.’",
+      "transliteration": "lakum dīnukum waliya dīn"
+    }
+  ]
+}

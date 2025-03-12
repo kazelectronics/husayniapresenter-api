@@ -1,0 +1,310 @@
+{
+  "index": 77,
+  "name": "المرسلات",
+  "arabic_name": "المُرسَلات",
+  "english_name": "Al-Mursalāt",
+  "english_meaning": "Those Sent Forth",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "وَٱلْمُرْسَلَـٰتِ عُرْفًا",
+      "translation": "By the emissary winds, (sent) one after another",
+      "transliteration": "wal mursalāti `urfā",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "فَٱلْعَـٰصِفَـٰتِ عَصْفًا",
+      "translation": "By the raging hurricanes,",
+      "transliteration": "fal `āṣifāti `aṣfā"
+    },
+    {
+      "index": 3,
+      "arabic": "وَٱلنَّـٰشِرَٰتِ نَشْرًا",
+      "translation": "By those which cause earth's vegetation to revive;",
+      "transliteration": "wan nāshirāti nashrā"
+    },
+    {
+      "index": 4,
+      "arabic": "فَٱلْفَـٰرِقَـٰتِ فَرْقًا",
+      "translation": "By those who winnow with a winnowing,",
+      "transliteration": "fal fāriqāti farqā"
+    },
+    {
+      "index": 5,
+      "arabic": "فَٱلْمُلْقِيَـٰتِ ذِكْرًا",
+      "translation": "By those who bring down the Reminder,",
+      "transliteration": "fal mulqiyāti dhikrā"
+    },
+    {
+      "index": 6,
+      "arabic": "عُذْرًا أَوْ نُذْرًا",
+      "translation": "To excuse or to warn,",
+      "transliteration": "`udhran aw nudhrā"
+    },
+    {
+      "index": 7,
+      "arabic": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
+      "translation": "Surely that which ye are promised will befall.",
+      "transliteration": "innamā tū`adūna lawāqi`"
+    },
+    {
+      "index": 8,
+      "arabic": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+      "translation": "So when the stars are put out,",
+      "transliteration": "fa-idhan nujūmu ṭumisat"
+    },
+    {
+      "index": 9,
+      "arabic": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+      "translation": "And when the sky is riven asunder,",
+      "transliteration": "wa idhas samā-u furijat"
+    },
+    {
+      "index": 10,
+      "arabic": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+      "translation": "And when the mountains are blown away,",
+      "transliteration": "wa idhal jibālu nusifat"
+    },
+    {
+      "index": 11,
+      "arabic": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
+      "translation": "And when the messengers are brought unto their time appointed -",
+      "transliteration": "wa idhar rusulu uqqitat"
+    },
+    {
+      "index": 12,
+      "arabic": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+      "translation": "For what day is the time appointed?",
+      "transliteration": "li-ayyi yawmin ujjilat"
+    },
+    {
+      "index": 13,
+      "arabic": "لِيَوْمِ ٱلْفَصْلِ",
+      "translation": "For the Day of Decision.",
+      "transliteration": "liyawmil faṣl"
+    },
+    {
+      "index": 14,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+      "translation": "And what will convey unto thee what the Day of Decision is! -",
+      "transliteration": "wa mā adrāka mā yawmul faṣl"
+    },
+    {
+      "index": 15,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation": "Woe unto the repudiators on that day!",
+      "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
+    },
+    {
+      "index": 16,
+      "arabic": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+      "translation": "Destroyed We not the former folk,",
+      "transliteration": "alam nuhlikil-awwalīn"
+    },
+    {
+      "index": 17,
+      "arabic": "ثُمَّ نُتْبِعُهُمُ ٱلْـَٔاخِرِينَ",
+      "translation": "Then caused the latter folk to follow after?",
+      "transliteration": "thumma nutbi`uhumul-ākhirīn"
+    },
+    {
+      "index": 18,
+      "arabic": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "translation": "Thus deal We ever with the guilty.",
+      "transliteration": "kadhālika naf`alu bil mujrimīn"
+    },
+    {
+      "index": 19,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation": "Woe unto the repudiators on that day!",
+      "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
+    },
+    {
+      "index": 20,
+      "arabic": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ",
+      "translation": "Did We not create you from a base fluid",
+      "transliteration": "alam nakhluqkum min mā-in mahīn"
+    },
+    {
+      "index": 21,
+      "arabic": "فَجَعَلْنَـٰهُ فِى قَرَارٍ مَّكِينٍ",
+      "translation": "Which We laid up in a safe abode",
+      "transliteration": "faja`alnāhu fī qarārin makīn"
+    },
+    {
+      "index": 22,
+      "arabic": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+      "translation": "For a known term?",
+      "transliteration": "ilā qadarin ma`lūm"
+    },
+    {
+      "index": 23,
+      "arabic": "فَقَدَرْنَا فَنِعْمَ ٱلْقَـٰدِرُونَ",
+      "translation": "Thus We arranged. How excellent is Our arranging!",
+      "transliteration": "faqadarnā fani`mal qādirūn"
+    },
+    {
+      "index": 24,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation": "Woe unto the repudiators on that day!",
+      "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
+    },
+    {
+      "index": 25,
+      "arabic": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+      "translation": "Have We not made the earth a receptacle",
+      "transliteration": "alam naj`alil-arḍa kifātā"
+    },
+    {
+      "index": 26,
+      "arabic": "أَحْيَآءً وَأَمْوَٰتًا",
+      "translation": "Both for the living and the dead,",
+      "transliteration": "aḥyā-an wa-amwātā"
+    },
+    {
+      "index": 27,
+      "arabic": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَـٰمِخَـٰتٍ وَأَسْقَيْنَـٰكُم مَّآءً فُرَاتًا",
+      "translation": "And placed therein high mountains and given you to drink sweet water therein?",
+      "transliteration": "waja`alnā fīhā rawāsiya shāmikhātin wa-asqaynākum mā-an furātā"
+    },
+    {
+      "index": 28,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation": "Woe unto the repudiators on that day!",
+      "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
+    },
+    {
+      "index": 29,
+      "arabic": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "translation": "(It will be said unto them:) Depart unto that (doom) which ye used to deny;",
+      "transliteration": "in-ṭaliqū ilā mā kuntum bihi tukadhhibūn"
+    },
+    {
+      "index": 30,
+      "arabic": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّ ذِى ثَلَـٰثِ شُعَبٍ",
+      "translation": "Depart unto the shadow falling threefold,",
+      "transliteration": "in-ṭaliqū ilā ẓillin dhī thalāthi shu`ab"
+    },
+    {
+      "index": 31,
+      "arabic": "لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+      "translation": "(Which yet is) no relief nor shelter from the flame.",
+      "transliteration": "lā ẓalīlin walā yughnī minallāhab"
+    },
+    {
+      "index": 32,
+      "arabic": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+      "translation": "Lo! it throweth up sparks like the castles,",
+      "transliteration": "innahā tarmī bishararin kal qaṣr"
+    },
+    {
+      "index": 33,
+      "arabic": "كَأَنَّهُۥ جِمَـٰلَتٌ صُفْرٌ",
+      "translation": "(Or) as it might be camels of bright yellow hue.",
+      "transliteration": "ka-annahu jimālatun ṣufr"
+    },
+    {
+      "index": 34,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation": "Woe unto the repudiators on that day!",
+      "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
+    },
+    {
+      "index": 35,
+      "arabic": "هَـٰذَا يَوْمُ لَا يَنطِقُونَ",
+      "translation": "This is a day wherein they speak not,",
+      "transliteration": "hādhā yawmu lā yanṭiqūn"
+    },
+    {
+      "index": 36,
+      "arabic": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+      "translation": "Nor are they suffered to put forth excuses.",
+      "transliteration": "walā yu-dhanu lahum faya`tadhirūn"
+    },
+    {
+      "index": 37,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation": "Woe unto the repudiators on that day!",
+      "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
+    },
+    {
+      "index": 38,
+      "arabic": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَـٰكُمْ وَٱلْأَوَّلِينَ",
+      "translation": "This is the Day of Decision, We have brought you and the men of old together.",
+      "transliteration": "hādhā yawmul faṣl ۖ jama`nākum wal-awwalīn"
+    },
+    {
+      "index": 39,
+      "arabic": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+      "translation": "If now ye have any wit, outwit Me.",
+      "transliteration": "fa-in kāna lakum kaydun fakīdūn"
+    },
+    {
+      "index": 40,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation": "Woe unto the repudiators on that day!",
+      "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
+    },
+    {
+      "index": 41,
+      "arabic": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَـٰلٍ وَعُيُونٍ",
+      "translation": "Lo! those who kept their duty are amid shade and fountains,",
+      "transliteration": "innal muttaqīna fī ẓilālin wa`uyūn"
+    },
+    {
+      "index": 42,
+      "arabic": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+      "translation": "And fruits such as they desire.",
+      "transliteration": "wafawākiha mimmā yashtahūn"
+    },
+    {
+      "index": 43,
+      "arabic": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+      "translation": "(Unto them it is said:) Eat, drink and welcome, O ye blessed, in return for what ye did.",
+      "transliteration": "kulū washrabū hanī-an bimā kuntum ta`malūn"
+    },
+    {
+      "index": 44,
+      "arabic": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "translation": "Thus do We reward the good.",
+      "transliteration": "innā kadhālika najzil muḥsinīn"
+    },
+    {
+      "index": 45,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation": "Woe unto the repudiators on that day!",
+      "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
+    },
+    {
+      "index": 46,
+      "arabic": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+      "translation": "Eat and take your ease (on earth) a little. Lo! ye are guilty.",
+      "transliteration": "kulū watamatta`ū qalīlan innakum mujrimūn"
+    },
+    {
+      "index": 47,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation": "Woe unto the repudiators on that day!",
+      "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
+    },
+    {
+      "index": 48,
+      "arabic": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+      "translation": "When it is said unto them: Bow down, they bow not down!",
+      "transliteration": "wa idhā qīla lahumur-ka`ū lā yarka`ūn"
+    },
+    {
+      "index": 49,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation": "Woe unto the repudiators on that day!",
+      "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
+    },
+    {
+      "index": 50,
+      "arabic": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+      "translation": "In what statement, after this, will they believe?",
+      "transliteration": "fabi-ayyi ḥadīthin ba`dahu yu-minūn"
+    }
+  ]
+}

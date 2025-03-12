@@ -1,0 +1,52 @@
+{
+  "index": 107,
+  "name": "الماعون",
+  "arabic_name": "المَاعُون",
+  "english_name": "Al-Mā`ūn",
+  "english_meaning": "The Small Kindnesses",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+      "translation": "Hast thou observed him who belieth religion?",
+      "transliteration": "ara aytal ladhī yukadhhibu bid dīn",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+      "translation": "That is he who repelleth the orphan,",
+      "transliteration": "fadhālikal ladhī yadu``ul yatīm"
+    },
+    {
+      "index": 3,
+      "arabic": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "translation": "And urgeth not the feeding of the needy.",
+      "transliteration": "walā yaḥuḍḍu `alā ṭa`āmil miskīn"
+    },
+    {
+      "index": 4,
+      "arabic": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+      "translation": "Ah, woe unto worshippers",
+      "transliteration": "fawaylul lil-muṣallīn"
+    },
+    {
+      "index": 5,
+      "arabic": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+      "translation": "Who are heedless of their prayer;",
+      "transliteration": "alladhīna hum `an ṣalātihim sāhūn"
+    },
+    {
+      "index": 6,
+      "arabic": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+      "translation": "Who would be seen (at worship)",
+      "transliteration": "alladhīna hum yurā-ūn"
+    },
+    {
+      "index": 7,
+      "arabic": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+      "translation": "Yet refuse small kindnesses!",
+      "transliteration": "wayamna`ūnal mā`ūn"
+    }
+  ]
+}

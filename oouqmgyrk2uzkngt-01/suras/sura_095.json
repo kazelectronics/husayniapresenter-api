@@ -1,0 +1,58 @@
+{
+  "index": 95,
+  "name": "التين",
+  "arabic_name": "التِّين",
+  "english_name": "At-Tīn",
+  "english_meaning": "The Fig",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "وَٱلتِّينِ وَٱلزَّيْتُونِ",
+      "translation": "By the fig and the olive,",
+      "transliteration": "wat tīni waz zaytūn",
+      "bismillah": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "وَطُورِ سِينِينَ",
+      "translation": "by Mount Sinai,",
+      "transliteration": "waṭūri sīnīn"
+    },
+    {
+      "index": 3,
+      "arabic": "وَهَـٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+      "translation": "and by this secure town:",
+      "transliteration": "wahādhal baladil-amīn"
+    },
+    {
+      "index": 4,
+      "arabic": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ",
+      "translation": "We certainly created man in the best of forms;",
+      "transliteration": "laqad khalaqnal-insāna fī aḥsani taqwym"
+    },
+    {
+      "index": 5,
+      "arabic": "ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ",
+      "translation": "then We relegated him to the lowest of the low,",
+      "transliteration": "thumma radadnāhu asfala sāfilīn"
+    },
+    {
+      "index": 6,
+      "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "translation": "except those who have faith and do righteous deeds. There will be an everlasting reward for them.",
+      "transliteration": "illal ladhīna āmanū wa`amiluṣ ṣāliḥāti falahum ajrun ghayru mamnūn"
+    },
+    {
+      "index": 7,
+      "arabic": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+      "translation": "So what makes you deny the Retribution?",
+      "transliteration": "famā yukadhhibuka ba`du bid dīn"
+    },
+    {
+      "index": 8,
+      "arabic": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ",
+      "translation": "Is not Allah the fairest of all judges?",
+      "transliteration": "alaysallāhu bi-aḥkamil ḥākimīn"
+    }
+  ]
+}

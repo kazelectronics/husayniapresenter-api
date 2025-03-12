@@ -1,0 +1,166 @@
+{
+  "index": 88,
+  "name": "الغاشية",
+  "arabic_name": "الغَاشِيَة",
+  "english_name": "Al-Ghāshiyah",
+  "english_meaning": "The Overwhelming",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
+      "translation": "HAS NEWS OF the Overpowering Event reached you?",
+      "transliteration": "hal atāka ḥadīthul ghāshiyah",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "وُجُوهٌ يَوْمَئِذٍ خَـٰشِعَةٌ",
+      "translation": "Many faces will be contrite on that day,",
+      "transliteration": "wujūhun yawma-idhin khāshi`ah"
+    },
+    {
+      "index": 3,
+      "arabic": "عَامِلَةٌ نَّاصِبَةٌ",
+      "translation": "Labouring, wearied out,",
+      "transliteration": "`āmilatun nāṣibah"
+    },
+    {
+      "index": 4,
+      "arabic": "تَصْلَىٰ نَارًا حَامِيَةً",
+      "translation": "Burning in the scorching fire,",
+      "transliteration": "taṣlā nāran ḥāmiyah"
+    },
+    {
+      "index": 5,
+      "arabic": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ",
+      "translation": "Given water from the boiling spring to drink.",
+      "transliteration": "tusqā min `aynin āniyah"
+    },
+    {
+      "index": 6,
+      "arabic": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+      "translation": "They will have no food except bitter thorn,",
+      "transliteration": "laysa lahum ṭa`āmun illā min ḍarī`"
+    },
+    {
+      "index": 7,
+      "arabic": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ",
+      "translation": "Neither nourishing nor banishing hunger.",
+      "transliteration": "lā yusminu walā yughnī min jū`"
+    },
+    {
+      "index": 8,
+      "arabic": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
+      "translation": "Many faces will be joyous on that day,",
+      "transliteration": "wujūhun yawma-idhin nā`imah"
+    },
+    {
+      "index": 9,
+      "arabic": "لِّسَعْيِهَا رَاضِيَةٌ",
+      "translation": "Well-pleased with their endeavour,",
+      "transliteration": "lisa`yihā rāḍiyah"
+    },
+    {
+      "index": 10,
+      "arabic": "فِى جَنَّةٍ عَالِيَةٍ",
+      "translation": "In the high empyrean,",
+      "transliteration": "fī jannatin `āliyah"
+    },
+    {
+      "index": 11,
+      "arabic": "لَّا تَسْمَعُ فِيهَا لَـٰغِيَةً",
+      "translation": "Never hearing idle talk.",
+      "transliteration": "lā tasma`u fīhā lāghiyah"
+    },
+    {
+      "index": 12,
+      "arabic": "فِيهَا عَيْنٌ جَارِيَةٌ",
+      "translation": "There is a stream of running water in it;",
+      "transliteration": "fīhā `aynun jāriyah"
+    },
+    {
+      "index": 13,
+      "arabic": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+      "translation": "And within it are couches placed on high,",
+      "transliteration": "fīhā sururun marfū`ah"
+    },
+    {
+      "index": 14,
+      "arabic": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+      "translation": "Goblets set,",
+      "transliteration": "wa-akwābun mawḍū`ah"
+    },
+    {
+      "index": 15,
+      "arabic": "وَنَمَارِقُ مَصْفُوفَةٌ",
+      "translation": "Cushions arranged,",
+      "transliteration": "wanamāriqu maṣfūfah"
+    },
+    {
+      "index": 16,
+      "arabic": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+      "translation": "And rich carpets spread.",
+      "transliteration": "wazarābiyyu mabthūthah"
+    },
+    {
+      "index": 17,
+      "arabic": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+      "translation": "Do they not then ponder how the clouds were formed;",
+      "transliteration": "afalā yanẓurūna ilal-ibili kayfa khuliqat"
+    },
+    {
+      "index": 18,
+      "arabic": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+      "translation": "And the heavens, how it was raised high;",
+      "transliteration": "wa ilas samā-i kayfa rufi`at"
+    },
+    {
+      "index": 19,
+      "arabic": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+      "translation": "And the mountains, how they were fixed;",
+      "transliteration": "wa ilal-jibāli kayfa nuṣibat"
+    },
+    {
+      "index": 20,
+      "arabic": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
+      "translation": "And the earth, how it was spread out?",
+      "transliteration": "wa ilal-arḍi kayfa suṭiḥat"
+    },
+    {
+      "index": 21,
+      "arabic": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ",
+      "translation": "Remind them; you are surely a reminder.",
+      "transliteration": "fadhakkir innamā anta mudhakkir"
+    },
+    {
+      "index": 22,
+      "arabic": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+      "translation": "You are not a warden over them,",
+      "transliteration": "lasta `alayhim bimuṣayṭir"
+    },
+    {
+      "index": 23,
+      "arabic": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+      "translation": "Other than him who turns his back and denies,",
+      "transliteration": "illā man tawallā wakafar"
+    },
+    {
+      "index": 24,
+      "arabic": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+      "translation": "In which case he will be punished by God with the severest punishment.",
+      "transliteration": "fayu`adhhibuhullāhul `adhābal-akbar"
+    },
+    {
+      "index": 25,
+      "arabic": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+      "translation": "To Us is surely their returning;",
+      "transliteration": "inna ilaynā iyābahum"
+    },
+    {
+      "index": 26,
+      "arabic": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+      "translation": "Ours is surely then to reckon with them.",
+      "transliteration": "thumma inna `alaynā ḥisābahum"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "index": 107,
+  "name": "الماعون",
+  "arabic_name": "المَاعُون",
+  "english_name": "Al-Mā`ūn",
+  "english_meaning": "The Small Kindnesses",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+      "translation": "HAVE YOU SEEN him who denies the Day of Judgement?",
+      "transliteration": "ara aytal ladhī yukadhhibu bid dīn",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+      "translation": "It is he who pushes the orphan away,",
+      "transliteration": "fadhālikal ladhī yadu``ul yatīm"
+    },
+    {
+      "index": 3,
+      "arabic": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "translation": "And does not induce others to feed the needy.",
+      "transliteration": "walā yaḥuḍḍu `alā ṭa`āmil miskīn"
+    },
+    {
+      "index": 4,
+      "arabic": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+      "translation": "Woe to those who pray",
+      "transliteration": "fawaylul lil-muṣallīn"
+    },
+    {
+      "index": 5,
+      "arabic": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+      "translation": "But who are oblivious of their moral duties,",
+      "transliteration": "alladhīna hum `an ṣalātihim sāhūn"
+    },
+    {
+      "index": 6,
+      "arabic": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+      "translation": "Who dissimulate",
+      "transliteration": "alladhīna hum yurā-ūn"
+    },
+    {
+      "index": 7,
+      "arabic": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+      "translation": "And withhold things of common use (from others).",
+      "transliteration": "wayamna`ūnal mā`ūn"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "index": 105,
+  "name": "الفيل",
+  "arabic_name": "الفِيل",
+  "english_name": "Al-Fīl",
+  "english_meaning": "The Elephant",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+      "translation": "Have you not considered how your Lord dealt with the possessors of the elephant?",
+      "transliteration": "alam tara kayfa fa`ala rabbuka bi-aṣ-ḥābil fīl",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+      "translation": "Did He not cause their war to end in confusion,",
+      "transliteration": "alam yaj`al kaydahum fī taḍlīl"
+    },
+    {
+      "index": 3,
+      "arabic": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "translation": "And send down (to prey) upon them birds in flocks,",
+      "transliteration": "wa-arsala `alayhim ṭayran abābīl"
+    },
+    {
+      "index": 4,
+      "arabic": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "translation": "Casting against them stones of baked clay,",
+      "transliteration": "tarmīhim biḥijāratim min sijjīl"
+    },
+    {
+      "index": 5,
+      "arabic": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+      "translation": "So He rendered them like straw eaten up?",
+      "transliteration": "faja`alahum ka`aṣfin ma-kūl"
+    }
+  ]
+}

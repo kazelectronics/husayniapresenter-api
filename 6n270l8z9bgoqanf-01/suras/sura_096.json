@@ -1,0 +1,124 @@
+{
+  "index": 96,
+  "name": "العلق",
+  "arabic_name": "العَلَق",
+  "english_name": "Al-Alaq",
+  "english_meaning": "The Clot",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+      "translation": "Read: In the name of thy Lord Who createth,",
+      "transliteration": "iqra-bismi rabbikal ladhī khalaq",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ",
+      "translation": "Createth man from a clot.",
+      "transliteration": "khalaqal-insāna min `alaq"
+    },
+    {
+      "index": 3,
+      "arabic": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+      "translation": "Read: And thy Lord is the Most Bounteous,",
+      "transliteration": "iqra-warabbukal-akram"
+    },
+    {
+      "index": 4,
+      "arabic": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+      "translation": "Who teacheth by the pen,",
+      "transliteration": "alladhī `allama bil qalam"
+    },
+    {
+      "index": 5,
+      "arabic": "عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
+      "translation": "Teacheth man that which he knew not.",
+      "transliteration": "`allamal-insāna mā lam ya`lam"
+    },
+    {
+      "index": 6,
+      "arabic": "كَلَّآ إِنَّ ٱلْإِنسَـٰنَ لَيَطْغَىٰٓ",
+      "translation": "Nay, but verily man is rebellious",
+      "transliteration": "kallā innal-insāna layaṭghā"
+    },
+    {
+      "index": 7,
+      "arabic": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+      "translation": "That he thinketh himself independent!",
+      "transliteration": "an ra-āhus taghnā"
+    },
+    {
+      "index": 8,
+      "arabic": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+      "translation": "Lo! unto thy Lord is the return.",
+      "transliteration": "inna ilā rabbikar ruj`ā"
+    },
+    {
+      "index": 9,
+      "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+      "translation": "Hast thou seen him who dissuadeth",
+      "transliteration": "ara aytal ladhī yanhā"
+    },
+    {
+      "index": 10,
+      "arabic": "عَبْدًا إِذَا صَلَّىٰٓ",
+      "translation": "A slave when he prayeth?",
+      "transliteration": "`abdan idhā ṣallā"
+    },
+    {
+      "index": 11,
+      "arabic": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+      "translation": "Hast thou seen if he relieth on the guidance (of Allah)",
+      "transliteration": "ara ayta in kāna `alal-hudā"
+    },
+    {
+      "index": 12,
+      "arabic": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+      "translation": "Or enjoineth piety?",
+      "transliteration": "aw amara bit taqwā"
+    },
+    {
+      "index": 13,
+      "arabic": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "translation": "Hast thou seen if he denieth (Allah's guidance) and is froward?",
+      "transliteration": "ara ayta in kadhhaba watawallā"
+    },
+    {
+      "index": 14,
+      "arabic": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "translation": "Is he then unaware that Allah seeth?",
+      "transliteration": "alam ya`lam bi-annallāha yarā"
+    },
+    {
+      "index": 15,
+      "arabic": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+      "translation": "Nay, but if he cease not We will seize him by the forelock -",
+      "transliteration": "kallā la-in lam yantahi lanasfa`an bin nāṣiyah"
+    },
+    {
+      "index": 16,
+      "arabic": "نَاصِيَةٍ كَـٰذِبَةٍ خَاطِئَةٍ",
+      "translation": "The lying, sinful forelock -",
+      "transliteration": "nāṣiyatin kādhibatin khāṭi-ah"
+    },
+    {
+      "index": 17,
+      "arabic": "فَلْيَدْعُ نَادِيَهُۥ",
+      "translation": "Then let him call upon his henchmen!",
+      "transliteration": "falyad`u nādiyah"
+    },
+    {
+      "index": 18,
+      "arabic": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+      "translation": "We will call the guards of hell.",
+      "transliteration": "sanad`uz zabāniyah"
+    },
+    {
+      "index": 19,
+      "arabic": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+      "translation": "Nay, Obey not thou him. But prostrate thyself, and draw near (unto Allah).",
+      "transliteration": "kallā lā tuṭi`hu wasjud waqtarib ۩"
+    }
+  ]
+}

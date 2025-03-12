@@ -1,0 +1,64 @@
+{
+  "index": 104,
+  "name": "الهمزة",
+  "arabic_name": "الهُمَزَة",
+  "english_name": "Al-Humazah",
+  "english_meaning": "The Traducer",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+      "translation": "Woe unto every slandering traducer,",
+      "transliteration": "waylul likulli humazatin lumazah",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+      "translation": "Who hath gathered wealth (of this world) and arranged it.",
+      "transliteration": "alladhī jama`a mālan wa`addadah"
+    },
+    {
+      "index": 3,
+      "arabic": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "translation": "He thinketh that his wealth will render him immortal.",
+      "transliteration": "yaḥsabu anna mālahu akhladah"
+    },
+    {
+      "index": 4,
+      "arabic": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+      "translation": "Nay, but verily he will be flung to the Consuming One.",
+      "transliteration": "kallā ۖ layunbadhanna fil ḥuṭamah"
+    },
+    {
+      "index": 5,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+      "translation": "Ah, what will convey unto thee what the Consuming One is!",
+      "transliteration": "wa mā adrāka mal ḥuṭamah"
+    },
+    {
+      "index": 6,
+      "arabic": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+      "translation": "(It is) the fire of Allah, kindled,",
+      "transliteration": "nārullāhil mūqadah"
+    },
+    {
+      "index": 7,
+      "arabic": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+      "translation": "Which leapeth up over the hearts (of men).",
+      "transliteration": "allatī taṭṭali`u `alal-af-idah"
+    },
+    {
+      "index": 8,
+      "arabic": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+      "translation": "Lo! it is closed in on them",
+      "transliteration": "innahā `alayhim mu-ṣadah"
+    },
+    {
+      "index": 9,
+      "arabic": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+      "translation": "In outstretched columns.",
+      "transliteration": "fī `amadin mumaddadah"
+    }
+  ]
+}

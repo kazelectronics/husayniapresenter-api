@@ -1,0 +1,136 @@
+{
+  "index": 92,
+  "name": "الليل",
+  "arabic_name": "اللَّيْل",
+  "english_name": "Al-Layl",
+  "english_meaning": "The Night",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+      "translation": "By the night enshrouding",
+      "transliteration": "wal layli idhā yaghshā",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+      "translation": "And the day resplendent",
+      "transliteration": "wan nahāri idhā tajallā"
+    },
+    {
+      "index": 3,
+      "arabic": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+      "translation": "And Him Who hath created male and female,",
+      "transliteration": "wa mā khalaqadh dhakara wal-unthā"
+    },
+    {
+      "index": 4,
+      "arabic": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+      "translation": "Lo! your effort is dispersed (toward divers ends).",
+      "transliteration": "inna sa`yakum lashattā"
+    },
+    {
+      "index": 5,
+      "arabic": "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ",
+      "translation": "As for him who giveth and is dutiful (toward Allah)",
+      "transliteration": "fa-ammā man a`ṭā wattaqā"
+    },
+    {
+      "index": 6,
+      "arabic": "وَصَدَّقَ بِٱلْحُسْنَىٰ",
+      "translation": "And believeth in goodness;",
+      "transliteration": "waṣaddaqa bil ḥusnā"
+    },
+    {
+      "index": 7,
+      "arabic": "فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ",
+      "translation": "Surely We will ease his way unto the state of ease.",
+      "transliteration": "fasanuyassiruhu lilyusrā"
+    },
+    {
+      "index": 8,
+      "arabic": "وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ",
+      "translation": "But as for him who hoardeth and deemeth himself independent,",
+      "transliteration": "wa-ammā man bakhila wastaghnā"
+    },
+    {
+      "index": 9,
+      "arabic": "وَكَذَّبَ بِٱلْحُسْنَىٰ",
+      "translation": "And disbelieveth in goodness;",
+      "transliteration": "wakadhhaba bil ḥusnā"
+    },
+    {
+      "index": 10,
+      "arabic": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
+      "translation": "Surely We will ease his way unto adversity.",
+      "transliteration": "fasanuyassiruhu lil`usrā"
+    },
+    {
+      "index": 11,
+      "arabic": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+      "translation": "His riches will not save him when he perisheth.",
+      "transliteration": "wa mā yughnī `anhu māluhu idhā taraddā"
+    },
+    {
+      "index": 12,
+      "arabic": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+      "translation": "Lo! Ours it is (to give) the guidance",
+      "transliteration": "inna `alaynā lalhudā"
+    },
+    {
+      "index": 13,
+      "arabic": "وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ",
+      "translation": "And lo! unto Us belong the latter portion and the former.",
+      "transliteration": "wa inna lanā lal-ākhirata wal-ūlā"
+    },
+    {
+      "index": 14,
+      "arabic": "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+      "translation": "Therefor have I warned you of the flaming Fire",
+      "transliteration": "fa-andhartukum nāran talaẓẓā"
+    },
+    {
+      "index": 15,
+      "arabic": "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى",
+      "translation": "Which only the most wretched must endure,",
+      "transliteration": "lā yaṣlāhā illal-ashqā"
+    },
+    {
+      "index": 16,
+      "arabic": "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ",
+      "translation": "He who denieth and turneth away.",
+      "transliteration": "alladhī kadhhaba watawallā"
+    },
+    {
+      "index": 17,
+      "arabic": "وَسَيُجَنَّبُهَا ٱلْأَتْقَى",
+      "translation": "Far removed from it will be the righteous",
+      "transliteration": "wasayujannabuhal-atqā"
+    },
+    {
+      "index": 18,
+      "arabic": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
+      "translation": "Who giveth his wealth that he may grow (in goodness).",
+      "transliteration": "alladhī yu-tī mālahu yatazakkā"
+    },
+    {
+      "index": 19,
+      "arabic": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ",
+      "translation": "And none hath with him any favour for reward,",
+      "transliteration": "wa mā li-aḥadin `indahu min ni`matin tujzā"
+    },
+    {
+      "index": 20,
+      "arabic": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ",
+      "translation": "Except as seeking (to fulfil) the purpose of his Lord Most High.",
+      "transliteration": "illab-tighā-a wajhi rabbihil-a`lā"
+    },
+    {
+      "index": 21,
+      "arabic": "وَلَسَوْفَ يَرْضَىٰ",
+      "translation": "He verily will be content.",
+      "transliteration": "walasawfa yarḍā"
+    }
+  ]
+}

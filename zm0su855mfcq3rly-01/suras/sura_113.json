@@ -1,0 +1,40 @@
+{
+  "index": 113,
+  "name": "الفلق",
+  "arabic_name": "الفَلَق",
+  "english_name": "Al-Falaq",
+  "english_meaning": "The Daybreak",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "translation": "SAY: \"I SEEK refuge with the Lord of rising day",
+      "transliteration": "qul a`ūdhu birabbil falaq",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "مِن شَرِّ مَا خَلَقَ",
+      "translation": "From the evil of what He has created,",
+      "transliteration": "min sharri mā khalaq"
+    },
+    {
+      "index": 3,
+      "arabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "translation": "And the evil of evening darkness when it overspreads,",
+      "transliteration": "wa min sharri ghāsiqin idhā waqab"
+    },
+    {
+      "index": 4,
+      "arabic": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+      "translation": "From the evil of sorceresses who blow incantations on knots,",
+      "transliteration": "wa min sharrin naffāthāti fil `uqad"
+    },
+    {
+      "index": 5,
+      "arabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "translation": "From the evil of the envier when he envies.",
+      "transliteration": "wa min sharri ḥāsidin idhā ḥasad"
+    }
+  ]
+}

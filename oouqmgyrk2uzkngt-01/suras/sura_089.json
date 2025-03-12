@@ -1,0 +1,190 @@
+{
+  "index": 89,
+  "name": "الفجر",
+  "arabic_name": "الفَجْر",
+  "english_name": "Al-Fajr",
+  "english_meaning": "The Dawn",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "وَٱلْفَجْرِ",
+      "translation": "By the Dawn,",
+      "transliteration": "wal fajr",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "وَلَيَالٍ عَشْرٍ",
+      "translation": "by the ten nights,",
+      "transliteration": "walayālin `ashr"
+    },
+    {
+      "index": 3,
+      "arabic": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+      "translation": "by the Even and the Odd,",
+      "transliteration": "wash shaf`i wal watr"
+    },
+    {
+      "index": 4,
+      "arabic": "وَٱلَّيْلِ إِذَا يَسْرِ",
+      "translation": "by the night when it departs!",
+      "transliteration": "wal layli idhā yasr"
+    },
+    {
+      "index": 5,
+      "arabic": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
+      "translation": "Is there an oath in that for one possessing intellect?",
+      "transliteration": "hal fī dhālika qasamul lidhī ḥijr"
+    },
+    {
+      "index": 6,
+      "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "translation": "Have you not regarded how your Lord dealt with [the people of] ‘Ad,",
+      "transliteration": "alam tara kayfa fa`ala rabbuka bi`ād"
+    },
+    {
+      "index": 7,
+      "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+      "translation": "[and] Iram, [the city] of the pillars,",
+      "transliteration": "irama dhātil `imād"
+    },
+    {
+      "index": 8,
+      "arabic": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَـٰدِ",
+      "translation": "the like of which was not created among cities,",
+      "transliteration": "allatī lam yukhlaq mithluhā fil bilād"
+    },
+    {
+      "index": 9,
+      "arabic": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+      "translation": "and [the people of] Thamud, who hollowed out the rocks in the valley,",
+      "transliteration": "wathamūdal ladhīna jābuṣ ṣakhra bil wād"
+    },
+    {
+      "index": 10,
+      "arabic": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+      "translation": "and Pharaoh, the impaler",
+      "transliteration": "wafir`awna dhil-awtād"
+    },
+    {
+      "index": 11,
+      "arabic": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَـٰدِ",
+      "translation": "—those who rebelled [against Allah] in their cities",
+      "transliteration": "alladhīna ṭaghaw fil bilād"
+    },
+    {
+      "index": 12,
+      "arabic": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
+      "translation": "and caused much corruption in them,",
+      "transliteration": "fa-aktharū fīhal fasād"
+    },
+    {
+      "index": 13,
+      "arabic": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+      "translation": "so your Lord poured on them lashes of punishment.",
+      "transliteration": "faṣabba `alayhim rabbuka sawṭa `adhāb"
+    },
+    {
+      "index": 14,
+      "arabic": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+      "translation": "Indeed your Lord is in ambush.",
+      "transliteration": "inna rabbaka labil mirṣād"
+    },
+    {
+      "index": 15,
+      "arabic": "فَأَمَّا ٱلْإِنسَـٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+      "translation": "As for man, whenever his Lord tests him, and grants him honour, and blesses him, he says, ‘My Lord has honoured me.’",
+      "transliteration": "fa-ammal-insānu idhā mab-talāhu rabbuhu fa-akramahu wana``amahu fayaqūlu rabbī akraman"
+    },
+    {
+      "index": 16,
+      "arabic": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَـٰنَنِ",
+      "translation": "But when He tests him and tightens for him his provision, he says, ‘My Lord has humiliated me.’",
+      "transliteration": "wa-ammā idhā mab-talāhu faqadara `alayhi rizqahu fayaqūlu rabbī ahānan"
+    },
+    {
+      "index": 17,
+      "arabic": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
+      "translation": "No indeed! No, you do not honour the orphan,",
+      "transliteration": "kallā ۖ bal lā tukrimūnal yatīm"
+    },
+    {
+      "index": 18,
+      "arabic": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "translation": "and do not urge the feeding of the needy.",
+      "transliteration": "walā taḥāḍḍūna `alā ṭa`āmil miskīn"
+    },
+    {
+      "index": 19,
+      "arabic": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا",
+      "translation": "You eat the inheritance rapaciously,",
+      "transliteration": "wata-kulūnat turātha aklal lammā"
+    },
+    {
+      "index": 20,
+      "arabic": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+      "translation": "and love wealth with much fondness.",
+      "transliteration": "watuḥibbūnal māla ḥubban jammā"
+    },
+    {
+      "index": 21,
+      "arabic": "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّا دَكًّا",
+      "translation": "No indeed! When the earth is levelled to a plain,",
+      "transliteration": "kallā idhā dukkatil-arḍu dakkan dakkā"
+    },
+    {
+      "index": 22,
+      "arabic": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا",
+      "translation": "and your Lord [’s edict] arrives with the angels in ranks,",
+      "transliteration": "wajā-a rabbuka wal malaku ṣaffan ṣaffā"
+    },
+    {
+      "index": 23,
+      "arabic": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+      "translation": "the day when hell is brought [near], man will take admonition on that day, but what will that admonition avail him?",
+      "transliteration": "wajī-a yawma-idhin bijahannam ۚ yawma-idhiy yatadhakkarul-insānu wa-annā lahudh dhikrā"
+    },
+    {
+      "index": 24,
+      "arabic": "يَقُولُ يَـٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
+      "translation": "He will say, ‘Alas, had I sent ahead for my life [in the Hereafter]!’",
+      "transliteration": "yaqūlu yālaytanī qaddamtu liḥayātī"
+    },
+    {
+      "index": 25,
+      "arabic": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌ",
+      "translation": "On that day none shall punish as He punishes,",
+      "transliteration": "fayawma-idhin lā yu`adhhibu `adhābahu aḥad"
+    },
+    {
+      "index": 26,
+      "arabic": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌ",
+      "translation": "and none shall bind as He binds.",
+      "transliteration": "walā yūthiqu wathāqahu aḥad"
+    },
+    {
+      "index": 27,
+      "arabic": "يَـٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
+      "translation": "‘O soul at peace!",
+      "transliteration": "yā-ayyatuhan nafsul muṭma-innah"
+    },
+    {
+      "index": 28,
+      "arabic": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+      "translation": "Return to your Lord, pleased and pleasing!",
+      "transliteration": "irji`ī ilā rabbiki rāḍiyatan marḍiyyah"
+    },
+    {
+      "index": 29,
+      "arabic": "فَٱدْخُلِى فِى عِبَـٰدِى",
+      "translation": "Then enter among My servants,",
+      "transliteration": "fadkhulī fī `ibādī"
+    },
+    {
+      "index": 30,
+      "arabic": "وَٱدْخُلِى جَنَّتِى",
+      "translation": "and enter My paradise!’",
+      "transliteration": "wadkhulī jannatī"
+    }
+  ]
+}

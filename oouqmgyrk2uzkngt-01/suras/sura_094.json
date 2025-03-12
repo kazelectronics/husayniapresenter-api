@@ -1,0 +1,58 @@
+{
+  "index": 94,
+  "name": "الشرح",
+  "arabic_name": "الشَّرْح",
+  "english_name": "Ash-Sharḥ",
+  "english_meaning": "The Relief",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "translation": "Did We not open your breast for you",
+      "transliteration": "alam nashraḥ laka ṣadrak",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "translation": "and relieve you of your burden",
+      "transliteration": "wawaḍa`nā `anka wizrak"
+    },
+    {
+      "index": 3,
+      "arabic": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "translation": "which [almost] broke your back?",
+      "transliteration": "alladhī anqaḍa ẓahrak"
+    },
+    {
+      "index": 4,
+      "arabic": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "translation": "Did We not exalt your name?",
+      "transliteration": "warafa`nā laka dhikrak"
+    },
+    {
+      "index": 5,
+      "arabic": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "translation": "Indeed ease accompanies hardship.",
+      "transliteration": "fa-inna ma`al `usri yusrā"
+    },
+    {
+      "index": 6,
+      "arabic": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "translation": "Indeed ease accompanies hardship.",
+      "transliteration": "inna ma`al `usri yusrā"
+    },
+    {
+      "index": 7,
+      "arabic": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "translation": "So when you are done, appoint,",
+      "transliteration": "fa-idhā faraghta fanṣab"
+    },
+    {
+      "index": 8,
+      "arabic": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "translation": "and supplicate your Lord.",
+      "transliteration": "wa ilā rabbika farghab"
+    }
+  ]
+}

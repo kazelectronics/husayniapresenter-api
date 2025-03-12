@@ -1,0 +1,28 @@
+{
+  "index": 103,
+  "name": "العصر",
+  "arabic_name": "العَصْر",
+  "english_name": "Al-Aṣr",
+  "english_meaning": "The Declining Day",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "وَٱلْعَصْرِ",
+      "translation": "By Time!",
+      "transliteration": "wal `aṣr",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+      "translation": "Man is indeed in loss,",
+      "transliteration": "innal-insāna lafī khusr"
+    },
+    {
+      "index": 3,
+      "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "translation": "except those who have faith and do righteous deeds, and enjoin one another to [follow] the truth, and enjoin one another to patience.",
+      "transliteration": "illal ladhīna āmanū wa`amiluṣ ṣāliḥāti watawāṣaw bil ḥaqqi watawāṣaw biṣ ṣabr"
+    }
+  ]
+}

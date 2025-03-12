@@ -1,0 +1,40 @@
+{
+  "index": 105,
+  "name": "الفيل",
+  "arabic_name": "الفِيل",
+  "english_name": "Al-Fīl",
+  "english_meaning": "The Elephant",
+  "ayas": [
+    {
+      "index": 1,
+      "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+      "translation": "HAVE YOU NOT seen how your Lord dealt with the people of the elephants?",
+      "transliteration": "alam tara kayfa fa`ala rabbuka bi-aṣ-ḥābil fīl",
+      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "index": 2,
+      "arabic": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+      "translation": "Did He not make their plan go wrong,",
+      "transliteration": "alam yaj`al kaydahum fī taḍlīl"
+    },
+    {
+      "index": 3,
+      "arabic": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "translation": "And sent hordes of chargers flying against them,",
+      "transliteration": "wa-arsala `alayhim ṭayran abābīl"
+    },
+    {
+      "index": 4,
+      "arabic": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "translation": "(While) you were pelting them with stones of porphyritic lava,",
+      "transliteration": "tarmīhim biḥijāratim min sijjīl"
+    },
+    {
+      "index": 5,
+      "arabic": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+      "translation": "And turned them into pastured fields of corn?",
+      "transliteration": "faja`alahum ka`aṣfin ma-kūl"
+    }
+  ]
+}
