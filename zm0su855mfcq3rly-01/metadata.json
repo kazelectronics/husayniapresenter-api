@@ -3,7 +3,12 @@
     "source": "HusayniyyahPresenter API",
     "format_version": "1.0",
     "merged_date": "2025-03-12",
-    "arabic_source": "Tanzil Quran Text (Uthmani, Version 1.1)",
+    "arabic": {
+      "id": "uthmani",
+      "name": "Uthmani",
+      "language": "ar",
+      "source": "Tanzil.net"
+    },
     "translation": {
       "id": "en.ahmedali",
       "name": "Ahmed Ali",
