@@ -6,17 +6,15 @@
   "english_meaning": "The Groups",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, most benevolent, ever-merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
       "translation": "THE REVELATION OF this Book is from God, the mighty and all-wise.",
-      "transliteration": "tanzīlul kitābi minallāhil `azīzil ḥakīm"
+      "transliteration": "tanzīlul kitābi minallāhil `azīzil ḥakīm",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, most benevolent, ever-merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

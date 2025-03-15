@@ -6,17 +6,15 @@
   "english_meaning": "The Prohibition",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, the Beneficent, the Merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ لِمَ تُحَرِّمُ مَآ أَحَلَّ ٱللَّهُ لَكَ ۖ تَبْتَغِى مَرْضَاتَ أَزْوَٰجِكَ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
       "translation": "O Prophet! Why bannest thou that which Allah hath made lawful for thee, seeking to please thy wives? And Allah is Forgiving, Merciful.",
-      "transliteration": "yā-ayyuhan nabiyyu lima tuḥarrimu mā aḥallallāhu lak ۖ tabtaghī marḍāta azwājik ۚ wallāhu ghafūrun raḥīm"
+      "transliteration": "yā-ayyuhan nabiyyu lima tuḥarrimu mā aḥallallāhu lak ۖ tabtaghī marḍāta azwājik ۚ wallāhu ghafūrun raḥīm",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, the Beneficent, the Merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

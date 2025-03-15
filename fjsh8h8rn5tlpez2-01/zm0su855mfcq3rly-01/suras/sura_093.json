@@ -6,17 +6,15 @@
   "english_meaning": "The Morning Hours",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, most benevolent, ever-merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "وَٱلضُّحَىٰ",
       "translation": "I CALL TO witness the early hours of morning,",
-      "transliteration": "waḍ ḍuḥā"
+      "transliteration": "waḍ ḍuḥā",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, most benevolent, ever-merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

@@ -6,17 +6,15 @@
   "english_meaning": "Mankind",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
       "translation": "Say, ‘I seek the protection of the Lord of humans,",
-      "transliteration": "qul a`ūdhu birabbin nās"
+      "transliteration": "qul a`ūdhu birabbin nās",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

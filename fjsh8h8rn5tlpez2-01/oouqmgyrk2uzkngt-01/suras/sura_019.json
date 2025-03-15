@@ -6,17 +6,15 @@
   "english_meaning": "Mary",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "كٓهيعٓصٓ",
       "translation": "Kaf, Ha, Ya, ‘Ayn, Suad.",
-      "transliteration": "kāf hā yā 'in ṣād"
+      "transliteration": "kāf hā yā 'in ṣād",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

@@ -6,17 +6,15 @@
   "english_meaning": "The Women",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, the Beneficent, the Merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ ۚ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
       "translation": "O people! be careful of (your duty to) your Lord, Who created you from a single being and created its mate of the same (kind) and spread from these two, many men and women; and be careful of (your duty to) Allah, by Whom you demand one of another (your rights), and (to) the ties of relationship; surely Allah ever watches over you.",
-      "transliteration": "yā-ayyuhan nāsut-taqū rabbakumul ladhī khalaqakum min nafsin wāḥidatin wakhalaqa minhā zawjahā wabathha minhumā rijālan kathīran wanisā-ā ۚ wattaqullāhal ladhī tasā-alūna bihi wal-arḥām ۚ innallāha kāna `alaykum raqībā"
+      "transliteration": "yā-ayyuhan nāsut-taqū rabbakumul ladhī khalaqakum min nafsin wāḥidatin wakhalaqa minhā zawjahā wabathha minhumā rijālan kathīran wanisā-ā ۚ wattaqullāhal ladhī tasā-alūna bihi wal-arḥām ۚ innallāha kāna `alaykum raqībā",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, the Beneficent, the Merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

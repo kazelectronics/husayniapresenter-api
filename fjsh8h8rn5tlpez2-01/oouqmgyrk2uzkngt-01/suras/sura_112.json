@@ -6,17 +6,15 @@
   "english_meaning": "The Sincerity",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
       "translation": "Say, ‘He is Allah, the One.",
-      "transliteration": "qul huwallāhu aḥad"
+      "transliteration": "qul huwallāhu aḥad",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

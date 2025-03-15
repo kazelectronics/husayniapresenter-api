@@ -6,17 +6,15 @@
   "english_meaning": "The Pleading Woman",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
       "translation": "Allah has indeed heard (and accepted) the statement of the woman who pleads with thee concerning her husband and carries her complaint (in prayer) to Allah: and Allah (always) hears the arguments between both sides among you: for Allah hears and sees (all things).",
-      "transliteration": "qad sami`allāhu qawlal latī tujādiluka fī zawjihā watashtakī ilallāhi wallāhu yasma`u taḥāwurakumā ۚ innallāha samī`un baṣīr"
+      "transliteration": "qad sami`allāhu qawlal latī tujādiluka fī zawjihā watashtakī ilallāhi wallāhu yasma`u taḥāwurakumā ۚ innallāha samī`un baṣīr",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

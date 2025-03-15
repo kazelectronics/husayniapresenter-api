@@ -6,17 +6,15 @@
   "english_meaning": "The Divorce",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, the Beneficent, the Merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا۟ ٱلْعِدَّةَ ۖ وَٱتَّقُوا۟ ٱللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّآ أَن يَأْتِينَ بِفَـٰحِشَةٍ مُّبَيِّنَةٍ ۚ وَتِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا",
       "translation": "O Prophet! When ye (men) put away women, put them away for their (legal) period and reckon the period, and keep your duty to Allah, your Lord. Expel them not from their houses nor let them go forth unless they commit open immorality. Such are the limits (imposed by) Allah; and whoso transgresseth Allah's limits, he verily wrongeth his soul. Thou knowest not: it may be that Allah will afterward bring some new thing to pass.",
-      "transliteration": "yā-ayyuhan nabiyyu idhā ṭallaqtumun nisā-a faṭalliqūhunna li`iddatihinna wa-aḥṣul `iddah ۖ wattaqullāha rabbakum ۖ lā tukhrijūhunna min buyūtihinna walā yakhrujna illā an ya-tīna bifāḥishatim mubayyinah ۚ watilka ḥudūdullāh ۚ wa man yata`adda ḥudūdallāhi faqad ẓalama nafsah ۚ lā tadrī la`allallāha yuḥdithu ba`da dhālika amrā"
+      "transliteration": "yā-ayyuhan nabiyyu idhā ṭallaqtumun nisā-a faṭalliqūhunna li`iddatihinna wa-aḥṣul `iddah ۖ wattaqullāha rabbakum ۖ lā tukhrijūhunna min buyūtihinna walā yakhrujna illā an ya-tīna bifāḥishatim mubayyinah ۚ watilka ḥudūdullāh ۚ wa man yata`adda ḥudūdallāhi faqad ẓalama nafsah ۚ lā tadrī la`allallāha yuḥdithu ba`da dhālika amrā",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, the Beneficent, the Merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

@@ -6,17 +6,15 @@
   "english_meaning": "The Originator",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, the Beneficent, the Merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَـٰٓئِكَةِ رُسُلًا أُو۟لِىٓ أَجْنِحَةٍ مَّثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۚ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
       "translation": "Praise be to Allah, the Creator of the heavens and the earth, Who appointeth the angels messengers having wings two, three and four. He multiplieth in creation what He will. Lo! Allah is Able to do all things.",
-      "transliteration": "al-ḥamdu lillāhi fāṭiris samāwāti wal-arḍi jā`ilil malā-ikati rusulan ulī ajniḥatim mathnā wathulātha warubā` ۚ yazīdu fil khalqi mā yashā-u ۚ innallāha `alā kulli shay-in qadīr"
+      "transliteration": "al-ḥamdu lillāhi fāṭiris samāwāti wal-arḍi jā`ilil malā-ikati rusulan ulī ajniḥatim mathnā wathulātha warubā` ۚ yazīdu fil khalqi mā yashā-u ۚ innallāha `alā kulli shay-in qadīr",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, the Beneficent, the Merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

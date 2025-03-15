@@ -6,17 +6,15 @@
   "english_meaning": "The Rooms",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, most benevolent, ever-merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُقَدِّمُوا۟ بَيْنَ يَدَىِ ٱللَّهِ وَرَسُولِهِۦ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ",
       "translation": "O YOU WHO believe, do not forestall the judgements of God and His Apostle, and have fear of God. Verily God hears all and knows everything.",
-      "transliteration": "yā-ayyuhal ladhīna āmanū lā tuqaddimū bayna yadayillāhi warasūlih ۖ wattaqullāh ۚ innallāha samī`un `alīm"
+      "transliteration": "yā-ayyuhal ladhīna āmanū lā tuqaddimū bayna yadayillāhi warasūlih ۖ wattaqullāh ۚ innallāha samī`un `alīm",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, most benevolent, ever-merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

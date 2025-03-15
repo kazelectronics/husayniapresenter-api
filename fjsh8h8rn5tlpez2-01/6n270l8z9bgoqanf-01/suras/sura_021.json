@@ -6,17 +6,15 @@
   "english_meaning": "The Prophets",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, the Beneficent, the Merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍ مُّعْرِضُونَ",
       "translation": "Their reckoning draweth nigh for mankind, while they turn away in heedlessness.",
-      "transliteration": "iqtaraba linnāsi ḥisābuhum wahum fī ghaflatim mu`riḍūn"
+      "transliteration": "iqtaraba linnāsi ḥisābuhum wahum fī ghaflatim mu`riḍūn",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, the Beneficent, the Merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

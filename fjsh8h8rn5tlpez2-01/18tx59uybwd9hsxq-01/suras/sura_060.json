@@ -6,17 +6,15 @@
   "english_meaning": "The Woman to be Examined",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ عَدُوِّى وَعَدُوَّكُمْ أَوْلِيَآءَ تُلْقُونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَقَدْ كَفَرُوا۟ بِمَا جَآءَكُم مِّنَ ٱلْحَقِّ يُخْرِجُونَ ٱلرَّسُولَ وَإِيَّاكُمْ ۙ أَن تُؤْمِنُوا۟ بِٱللَّهِ رَبِّكُمْ إِن كُنتُمْ خَرَجْتُمْ جِهَـٰدًا فِى سَبِيلِى وَٱبْتِغَآءَ مَرْضَاتِى ۚ تُسِرُّونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَأَنَا۠ أَعْلَمُ بِمَآ أَخْفَيْتُمْ وَمَآ أَعْلَنتُمْ ۚ وَمَن يَفْعَلْهُ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
       "translation": "O ye who believe! Take not my enemies and yours as friends (or protectors),- offering them (your) love, even though they have rejected the Truth that has come to you, and have (on the contrary) driven out the Prophet and yourselves (from your homes), (simply) because ye believe in Allah your Lord! If ye have come out to strive in My Way and to seek My Good Pleasure, (take them not as friends), holding secret converse of love (and friendship) with them: for I know full well all that ye conceal and all that ye reveal. And any of you that does this has strayed from the Straight Path.",
-      "transliteration": "yā-ayyuhal ladhīna āmanū lā tattakhidhū `aduwwī wa`aduwwakum awliyā-a tulqūna ilayhim bil mawaddati waqad kafarū bimā jā-akum minal ḥaqqi yukhrijūnar rasūla wa iyyākum an tu-minū billāhi rabbikum in kuntum kharajtum jihādan fī sabīlī wabtighā-a marḍātī ۚ tusirrūna ilayhim bil mawaddati wa-ana a`lamu bimā akhfaytum wa mā a`lantum ۚ wa man yaf`alhu minkum faqad ḍalla sawā-as sabīl"
+      "transliteration": "yā-ayyuhal ladhīna āmanū lā tattakhidhū `aduwwī wa`aduwwakum awliyā-a tulqūna ilayhim bil mawaddati waqad kafarū bimā jā-akum minal ḥaqqi yukhrijūnar rasūla wa iyyākum an tu-minū billāhi rabbikum in kuntum kharajtum jihādan fī sabīlī wabtighā-a marḍātī ۚ tusirrūna ilayhim bil mawaddati wa-ana a`lamu bimā akhfaytum wa mā a`lantum ۚ wa man yaf`alhu minkum faqad ḍalla sawā-as sabīl",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

@@ -6,17 +6,15 @@
   "english_meaning": "The Daybreak",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, the Beneficent, the Merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
       "translation": "Say: I seek refuge in the Lord of the dawn,",
-      "transliteration": "qul a`ūdhu birabbil falaq"
+      "transliteration": "qul a`ūdhu birabbil falaq",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, the Beneficent, the Merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

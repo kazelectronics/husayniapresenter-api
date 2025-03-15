@@ -6,17 +6,15 @@
   "english_meaning": "The Pleading Woman",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, most benevolent, ever-merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
       "translation": "GOD CERTAINLY HEARD what the woman who argued with you about her husband, said, and complained to God; and God heard your interrogation. Verily God hears all, and sees everything.",
-      "transliteration": "qad sami`allāhu qawlal latī tujādiluka fī zawjihā watashtakī ilallāhi wallāhu yasma`u taḥāwurakumā ۚ innallāha samī`un baṣīr"
+      "transliteration": "qad sami`allāhu qawlal latī tujādiluka fī zawjihā watashtakī ilallāhi wallāhu yasma`u taḥāwurakumā ۚ innallāha samī`un baṣīr",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, most benevolent, ever-merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

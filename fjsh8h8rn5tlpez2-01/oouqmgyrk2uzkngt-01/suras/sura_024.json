@@ -6,17 +6,15 @@
   "english_meaning": "The Light",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "سُورَةٌ أَنزَلْنَـٰهَا وَفَرَضْنَـٰهَا وَأَنزَلْنَا فِيهَآ ءَايَـٰتٍۭ بَيِّنَـٰتٍ لَّعَلَّكُمْ تَذَكَّرُونَ",
       "translation": "[This is] a surah which We have sent down and prescribed, and We have sent down in it manifest signs so that you may take admonition.",
-      "transliteration": "sūratun anzalnāhā wafaraḍnāhā wa-anzalnā fīhā āyātin bayyinātin la`allakum tadhakkarūn"
+      "transliteration": "sūratun anzalnāhā wafaraḍnāhā wa-anzalnā fīhā āyātin bayyinātin la`allakum tadhakkarūn",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

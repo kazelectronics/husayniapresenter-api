@@ -6,17 +6,15 @@
   "english_meaning": "The Pilgrimage",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ ۚ إِنَّ زَلْزَلَةَ ٱلسَّاعَةِ شَىْءٌ عَظِيمٌ",
       "translation": "O mankind! fear your Lord! for the convulsion of the Hour (of Judgment) will be a thing terrible!",
-      "transliteration": "yā-ayyuhan nāsut-taqū rabbakum ۚ inna zalzalatas sā`ati shay-un `aẓīm"
+      "transliteration": "yā-ayyuhan nāsut-taqū rabbakum ۚ inna zalzalatas sā`ati shay-un `aẓīm",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

@@ -6,17 +6,15 @@
   "english_meaning": "The Cave",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, the Beneficent, the Merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَـٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجَا ۜ",
       "translation": "Praise be to Allah Who hath revealed the Scripture unto His slave, and hath not placed therein any crookedness,",
-      "transliteration": "al-ḥamdu lillāhil ladhī anzala `alā `abdihil kitāba walam yaj`al lahu `iwajā ۜ"
+      "transliteration": "al-ḥamdu lillāhil ladhī anzala `alā `abdihil kitāba walam yaj`al lahu `iwajā ۜ",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, the Beneficent, the Merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

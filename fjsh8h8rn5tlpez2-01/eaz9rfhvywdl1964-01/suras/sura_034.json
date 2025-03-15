@@ -6,17 +6,15 @@
   "english_meaning": "Sheba",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, the Beneficent, the Merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَلَهُ ٱلْحَمْدُ فِى ٱلْـَٔاخِرَةِ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ",
       "translation": "(All) praise is due to Allah, Whose is what is in the heavens and what is in the earth, and to Him is due (all) praise in the hereafter; and He is the Wise, the Aware.",
-      "transliteration": "al-ḥamdu lillāhil ladhī lahu mā fis samāwāti wa mā fil-arḍi walahul ḥamdu fil-ākhirah ۚ wahuwal ḥakīmul khabīr"
+      "transliteration": "al-ḥamdu lillāhil ladhī lahu mā fis samāwāti wa mā fil-arḍi walahul ḥamdu fil-ākhirah ۚ wahuwal ḥakīmul khabīr",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, the Beneficent, the Merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

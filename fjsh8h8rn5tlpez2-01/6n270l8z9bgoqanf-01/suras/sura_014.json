@@ -6,17 +6,15 @@
   "english_meaning": "Abraham",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, the Beneficent, the Merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "الٓر ۚ كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ لِتُخْرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
       "translation": "Alif. Lam. Ra. (This is) a Scripture which We have revealed unto thee (Muhammad) that thereby thou mayst bring forth mankind from darkness unto light, by the permission of their Lord, unto the path of the Mighty, the Owner of Praise,",
-      "transliteration": "alif lām rā ۚ kitābun anzalnāhu ilayka litukhrijan nāsa minaẓ ẓulumāti ilan nūri bi-idhni rabbihim ilā ṣirāṭil `azīzil ḥamīd"
+      "transliteration": "alif lām rā ۚ kitābun anzalnāhu ilayka litukhrijan nāsa minaẓ ẓulumāti ilan nūri bi-idhni rabbihim ilā ṣirāṭil `azīzil ḥamīd",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, the Beneficent, the Merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

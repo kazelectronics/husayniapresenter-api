@@ -6,17 +6,15 @@
   "english_meaning": "The Palm Fiber",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
       "translation": "Perish the hands of the Father of Flame! Perish he!",
-      "transliteration": "tabbat yadā abī lahabin watabb"
+      "transliteration": "tabbat yadā abī lahabin watabb",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

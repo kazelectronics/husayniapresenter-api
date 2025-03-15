@@ -6,17 +6,15 @@
   "english_meaning": "Hud",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "الٓر ۚ كِتَـٰبٌ أُحْكِمَتْ ءَايَـٰتُهُۥ ثُمَّ فُصِّلَتْ مِن لَّدُنْ حَكِيمٍ خَبِيرٍ",
       "translation": "Alif, Lam Ra. [This is] a Book, whose signs have been made definitive and then elaborated, from One [who is] all-wise, all-aware,",
-      "transliteration": "alif lām rā ۚ kitābun uḥkimat āyātuhu thumma fuṣṣilat min ladun ḥakīmin khabīr"
+      "transliteration": "alif lām rā ۚ kitābun uḥkimat āyātuhu thumma fuṣṣilat min ladun ḥakīmin khabīr",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

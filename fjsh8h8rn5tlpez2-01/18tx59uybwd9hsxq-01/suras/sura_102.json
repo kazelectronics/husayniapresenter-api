@@ -6,17 +6,15 @@
   "english_meaning": "The Rivalry in World Increase",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
       "translation": "The mutual rivalry for piling up (the good things of this world) diverts you (from the more serious things),",
-      "transliteration": "alhākumut takāthur"
+      "transliteration": "alhākumut takāthur",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

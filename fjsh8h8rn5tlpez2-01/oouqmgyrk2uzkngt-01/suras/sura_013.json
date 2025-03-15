@@ -6,17 +6,15 @@
   "english_meaning": "The Thunder",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "الٓمٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ۗ وَٱلَّذِىٓ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ٱلْحَقُّ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ",
       "translation": "Alif, Lam, Mim, Ra. These are the signs of the Book. That which has been sent down to you from your Lord is the truth, but most people do not believe [in it].",
-      "transliteration": "alif lām mīm rā ۚ tilka āyātul kitāb ۗ wal ladhī unzila ilayka min rabbikal ḥaqqu walākinna aktharan nāsi lā yu-minūn"
+      "transliteration": "alif lām mīm rā ۚ tilka āyātul kitāb ۗ wal ladhī unzila ilayka min rabbikal ḥaqqu walākinna aktharan nāsi lā yu-minūn",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,

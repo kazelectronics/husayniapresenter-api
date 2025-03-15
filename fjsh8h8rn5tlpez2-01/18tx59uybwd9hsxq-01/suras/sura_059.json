@@ -6,17 +6,15 @@
   "english_meaning": "The Gathering",
   "ayas": [
     {
-      "index": 0,
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
-      "transliteration": "bismillāhir raḥmānir raḥīm",
-      "is_bismillah": true
-    },
-    {
       "index": 1,
       "arabic": "سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
       "translation": "Whatever is in the heavens and on earth, let it declare the Praises and Glory of Allah: for He is the Exalted in Might, the Wise.",
-      "transliteration": "sabbaḥa lillāhi mā fis samāwāti wa mā fil-arḍ ۖ wahuwal `azīzul ḥakīm"
+      "transliteration": "sabbaḥa lillāhi mā fis samāwāti wa mā fil-arḍ ۖ wahuwal `azīzul ḥakīm",
+      "bismillah": {
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+        "transliteration": "bismillāhir raḥmānir raḥīm"
+      }
     },
     {
       "index": 2,
