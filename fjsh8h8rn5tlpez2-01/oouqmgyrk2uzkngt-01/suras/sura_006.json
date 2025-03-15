@@ -6,11 +6,17 @@
   "english_meaning": "The Cattle",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَجَعَلَ ٱلظُّلُمَـٰتِ وَٱلنُّورَ ۖ ثُمَّ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ",
       "translation": "All praise belongs to Allah who created the heavens and the earth and made the darkness and the light. Yet the faithless equate [others] with their Lord.",
-      "transliteration": "al-ḥamdu lillāhil ladhī khalaqas samāwāti wal-arḍa waja`alaẓ ẓulumāti wan nūr ۖ thummal ladhīna kafarū birabbihim ya`dilūn",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "al-ḥamdu lillāhil ladhī khalaqas samāwāti wal-arḍa waja`alaẓ ẓulumāti wan nūr ۖ thummal ladhīna kafarū birabbihim ya`dilūn"
     },
     {
       "index": 2,

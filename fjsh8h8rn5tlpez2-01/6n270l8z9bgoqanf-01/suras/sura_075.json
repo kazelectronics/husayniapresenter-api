@@ -6,11 +6,17 @@
   "english_meaning": "The Resurrection",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "لَآ أُقْسِمُ بِيَوْمِ ٱلْقِيَـٰمَةِ",
       "translation": "Nay, I swear by the Day of Resurrection;",
-      "transliteration": "lā uqsimu biyawmil qiyāmah",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "lā uqsimu biyawmil qiyāmah"
     },
     {
       "index": 2,

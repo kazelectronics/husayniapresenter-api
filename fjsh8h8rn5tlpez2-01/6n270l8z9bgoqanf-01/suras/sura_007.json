@@ -6,11 +6,17 @@
   "english_meaning": "The Heights",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "الٓمٓصٓ",
       "translation": "Alif. Lam. Mim. Sad.",
-      "transliteration": "alif lām mīm ṣād",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "alif lām mīm ṣād"
     },
     {
       "index": 2,

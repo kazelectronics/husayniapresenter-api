@@ -6,11 +6,17 @@
   "english_meaning": "Abraham",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "الٓر ۚ كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ لِتُخْرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
       "translation": "A. L. R. A Book which We have revealed unto thee, in order that thou mightest lead mankind out of the depths of darkness into light - by the leave of their Lord - to the Way of (Him) the Exalted in power, worthy of all praise!-",
-      "transliteration": "alif lām rā ۚ kitābun anzalnāhu ilayka litukhrijan nāsa minaẓ ẓulumāti ilan nūri bi-idhni rabbihim ilā ṣirāṭil `azīzil ḥamīd",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "alif lām rā ۚ kitābun anzalnāhu ilayka litukhrijan nāsa minaẓ ẓulumāti ilan nūri bi-idhni rabbihim ilā ṣirāṭil `azīzil ḥamīd"
     },
     {
       "index": 2,

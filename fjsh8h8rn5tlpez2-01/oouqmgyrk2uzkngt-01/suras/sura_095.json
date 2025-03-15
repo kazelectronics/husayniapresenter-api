@@ -6,11 +6,17 @@
   "english_meaning": "The Fig",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "وَٱلتِّينِ وَٱلزَّيْتُونِ",
       "translation": "By the fig and the olive,",
-      "transliteration": "wat tīni waz zaytūn",
-      "bismillah": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "wat tīni waz zaytūn"
     },
     {
       "index": 2,

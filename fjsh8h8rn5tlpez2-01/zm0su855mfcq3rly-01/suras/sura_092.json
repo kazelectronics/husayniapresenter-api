@@ -6,11 +6,17 @@
   "english_meaning": "The Night",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, most benevolent, ever-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "وَٱلَّيْلِ إِذَا يَغْشَىٰ",
       "translation": "I CALL THE night to witness when it covers over,",
-      "transliteration": "wal layli idhā yaghshā",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "wal layli idhā yaghshā"
     },
     {
       "index": 2,

@@ -6,11 +6,17 @@
   "english_meaning": "The Elephant",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
       "translation": "Have you not considered how your Lord dealt with the possessors of the elephant?",
-      "transliteration": "alam tara kayfa fa`ala rabbuka bi-aṣ-ḥābil fīl",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "alam tara kayfa fa`ala rabbuka bi-aṣ-ḥābil fīl"
     },
     {
       "index": 2,

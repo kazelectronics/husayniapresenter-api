@@ -6,11 +6,17 @@
   "english_meaning": "Joseph",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "الٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ",
       "translation": "Alif. Lam. Ra. These are verse of the Scripture that maketh plain.",
-      "transliteration": "alif lām rā ۚ tilka āyātul kitābil mubīn",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "alif lām rā ۚ tilka āyātul kitābil mubīn"
     },
     {
       "index": 2,

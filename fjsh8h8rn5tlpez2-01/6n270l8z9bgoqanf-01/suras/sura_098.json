@@ -6,11 +6,17 @@
   "english_meaning": "The Clear Proof",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ",
       "translation": "Those who disbelieve among the People of the Scripture and the idolaters could not have left off (erring) till the clear proof came unto them,",
-      "transliteration": "lam yakunil ladhīna kafarū min ahlil kitābi wal mushrikīna munfakkīna ḥattā ta-tiyahumul bayyinah",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "lam yakunil ladhīna kafarū min ahlil kitābi wal mushrikīna munfakkīna ḥattā ta-tiyahumul bayyinah"
     },
     {
       "index": 2,

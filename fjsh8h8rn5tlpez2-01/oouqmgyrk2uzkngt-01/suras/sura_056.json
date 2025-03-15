@@ -6,11 +6,17 @@
   "english_meaning": "The Inevitable",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "إِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
       "translation": "When the Imminent [Hour] befalls",
-      "transliteration": "idhā waqa`atil wāqi`ah",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "idhā waqa`atil wāqi`ah"
     },
     {
       "index": 2,

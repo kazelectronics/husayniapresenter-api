@@ -6,11 +6,17 @@
   "english_meaning": "The Earthquake",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, most benevolent, ever-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
       "translation": "WHEN THE WORLD is shaken up by its cataclysm,",
-      "transliteration": "idhā zulzilatil-arḍu zilzālahā",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "idhā zulzilatil-arḍu zilzālahā"
     },
     {
       "index": 2,

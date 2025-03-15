@@ -6,11 +6,17 @@
   "english_meaning": "The Believers",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ",
       "translation": "Certainly, the faithful have attained salvation",
-      "transliteration": "qad aflaḥal mu-minūn",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "qad aflaḥal mu-minūn"
     },
     {
       "index": 2,

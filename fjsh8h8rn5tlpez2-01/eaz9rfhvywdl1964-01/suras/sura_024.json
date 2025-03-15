@@ -6,11 +6,17 @@
   "english_meaning": "The Light",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "سُورَةٌ أَنزَلْنَـٰهَا وَفَرَضْنَـٰهَا وَأَنزَلْنَا فِيهَآ ءَايَـٰتٍۭ بَيِّنَـٰتٍ لَّعَلَّكُمْ تَذَكَّرُونَ",
       "translation": "(This is) a chapter which We have revealed and made obligatory and in which We have revealed clear communications that you may be mindful.",
-      "transliteration": "sūratun anzalnāhā wafaraḍnāhā wa-anzalnā fīhā āyātin bayyinātin la`allakum tadhakkarūn",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "sūratun anzalnāhā wafaraḍnāhā wa-anzalnā fīhā āyātin bayyinātin la`allakum tadhakkarūn"
     },
     {
       "index": 2,

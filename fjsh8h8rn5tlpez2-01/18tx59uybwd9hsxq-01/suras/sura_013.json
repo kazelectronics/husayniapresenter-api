@@ -6,11 +6,17 @@
   "english_meaning": "The Thunder",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "الٓمٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ۗ وَٱلَّذِىٓ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ٱلْحَقُّ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ",
       "translation": "A. L. M. R. These are the signs (or verses) of the Book: that which hath been revealed unto thee from thy Lord is the Truth; but most men believe not.",
-      "transliteration": "alif lām mīm rā ۚ tilka āyātul kitāb ۗ wal ladhī unzila ilayka min rabbikal ḥaqqu walākinna aktharan nāsi lā yu-minūn",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "alif lām mīm rā ۚ tilka āyātul kitāb ۗ wal ladhī unzila ilayka min rabbikal ḥaqqu walākinna aktharan nāsi lā yu-minūn"
     },
     {
       "index": 2,

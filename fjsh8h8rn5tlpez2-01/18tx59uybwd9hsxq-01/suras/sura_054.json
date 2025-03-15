@@ -6,11 +6,17 @@
   "english_meaning": "The Moon",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ",
       "translation": "The Hour (of Judgment) is nigh, and the moon is cleft asunder.",
-      "transliteration": "iqtarabatis sā`atu wanshaqqal qamar",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "iqtarabatis sā`atu wanshaqqal qamar"
     },
     {
       "index": 2,

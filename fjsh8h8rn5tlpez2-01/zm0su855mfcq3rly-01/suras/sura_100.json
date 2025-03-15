@@ -6,11 +6,17 @@
   "english_meaning": "The Courser",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, most benevolent, ever-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
       "translation": "I CALL TO witness the chargers, snorting, rushing to battle before the others,",
-      "transliteration": "wal `ādiyāti ḍabḥā",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "wal `ādiyāti ḍabḥā"
     },
     {
       "index": 2,

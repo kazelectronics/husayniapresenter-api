@@ -6,11 +6,17 @@
   "english_meaning": "The Bee",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "أَتَىٰٓ أَمْرُ ٱللَّهِ فَلَا تَسْتَعْجِلُوهُ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
       "translation": "Allah's commandment has come, therefore do not desire to hasten it; glory be to Him, and highly exalted be He above what they associate (with Him).",
-      "transliteration": "atā amrullāhi falā tasta`jilūh ۚ subḥānahu wata`ālā `ammā yushrikūn",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "atā amrullāhi falā tasta`jilūh ۚ subḥānahu wata`ālā `ammā yushrikūn"
     },
     {
       "index": 2,

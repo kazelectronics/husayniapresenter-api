@@ -6,11 +6,17 @@
   "english_meaning": "The Hypocrites",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "إِذَا جَآءَكَ ٱلْمُنَـٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَـٰفِقِينَ لَكَـٰذِبُونَ",
       "translation": "When the hypocrites come to you they say, ‘We bear witness that you are indeed the apostle of Allah.’ Allah knows that you are indeed His Apostle, and Allah bears witness that the hypocrites are indeed liars.",
-      "transliteration": "idhā jā-akal munāfiqūna qālū nash-hadu innaka larasūlullāh ۗ wallāhu ya`lamu innaka larasūluhu wallāhu yash-hadu innal munāfiqīna lakādhibūn",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "idhā jā-akal munāfiqūna qālū nash-hadu innaka larasūlullāh ۗ wallāhu ya`lamu innaka larasūluhu wallāhu yash-hadu innal munāfiqīna lakādhibūn"
     },
     {
       "index": 2,

@@ -6,11 +6,17 @@
   "english_meaning": "The Victory",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا",
       "translation": "Verily We have granted thee a manifest Victory:",
-      "transliteration": "innā fataḥnā laka fat-ḥan mubīnā",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "innā fataḥnā laka fat-ḥan mubīnā"
     },
     {
       "index": 2,

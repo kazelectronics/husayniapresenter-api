@@ -6,11 +6,17 @@
   "english_meaning": "Those Who Drag Forth",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "وَٱلنَّـٰزِعَـٰتِ غَرْقًا",
       "translation": "I swear by the angels who violently pull out the souls of the wicked,",
-      "transliteration": "wan nāzi`āti gharqā",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "wan nāzi`āti gharqā"
     },
     {
       "index": 2,

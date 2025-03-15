@@ -6,11 +6,17 @@
   "english_meaning": "The Calamity",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "ٱلْقَارِعَةُ",
       "translation": "The terrible calamity!",
-      "transliteration": "al-qāri`ah",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "al-qāri`ah"
     },
     {
       "index": 2,

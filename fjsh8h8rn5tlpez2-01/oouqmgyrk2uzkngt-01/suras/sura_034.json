@@ -6,11 +6,17 @@
   "english_meaning": "Sheba",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَلَهُ ٱلْحَمْدُ فِى ٱلْـَٔاخِرَةِ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ",
       "translation": "All praise belongs to Allah to whom belongs whatever is in the heavens and whatever is in the earth. To Him belongs all praise in the Hereafter, and He is the All-wise, the All-aware.",
-      "transliteration": "al-ḥamdu lillāhil ladhī lahu mā fis samāwāti wa mā fil-arḍi walahul ḥamdu fil-ākhirah ۚ wahuwal ḥakīmul khabīr",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "al-ḥamdu lillāhil ladhī lahu mā fis samāwāti wa mā fil-arḍi walahul ḥamdu fil-ākhirah ۚ wahuwal ḥakīmul khabīr"
     },
     {
       "index": 2,

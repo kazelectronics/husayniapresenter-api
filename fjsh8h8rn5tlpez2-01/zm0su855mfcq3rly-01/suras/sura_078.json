@@ -6,11 +6,17 @@
   "english_meaning": "The Announcement",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, most benevolent, ever-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "عَمَّ يَتَسَآءَلُونَ",
       "translation": "OF WHAT ARE they asking one another?",
-      "transliteration": "`amma yatasā-alūn",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "`amma yatasā-alūn"
     },
     {
       "index": 2,

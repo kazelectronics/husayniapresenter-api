@@ -6,11 +6,17 @@
   "english_meaning": "The Sun",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "وَٱلشَّمْسِ وَضُحَىٰهَا",
       "translation": "By the sun and her forenoon splendour,",
-      "transliteration": "wash shamsi waḍuḥāhā",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "wash shamsi waḍuḥāhā"
     },
     {
       "index": 2,

@@ -6,11 +6,17 @@
   "english_meaning": "The Criterion",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "تَبَارَكَ ٱلَّذِى نَزَّلَ ٱلْفُرْقَانَ عَلَىٰ عَبْدِهِۦ لِيَكُونَ لِلْعَـٰلَمِينَ نَذِيرًا",
       "translation": "Blessed is He who sent down the criterion to His servant, that it may be an admonition to all creatures;-",
-      "transliteration": "tabārakal ladhī nazzalal-furqāna `alā `abdihi liyakūna lil`ālamīna nadhīrā",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "tabārakal ladhī nazzalal-furqāna `alā `abdihi liyakūna lil`ālamīna nadhīrā"
     },
     {
       "index": 2,

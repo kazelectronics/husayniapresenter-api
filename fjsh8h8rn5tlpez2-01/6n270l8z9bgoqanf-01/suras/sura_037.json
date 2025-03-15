@@ -6,11 +6,17 @@
   "english_meaning": "Those Ranged in Ranks",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "وَٱلصَّـٰٓفَّـٰتِ صَفًّا",
       "translation": "By those who set the ranks in battle order",
-      "transliteration": "waṣ ṣāffāti ṣaffā",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "waṣ ṣāffāti ṣaffā"
     },
     {
       "index": 2,

@@ -6,11 +6,17 @@
   "english_meaning": "The Night",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "وَٱلَّيْلِ إِذَا يَغْشَىٰ",
       "translation": "By the Night as it conceals (the light);",
-      "transliteration": "wal layli idhā yaghshā",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "wal layli idhā yaghshā"
     },
     {
       "index": 2,

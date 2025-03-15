@@ -6,11 +6,17 @@
   "english_meaning": "The City",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
       "translation": "I do call to witness this City;-",
-      "transliteration": "lā uqsimu bihādhal balad",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "lā uqsimu bihādhal balad"
     },
     {
       "index": 2,

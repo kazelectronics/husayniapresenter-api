@@ -6,11 +6,17 @@
   "english_meaning": "The Pen",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "نٓ ۚ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ",
       "translation": "Nun. By the Pen and the (Record) which (men) write,-",
-      "transliteration": "nūn ۚ wal qalami wa mā yasṭurūn",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "nūn ۚ wal qalami wa mā yasṭurūn"
     },
     {
       "index": 2,

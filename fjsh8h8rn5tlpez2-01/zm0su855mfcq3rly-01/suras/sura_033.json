@@ -6,11 +6,17 @@
   "english_meaning": "The Combined Forces",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, most benevolent, ever-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ ٱتَّقِ ٱللَّهَ وَلَا تُطِعِ ٱلْكَـٰفِرِينَ وَٱلْمُنَـٰفِقِينَ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
       "translation": "O PROPHET FEAR God and do not follow the unbelievers and the hypocrites.",
-      "transliteration": "yā-ayyuhan nabiyyut-taqillāha walā tuṭi`il kāfirīna wal munāfiqīn ۗ innallāha kāna `alīman ḥakīmā",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "yā-ayyuhan nabiyyut-taqillāha walā tuṭi`il kāfirīna wal munāfiqīn ۗ innallāha kāna `alīman ḥakīmā"
     },
     {
       "index": 2,

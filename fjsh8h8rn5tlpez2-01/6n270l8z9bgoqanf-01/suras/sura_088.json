@@ -6,11 +6,17 @@
   "english_meaning": "The Overwhelming",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
       "translation": "Hath there come unto thee tidings of the Overwhelming?",
-      "transliteration": "hal atāka ḥadīthul ghāshiyah",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "hal atāka ḥadīthul ghāshiyah"
     },
     {
       "index": 2,

@@ -6,11 +6,17 @@
   "english_meaning": "The Most Merciful",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "ٱلرَّحْمَـٰنُ",
       "translation": "The Beneficent",
-      "transliteration": "ar-raḥmān",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "ar-raḥmān"
     },
     {
       "index": 2,

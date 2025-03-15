@@ -6,11 +6,17 @@
   "english_meaning": "The Jinn",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "قُلْ أُوحِىَ إِلَىَّ أَنَّهُ ٱسْتَمَعَ نَفَرٌ مِّنَ ٱلْجِنِّ فَقَالُوٓا۟ إِنَّا سَمِعْنَا قُرْءَانًا عَجَبًا",
       "translation": "Say, ‘It has been revealed to me that a team of the jinn listened [to the Quran] and they said, “Indeed we heard a wonderful Quran,",
-      "transliteration": "qul ūḥiya ilayya annahus tama`a nafarun minal jinni faqālū innā sami`nā qur-ānan `ajabā",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "qul ūḥiya ilayya annahus tama`a nafarun minal jinni faqālū innā sami`nā qur-ānan `ajabā"
     },
     {
       "index": 2,

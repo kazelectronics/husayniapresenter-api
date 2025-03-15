@@ -6,11 +6,17 @@
   "english_meaning": "The Mansions of the Stars",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
       "translation": "I swear by the mansions of the stars,",
-      "transliteration": "was samā-i dhātil burūj",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "was samā-i dhātil burūj"
     },
     {
       "index": 2,

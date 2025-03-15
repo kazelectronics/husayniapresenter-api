@@ -6,11 +6,17 @@
   "english_meaning": "The Palm Fiber",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
       "translation": "Perdition overtake both hands of Abu Lahab, and he will perish.",
-      "transliteration": "tabbat yadā abī lahabin watabb",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "tabbat yadā abī lahabin watabb"
     },
     {
       "index": 2,

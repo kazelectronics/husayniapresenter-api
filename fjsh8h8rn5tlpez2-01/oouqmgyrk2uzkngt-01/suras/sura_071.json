@@ -6,11 +6,17 @@
   "english_meaning": "Noah",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ",
       "translation": "Indeed We sent Noah to his people, [saying,] ‘Warn your people before a painful punishment overtakes them.’",
-      "transliteration": "innā arsalnā nūḥan ilā qawmihi an andhir qawmaka min qabli an ya-tiyahum `adhābun alīm",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "innā arsalnā nūḥan ilā qawmihi an andhir qawmaka min qabli an ya-tiyahum `adhābun alīm"
     },
     {
       "index": 2,

@@ -6,11 +6,17 @@
   "english_meaning": "The Night Journey",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "سُبْحَـٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَـٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَـٰتِنَآ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
       "translation": "Glory to (Allah) Who did take His servant for a Journey by night from the Sacred Mosque to the farthest Mosque, whose precincts We did bless,- in order that We might show him some of Our Signs: for He is the One Who heareth and seeth (all things).",
-      "transliteration": "subḥānal ladhī asrā bi`abdihi laylan minal masjidil ḥarāmi ilal-masjidil-aqṣal ladhī bāraknā ḥawlahu linuriyahu min āyātinā ۚ innahu huwas samī`ul baṣīr",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "subḥānal ladhī asrā bi`abdihi laylan minal masjidil ḥarāmi ilal-masjidil-aqṣal ladhī bāraknā ḥawlahu linuriyahu min āyātinā ۚ innahu huwas samī`ul baṣīr"
     },
     {
       "index": 2,

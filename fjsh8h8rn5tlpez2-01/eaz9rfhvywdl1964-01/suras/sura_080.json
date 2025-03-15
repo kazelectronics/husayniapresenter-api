@@ -6,11 +6,17 @@
   "english_meaning": "He Frowned",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "عَبَسَ وَتَوَلَّىٰٓ",
       "translation": "He frowned and turned (his) back,",
-      "transliteration": "`abasa watawallā",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "`abasa watawallā"
     },
     {
       "index": 2,

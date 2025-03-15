@@ -6,11 +6,17 @@
   "english_meaning": "The Spoils of War",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ ۖ قُلِ ٱلْأَنفَالُ لِلَّهِ وَٱلرَّسُولِ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَصْلِحُوا۟ ذَاتَ بَيْنِكُمْ ۖ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤْمِنِينَ",
       "translation": "They ask thee (O Muhammad) of the spoils of war. Say: The spoils of war belong to Allah and the messenger, so keep your duty to Allah, and adjust the matter of your difference, and obey Allah and His messenger, if ye are (true) believers.",
-      "transliteration": "yas-alūnaka `anil-anfāl ۖ qulil-anfālu lillāhi war rasūl ۖ fattaqullāha wa-aṣliḥū dhāta baynikum ۖ wa-aṭī`ullāha warasūlahu in kuntum mu-minīn",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "yas-alūnaka `anil-anfāl ۖ qulil-anfālu lillāhi war rasūl ۖ fattaqullāha wa-aṣliḥū dhāta baynikum ۖ wa-aṭī`ullāha warasūlahu in kuntum mu-minīn"
     },
     {
       "index": 2,

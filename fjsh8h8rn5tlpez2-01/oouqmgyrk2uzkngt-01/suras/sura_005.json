@@ -6,11 +6,17 @@
   "english_meaning": "The Table Spread",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَوْفُوا۟ بِٱلْعُقُودِ ۚ أُحِلَّتْ لَكُم بَهِيمَةُ ٱلْأَنْعَـٰمِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّى ٱلصَّيْدِ وَأَنتُمْ حُرُمٌ ۗ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ",
       "translation": "O you who have faith! Keep your agreements. You are permitted animals of grazing livestock, except what is [now] announced to you, disallowing game while you are in pilgrim sanctity. Indeed Allah decrees whatever He desires.",
-      "transliteration": "yā-ayyuhal ladhīna āmanū awfū bil `uqūd ۚ uḥillat lakum bahīmatul-an`āmi illā mā yutlā `alaykum ghayra muḥilliṣ ṣaydi wa-antum ḥurum ۗ innallāha yaḥkumu mā yurīd",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "yā-ayyuhal ladhīna āmanū awfū bil `uqūd ۚ uḥillat lakum bahīmatul-an`āmi illā mā yutlā `alaykum ghayra muḥilliṣ ṣaydi wa-antum ḥurum ۗ innallāha yaḥkumu mā yurīd"
     },
     {
       "index": 2,

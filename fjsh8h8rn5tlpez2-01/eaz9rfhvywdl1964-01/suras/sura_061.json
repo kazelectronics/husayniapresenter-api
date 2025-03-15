@@ -6,11 +6,17 @@
   "english_meaning": "The Ranks",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
       "translation": "Whatever is in the heavens and whatever is in the earth declares the glory of Allah; and He is the Mighty, the Wise.",
-      "transliteration": "sabbaḥa lillāhi mā fis samāwāti wa mā fil-arḍ ۖ wahuwal `azīzul ḥakīm",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "sabbaḥa lillāhi mā fis samāwāti wa mā fil-arḍ ۖ wahuwal `azīzul ḥakīm"
     },
     {
       "index": 2,

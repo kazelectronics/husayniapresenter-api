@@ -6,11 +6,17 @@
   "english_meaning": "Those Sent Forth",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "وَٱلْمُرْسَلَـٰتِ عُرْفًا",
       "translation": "By the (Winds) sent forth one after another (to man's profit);",
-      "transliteration": "wal mursalāti `urfā",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "wal mursalāti `urfā"
     },
     {
       "index": 2,

@@ -6,11 +6,17 @@
   "english_meaning": "The Sovereignty",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "تَبَـٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
       "translation": "Blessed is He in Whose hand is the kingdom, and He has power over all things,",
-      "transliteration": "tabārakal ladhī biyadihil mulku wahuwa `alā kulli shay-in qadīr",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "tabārakal ladhī biyadihil mulku wahuwa `alā kulli shay-in qadīr"
     },
     {
       "index": 2,

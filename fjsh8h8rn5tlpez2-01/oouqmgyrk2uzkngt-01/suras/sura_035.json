@@ -6,11 +6,17 @@
   "english_meaning": "The Originator",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَـٰٓئِكَةِ رُسُلًا أُو۟لِىٓ أَجْنِحَةٍ مَّثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۚ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
       "translation": "All praise belongs to Allah, originator of the heavens and the earth, maker of the angels [His] messengers, possessing wings, two, three or four [of them]. He adds to the creation whatever He wishes. Indeed Allah has power over all things.",
-      "transliteration": "al-ḥamdu lillāhi fāṭiris samāwāti wal-arḍi jā`ilil malā-ikati rusulan ulī ajniḥatim mathnā wathulātha warubā` ۚ yazīdu fil khalqi mā yashā-u ۚ innallāha `alā kulli shay-in qadīr",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "al-ḥamdu lillāhi fāṭiris samāwāti wal-arḍi jā`ilil malā-ikati rusulan ulī ajniḥatim mathnā wathulātha warubā` ۚ yazīdu fil khalqi mā yashā-u ۚ innallāha `alā kulli shay-in qadīr"
     },
     {
       "index": 2,

@@ -6,11 +6,17 @@
   "english_meaning": "Qaf",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, most benevolent, ever-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "قٓ ۚ وَٱلْقُرْءَانِ ٱلْمَجِيدِ",
       "translation": "QAF. I CALL to witness the glorious Qur'an.",
-      "transliteration": "qāf ۚ wal qur-ānil majīd",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "qāf ۚ wal qur-ānil majīd"
     },
     {
       "index": 2,

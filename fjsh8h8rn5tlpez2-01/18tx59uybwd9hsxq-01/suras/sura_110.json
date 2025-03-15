@@ -6,11 +6,17 @@
   "english_meaning": "The Divine Support",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
       "translation": "When comes the Help of Allah, and Victory,",
-      "transliteration": "idhā jā-a naṣrullāhi wal fat-ḥ",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "idhā jā-a naṣrullāhi wal fat-ḥ"
     },
     {
       "index": 2,

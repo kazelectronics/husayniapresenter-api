@@ -6,11 +6,17 @@
   "english_meaning": "The Most High",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى",
       "translation": "Celebrate the Name of your Lord, the Most Exalted,",
-      "transliteration": "sabbiḥis-ma rabbikal-a`lā",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "sabbiḥis-ma rabbikal-a`lā"
     },
     {
       "index": 2,

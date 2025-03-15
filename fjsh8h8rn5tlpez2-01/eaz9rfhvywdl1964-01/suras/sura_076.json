@@ -6,11 +6,17 @@
   "english_meaning": "The Human",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "هَلْ أَتَىٰ عَلَى ٱلْإِنسَـٰنِ حِينٌ مِّنَ ٱلدَّهْرِ لَمْ يَكُن شَيْـًٔا مَّذْكُورًا",
       "translation": "There surely came over man a period of time when he was a thing not worth mentioning.",
-      "transliteration": "hal atā `alal-insāni ḥīnun minad dahri lam yakun shay-an madhkūrā",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "hal atā `alal-insāni ḥīnun minad dahri lam yakun shay-an madhkūrā"
     },
     {
       "index": 2,

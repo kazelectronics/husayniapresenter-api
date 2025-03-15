@@ -6,11 +6,17 @@
   "english_meaning": "The Cleaving",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, most benevolent, ever-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
       "translation": "WHEN THE SKY is split asunder,",
-      "transliteration": "idhas samā-un faṭarat",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "idhas samā-un faṭarat"
     },
     {
       "index": 2,

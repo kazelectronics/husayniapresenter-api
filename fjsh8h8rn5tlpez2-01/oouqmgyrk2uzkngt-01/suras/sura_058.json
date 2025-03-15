@@ -6,11 +6,17 @@
   "english_meaning": "The Pleading Woman",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
       "translation": "Allah has certainly heard the speech of her who pleads with you about her husband and complains to Allah. Allah hears the conversation between the two of you. Indeed Allah is all-hearing, all-seeing.",
-      "transliteration": "qad sami`allāhu qawlal latī tujādiluka fī zawjihā watashtakī ilallāhi wallāhu yasma`u taḥāwurakumā ۚ innallāha samī`un baṣīr",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "qad sami`allāhu qawlal latī tujādiluka fī zawjihā watashtakī ilallāhi wallāhu yasma`u taḥāwurakumā ۚ innallāha samī`un baṣīr"
     },
     {
       "index": 2,

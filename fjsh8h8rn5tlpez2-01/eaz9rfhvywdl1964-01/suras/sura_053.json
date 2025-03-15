@@ -6,11 +6,17 @@
   "english_meaning": "The Star",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "وَٱلنَّجْمِ إِذَا هَوَىٰ",
       "translation": "I swear by the star when it goes down.",
-      "transliteration": "wan najmi idhā hawā",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "wan najmi idhā hawā"
     },
     {
       "index": 2,

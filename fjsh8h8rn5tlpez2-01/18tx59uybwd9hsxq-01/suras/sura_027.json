@@ -6,11 +6,17 @@
   "english_meaning": "The Ant",
   "ayas": [
     {
+      "index": 0,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm",
+      "is_bismillah": true
+    },
+    {
       "index": 1,
       "arabic": "طسٓ ۚ تِلْكَ ءَايَـٰتُ ٱلْقُرْءَانِ وَكِتَابٍ مُّبِينٍ",
       "translation": "These are verses of the Qur'an,-a book that makes (things) clear;",
-      "transliteration": "ṭā sīn ۚ tilka āyātul qur-āni wakitābin mubīn",
-      "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      "transliteration": "ṭā sīn ۚ tilka āyātul qur-āni wakitābin mubīn"
     },
     {
       "index": 2,
