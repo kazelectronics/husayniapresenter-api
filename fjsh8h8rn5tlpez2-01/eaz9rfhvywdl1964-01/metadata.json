@@ -2,8 +2,8 @@
   "metadata": {
     "source": "HusayniyyahPresenter API",
     "format_version": "1.0",
-    "merged_date": "2025-03-12",
-    "arabic": {
+    "merged_date": "2025-03-16",
+    "arabic_source": {
       "id": "uthmani",
       "name": "Uthmani",
       "language": "ar",
@@ -20,16 +20,14 @@
       "name": "Quran Transliteration (EN)",
       "language": "en",
       "source": "Shia Devotions"
-    },
-    "total_suras": 114,
-    "total_ayas": 6236
+    }
   },
   "sura_files": [
     {
       "index": 1,
       "name": "الفاتحة",
       "file": "suras/sura_001.json",
-      "aya_count": 7,
+      "lines_count": 7,
       "arabic_name": "الفَاتِحَة",
       "english_name": "Al-Fātiḥah",
       "english_meaning": "The Opening"
@@ -38,7 +36,7 @@
       "index": 2,
       "name": "البقرة",
       "file": "suras/sura_002.json",
-      "aya_count": 286,
+      "lines_count": 286,
       "arabic_name": "البَقَرَة",
       "english_name": "Al-Baqarah",
       "english_meaning": "The Cow"
@@ -47,7 +45,7 @@
       "index": 3,
       "name": "آل عمران",
       "file": "suras/sura_003.json",
-      "aya_count": 200,
+      "lines_count": 200,
       "arabic_name": "آل عِمرَان",
       "english_name": "Āli `Imrān",
       "english_meaning": "The Family of Imran"
@@ -56,7 +54,7 @@
       "index": 4,
       "name": "النساء",
       "file": "suras/sura_004.json",
-      "aya_count": 176,
+      "lines_count": 176,
       "arabic_name": "النِّسَاء",
       "english_name": "An-Nisā",
       "english_meaning": "The Women"
@@ -65,7 +63,7 @@
       "index": 5,
       "name": "المائدة",
       "file": "suras/sura_005.json",
-      "aya_count": 120,
+      "lines_count": 120,
       "arabic_name": "المَائدة",
       "english_name": "Al-Mā`idah",
       "english_meaning": "The Table Spread"
@@ -74,7 +72,7 @@
       "index": 6,
       "name": "الأنعام",
       "file": "suras/sura_006.json",
-      "aya_count": 165,
+      "lines_count": 165,
       "arabic_name": "الأنعَام",
       "english_name": "Al-An`ām",
       "english_meaning": "The Cattle"
@@ -83,7 +81,7 @@
       "index": 7,
       "name": "الأعراف",
       "file": "suras/sura_007.json",
-      "aya_count": 206,
+      "lines_count": 206,
       "arabic_name": "الأعرَاف",
       "english_name": "Al-A`rāf",
       "english_meaning": "The Heights"
@@ -92,7 +90,7 @@
       "index": 8,
       "name": "الأنفال",
       "file": "suras/sura_008.json",
-      "aya_count": 75,
+      "lines_count": 75,
       "arabic_name": "الأنفَال",
       "english_name": "Al-Anfāl",
       "english_meaning": "The Spoils of War"
@@ -101,7 +99,7 @@
       "index": 9,
       "name": "التوبة",
       "file": "suras/sura_009.json",
-      "aya_count": 129,
+      "lines_count": 129,
       "arabic_name": "التوبَة",
       "english_name": "At-Tawbah",
       "english_meaning": "The Repentance"
@@ -110,7 +108,7 @@
       "index": 10,
       "name": "يونس",
       "file": "suras/sura_010.json",
-      "aya_count": 109,
+      "lines_count": 109,
       "arabic_name": "يُونس",
       "english_name": "Yūnus",
       "english_meaning": "Jonah"
@@ -119,7 +117,7 @@
       "index": 11,
       "name": "هود",
       "file": "suras/sura_011.json",
-      "aya_count": 123,
+      "lines_count": 123,
       "arabic_name": "هُود",
       "english_name": "Hūd",
       "english_meaning": "Hud"
@@ -128,7 +126,7 @@
       "index": 12,
       "name": "يوسف",
       "file": "suras/sura_012.json",
-      "aya_count": 111,
+      "lines_count": 111,
       "arabic_name": "يُوسُف",
       "english_name": "Yūsuf",
       "english_meaning": "Joseph"
@@ -137,7 +135,7 @@
       "index": 13,
       "name": "الرعد",
       "file": "suras/sura_013.json",
-      "aya_count": 43,
+      "lines_count": 43,
       "arabic_name": "الرَّعْد",
       "english_name": "Ar-Ra`d",
       "english_meaning": "The Thunder"
@@ -146,7 +144,7 @@
       "index": 14,
       "name": "ابراهيم",
       "file": "suras/sura_014.json",
-      "aya_count": 52,
+      "lines_count": 52,
       "arabic_name": "إبراهِيم",
       "english_name": "Ibrāhīm",
       "english_meaning": "Abraham"
@@ -155,7 +153,7 @@
       "index": 15,
       "name": "الحجر",
       "file": "suras/sura_015.json",
-      "aya_count": 99,
+      "lines_count": 99,
       "arabic_name": "الحِجْر",
       "english_name": "Al-Ḥijr",
       "english_meaning": "The Rocky Tract"
@@ -164,7 +162,7 @@
       "index": 16,
       "name": "النحل",
       "file": "suras/sura_016.json",
-      "aya_count": 128,
+      "lines_count": 128,
       "arabic_name": "النَّحْل",
       "english_name": "An-Naḥl",
       "english_meaning": "The Bee"
@@ -173,7 +171,7 @@
       "index": 17,
       "name": "الإسراء",
       "file": "suras/sura_017.json",
-      "aya_count": 111,
+      "lines_count": 111,
       "arabic_name": "الإسْرَاء",
       "english_name": "Al-Isrā",
       "english_meaning": "The Night Journey"
@@ -182,7 +180,7 @@
       "index": 18,
       "name": "الكهف",
       "file": "suras/sura_018.json",
-      "aya_count": 110,
+      "lines_count": 110,
       "arabic_name": "الكهْف",
       "english_name": "Al-Kahf",
       "english_meaning": "The Cave"
@@ -191,7 +189,7 @@
       "index": 19,
       "name": "مريم",
       "file": "suras/sura_019.json",
-      "aya_count": 98,
+      "lines_count": 98,
       "arabic_name": "مَريَم",
       "english_name": "Maryam",
       "english_meaning": "Mary"
@@ -200,7 +198,7 @@
       "index": 20,
       "name": "طه",
       "file": "suras/sura_020.json",
-      "aya_count": 135,
+      "lines_count": 135,
       "arabic_name": "طه",
       "english_name": "Ṭa-Ha",
       "english_meaning": "Ta-Ha"
@@ -209,7 +207,7 @@
       "index": 21,
       "name": "الأنبياء",
       "file": "suras/sura_021.json",
-      "aya_count": 112,
+      "lines_count": 112,
       "arabic_name": "الأنبيَاء",
       "english_name": "Al-Anbiya",
       "english_meaning": "The Prophets"
@@ -218,7 +216,7 @@
       "index": 22,
       "name": "الحج",
       "file": "suras/sura_022.json",
-      "aya_count": 78,
+      "lines_count": 78,
       "arabic_name": "الحَج",
       "english_name": "Al-Ḥajj",
       "english_meaning": "The Pilgrimage"
@@ -227,7 +225,7 @@
       "index": 23,
       "name": "المؤمنون",
       "file": "suras/sura_023.json",
-      "aya_count": 118,
+      "lines_count": 118,
       "arabic_name": "المُؤمنون",
       "english_name": "Al-Mu-minūn",
       "english_meaning": "The Believers"
@@ -236,7 +234,7 @@
       "index": 24,
       "name": "النور",
       "file": "suras/sura_024.json",
-      "aya_count": 64,
+      "lines_count": 64,
       "arabic_name": "النُّور",
       "english_name": "An-Nūr",
       "english_meaning": "The Light"
@@ -245,7 +243,7 @@
       "index": 25,
       "name": "الفرقان",
       "file": "suras/sura_025.json",
-      "aya_count": 77,
+      "lines_count": 77,
       "arabic_name": "الفُرْقان",
       "english_name": "Al-Furqān",
       "english_meaning": "The Criterion"
@@ -254,7 +252,7 @@
       "index": 26,
       "name": "الشعراء",
       "file": "suras/sura_026.json",
-      "aya_count": 227,
+      "lines_count": 227,
       "arabic_name": "الشُّعَرَاء",
       "english_name": "Ash-Shu`arā",
       "english_meaning": "The Poets"
@@ -263,7 +261,7 @@
       "index": 27,
       "name": "النمل",
       "file": "suras/sura_027.json",
-      "aya_count": 93,
+      "lines_count": 93,
       "arabic_name": "النَّمْل",
       "english_name": "An-Naml",
       "english_meaning": "The Ant"
@@ -272,7 +270,7 @@
       "index": 28,
       "name": "القصص",
       "file": "suras/sura_028.json",
-      "aya_count": 88,
+      "lines_count": 88,
       "arabic_name": "القَصَص",
       "english_name": "Al-Qaṣaṣ",
       "english_meaning": "The Stories"
@@ -281,7 +279,7 @@
       "index": 29,
       "name": "العنكبوت",
       "file": "suras/sura_029.json",
-      "aya_count": 69,
+      "lines_count": 69,
       "arabic_name": "العَنكبُوت",
       "english_name": "Al-Ankabūt",
       "english_meaning": "The Spider"
@@ -290,7 +288,7 @@
       "index": 30,
       "name": "الروم",
       "file": "suras/sura_030.json",
-      "aya_count": 60,
+      "lines_count": 60,
       "arabic_name": "الرُّوم",
       "english_name": "Ar-Rūm",
       "english_meaning": "The Romans"
@@ -299,7 +297,7 @@
       "index": 31,
       "name": "لقمان",
       "file": "suras/sura_031.json",
-      "aya_count": 34,
+      "lines_count": 34,
       "arabic_name": "لقمَان",
       "english_name": "Luqmān",
       "english_meaning": "Luqman"
@@ -308,7 +306,7 @@
       "index": 32,
       "name": "السجدة",
       "file": "suras/sura_032.json",
-      "aya_count": 30,
+      "lines_count": 30,
       "arabic_name": "السَّجدَة",
       "english_name": "As-Sajdah",
       "english_meaning": "The Prostration"
@@ -317,7 +315,7 @@
       "index": 33,
       "name": "الأحزاب",
       "file": "suras/sura_033.json",
-      "aya_count": 73,
+      "lines_count": 73,
       "arabic_name": "الأحزَاب",
       "english_name": "Al-Aḥzāb",
       "english_meaning": "The Combined Forces"
@@ -326,7 +324,7 @@
       "index": 34,
       "name": "سبإ",
       "file": "suras/sura_034.json",
-      "aya_count": 54,
+      "lines_count": 54,
       "arabic_name": "سَبَأ",
       "english_name": "Saba",
       "english_meaning": "Sheba"
@@ -335,7 +333,7 @@
       "index": 35,
       "name": "فاطر",
       "file": "suras/sura_035.json",
-      "aya_count": 45,
+      "lines_count": 45,
       "arabic_name": "فَاطِر",
       "english_name": "Fāṭir",
       "english_meaning": "The Originator"
@@ -344,7 +342,7 @@
       "index": 36,
       "name": "يس",
       "file": "suras/sura_036.json",
-      "aya_count": 83,
+      "lines_count": 83,
       "arabic_name": "يس",
       "english_name": "Ya-Sin",
       "english_meaning": "Ya Sin"
@@ -353,7 +351,7 @@
       "index": 37,
       "name": "الصافات",
       "file": "suras/sura_037.json",
-      "aya_count": 182,
+      "lines_count": 182,
       "arabic_name": "الصَّافات",
       "english_name": "Aṣ-Ṣāffāt",
       "english_meaning": "Those Ranged in Ranks"
@@ -362,7 +360,7 @@
       "index": 38,
       "name": "ص",
       "file": "suras/sura_038.json",
-      "aya_count": 88,
+      "lines_count": 88,
       "arabic_name": "ص",
       "english_name": "Ṣād",
       "english_meaning": "Sad"
@@ -371,7 +369,7 @@
       "index": 39,
       "name": "الزمر",
       "file": "suras/sura_039.json",
-      "aya_count": 75,
+      "lines_count": 75,
       "arabic_name": "الزُّمَر",
       "english_name": "Az-Zumar",
       "english_meaning": "The Groups"
@@ -380,7 +378,7 @@
       "index": 40,
       "name": "غافر",
       "file": "suras/sura_040.json",
-      "aya_count": 85,
+      "lines_count": 85,
       "arabic_name": "غَافِر",
       "english_name": "Ghāfir",
       "english_meaning": "The Forgiver"
@@ -389,7 +387,7 @@
       "index": 41,
       "name": "فصلت",
       "file": "suras/sura_041.json",
-      "aya_count": 54,
+      "lines_count": 54,
       "arabic_name": "فُصِّلَت",
       "english_name": "Fuṣṣilat",
       "english_meaning": "Explained in Detail"
@@ -398,7 +396,7 @@
       "index": 42,
       "name": "الشورى",
       "file": "suras/sura_042.json",
-      "aya_count": 53,
+      "lines_count": 53,
       "arabic_name": "الشُّورَى",
       "english_name": "Ash-Shūrā",
       "english_meaning": "The Consultation"
@@ -407,7 +405,7 @@
       "index": 43,
       "name": "الزخرف",
       "file": "suras/sura_043.json",
-      "aya_count": 89,
+      "lines_count": 89,
       "arabic_name": "الزُّخْرُف",
       "english_name": "Az-Zukhruf",
       "english_meaning": "The Gold Adornments"
@@ -416,7 +414,7 @@
       "index": 44,
       "name": "الدخان",
       "file": "suras/sura_044.json",
-      "aya_count": 59,
+      "lines_count": 59,
       "arabic_name": "الدُّخان",
       "english_name": "Ad-Dukhān",
       "english_meaning": "The Smoke"
@@ -425,7 +423,7 @@
       "index": 45,
       "name": "الجاثية",
       "file": "suras/sura_045.json",
-      "aya_count": 37,
+      "lines_count": 37,
       "arabic_name": "الجَاثيَة",
       "english_name": "Al-Jāthiyah",
       "english_meaning": "The Kneeling"
@@ -434,7 +432,7 @@
       "index": 46,
       "name": "الأحقاف",
       "file": "suras/sura_046.json",
-      "aya_count": 35,
+      "lines_count": 35,
       "arabic_name": "الأحْقاف",
       "english_name": "Al-Aḥqāf",
       "english_meaning": "The Wind-Curved Sandhills"
@@ -443,7 +441,7 @@
       "index": 47,
       "name": "محمد",
       "file": "suras/sura_047.json",
-      "aya_count": 38,
+      "lines_count": 38,
       "arabic_name": "محَمَّد",
       "english_name": "Muḥammad",
       "english_meaning": "Muhammad"
@@ -452,7 +450,7 @@
       "index": 48,
       "name": "الفتح",
       "file": "suras/sura_048.json",
-      "aya_count": 29,
+      "lines_count": 29,
       "arabic_name": "الفَتْح",
       "english_name": "Al-Fat-ḥ",
       "english_meaning": "The Victory"
@@ -461,7 +459,7 @@
       "index": 49,
       "name": "الحجرات",
       "file": "suras/sura_049.json",
-      "aya_count": 18,
+      "lines_count": 18,
       "arabic_name": "الحُجرَات",
       "english_name": "Al-Ḥujurāt",
       "english_meaning": "The Rooms"
@@ -470,7 +468,7 @@
       "index": 50,
       "name": "ق",
       "file": "suras/sura_050.json",
-      "aya_count": 45,
+      "lines_count": 45,
       "arabic_name": "ق",
       "english_name": "Qāf",
       "english_meaning": "Qaf"
@@ -479,7 +477,7 @@
       "index": 51,
       "name": "الذاريات",
       "file": "suras/sura_051.json",
-      "aya_count": 60,
+      "lines_count": 60,
       "arabic_name": "الذَّاريَات",
       "english_name": "Adh-Dhāriyāt",
       "english_meaning": "The Winnowing Winds"
@@ -488,7 +486,7 @@
       "index": 52,
       "name": "الطور",
       "file": "suras/sura_052.json",
-      "aya_count": 49,
+      "lines_count": 49,
       "arabic_name": "الطُّور",
       "english_name": "Aṭ-Ṭūr",
       "english_meaning": "The Mount"
@@ -497,7 +495,7 @@
       "index": 53,
       "name": "النجم",
       "file": "suras/sura_053.json",
-      "aya_count": 62,
+      "lines_count": 62,
       "arabic_name": "النَّجْم",
       "english_name": "An-Najm",
       "english_meaning": "The Star"
@@ -506,7 +504,7 @@
       "index": 54,
       "name": "القمر",
       "file": "suras/sura_054.json",
-      "aya_count": 55,
+      "lines_count": 55,
       "arabic_name": "القَمَر",
       "english_name": "Al-Qamar",
       "english_meaning": "The Moon"
@@ -515,7 +513,7 @@
       "index": 55,
       "name": "الرحمن",
       "file": "suras/sura_055.json",
-      "aya_count": 78,
+      "lines_count": 78,
       "arabic_name": "الرَّحمن",
       "english_name": "Ar-Raḥmān",
       "english_meaning": "The Most Merciful"
@@ -524,7 +522,7 @@
       "index": 56,
       "name": "الواقعة",
       "file": "suras/sura_056.json",
-      "aya_count": 96,
+      "lines_count": 96,
       "arabic_name": "الوَاقِعَة",
       "english_name": "Al-Wāqi`ah",
       "english_meaning": "The Inevitable"
@@ -533,7 +531,7 @@
       "index": 57,
       "name": "الحديد",
       "file": "suras/sura_057.json",
-      "aya_count": 29,
+      "lines_count": 29,
       "arabic_name": "الحَديد",
       "english_name": "Al-Ḥadīd",
       "english_meaning": "The Iron"
@@ -542,7 +540,7 @@
       "index": 58,
       "name": "المجادلة",
       "file": "suras/sura_058.json",
-      "aya_count": 22,
+      "lines_count": 22,
       "arabic_name": "المجَادلة",
       "english_name": "Al-Mujādilah",
       "english_meaning": "The Pleading Woman"
@@ -551,7 +549,7 @@
       "index": 59,
       "name": "الحشر",
       "file": "suras/sura_059.json",
-      "aya_count": 24,
+      "lines_count": 24,
       "arabic_name": "الحَشر",
       "english_name": "Al-Ḥashr",
       "english_meaning": "The Gathering"
@@ -560,7 +558,7 @@
       "index": 60,
       "name": "الممتحنة",
       "file": "suras/sura_060.json",
-      "aya_count": 13,
+      "lines_count": 13,
       "arabic_name": "المُمتَحنَة",
       "english_name": "Al-Mumtaḥanah",
       "english_meaning": "The Woman to be Examined"
@@ -569,7 +567,7 @@
       "index": 61,
       "name": "الصف",
       "file": "suras/sura_061.json",
-      "aya_count": 14,
+      "lines_count": 14,
       "arabic_name": "الصَّف",
       "english_name": "Aṣ-Ṣaff",
       "english_meaning": "The Ranks"
@@ -578,7 +576,7 @@
       "index": 62,
       "name": "الجمعة",
       "file": "suras/sura_062.json",
-      "aya_count": 11,
+      "lines_count": 11,
       "arabic_name": "الجُمُعَة",
       "english_name": "Al-Jumu`ah",
       "english_meaning": "Friday"
@@ -587,7 +585,7 @@
       "index": 63,
       "name": "المنافقون",
       "file": "suras/sura_063.json",
-      "aya_count": 11,
+      "lines_count": 11,
       "arabic_name": "المنَافِقون",
       "english_name": "Al-Munāfiqūn",
       "english_meaning": "The Hypocrites"
@@ -596,7 +594,7 @@
       "index": 64,
       "name": "التغابن",
       "file": "suras/sura_064.json",
-      "aya_count": 18,
+      "lines_count": 18,
       "arabic_name": "التغَابُن",
       "english_name": "At-Taghābun",
       "english_meaning": "The Mutual Disillusion"
@@ -605,7 +603,7 @@
       "index": 65,
       "name": "الطلاق",
       "file": "suras/sura_065.json",
-      "aya_count": 12,
+      "lines_count": 12,
       "arabic_name": "الطلَاق",
       "english_name": "Aṭ-Ṭalāq",
       "english_meaning": "The Divorce"
@@ -614,7 +612,7 @@
       "index": 66,
       "name": "التحريم",
       "file": "suras/sura_066.json",
-      "aya_count": 12,
+      "lines_count": 12,
       "arabic_name": "التحْريم",
       "english_name": "At-Taḥrīm",
       "english_meaning": "The Prohibition"
@@ -623,7 +621,7 @@
       "index": 67,
       "name": "الملك",
       "file": "suras/sura_067.json",
-      "aya_count": 30,
+      "lines_count": 30,
       "arabic_name": "المُلْك",
       "english_name": "Al-Mulk",
       "english_meaning": "The Sovereignty"
@@ -632,7 +630,7 @@
       "index": 68,
       "name": "القلم",
       "file": "suras/sura_068.json",
-      "aya_count": 52,
+      "lines_count": 52,
       "arabic_name": "القَلَم",
       "english_name": "Al-Qalam",
       "english_meaning": "The Pen"
@@ -641,7 +639,7 @@
       "index": 69,
       "name": "الحاقة",
       "file": "suras/sura_069.json",
-      "aya_count": 52,
+      "lines_count": 52,
       "arabic_name": "الحَاقَّة",
       "english_name": "Al-Ḥāqqah",
       "english_meaning": "The Reality"
@@ -650,7 +648,7 @@
       "index": 70,
       "name": "المعارج",
       "file": "suras/sura_070.json",
-      "aya_count": 44,
+      "lines_count": 44,
       "arabic_name": "المعَارج",
       "english_name": "Al-Ma`ārij",
       "english_meaning": "The Ascending Stairways"
@@ -659,7 +657,7 @@
       "index": 71,
       "name": "نوح",
       "file": "suras/sura_071.json",
-      "aya_count": 28,
+      "lines_count": 28,
       "arabic_name": "نُوح",
       "english_name": "Nūḥ",
       "english_meaning": "Noah"
@@ -668,7 +666,7 @@
       "index": 72,
       "name": "الجن",
       "file": "suras/sura_072.json",
-      "aya_count": 28,
+      "lines_count": 28,
       "arabic_name": "الجِن",
       "english_name": "Al-Jinn",
       "english_meaning": "The Jinn"
@@ -677,7 +675,7 @@
       "index": 73,
       "name": "المزمل",
       "file": "suras/sura_073.json",
-      "aya_count": 20,
+      "lines_count": 20,
       "arabic_name": "المُزَّمِّل",
       "english_name": "Al-Muzzammil",
       "english_meaning": "The Enshrouded One"
@@ -686,7 +684,7 @@
       "index": 74,
       "name": "المدثر",
       "file": "suras/sura_074.json",
-      "aya_count": 56,
+      "lines_count": 56,
       "arabic_name": "المُدَّثِّر",
       "english_name": "Al-Muddaththir",
       "english_meaning": "The Cloaked One"
@@ -695,7 +693,7 @@
       "index": 75,
       "name": "القيامة",
       "file": "suras/sura_075.json",
-      "aya_count": 40,
+      "lines_count": 40,
       "arabic_name": "القِيَامَة",
       "english_name": "Al-Qiyāmah",
       "english_meaning": "The Resurrection"
@@ -704,7 +702,7 @@
       "index": 76,
       "name": "الانسان",
       "file": "suras/sura_076.json",
-      "aya_count": 31,
+      "lines_count": 31,
       "arabic_name": "الإنسَان",
       "english_name": "Al-Insān",
       "english_meaning": "The Human"
@@ -713,7 +711,7 @@
       "index": 77,
       "name": "المرسلات",
       "file": "suras/sura_077.json",
-      "aya_count": 50,
+      "lines_count": 50,
       "arabic_name": "المُرسَلات",
       "english_name": "Al-Mursalāt",
       "english_meaning": "Those Sent Forth"
@@ -722,7 +720,7 @@
       "index": 78,
       "name": "النبإ",
       "file": "suras/sura_078.json",
-      "aya_count": 40,
+      "lines_count": 40,
       "arabic_name": "النَّبَأ",
       "english_name": "An-Naba",
       "english_meaning": "The Announcement"
@@ -731,7 +729,7 @@
       "index": 79,
       "name": "النازعات",
       "file": "suras/sura_079.json",
-      "aya_count": 46,
+      "lines_count": 46,
       "arabic_name": "النَّازعَات",
       "english_name": "An-Nāzi`āt",
       "english_meaning": "Those Who Drag Forth"
@@ -740,7 +738,7 @@
       "index": 80,
       "name": "عبس",
       "file": "suras/sura_080.json",
-      "aya_count": 42,
+      "lines_count": 42,
       "arabic_name": "عَبَس",
       "english_name": "Abasa",
       "english_meaning": "He Frowned"
@@ -749,7 +747,7 @@
       "index": 81,
       "name": "التكوير",
       "file": "suras/sura_081.json",
-      "aya_count": 29,
+      "lines_count": 29,
       "arabic_name": "التَّكوير",
       "english_name": "At-Takwīr",
       "english_meaning": "The Overthrowing"
@@ -758,7 +756,7 @@
       "index": 82,
       "name": "الإنفطار",
       "file": "suras/sura_082.json",
-      "aya_count": 19,
+      "lines_count": 19,
       "arabic_name": "الانفِطار",
       "english_name": "Al-Infiṭār",
       "english_meaning": "The Cleaving"
@@ -767,7 +765,7 @@
       "index": 83,
       "name": "المطففين",
       "file": "suras/sura_083.json",
-      "aya_count": 36,
+      "lines_count": 36,
       "arabic_name": "المطفِّفِين",
       "english_name": "Al-Muṭaffifīn",
       "english_meaning": "The Defrauding"
@@ -776,7 +774,7 @@
       "index": 84,
       "name": "الإنشقاق",
       "file": "suras/sura_084.json",
-      "aya_count": 25,
+      "lines_count": 25,
       "arabic_name": "الانْشِقَاق",
       "english_name": "Al-Inshiqāq",
       "english_meaning": "The Splitting Open"
@@ -785,7 +783,7 @@
       "index": 85,
       "name": "البروج",
       "file": "suras/sura_085.json",
-      "aya_count": 22,
+      "lines_count": 22,
       "arabic_name": "البُروج",
       "english_name": "Al-Burūj",
       "english_meaning": "The Mansions of the Stars"
@@ -794,7 +792,7 @@
       "index": 86,
       "name": "الطارق",
       "file": "suras/sura_086.json",
-      "aya_count": 17,
+      "lines_count": 17,
       "arabic_name": "الطَّارِق",
       "english_name": "Aṭ-Ṭāriq",
       "english_meaning": "The Morning Star"
@@ -803,7 +801,7 @@
       "index": 87,
       "name": "الأعلى",
       "file": "suras/sura_087.json",
-      "aya_count": 19,
+      "lines_count": 19,
       "arabic_name": "الأعْلى",
       "english_name": "Al-A`lā",
       "english_meaning": "The Most High"
@@ -812,7 +810,7 @@
       "index": 88,
       "name": "الغاشية",
       "file": "suras/sura_088.json",
-      "aya_count": 26,
+      "lines_count": 26,
       "arabic_name": "الغَاشِيَة",
       "english_name": "Al-Ghāshiyah",
       "english_meaning": "The Overwhelming"
@@ -821,7 +819,7 @@
       "index": 89,
       "name": "الفجر",
       "file": "suras/sura_089.json",
-      "aya_count": 30,
+      "lines_count": 30,
       "arabic_name": "الفَجْر",
       "english_name": "Al-Fajr",
       "english_meaning": "The Dawn"
@@ -830,7 +828,7 @@
       "index": 90,
       "name": "البلد",
       "file": "suras/sura_090.json",
-      "aya_count": 20,
+      "lines_count": 20,
       "arabic_name": "البَلَد",
       "english_name": "Al-Balad",
       "english_meaning": "The City"
@@ -839,7 +837,7 @@
       "index": 91,
       "name": "الشمس",
       "file": "suras/sura_091.json",
-      "aya_count": 15,
+      "lines_count": 15,
       "arabic_name": "الشَّمْس",
       "english_name": "Ash-Shams",
       "english_meaning": "The Sun"
@@ -848,7 +846,7 @@
       "index": 92,
       "name": "الليل",
       "file": "suras/sura_092.json",
-      "aya_count": 21,
+      "lines_count": 21,
       "arabic_name": "اللَّيْل",
       "english_name": "Al-Layl",
       "english_meaning": "The Night"
@@ -857,7 +855,7 @@
       "index": 93,
       "name": "الضحى",
       "file": "suras/sura_093.json",
-      "aya_count": 11,
+      "lines_count": 11,
       "arabic_name": "الضُّحَى",
       "english_name": "Aḍ-Ḍuhā",
       "english_meaning": "The Morning Hours"
@@ -866,7 +864,7 @@
       "index": 94,
       "name": "الشرح",
       "file": "suras/sura_094.json",
-      "aya_count": 8,
+      "lines_count": 8,
       "arabic_name": "الشَّرْح",
       "english_name": "Ash-Sharḥ",
       "english_meaning": "The Relief"
@@ -875,7 +873,7 @@
       "index": 95,
       "name": "التين",
       "file": "suras/sura_095.json",
-      "aya_count": 8,
+      "lines_count": 8,
       "arabic_name": "التِّين",
       "english_name": "At-Tīn",
       "english_meaning": "The Fig"
@@ -884,7 +882,7 @@
       "index": 96,
       "name": "العلق",
       "file": "suras/sura_096.json",
-      "aya_count": 19,
+      "lines_count": 19,
       "arabic_name": "العَلَق",
       "english_name": "Al-Alaq",
       "english_meaning": "The Clot"
@@ -893,7 +891,7 @@
       "index": 97,
       "name": "القدر",
       "file": "suras/sura_097.json",
-      "aya_count": 5,
+      "lines_count": 5,
       "arabic_name": "القَدْر",
       "english_name": "Al-Qadr",
       "english_meaning": "The Power"
@@ -902,7 +900,7 @@
       "index": 98,
       "name": "البينة",
       "file": "suras/sura_098.json",
-      "aya_count": 8,
+      "lines_count": 8,
       "arabic_name": "البَيِّنَة",
       "english_name": "Al-Bayyinah",
       "english_meaning": "The Clear Proof"
@@ -911,7 +909,7 @@
       "index": 99,
       "name": "الزلزلة",
       "file": "suras/sura_099.json",
-      "aya_count": 8,
+      "lines_count": 8,
       "arabic_name": "الزَّلزَلة",
       "english_name": "Az-Zalzalah",
       "english_meaning": "The Earthquake"
@@ -920,7 +918,7 @@
       "index": 100,
       "name": "العاديات",
       "file": "suras/sura_100.json",
-      "aya_count": 11,
+      "lines_count": 11,
       "arabic_name": "العَادِيات",
       "english_name": "Al-Ādiyāt",
       "english_meaning": "The Courser"
@@ -929,7 +927,7 @@
       "index": 101,
       "name": "القارعة",
       "file": "suras/sura_101.json",
-      "aya_count": 11,
+      "lines_count": 11,
       "arabic_name": "القَارِعة",
       "english_name": "Al-Qāri`ah",
       "english_meaning": "The Calamity"
@@ -938,7 +936,7 @@
       "index": 102,
       "name": "التكاثر",
       "file": "suras/sura_102.json",
-      "aya_count": 8,
+      "lines_count": 8,
       "arabic_name": "التَّكَاثر",
       "english_name": "At-Takāthur",
       "english_meaning": "The Rivalry in World Increase"
@@ -947,7 +945,7 @@
       "index": 103,
       "name": "العصر",
       "file": "suras/sura_103.json",
-      "aya_count": 3,
+      "lines_count": 3,
       "arabic_name": "العَصْر",
       "english_name": "Al-Aṣr",
       "english_meaning": "The Declining Day"
@@ -956,7 +954,7 @@
       "index": 104,
       "name": "الهمزة",
       "file": "suras/sura_104.json",
-      "aya_count": 9,
+      "lines_count": 9,
       "arabic_name": "الهُمَزَة",
       "english_name": "Al-Humazah",
       "english_meaning": "The Traducer"
@@ -965,7 +963,7 @@
       "index": 105,
       "name": "الفيل",
       "file": "suras/sura_105.json",
-      "aya_count": 5,
+      "lines_count": 5,
       "arabic_name": "الفِيل",
       "english_name": "Al-Fīl",
       "english_meaning": "The Elephant"
@@ -974,7 +972,7 @@
       "index": 106,
       "name": "قريش",
       "file": "suras/sura_106.json",
-      "aya_count": 4,
+      "lines_count": 4,
       "arabic_name": "قُرَيْش",
       "english_name": "Quraysh",
       "english_meaning": "Quraysh"
@@ -983,7 +981,7 @@
       "index": 107,
       "name": "الماعون",
       "file": "suras/sura_107.json",
-      "aya_count": 7,
+      "lines_count": 7,
       "arabic_name": "المَاعُون",
       "english_name": "Al-Mā`ūn",
       "english_meaning": "The Small Kindnesses"
@@ -992,7 +990,7 @@
       "index": 108,
       "name": "الكوثر",
       "file": "suras/sura_108.json",
-      "aya_count": 3,
+      "lines_count": 3,
       "arabic_name": "الكَوْثَر",
       "english_name": "Al-Kawthar",
       "english_meaning": "Abundance"
@@ -1001,7 +999,7 @@
       "index": 109,
       "name": "الكافرون",
       "file": "suras/sura_109.json",
-      "aya_count": 6,
+      "lines_count": 6,
       "arabic_name": "الكَافِرُون",
       "english_name": "Al-Kāfirūn",
       "english_meaning": "The Disbelievers"
@@ -1010,7 +1008,7 @@
       "index": 110,
       "name": "النصر",
       "file": "suras/sura_110.json",
-      "aya_count": 3,
+      "lines_count": 3,
       "arabic_name": "النَّصر",
       "english_name": "An-Naṣr",
       "english_meaning": "The Divine Support"
@@ -1019,7 +1017,7 @@
       "index": 111,
       "name": "المسد",
       "file": "suras/sura_111.json",
-      "aya_count": 5,
+      "lines_count": 5,
       "arabic_name": "المَسَد",
       "english_name": "Al-Masad",
       "english_meaning": "The Palm Fiber"
@@ -1028,7 +1026,7 @@
       "index": 112,
       "name": "الإخلاص",
       "file": "suras/sura_112.json",
-      "aya_count": 4,
+      "lines_count": 4,
       "arabic_name": "الإخْلَاص",
       "english_name": "Al-Ikhlāṣ",
       "english_meaning": "The Sincerity"
@@ -1037,7 +1035,7 @@
       "index": 113,
       "name": "الفلق",
       "file": "suras/sura_113.json",
-      "aya_count": 5,
+      "lines_count": 5,
       "arabic_name": "الفَلَق",
       "english_name": "Al-Falaq",
       "english_meaning": "The Daybreak"
@@ -1046,7 +1044,7 @@
       "index": 114,
       "name": "الناس",
       "file": "suras/sura_114.json",
-      "aya_count": 6,
+      "lines_count": 6,
       "arabic_name": "النَّاس",
       "english_name": "An-Nās",
       "english_meaning": "Mankind"
