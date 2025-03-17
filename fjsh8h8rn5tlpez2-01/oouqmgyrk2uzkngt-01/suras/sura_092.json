@@ -7,131 +7,176 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "وَٱلَّيْلِ إِذَا يَغْشَىٰ",
-      "translation": "By the night when it envelops,",
-      "transliteration": "wal layli idhā yaghshā",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+      "translation": "By the night when it envelops,",
+      "transliteration": "wal layli idhā yaghshā"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
       "translation": "by the day when it brightens,",
       "transliteration": "wan nahāri idhā tajallā"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
       "translation": "by Him who created the male and the female:",
       "transliteration": "wa mā khalaqadh dhakara wal-unthā"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
       "translation": "your endeavours are indeed diverse.",
       "transliteration": "inna sa`yakum lashattā"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ",
       "translation": "As for him who gives and is Godwary",
       "transliteration": "fa-ammā man a`ṭā wattaqā"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "وَصَدَّقَ بِٱلْحُسْنَىٰ",
       "translation": "and confirms the best promise,",
       "transliteration": "waṣaddaqa bil ḥusnā"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ",
       "translation": "We will surely ease him toward facility.",
       "transliteration": "fasanuyassiruhu lilyusrā"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ",
       "translation": "But as for him, who is stingy and self-complacent,",
       "transliteration": "wa-ammā man bakhila wastaghnā"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "وَكَذَّبَ بِٱلْحُسْنَىٰ",
       "translation": "and denies the best promise,",
       "transliteration": "wakadhhaba bil ḥusnā"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
       "translation": "We will surely ease him toward hardship.",
       "transliteration": "fasanuyassiruhu lil`usrā"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
       "translation": "His wealth will not avail him when he perishes.",
       "transliteration": "wa mā yughnī `anhu māluhu idhā taraddā"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
       "translation": "Indeed guidance rests with Us,",
       "transliteration": "inna `alaynā lalhudā"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ",
       "translation": "and to Us belong the world and the Hereafter.",
       "transliteration": "wa inna lanā lal-ākhirata wal-ūlā"
     },
     {
-      "index": 14,
+      "index": 15,
+      "id": 14,
+      "show_id": "14",
       "arabic": "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ",
       "translation": "So I warn you of a blazing fire,",
       "transliteration": "fa-andhartukum nāran talaẓẓā"
     },
     {
-      "index": 15,
+      "index": 16,
+      "id": 15,
+      "show_id": "15",
       "arabic": "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى",
       "translation": "which none shall enter except the most wretched [of persons]",
       "transliteration": "lā yaṣlāhā illal-ashqā"
     },
     {
-      "index": 16,
+      "index": 17,
+      "id": 16,
+      "show_id": "16",
       "arabic": "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ",
       "translation": "—he who impugns [God’s prophets] and turns his back.",
       "transliteration": "alladhī kadhhaba watawallā"
     },
     {
-      "index": 17,
+      "index": 18,
+      "id": 17,
+      "show_id": "17",
       "arabic": "وَسَيُجَنَّبُهَا ٱلْأَتْقَى",
       "translation": "The Godwary [person] will be spared of that",
       "transliteration": "wasayujannabuhal-atqā"
     },
     {
-      "index": 18,
+      "index": 19,
+      "id": 18,
+      "show_id": "18",
       "arabic": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
       "translation": "—he who gives his wealth to purify himself",
       "transliteration": "alladhī yu-tī mālahu yatazakkā"
     },
     {
-      "index": 19,
+      "index": 20,
+      "id": 19,
+      "show_id": "19",
       "arabic": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ",
       "translation": "and does not expect any reward from anyone,",
       "transliteration": "wa mā li-aḥadin `indahu min ni`matin tujzā"
     },
     {
-      "index": 20,
+      "index": 21,
+      "id": 20,
+      "show_id": "20",
       "arabic": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ",
       "translation": "but seek only the pleasure of their Lord, the Most Exalted,",
       "transliteration": "illab-tighā-a wajhi rabbihil-a`lā"
     },
     {
-      "index": 21,
+      "index": 22,
+      "id": 21,
+      "show_id": "21",
       "arabic": "وَلَسَوْفَ يَرْضَىٰ",
       "translation": "and, surely, soon they will be well-pleased.",
       "transliteration": "walasawfa yarḍā"

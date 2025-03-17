@@ -7,71 +7,96 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
-      "translation": "By the snorting chargers,",
-      "transliteration": "wal `ādiyāti ḍabḥā",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
+      "translation": "By the snorting chargers,",
+      "transliteration": "wal `ādiyāti ḍabḥā"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "فَٱلْمُورِيَـٰتِ قَدْحًا",
       "translation": "by the strikers of sparks [with their hoofs],",
       "transliteration": "fal mūriyāti qad-ḥā"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "فَٱلْمُغِيرَٰتِ صُبْحًا",
       "translation": "by the raiders at dawn,",
       "transliteration": "fal mughīrāti ṣubḥā"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "فَأَثَرْنَ بِهِۦ نَقْعًا",
       "translation": "raising therein a trail of dust,",
       "transliteration": "fa-atharna bihi naq`ā"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "فَوَسَطْنَ بِهِۦ جَمْعًا",
       "translation": "and cleaving therein a host!",
       "transliteration": "fawasaṭna bihi jam`ā"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
       "translation": "Indeed man is ungrateful to his Lord,",
       "transliteration": "innal-insāna lirabbihi lakanūd"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
       "translation": "and indeed he is [himself] witness to that!",
       "transliteration": "wa innahu `alā dhālika lashahīd"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
       "translation": "And indeed he is an avid lover of wealth.",
       "transliteration": "wa innahu liḥubbil khayri lashadīd"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
       "translation": "Does he not know, when what is [buried] in the graves is turned over,",
       "transliteration": "afalā ya`lamu idhā bu`thira mā fil qubūr"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
       "translation": "and what is [concealed] in the breasts is divulged,",
       "transliteration": "waḥuṣṣila mā fiṣ ṣudūr"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
       "translation": "on that day their Lord will be well informed about them [and their deeds]?",
       "transliteration": "inna rabbahum bihim yawma-idhin lakhabīr"

@@ -7,119 +7,160 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى",
-      "translation": "Glorify the name of your Lord, the Most High,",
-      "transliteration": "sabbiḥis-ma rabbikal-a`lā",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, the Beneficent, the Merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى",
+      "translation": "Glorify the name of your Lord, the Most High,",
+      "transliteration": "sabbiḥis-ma rabbikal-a`lā"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "ٱلَّذِى خَلَقَ فَسَوَّىٰ",
       "translation": "Who creates, then makes complete,",
       "transliteration": "alladhī khalaqa fasawwā"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ",
       "translation": "And Who makes (things) according to a measure, then guides (them to their goal),",
       "transliteration": "wal ladhī qaddara fahadā"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ",
       "translation": "And Who brings forth herbage,",
       "transliteration": "wal ladhī akhrajal mar`ā"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ",
       "translation": "Then makes it dried up, dust-colored.",
       "transliteration": "faja`alahu ghuthā-an aḥwā"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
       "translation": "We will make you recite so you shall not forget,",
       "transliteration": "sanuqri-uka falā tansā"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ",
       "translation": "Except what Allah pleases, surely He knows the manifest, and what is hidden.",
       "transliteration": "illā mā shā-allāh ۚ innahu ya`lamul jahra wa mā yakhfā"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
       "translation": "And We will make your way smooth to a state of ease.",
       "transliteration": "wanuyassiruka lilyusrā"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ",
       "translation": "Therefore do remind, surely reminding does profit.",
       "transliteration": "fadhakkir in nafa`atidh dhikrā"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "سَيَذَّكَّرُ مَن يَخْشَىٰ",
       "translation": "He who fears will mind,",
       "transliteration": "sayadhhakkaru man yakhshā"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "وَيَتَجَنَّبُهَا ٱلْأَشْقَى",
       "translation": "And the most unfortunate one will avoid it,",
       "transliteration": "wayatajannabuhal-ashqā"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ",
       "translation": "Who shall enter the great fire;",
       "transliteration": "alladhī yaṣlan nāral kubrā"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
       "translation": "Then therein he shall neither live nor die.",
       "transliteration": "thumma lā yamūtu fīhā walā yaḥyā"
     },
     {
-      "index": 14,
+      "index": 15,
+      "id": 14,
+      "show_id": "14",
       "arabic": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
       "translation": "He indeed shall be successful who purifies himself,",
       "transliteration": "qad aflaḥa man tazakkā"
     },
     {
-      "index": 15,
+      "index": 16,
+      "id": 15,
+      "show_id": "15",
       "arabic": "وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ",
       "translation": "And magnifies the name of his Lord and prays.",
       "transliteration": "wadhakaras-ma rabbihi faṣallā"
     },
     {
-      "index": 16,
+      "index": 17,
+      "id": 16,
+      "show_id": "16",
       "arabic": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
       "translation": "Nay! you prefer the life of this world,",
       "transliteration": "bal tu-thirūnal ḥayātad dunyā"
     },
     {
-      "index": 17,
+      "index": 18,
+      "id": 17,
+      "show_id": "17",
       "arabic": "وَٱلْـَٔاخِرَةُ خَيْرٌ وَأَبْقَىٰٓ",
       "translation": "While the hereafter is better and more lasting.",
       "transliteration": "wal-ākhiratu khayrun wa-abqā"
     },
     {
-      "index": 18,
+      "index": 19,
+      "id": 18,
+      "show_id": "18",
       "arabic": "إِنَّ هَـٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ",
       "translation": "Most surely this is in the earlier scriptures,",
       "transliteration": "inna hādhā lafiṣ ṣuḥufil-ūlā"
     },
     {
-      "index": 19,
+      "index": 20,
+      "id": 19,
+      "show_id": "19",
       "arabic": "صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ",
       "translation": "The scriptures of Ibrahim and Musa.",
       "transliteration": "ṣuḥufi ibrāhīma wa mūsā"

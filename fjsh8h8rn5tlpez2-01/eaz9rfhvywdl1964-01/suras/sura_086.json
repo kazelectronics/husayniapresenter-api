@@ -7,107 +7,144 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "وَٱلسَّمَآءِ وَٱلطَّارِقِ",
-      "translation": "I swear by the heaven and the comer by night;",
-      "transliteration": "was samā-i waṭ ṭāriq",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, the Beneficent, the Merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+      "translation": "I swear by the heaven and the comer by night;",
+      "transliteration": "was samā-i waṭ ṭāriq"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ",
       "translation": "And what will make you know what the comer by night is?",
       "transliteration": "wa mā adrāka maṭ ṭāriq"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "ٱلنَّجْمُ ٱلثَّاقِبُ",
       "translation": "The star of piercing brightness;",
       "transliteration": "an-najmuth thāqib"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
       "translation": "There is not a soul but over it is a keeper.",
       "transliteration": "in kullu nafsin lammā `alayhā ḥāfiẓ"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ مِمَّ خُلِقَ",
       "translation": "So let man consider of what he is created:",
       "transliteration": "falyanẓuril-insānu mimma khuliq"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "خُلِقَ مِن مَّآءٍ دَافِقٍ",
       "translation": "He is created of water pouring forth,",
       "transliteration": "khuliqa min mā-in dāfiq"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ",
       "translation": "Coming from between the back and the ribs.",
       "transliteration": "yakhruju min bayniṣ ṣulbi wat tarā-ib"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ",
       "translation": "Most surely He is able to return him (to life).",
       "transliteration": "innahu `alā raj`ihi laqādir"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ",
       "translation": "On the day when hidden things shall be made manifest,",
       "transliteration": "yawma tublas sarā-ir"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "فَمَا لَهُۥ مِن قُوَّةٍ وَلَا نَاصِرٍ",
       "translation": "He shall have neither strength nor helper.",
       "transliteration": "famā lahu min quwwatin walā nāṣir"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ",
       "translation": "I swear by the raingiving heavens,",
       "transliteration": "was samā-i dhātir raj`"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ",
       "translation": "And the earth splitting (with plants);",
       "transliteration": "wal-arḍi dhātiṣ ṣad`"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "إِنَّهُۥ لَقَوْلٌ فَصْلٌ",
       "translation": "Most surely it is a decisive word,",
       "transliteration": "innahu laqawlun faṣl"
     },
     {
-      "index": 14,
+      "index": 15,
+      "id": 14,
+      "show_id": "14",
       "arabic": "وَمَا هُوَ بِٱلْهَزْلِ",
       "translation": "And it is no joke.",
       "transliteration": "wa mā huwa bil hazl"
     },
     {
-      "index": 15,
+      "index": 16,
+      "id": 15,
+      "show_id": "15",
       "arabic": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
       "translation": "Surely they will make a scheme,",
       "transliteration": "innahum yakīdūna kaydā"
     },
     {
-      "index": 16,
+      "index": 17,
+      "id": 16,
+      "show_id": "16",
       "arabic": "وَأَكِيدُ كَيْدًا",
       "translation": "And I (too) will make a scheme.",
       "transliteration": "wa-akīdu kaydā"
     },
     {
-      "index": 17,
+      "index": 18,
+      "id": 17,
+      "show_id": "17",
       "arabic": "فَمَهِّلِ ٱلْكَـٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا",
       "translation": "So grant the unbelievers a respite: let them alone for a while.",
       "transliteration": "famahhilil kāfirīna amhilhum ruwaydā"

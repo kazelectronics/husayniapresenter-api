@@ -7,137 +7,184 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
-      "translation": "By the heaven with its Houses,",
-      "transliteration": "was samā-i dhātil burūj",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+      "translation": "By the heaven with its Houses,",
+      "transliteration": "was samā-i dhātil burūj"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "وَٱلْيَوْمِ ٱلْمَوْعُودِ",
       "translation": "by the Promised Day,",
       "transliteration": "wal yawmil maw`ūd"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "وَشَاهِدٍ وَمَشْهُودٍ",
       "translation": "by the Witness and the Witnessed:",
       "transliteration": "washāhidin wa mash-hūd"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "قُتِلَ أَصْحَـٰبُ ٱلْأُخْدُودِ",
       "translation": "perish the People of the Ditch!",
       "transliteration": "qutila aṣ-ḥābul-ukhdūd"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "ٱلنَّارِ ذَاتِ ٱلْوَقُودِ",
       "translation": "The fire abounding in fuel,",
       "transliteration": "an-nāri dhātil waqūd"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
       "translation": "above which they sat",
       "transliteration": "idh hum `alayhā qu`ūd"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ",
       "translation": "as they were themselves witnesses to what they did to the faithful.",
       "transliteration": "wahum `alā mā yaf`alūna bil mu-minīna shuhūd"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
       "translation": "They were vindictive towards them only because they had faith in Allah, the All-mighty and the All-laudable,",
       "transliteration": "wa mā naqamū minhum illā an yu-minū billāhil `azīzil ḥamīd"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
       "translation": "to whom belongs the kingdom of the heavens and the earth, and Allah is witness to all things.",
       "transliteration": "alladhī lahu mulkus samāwāti wal-arḍ ۚ wallāhu `alā kulli shay-in shahīd"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ",
       "translation": "Indeed those who persecute the faithful, men and women, and do not repent thereafter, there is the punishment of hell for them and the punishment of burning.",
       "transliteration": "innal ladhīna fatanul mu-minīna wal mu-mināti thumma lam yatūbū falahum `adhābu jahannama walahum `adhābul ḥarīq"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ",
       "translation": "Indeed those who have faith and do righteous deeds—for them will be gardens with streams running in them. That is the supreme success.",
       "transliteration": "innal ladhīna āmanū wa`amiluṣ ṣāliḥāti lahum jannātun tajrī min taḥtihal-anhār ۚ dhālikal fawzul kabīr"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
       "translation": "Indeed your Lord’s striking is severe.",
       "transliteration": "inna baṭsha rabbika lashadīd"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ",
       "translation": "It is indeed He who originates and brings back,",
       "transliteration": "innahu huwa yubdi-u wayu`īd"
     },
     {
-      "index": 14,
+      "index": 15,
+      "id": 14,
+      "show_id": "14",
       "arabic": "وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ",
       "translation": "and He is the All-forgiving, the All-affectionate,",
       "transliteration": "wahuwal ghafūrul wadūd"
     },
     {
-      "index": 15,
+      "index": 16,
+      "id": 15,
+      "show_id": "15",
       "arabic": "ذُو ٱلْعَرْشِ ٱلْمَجِيدُ",
       "translation": "Lord of the Throne, the All-glorious,",
       "transliteration": "dhul `arshil majīd"
     },
     {
-      "index": 16,
+      "index": 17,
+      "id": 16,
+      "show_id": "16",
       "arabic": "فَعَّالٌ لِّمَا يُرِيدُ",
       "translation": "doer of what He desires.",
       "transliteration": "fa``ālul limā yurīd"
     },
     {
-      "index": 17,
+      "index": 18,
+      "id": 17,
+      "show_id": "17",
       "arabic": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ",
       "translation": "Did you receive the story of the hosts",
       "transliteration": "hal atāka ḥadīthul junūd"
     },
     {
-      "index": 18,
+      "index": 19,
+      "id": 18,
+      "show_id": "18",
       "arabic": "فِرْعَوْنَ وَثَمُودَ",
       "translation": "of Pharaoh and Thamud?",
       "transliteration": "fir`awna wathamūd"
     },
     {
-      "index": 19,
+      "index": 20,
+      "id": 19,
+      "show_id": "19",
       "arabic": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍ",
       "translation": "Indeed the faithless dwell in denial,",
       "transliteration": "balil ladhīna kafarū fī takdhīb"
     },
     {
-      "index": 20,
+      "index": 21,
+      "id": 20,
+      "show_id": "20",
       "arabic": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ",
       "translation": "and Allah besieges them from all around.",
       "transliteration": "wallāhu min warā-ihim muḥīṭ"
     },
     {
-      "index": 21,
+      "index": 22,
+      "id": 21,
+      "show_id": "21",
       "arabic": "بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ",
       "translation": "Indeed it is a glorious Quran,",
       "transliteration": "bal huwa qur-ānun majīd"
     },
     {
-      "index": 22,
+      "index": 23,
+      "id": 22,
+      "show_id": "22",
       "arabic": "فِى لَوْحٍ مَّحْفُوظٍۭ",
       "translation": "in a preserved tablet.",
       "transliteration": "fī lawḥin maḥfūẓ"

@@ -7,257 +7,344 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "عَبَسَ وَتَوَلَّىٰٓ",
-      "translation": "HE FROWNED AND turned away,",
-      "transliteration": "`abasa watawallā",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, most benevolent, ever-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, most benevolent, ever-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "عَبَسَ وَتَوَلَّىٰٓ",
+      "translation": "HE FROWNED AND turned away,",
+      "transliteration": "`abasa watawallā"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
       "translation": "Because a blind man came to him.",
       "transliteration": "an jā-ahul-a`mā"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
       "translation": "What made you think that he will not grow in virtue,",
       "transliteration": "wa mā yudrīka la`allahu yazzakkā"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ",
       "translation": "Or be admonished, and the admonition profit him?",
       "transliteration": "aw yadhhakkaru fatanfa`ahudh dhikrā"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "أَمَّا مَنِ ٱسْتَغْنَىٰ",
       "translation": "As for him who is not in want of any thing,",
       "transliteration": "ammā manis-taghnā"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "فَأَنتَ لَهُۥ تَصَدَّىٰ",
       "translation": "You pay full attention,",
       "transliteration": "fa-anta lahu taṣaddā"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
       "translation": "Though it is not your concern if he should not grow (in fulness).",
       "transliteration": "wa mā `alayka allā yazzakkā"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "وَأَمَّا مَن جَآءَكَ يَسْعَىٰ",
       "translation": "As for him who comes to you striving (after goodness),",
       "transliteration": "wa-ammā man jā-aka yas`ā"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "وَهُوَ يَخْشَىٰ",
       "translation": "And is also fearful (of God),",
       "transliteration": "wahuwa yakhshā"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "فَأَنتَ عَنْهُ تَلَهَّىٰ",
       "translation": "You neglect.",
       "transliteration": "fa-anta `anhu talahhā"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "كَلَّآ إِنَّهَا تَذْكِرَةٌ",
       "translation": "Assuredly this is a reminder",
       "transliteration": "kallā innahā tadhkirah"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "فَمَن شَآءَ ذَكَرَهُۥ",
       "translation": "For any one who desires to bear it in mind,",
       "transliteration": "faman shā-a dhakarah"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "فِى صُحُفٍ مُّكَرَّمَةٍ",
       "translation": "(Contained) in honoured pages,",
       "transliteration": "fī ṣuḥufin mukarramah"
     },
     {
-      "index": 14,
+      "index": 15,
+      "id": 14,
+      "show_id": "14",
       "arabic": "مَّرْفُوعَةٍ مُّطَهَّرَةٍۭ",
       "translation": "Exalted and holy,",
       "transliteration": "marfū`atim muṭahharah"
     },
     {
-      "index": 15,
+      "index": 16,
+      "id": 15,
+      "show_id": "15",
       "arabic": "بِأَيْدِى سَفَرَةٍ",
       "translation": "In the hands of scribes",
       "transliteration": "bi-aydī safarah"
     },
     {
-      "index": 16,
+      "index": 17,
+      "id": 16,
+      "show_id": "16",
       "arabic": "كِرَامٍۭ بَرَرَةٍ",
       "translation": "Noble and pious.",
       "transliteration": "kirāmin bararah"
     },
     {
-      "index": 17,
+      "index": 18,
+      "id": 17,
+      "show_id": "17",
       "arabic": "قُتِلَ ٱلْإِنسَـٰنُ مَآ أَكْفَرَهُۥ",
       "translation": "Accursed is man. How ungrateful is he!",
       "transliteration": "qutilal-insānu mā akfarah"
     },
     {
-      "index": 18,
+      "index": 19,
+      "id": 18,
+      "show_id": "18",
       "arabic": "مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ",
       "translation": "Of what substance God created him?",
       "transliteration": "min ayyi shay-in khalaqah"
     },
     {
-      "index": 19,
+      "index": 20,
+      "id": 19,
+      "show_id": "19",
       "arabic": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
       "translation": "From a single sperm He created, then proportioned him,",
       "transliteration": "min nuṭfatin khalaqahu faqaddarah"
     },
     {
-      "index": 20,
+      "index": 21,
+      "id": 20,
+      "show_id": "20",
       "arabic": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ",
       "translation": "Then made his passage easy (at birth);",
       "transliteration": "thummas sabīla yassarah"
     },
     {
-      "index": 21,
+      "index": 22,
+      "id": 21,
+      "show_id": "21",
       "arabic": "ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ",
       "translation": "He will then send him to death and have him laid in the grave.",
       "transliteration": "thumma amātahu fa-aqbarah"
     },
     {
-      "index": 22,
+      "index": 23,
+      "id": 22,
+      "show_id": "22",
       "arabic": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ",
       "translation": "Then He will raise him up again when He please.",
       "transliteration": "thumma idhā shā-a ansharah"
     },
     {
-      "index": 23,
+      "index": 24,
+      "id": 23,
+      "show_id": "23",
       "arabic": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ",
       "translation": "But no. He has not fulfilled what was enjoined on him.",
       "transliteration": "kallā lammā yaqḍi mā amarah"
     },
     {
-      "index": 24,
+      "index": 25,
+      "id": 24,
+      "show_id": "24",
       "arabic": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ إِلَىٰ طَعَامِهِۦٓ",
       "translation": "Let man therefore consider (the sources of) his food.",
       "transliteration": "falyanẓuril-insānu ilā ṭa`āmih"
     },
     {
-      "index": 25,
+      "index": 26,
+      "id": 25,
+      "show_id": "25",
       "arabic": "أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا",
       "translation": "We poured down rain abundantly,",
       "transliteration": "annā ṣababnal mā-a ṣabbā"
     },
     {
-      "index": 26,
+      "index": 27,
+      "id": 26,
+      "show_id": "26",
       "arabic": "ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّا",
       "translation": "Then We cracked the earth open under pressure (of germination)",
       "transliteration": "thumma shaqaqnal-arḍa shaqqā"
     },
     {
-      "index": 27,
+      "index": 28,
+      "id": 27,
+      "show_id": "27",
       "arabic": "فَأَنۢبَتْنَا فِيهَا حَبًّا",
       "translation": "And We made corn grow,",
       "transliteration": "fa-anbatnā fīhā ḥabbā"
     },
     {
-      "index": 28,
+      "index": 29,
+      "id": 28,
+      "show_id": "28",
       "arabic": "وَعِنَبًا وَقَضْبًا",
       "translation": "And grapes and herbage,",
       "transliteration": "wa`inaban waqaḍbā"
     },
     {
-      "index": 29,
+      "index": 30,
+      "id": 29,
+      "show_id": "29",
       "arabic": "وَزَيْتُونًا وَنَخْلًا",
       "translation": "Olives and dates,",
       "transliteration": "wazaytūnan wanakhlā"
     },
     {
-      "index": 30,
+      "index": 31,
+      "id": 30,
+      "show_id": "30",
       "arabic": "وَحَدَآئِقَ غُلْبًا",
       "translation": "Orchards thick with trees,",
       "transliteration": "waḥadā-iqa ghulbā"
     },
     {
-      "index": 31,
+      "index": 32,
+      "id": 31,
+      "show_id": "31",
       "arabic": "وَفَـٰكِهَةً وَأَبًّا",
       "translation": "And fruits and fodder:",
       "transliteration": "wafākihatan wa-abbā"
     },
     {
-      "index": 32,
+      "index": 33,
+      "id": 32,
+      "show_id": "32",
       "arabic": "مَّتَـٰعًا لَّكُمْ وَلِأَنْعَـٰمِكُمْ",
       "translation": "A provision for you and your cattle.",
       "transliteration": "matā`al lakum wali-an`āmikum"
     },
     {
-      "index": 33,
+      "index": 34,
+      "id": 33,
+      "show_id": "33",
       "arabic": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ",
       "translation": "But when the great calamity comes",
       "transliteration": "fa-idhā jā-atiṣ ṣākhhah"
     },
     {
-      "index": 34,
+      "index": 35,
+      "id": 34,
+      "show_id": "34",
       "arabic": "يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ",
       "translation": "Man will fly from his brother,",
       "transliteration": "yawma yafirrul mar-u min akhīh"
     },
     {
-      "index": 35,
+      "index": 36,
+      "id": 35,
+      "show_id": "35",
       "arabic": "وَأُمِّهِۦ وَأَبِيهِ",
       "translation": "Mother and father,",
       "transliteration": "wa-ummihi wa-abīh"
     },
     {
-      "index": 36,
+      "index": 37,
+      "id": 36,
+      "show_id": "36",
       "arabic": "وَصَـٰحِبَتِهِۦ وَبَنِيهِ",
       "translation": "As well as his wife and children.",
       "transliteration": "waṣāḥibatihi wabanīh"
     },
     {
-      "index": 37,
+      "index": 38,
+      "id": 37,
+      "show_id": "37",
       "arabic": "لِكُلِّ ٱمْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
       "translation": "Each man will have enough cares that day.",
       "transliteration": "likullim-ri-in minhum yawma-idhin sha-nun yughnīh"
     },
     {
-      "index": 38,
+      "index": 39,
+      "id": 38,
+      "show_id": "38",
       "arabic": "وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ",
       "translation": "Many faces will that day be bright,",
       "transliteration": "wujūhun yawma-idhin musfirah"
     },
     {
-      "index": 39,
+      "index": 40,
+      "id": 39,
+      "show_id": "39",
       "arabic": "ضَاحِكَةٌ مُّسْتَبْشِرَةٌ",
       "translation": "Laughing and full of joy,",
       "transliteration": "ḍāḥikatun mustabshirah"
     },
     {
-      "index": 40,
+      "index": 41,
+      "id": 40,
+      "show_id": "40",
       "arabic": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
       "translation": "And many will be dust-begrimed,",
       "transliteration": "wawujūhun yawma-idhin `alayhā ghabarah"
     },
     {
-      "index": 41,
+      "index": 42,
+      "id": 41,
+      "show_id": "41",
       "arabic": "تَرْهَقُهَا قَتَرَةٌ",
       "translation": "Covered with the blackness (of shame):",
       "transliteration": "tarhaquhā qatarah"
     },
     {
-      "index": 42,
+      "index": 43,
+      "id": 42,
+      "show_id": "42",
       "arabic": "أُو۟لَـٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ",
       "translation": "They will be the unbelievers, transgressors.",
       "transliteration": "ulā-ika humul kafaratul fajarah"

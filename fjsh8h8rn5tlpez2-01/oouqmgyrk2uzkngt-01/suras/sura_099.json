@@ -7,53 +7,72 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
-      "translation": "When the earth is rocked with a terrible quake",
-      "transliteration": "idhā zulzilatil-arḍu zilzālahā",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "translation": "When the earth is rocked with a terrible quake",
+      "transliteration": "idhā zulzilatil-arḍu zilzālahā"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
       "translation": "and discharges its burdens,",
       "transliteration": "wa-akhrajatil-arḍu athqālahā"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
       "translation": "and man says, ‘What is the matter with her?’",
       "transliteration": "waqālal-insānu mā lahā"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
       "translation": "On that day she will relate her chronicles",
       "transliteration": "yawma-idhin tuḥaddithu akhbārahā"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
       "translation": "for her Lord will have inspired her.",
       "transliteration": "bi-anna rabbaka awḥā lahā"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
       "translation": "On that day, mankind will issue forth in various groups to be shown their deeds.",
       "transliteration": "yawma-idhiy yaṣdurun nāsu ashtātal liyuraw a`mālahum"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
       "translation": "So whoever does an atom’s weight of good will see it,",
       "transliteration": "faman ya`mal mithqāla dharratin khayran yarah"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
       "translation": "and whoever does an atom’s weight of evil will see it.",
       "transliteration": "wa man ya`mal mithqāla dharratin sharran yarah"

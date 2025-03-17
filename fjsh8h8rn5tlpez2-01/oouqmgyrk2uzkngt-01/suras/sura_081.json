@@ -7,179 +7,240 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "إِذَا ٱلشَّمْسُ كُوِّرَتْ",
-      "translation": "When the sun is wound up,",
-      "transliteration": "idhash shamsu kuwwirat",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "إِذَا ٱلشَّمْسُ كُوِّرَتْ",
+      "translation": "When the sun is wound up,",
+      "transliteration": "idhash shamsu kuwwirat"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ",
       "translation": "when the stars scatter,",
       "transliteration": "wa idhan nujūmun-kadarat"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "وَإِذَا ٱلْجِبَالُ سُيِّرَتْ",
       "translation": "when the mountains are set moving,",
       "transliteration": "wa idhal jibālu suyyirat"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "وَإِذَا ٱلْعِشَارُ عُطِّلَتْ",
       "translation": "when the pregnant camels are neglected,",
       "transliteration": "wa idhal `ishāru `uṭṭilat"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "وَإِذَا ٱلْوُحُوشُ حُشِرَتْ",
       "translation": "when the wild beasts are mustered,",
       "transliteration": "wa idhal wuḥūshu ḥushirat"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "وَإِذَا ٱلْبِحَارُ سُجِّرَتْ",
       "translation": "when the seas are set afire,",
       "transliteration": "wa idhal biḥāru sujjirat"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ",
       "translation": "when the souls are assorted,",
       "transliteration": "wa idhan nufūsu zuwwijat"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ",
       "translation": "when the girl buried-alive will be asked",
       "transliteration": "wa idhal maw-ū-datu su-ilat"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "بِأَىِّ ذَنۢبٍ قُتِلَتْ",
       "translation": "for what sin she was killed.",
       "transliteration": "bi-ayyi dhanbin qutilat"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "وَإِذَا ٱلصُّحُفُ نُشِرَتْ",
       "translation": "When the records [of deeds] are unfolded,",
       "transliteration": "wa idhaṣ ṣuḥufu nushirat"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ",
       "translation": "when the sky is stripped off,",
       "transliteration": "wa idhas samā-u kushiṭat"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ",
       "translation": "when hell is set ablaze,",
       "transliteration": "wa idhal jaḥīmu su``irat"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ",
       "translation": "when paradise is brought near,",
       "transliteration": "wa idhal jannatu uzlifat"
     },
     {
-      "index": 14,
+      "index": 15,
+      "id": 14,
+      "show_id": "14",
       "arabic": "عَلِمَتْ نَفْسٌ مَّآ أَحْضَرَتْ",
       "translation": "then a soul shall know what it has readied [for itself].",
       "transliteration": "`alimat nafsun mā aḥḍarat"
     },
     {
-      "index": 15,
+      "index": 16,
+      "id": 15,
+      "show_id": "15",
       "arabic": "فَلَآ أُقْسِمُ بِٱلْخُنَّسِ",
       "translation": "So I swear by the stars that return,",
       "transliteration": "falā uqsimu bil khunnas"
     },
     {
-      "index": 16,
+      "index": 17,
+      "id": 16,
+      "show_id": "16",
       "arabic": "ٱلْجَوَارِ ٱلْكُنَّسِ",
       "translation": "the comets,",
       "transliteration": "al-jawāril kunnas"
     },
     {
-      "index": 17,
+      "index": 18,
+      "id": 17,
+      "show_id": "17",
       "arabic": "وَٱلَّيْلِ إِذَا عَسْعَسَ",
       "translation": "by the night as it approaches,",
       "transliteration": "wal layli idhā `as`as"
     },
     {
-      "index": 18,
+      "index": 19,
+      "id": 18,
+      "show_id": "18",
       "arabic": "وَٱلصُّبْحِ إِذَا تَنَفَّسَ",
       "translation": "by the dawn as it breathes:",
       "transliteration": "waṣ ṣubḥi idhā tanaffas"
     },
     {
-      "index": 19,
+      "index": 20,
+      "id": 19,
+      "show_id": "19",
       "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ",
       "translation": "it is indeed the speech of a noble apostle,",
       "transliteration": "innahu laqawlu rasūlin karīm"
     },
     {
-      "index": 20,
+      "index": 21,
+      "id": 20,
+      "show_id": "20",
       "arabic": "ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍ",
       "translation": "powerful and eminent with the Lord of the Throne,",
       "transliteration": "dhī quwwatin `inda dhil `arshi makīn"
     },
     {
-      "index": 21,
+      "index": 22,
+      "id": 21,
+      "show_id": "21",
       "arabic": "مُّطَاعٍ ثَمَّ أَمِينٍ",
       "translation": "one who is obeyed and is trustworthy as well.",
       "transliteration": "muṭā`in thamma amīn"
     },
     {
-      "index": 22,
+      "index": 23,
+      "id": 22,
+      "show_id": "22",
       "arabic": "وَمَا صَاحِبُكُم بِمَجْنُونٍ",
       "translation": "Your companion is not crazy:",
       "transliteration": "wa mā ṣāḥibukum bimajnūn"
     },
     {
-      "index": 23,
+      "index": 24,
+      "id": 23,
+      "show_id": "23",
       "arabic": "وَلَقَدْ رَءَاهُ بِٱلْأُفُقِ ٱلْمُبِينِ",
       "translation": "certainly he saw him on the manifest horizon,",
       "transliteration": "walaqad ra-āhu bil-ufuqil mubīn"
     },
     {
-      "index": 24,
+      "index": 25,
+      "id": 24,
+      "show_id": "24",
       "arabic": "وَمَا هُوَ عَلَى ٱلْغَيْبِ بِضَنِينٍ",
       "translation": "and he is not miserly concerning the Unseen.",
       "transliteration": "wa mā huwa `alal-ghaybi biḍanīn"
     },
     {
-      "index": 25,
+      "index": 26,
+      "id": 25,
+      "show_id": "25",
       "arabic": "وَمَا هُوَ بِقَوْلِ شَيْطَـٰنٍ رَّجِيمٍ",
       "translation": "And it is not the speech of an outcast Satan.",
       "transliteration": "wa mā huwa biqawli shayṭānin rajīm"
     },
     {
-      "index": 26,
+      "index": 27,
+      "id": 26,
+      "show_id": "26",
       "arabic": "فَأَيْنَ تَذْهَبُونَ",
       "translation": "So where are you going?",
       "transliteration": "fa-ayna tadh-habūn"
     },
     {
-      "index": 27,
+      "index": 28,
+      "id": 27,
+      "show_id": "27",
       "arabic": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
       "translation": "It is just a reminder for all the nations,",
       "transliteration": "in huwa illā dhikrul lil`ālamīn"
     },
     {
-      "index": 28,
+      "index": 29,
+      "id": 28,
+      "show_id": "28",
       "arabic": "لِمَن شَآءَ مِنكُمْ أَن يَسْتَقِيمَ",
       "translation": "for those of you who wish to walk straight;",
       "transliteration": "liman shā-a minkum an yastaqīm"
     },
     {
-      "index": 29,
+      "index": 30,
+      "id": 29,
+      "show_id": "29",
       "arabic": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ",
       "translation": "but you will not wish unless it is wished by Allah, the Lord of all the worlds.",
       "transliteration": "wa mā tashā-ūna illā an yashā-allāhu rabbul `ālamīn"

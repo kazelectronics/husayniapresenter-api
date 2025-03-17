@@ -7,185 +7,248 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "وَٱلْفَجْرِ",
-      "translation": "I CALL TO witness the dawn",
-      "transliteration": "wal fajr",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, most benevolent, ever-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, most benevolent, ever-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "وَٱلْفَجْرِ",
+      "translation": "I CALL TO witness the dawn",
+      "transliteration": "wal fajr"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "وَلَيَالٍ عَشْرٍ",
       "translation": "And the Ten Nights,",
       "transliteration": "walayālin `ashr"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
       "translation": "The multiple and the one,",
       "transliteration": "wash shaf`i wal watr"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "وَٱلَّيْلِ إِذَا يَسْرِ",
       "translation": "The night as it advances,",
       "transliteration": "wal layli idhā yasr"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
       "translation": "Is there not an evidence in this for those who have sense?",
       "transliteration": "hal fī dhālika qasamul lidhī ḥijr"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
       "translation": "Have you not seen what your Lord did to the 'Ad",
       "transliteration": "alam tara kayfa fa`ala rabbuka bi`ād"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
       "translation": "Of Eram with lofty pillars (erected as signposts in the desert),",
       "transliteration": "irama dhātil `imād"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَـٰدِ",
       "translation": "The like of whom were never created in the realm;",
       "transliteration": "allatī lam yukhlaq mithluhā fil bilād"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
       "translation": "And with Thamud who carved rocks in the valley;",
       "transliteration": "wathamūdal ladhīna jābuṣ ṣakhra bil wād"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
       "translation": "And the mighty Pharaoh",
       "transliteration": "wafir`awna dhil-awtād"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَـٰدِ",
       "translation": "Who terrorised the region,",
       "transliteration": "alladhīna ṭaghaw fil bilād"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
       "translation": "And multiplied corruption.",
       "transliteration": "fa-aktharū fīhal fasād"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
       "translation": "So your Lord poured a scourge of punishment over them.",
       "transliteration": "faṣabba `alayhim rabbuka sawṭa `adhāb"
     },
     {
-      "index": 14,
+      "index": 15,
+      "id": 14,
+      "show_id": "14",
       "arabic": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
       "translation": "Your Lord is certainly in wait.",
       "transliteration": "inna rabbaka labil mirṣād"
     },
     {
-      "index": 15,
+      "index": 16,
+      "id": 15,
+      "show_id": "15",
       "arabic": "فَأَمَّا ٱلْإِنسَـٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
       "translation": "As for man, whenever his Lord tries him and then is gracious and provides good things for him, he says: \"My Lord has been gracious to me.\"",
       "transliteration": "fa-ammal-insānu idhā mab-talāhu rabbuhu fa-akramahu wana``amahu fayaqūlu rabbī akraman"
     },
     {
-      "index": 16,
+      "index": 17,
+      "id": 16,
+      "show_id": "16",
       "arabic": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَـٰنَنِ",
       "translation": "But when He tries him by restraining his means, he says: \"My Lord despises me.\"",
       "transliteration": "wa-ammā idhā mab-talāhu faqadara `alayhi rizqahu fayaqūlu rabbī ahānan"
     },
     {
-      "index": 17,
+      "index": 18,
+      "id": 17,
+      "show_id": "17",
       "arabic": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
       "translation": "No. In fact you are not generous to the orphans,",
       "transliteration": "kallā ۖ bal lā tukrimūnal yatīm"
     },
     {
-      "index": 18,
+      "index": 19,
+      "id": 18,
+      "show_id": "18",
       "arabic": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
       "translation": "Nor do you urge one another to feed the poor,",
       "transliteration": "walā taḥāḍḍūna `alā ṭa`āmil miskīn"
     },
     {
-      "index": 19,
+      "index": 20,
+      "id": 19,
+      "show_id": "19",
       "arabic": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا",
       "translation": "And you devour (others') inheritance greedily,",
       "transliteration": "wata-kulūnat turātha aklal lammā"
     },
     {
-      "index": 20,
+      "index": 21,
+      "id": 20,
+      "show_id": "20",
       "arabic": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
       "translation": "And love wealth with all your heart.",
       "transliteration": "watuḥibbūnal māla ḥubban jammā"
     },
     {
-      "index": 21,
+      "index": 22,
+      "id": 21,
+      "show_id": "21",
       "arabic": "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّا دَكًّا",
       "translation": "Surely when We pound the earth to powder grounded, pounded to dust,",
       "transliteration": "kallā idhā dukkatil-arḍu dakkan dakkā"
     },
     {
-      "index": 22,
+      "index": 23,
+      "id": 22,
+      "show_id": "22",
       "arabic": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا",
       "translation": "And comes your Lord, and angels row on row,",
       "transliteration": "wajā-a rabbuka wal malaku ṣaffan ṣaffā"
     },
     {
-      "index": 23,
+      "index": 24,
+      "id": 23,
+      "show_id": "23",
       "arabic": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
       "translation": "And Hell is brought near, that day will man remember, but of what avail will then remembering be?",
       "transliteration": "wajī-a yawma-idhin bijahannam ۚ yawma-idhiy yatadhakkarul-insānu wa-annā lahudh dhikrā"
     },
     {
-      "index": 24,
+      "index": 25,
+      "id": 24,
+      "show_id": "24",
       "arabic": "يَقُولُ يَـٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
       "translation": "He will say: \"Alas the woe! Would that I had sent ahead something in my life.\"",
       "transliteration": "yaqūlu yālaytanī qaddamtu liḥayātī"
     },
     {
-      "index": 25,
+      "index": 26,
+      "id": 25,
+      "show_id": "25",
       "arabic": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌ",
       "translation": "None can punish as He will punish on that day,",
       "transliteration": "fayawma-idhin lā yu`adhhibu `adhābahu aḥad"
     },
     {
-      "index": 26,
+      "index": 27,
+      "id": 26,
+      "show_id": "26",
       "arabic": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌ",
       "translation": "And none can bind as He will bind.",
       "transliteration": "walā yūthiqu wathāqahu aḥad"
     },
     {
-      "index": 27,
+      "index": 28,
+      "id": 27,
+      "show_id": "27",
       "arabic": "يَـٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
       "translation": "O you tranquil soul,",
       "transliteration": "yā-ayyatuhan nafsul muṭma-innah"
     },
     {
-      "index": 28,
+      "index": 29,
+      "id": 28,
+      "show_id": "28",
       "arabic": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
       "translation": "Return to your Lord, well-pleased and well-pleasing Him.",
       "transliteration": "irji`ī ilā rabbiki rāḍiyatan marḍiyyah"
     },
     {
-      "index": 29,
+      "index": 30,
+      "id": 29,
+      "show_id": "29",
       "arabic": "فَٱدْخُلِى فِى عِبَـٰدِى",
       "translation": "\"Enter then among My votaries,",
       "transliteration": "fadkhulī fī `ibādī"
     },
     {
-      "index": 30,
+      "index": 31,
+      "id": 30,
+      "show_id": "30",
       "arabic": "وَٱدْخُلِى جَنَّتِى",
       "translation": "Enter then My garden.\"",
       "transliteration": "wadkhulī jannatī"

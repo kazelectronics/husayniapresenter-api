@@ -7,53 +7,72 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
-      "translation": "Rivalry in worldly increase distracteth you",
-      "transliteration": "alhākumut takāthur",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, the Beneficent, the Merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "translation": "Rivalry in worldly increase distracteth you",
+      "transliteration": "alhākumut takāthur"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
       "translation": "Until ye come to the graves.",
       "transliteration": "ḥattā zurtumul maqābir"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "كَلَّا سَوْفَ تَعْلَمُونَ",
       "translation": "Nay, but ye will come to know!",
       "transliteration": "kallā sawfa ta`lamūn"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
       "translation": "Nay, but ye will come to know!",
       "transliteration": "thumma kallā sawfa ta`lamūn"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
       "translation": "Nay, would that ye knew (now) with a sure knowledge!",
       "transliteration": "kallā law ta`lamūna `il-mal yaqīn"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "لَتَرَوُنَّ ٱلْجَحِيمَ",
       "translation": "For ye will behold hell-fire.",
       "transliteration": "latarawunnal jaḥīm"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
       "translation": "Aye, ye will behold it with sure vision.",
       "transliteration": "thumma latarawunnahā `aynal yaqīn"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
       "translation": "Then, on that day, ye will be asked concerning pleasure.",
       "transliteration": "thumma latus-alunna yawma-idhin `anin na`īm"

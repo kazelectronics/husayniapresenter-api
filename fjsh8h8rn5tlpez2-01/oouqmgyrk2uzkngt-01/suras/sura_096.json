@@ -7,119 +7,160 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
-      "translation": "Read in the Name of your Lord who created;",
-      "transliteration": "iqra-bismi rabbikal ladhī khalaq",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+      "translation": "Read in the Name of your Lord who created;",
+      "transliteration": "iqra-bismi rabbikal ladhī khalaq"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ",
       "translation": "created man from a clinging mass.",
       "transliteration": "khalaqal-insāna min `alaq"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
       "translation": "Read, and your Lord is the most generous,",
       "transliteration": "iqra-warabbukal-akram"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
       "translation": "who taught by the pen,",
       "transliteration": "alladhī `allama bil qalam"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
       "translation": "taught man what he did not know.",
       "transliteration": "`allamal-insāna mā lam ya`lam"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "كَلَّآ إِنَّ ٱلْإِنسَـٰنَ لَيَطْغَىٰٓ",
       "translation": "Indeed man becomes rebellious",
       "transliteration": "kallā innal-insāna layaṭghā"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
       "translation": "when he considers himself without need.",
       "transliteration": "an ra-āhus taghnā"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
       "translation": "Indeed to your Lord is the return.",
       "transliteration": "inna ilā rabbikar ruj`ā"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
       "translation": "Tell me, he who forbids",
       "transliteration": "ara aytal ladhī yanhā"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "عَبْدًا إِذَا صَلَّىٰٓ",
       "translation": "a servant when he prays,",
       "transliteration": "`abdan idhā ṣallā"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
       "translation": "tell me, should he be on [true] guidance,",
       "transliteration": "ara ayta in kāna `alal-hudā"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
       "translation": "or bid [others] to Godwariness,",
       "transliteration": "aw amara bit taqwā"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
       "translation": "tell me, should he call him a liar and turn away",
       "transliteration": "ara ayta in kadhhaba watawallā"
     },
     {
-      "index": 14,
+      "index": 15,
+      "id": 14,
+      "show_id": "14",
       "arabic": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
       "translation": "—does he not know that Allah sees [him]?",
       "transliteration": "alam ya`lam bi-annallāha yarā"
     },
     {
-      "index": 15,
+      "index": 16,
+      "id": 15,
+      "show_id": "15",
       "arabic": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
       "translation": "No indeed! If he does not cease, We shall seize him by the forelock,",
       "transliteration": "kallā la-in lam yantahi lanasfa`an bin nāṣiyah"
     },
     {
-      "index": 16,
+      "index": 17,
+      "id": 16,
+      "show_id": "16",
       "arabic": "نَاصِيَةٍ كَـٰذِبَةٍ خَاطِئَةٍ",
       "translation": "a lying, sinful forelock!",
       "transliteration": "nāṣiyatin kādhibatin khāṭi-ah"
     },
     {
-      "index": 17,
+      "index": 18,
+      "id": 17,
+      "show_id": "17",
       "arabic": "فَلْيَدْعُ نَادِيَهُۥ",
       "translation": "Then let him call out his gang!",
       "transliteration": "falyad`u nādiyah"
     },
     {
-      "index": 18,
+      "index": 19,
+      "id": 18,
+      "show_id": "18",
       "arabic": "سَنَدْعُ ٱلزَّبَانِيَةَ",
       "translation": "We [too] shall call the keepers of hell.",
       "transliteration": "sanad`uz zabāniyah"
     },
     {
-      "index": 19,
+      "index": 20,
+      "id": 19,
+      "show_id": "19",
       "arabic": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
       "translation": "No indeed! Do not obey him, but prostrate and draw near [to Allah]!",
       "transliteration": "kallā lā tuṭi`hu wasjud waqtarib ۩"

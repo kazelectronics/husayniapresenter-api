@@ -7,42 +7,56 @@
   "rows": [
     {
       "index": 1,
+      "id": 1,
+      "show_id": "1",
       "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
       "translation": "In the name of Allah, Most Gracious, Most Merciful.",
       "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 2,
+      "show_id": "2",
       "arabic": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
       "translation": "Praise be to Allah, the Cherisher and Sustainer of the worlds;",
       "transliteration": "al-ḥamdu lillāhi rabbil `ālamīn"
     },
     {
       "index": 3,
+      "id": 3,
+      "show_id": "3",
       "arabic": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
       "translation": "Most Gracious, Most Merciful;",
       "transliteration": "ar-raḥmānir raḥīm"
     },
     {
       "index": 4,
+      "id": 4,
+      "show_id": "4",
       "arabic": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
       "translation": "Master of the Day of Judgment.",
       "transliteration": "māliki yawmid dīn"
     },
     {
       "index": 5,
+      "id": 5,
+      "show_id": "5",
       "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
       "translation": "Thee do we worship, and Thine aid we seek.",
       "transliteration": "iyyāka na`budu wa iyyāka nasta`īn"
     },
     {
       "index": 6,
+      "id": 6,
+      "show_id": "6",
       "arabic": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
       "translation": "Show us the straight way,",
       "transliteration": "ihdinaṣ ṣirāṭal mustaqīm"
     },
     {
       "index": 7,
+      "id": 7,
+      "show_id": "7",
       "arabic": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
       "translation": "The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.",
       "transliteration": "ṣirāṭal ladhīna an`amta `alayhim ghayril maghḍūbi `alayhim walaḍ ḍāllīn"

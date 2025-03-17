@@ -7,41 +7,56 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
-      "translation": "SAY: \"I SEEK refuge with the Lord of men,",
-      "transliteration": "qul a`ūdhu birabbin nās",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, most benevolent, ever-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, most benevolent, ever-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "translation": "SAY: \"I SEEK refuge with the Lord of men,",
+      "transliteration": "qul a`ūdhu birabbin nās"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "مَلِكِ ٱلنَّاسِ",
       "translation": "The King of men,",
       "transliteration": "malikin nās"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "إِلَـٰهِ ٱلنَّاسِ",
       "translation": "The God of men,",
       "transliteration": "ilāhin nās"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
       "translation": "From the evil of him who breathes temptations into the minds of men,",
       "transliteration": "min sharril waswāsil khannās"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
       "translation": "Who suggests evil thoughts to the hearts of men --",
       "transliteration": "alladhī yuwaswisu fī ṣudūrin nās"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
       "translation": "From among the jinns and men.",
       "transliteration": "minal jinnati wan nās"

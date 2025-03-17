@@ -7,161 +7,216 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
-      "translation": "Hath there come unto thee tidings of the Overwhelming?",
-      "transliteration": "hal atāka ḥadīthul ghāshiyah",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, the Beneficent, the Merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
+      "translation": "Hath there come unto thee tidings of the Overwhelming?",
+      "transliteration": "hal atāka ḥadīthul ghāshiyah"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "وُجُوهٌ يَوْمَئِذٍ خَـٰشِعَةٌ",
       "translation": "On that day (many) faces will be downcast,",
       "transliteration": "wujūhun yawma-idhin khāshi`ah"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "عَامِلَةٌ نَّاصِبَةٌ",
       "translation": "Toiling, weary,",
       "transliteration": "`āmilatun nāṣibah"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "تَصْلَىٰ نَارًا حَامِيَةً",
       "translation": "Scorched by burning fire,",
       "transliteration": "taṣlā nāran ḥāmiyah"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ",
       "translation": "Drinking from a boiling spring,",
       "transliteration": "tusqā min `aynin āniyah"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
       "translation": "No food for them save bitter thorn-fruit",
       "transliteration": "laysa lahum ṭa`āmun illā min ḍarī`"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ",
       "translation": "Which doth not nourish nor release from hunger.",
       "transliteration": "lā yusminu walā yughnī min jū`"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
       "translation": "In that day other faces will be calm,",
       "transliteration": "wujūhun yawma-idhin nā`imah"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "لِّسَعْيِهَا رَاضِيَةٌ",
       "translation": "Glad for their effort past,",
       "transliteration": "lisa`yihā rāḍiyah"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "فِى جَنَّةٍ عَالِيَةٍ",
       "translation": "In a high Garden",
       "transliteration": "fī jannatin `āliyah"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "لَّا تَسْمَعُ فِيهَا لَـٰغِيَةً",
       "translation": "Where they hear no idle speech,",
       "transliteration": "lā tasma`u fīhā lāghiyah"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "فِيهَا عَيْنٌ جَارِيَةٌ",
       "translation": "Wherein is a gushing spring,",
       "transliteration": "fīhā `aynun jāriyah"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
       "translation": "Wherein are couches raised",
       "transliteration": "fīhā sururun marfū`ah"
     },
     {
-      "index": 14,
+      "index": 15,
+      "id": 14,
+      "show_id": "14",
       "arabic": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
       "translation": "And goblets set at hand",
       "transliteration": "wa-akwābun mawḍū`ah"
     },
     {
-      "index": 15,
+      "index": 16,
+      "id": 15,
+      "show_id": "15",
       "arabic": "وَنَمَارِقُ مَصْفُوفَةٌ",
       "translation": "And cushions ranged",
       "transliteration": "wanamāriqu maṣfūfah"
     },
     {
-      "index": 16,
+      "index": 17,
+      "id": 16,
+      "show_id": "16",
       "arabic": "وَزَرَابِىُّ مَبْثُوثَةٌ",
       "translation": "And silken carpets spread.",
       "transliteration": "wazarābiyyu mabthūthah"
     },
     {
-      "index": 17,
+      "index": 18,
+      "id": 17,
+      "show_id": "17",
       "arabic": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
       "translation": "Will they not regard the camels, how they are created?",
       "transliteration": "afalā yanẓurūna ilal-ibili kayfa khuliqat"
     },
     {
-      "index": 18,
+      "index": 19,
+      "id": 18,
+      "show_id": "18",
       "arabic": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
       "translation": "And the heaven, how it is raised?",
       "transliteration": "wa ilas samā-i kayfa rufi`at"
     },
     {
-      "index": 19,
+      "index": 20,
+      "id": 19,
+      "show_id": "19",
       "arabic": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
       "translation": "And the hills, how they are set up?",
       "transliteration": "wa ilal-jibāli kayfa nuṣibat"
     },
     {
-      "index": 20,
+      "index": 21,
+      "id": 20,
+      "show_id": "20",
       "arabic": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
       "translation": "And the earth, how it is spread?",
       "transliteration": "wa ilal-arḍi kayfa suṭiḥat"
     },
     {
-      "index": 21,
+      "index": 22,
+      "id": 21,
+      "show_id": "21",
       "arabic": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ",
       "translation": "Remind them, for thou art but a remembrancer,",
       "transliteration": "fadhakkir innamā anta mudhakkir"
     },
     {
-      "index": 22,
+      "index": 23,
+      "id": 22,
+      "show_id": "22",
       "arabic": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
       "translation": "Thou art not at all a warder over them.",
       "transliteration": "lasta `alayhim bimuṣayṭir"
     },
     {
-      "index": 23,
+      "index": 24,
+      "id": 23,
+      "show_id": "23",
       "arabic": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
       "translation": "But whoso is averse and disbelieveth,",
       "transliteration": "illā man tawallā wakafar"
     },
     {
-      "index": 24,
+      "index": 25,
+      "id": 24,
+      "show_id": "24",
       "arabic": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
       "translation": "Allah will punish him with direst punishment.",
       "transliteration": "fayu`adhhibuhullāhul `adhābal-akbar"
     },
     {
-      "index": 25,
+      "index": 26,
+      "id": 25,
+      "show_id": "25",
       "arabic": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
       "translation": "Lo! unto Us is their return",
       "transliteration": "inna ilaynā iyābahum"
     },
     {
-      "index": 26,
+      "index": 27,
+      "id": 26,
+      "show_id": "26",
       "arabic": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
       "translation": "And Ours their reckoning.",
       "transliteration": "thumma inna `alaynā ḥisābahum"

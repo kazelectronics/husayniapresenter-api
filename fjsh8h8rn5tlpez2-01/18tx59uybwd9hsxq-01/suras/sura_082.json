@@ -7,119 +7,160 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
-      "translation": "When the Sky is cleft asunder;",
-      "transliteration": "idhas samā-un faṭarat",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, Most Gracious, Most Merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+      "translation": "When the Sky is cleft asunder;",
+      "transliteration": "idhas samā-un faṭarat"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "وَإِذَا ٱلْكَوَاكِبُ ٱنتَثَرَتْ",
       "translation": "When the Stars are scattered;",
       "transliteration": "wa idhal kawākibun-tatharat"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "وَإِذَا ٱلْبِحَارُ فُجِّرَتْ",
       "translation": "When the Oceans are suffered to burst forth;",
       "transliteration": "wa idhal biḥāru fujjirat"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ",
       "translation": "And when the Graves are turned upside down;-",
       "transliteration": "wa idhal qubūru bu`thirat"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
       "translation": "(Then) shall each soul know what it hath sent forward and (what it hath) kept back.",
       "transliteration": "`alimat nafsun mā qaddamat wa-akhharat"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ",
       "translation": "O man! What has seduced thee from thy Lord Most Beneficent?-",
       "transliteration": "yā-ayyuhal-insānu mā gharraka birabbikal karīm"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
       "translation": "Him Who created thee. Fashioned thee in due proportion, and gave thee a just bias;",
       "transliteration": "alladhī khalaqaka fasawwāka fa`adalak"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ",
       "translation": "In whatever Form He wills, does He put thee together.",
       "transliteration": "fī ayyi ṣūratim mā shā-a rakkabak"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
       "translation": "Nay! But ye do reject Right and Judgment!",
       "transliteration": "kallā bal tukadhhibūna bid dīn"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "وَإِنَّ عَلَيْكُمْ لَحَـٰفِظِينَ",
       "translation": "But verily over you (are appointed angels) to protect you,-",
       "transliteration": "wa inna `alaykum laḥāfiẓīn"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "كِرَامًا كَـٰتِبِينَ",
       "translation": "Kind and honourable,- Writing down (your deeds):",
       "transliteration": "kirāman kātibīn"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "يَعْلَمُونَ مَا تَفْعَلُونَ",
       "translation": "They know (and understand) all that ye do.",
       "transliteration": "ya`lamūna mā taf`alūn"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
       "translation": "As for the Righteous, they will be in bliss;",
       "transliteration": "innal-abrāra lafī na`īm"
     },
     {
-      "index": 14,
+      "index": 15,
+      "id": 14,
+      "show_id": "14",
       "arabic": "وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍ",
       "translation": "And the Wicked - they will be in the Fire,",
       "transliteration": "wa innal fujjāra lafī jaḥīm"
     },
     {
-      "index": 15,
+      "index": 16,
+      "id": 15,
+      "show_id": "15",
       "arabic": "يَصْلَوْنَهَا يَوْمَ ٱلدِّينِ",
       "translation": "Which they will enter on the Day of Judgment,",
       "transliteration": "yaṣlawnahā yawmad dīn"
     },
     {
-      "index": 16,
+      "index": 17,
+      "id": 16,
+      "show_id": "16",
       "arabic": "وَمَا هُمْ عَنْهَا بِغَآئِبِينَ",
       "translation": "And they will not be able to keep away therefrom.",
       "transliteration": "wa mā hum `anhā bighā-ibīn"
     },
     {
-      "index": 17,
+      "index": 18,
+      "id": 17,
+      "show_id": "17",
       "arabic": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
       "translation": "And what will explain to thee what the Day of Judgment is?",
       "transliteration": "wa mā adrāka mā yawmud dīn"
     },
     {
-      "index": 18,
+      "index": 19,
+      "id": 18,
+      "show_id": "18",
       "arabic": "ثُمَّ مَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
       "translation": "Again, what will explain to thee what the Day of Judgment is?",
       "transliteration": "thumma mā adrāka mā yawmud dīn"
     },
     {
-      "index": 19,
+      "index": 20,
+      "id": 19,
+      "show_id": "19",
       "arabic": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۖ وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
       "translation": "(It will be) the Day when no soul shall have power (to do) aught for another: For the command, that Day, will be (wholly) with Allah.",
       "transliteration": "yawma lā tamliku nafsul linafsin shay-ā ۖ wal-amru yawma-idhin lillāh"

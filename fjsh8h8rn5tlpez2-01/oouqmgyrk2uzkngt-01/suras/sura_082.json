@@ -7,119 +7,160 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
-      "translation": "When the sky is rent apart,",
-      "transliteration": "idhas samā-un faṭarat",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+      "translation": "When the sky is rent apart,",
+      "transliteration": "idhas samā-un faṭarat"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "وَإِذَا ٱلْكَوَاكِبُ ٱنتَثَرَتْ",
       "translation": "when the stars are scattered,",
       "transliteration": "wa idhal kawākibun-tatharat"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "وَإِذَا ٱلْبِحَارُ فُجِّرَتْ",
       "translation": "when the seas are merged,",
       "transliteration": "wa idhal biḥāru fujjirat"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ",
       "translation": "when the graves are overturned,",
       "transliteration": "wa idhal qubūru bu`thirat"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
       "translation": "then a soul shall know what it has sent ahead and left behind.",
       "transliteration": "`alimat nafsun mā qaddamat wa-akhharat"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ",
       "translation": "O man! What has deceived you about your generous Lord,",
       "transliteration": "yā-ayyuhal-insānu mā gharraka birabbikal karīm"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
       "translation": "who created you and proportioned you, and gave you an upright nature,",
       "transliteration": "alladhī khalaqaka fasawwāka fa`adalak"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ",
       "translation": "and composed you in any form that He wished?",
       "transliteration": "fī ayyi ṣūratim mā shā-a rakkabak"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
       "translation": "No! Indeed, you deny the Retribution.",
       "transliteration": "kallā bal tukadhhibūna bid dīn"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "وَإِنَّ عَلَيْكُمْ لَحَـٰفِظِينَ",
       "translation": "Indeed, there are over you watchers,",
       "transliteration": "wa inna `alaykum laḥāfiẓīn"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "كِرَامًا كَـٰتِبِينَ",
       "translation": "noble writers,",
       "transliteration": "kirāman kātibīn"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "يَعْلَمُونَ مَا تَفْعَلُونَ",
       "translation": "who know whatever you do.",
       "transliteration": "ya`lamūna mā taf`alūn"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
       "translation": "Indeed the pious shall be amid bliss,",
       "transliteration": "innal-abrāra lafī na`īm"
     },
     {
-      "index": 14,
+      "index": 15,
+      "id": 14,
+      "show_id": "14",
       "arabic": "وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍ",
       "translation": "and indeed the vicious shall be in hell,",
       "transliteration": "wa innal fujjāra lafī jaḥīm"
     },
     {
-      "index": 15,
+      "index": 16,
+      "id": 15,
+      "show_id": "15",
       "arabic": "يَصْلَوْنَهَا يَوْمَ ٱلدِّينِ",
       "translation": "entering it on the Day of Retribution,",
       "transliteration": "yaṣlawnahā yawmad dīn"
     },
     {
-      "index": 16,
+      "index": 17,
+      "id": 16,
+      "show_id": "16",
       "arabic": "وَمَا هُمْ عَنْهَا بِغَآئِبِينَ",
       "translation": "and they shall not be absent from it.",
       "transliteration": "wa mā hum `anhā bighā-ibīn"
     },
     {
-      "index": 17,
+      "index": 18,
+      "id": 17,
+      "show_id": "17",
       "arabic": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
       "translation": "And what will show you what is the Day of Retribution?",
       "transliteration": "wa mā adrāka mā yawmud dīn"
     },
     {
-      "index": 18,
+      "index": 19,
+      "id": 18,
+      "show_id": "18",
       "arabic": "ثُمَّ مَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
       "translation": "Again, what will show you what is the Day of Retribution?",
       "transliteration": "thumma mā adrāka mā yawmud dīn"
     },
     {
-      "index": 19,
+      "index": 20,
+      "id": 19,
+      "show_id": "19",
       "arabic": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۖ وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
       "translation": "It is a day when no soul will be of any avail to another soul and all command that day will belong to Allah.",
       "transliteration": "yawma lā tamliku nafsul linafsin shay-ā ۖ wal-amru yawma-idhin lillāh"

@@ -7,305 +7,408 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "وَٱلْمُرْسَلَـٰتِ عُرْفًا",
-      "translation": "I CALL TO WITNESS those who are sent consecutively,",
-      "transliteration": "wal mursalāti `urfā",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, most benevolent, ever-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, most benevolent, ever-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "وَٱلْمُرْسَلَـٰتِ عُرْفًا",
+      "translation": "I CALL TO WITNESS those who are sent consecutively,",
+      "transliteration": "wal mursalāti `urfā"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "فَٱلْعَـٰصِفَـٰتِ عَصْفًا",
       "translation": "And those that strike violently,",
       "transliteration": "fal `āṣifāti `aṣfā"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "وَٱلنَّـٰشِرَٰتِ نَشْرًا",
       "translation": "And those that revive by quickening,",
       "transliteration": "wan nāshirāti nashrā"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "فَٱلْفَـٰرِقَـٰتِ فَرْقًا",
       "translation": "And those that distinguish distinctly,",
       "transliteration": "fal fāriqāti farqā"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "فَٱلْمُلْقِيَـٰتِ ذِكْرًا",
       "translation": "And those that bring down the Reminder",
       "transliteration": "fal mulqiyāti dhikrā"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "عُذْرًا أَوْ نُذْرًا",
       "translation": "To end all argument or to warn.",
       "transliteration": "`udhran aw nudhrā"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
       "translation": "What is promised will surely come to pass.",
       "transliteration": "innamā tū`adūna lawāqi`"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
       "translation": "When the stars are obliterated,",
       "transliteration": "fa-idhan nujūmu ṭumisat"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
       "translation": "The heavens split asunder,",
       "transliteration": "wa idhas samā-u furijat"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
       "translation": "The mountains reduced to dust and blown away,",
       "transliteration": "wa idhal jibālu nusifat"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
       "translation": "And when the time comes for raising the little girls (buried alive) --",
       "transliteration": "wa idhar rusulu uqqitat"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
       "translation": "For what day is that time fixed?",
       "transliteration": "li-ayyi yawmin ujjilat"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "لِيَوْمِ ٱلْفَصْلِ",
       "translation": "The Day of Judgement.",
       "transliteration": "liyawmil faṣl"
     },
     {
-      "index": 14,
+      "index": 15,
+      "id": 14,
+      "show_id": "14",
       "arabic": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
       "translation": "How will you comprehend what the Day of Judgement is?",
       "transliteration": "wa mā adrāka mā yawmul faṣl"
     },
     {
-      "index": 15,
+      "index": 16,
+      "id": 15,
+      "show_id": "15",
       "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
       "translation": "Alas the woe that day for those who deny!",
       "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
     },
     {
-      "index": 16,
+      "index": 17,
+      "id": 16,
+      "show_id": "16",
       "arabic": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
       "translation": "Have We not destroyed the earlier generations?",
       "transliteration": "alam nuhlikil-awwalīn"
     },
     {
-      "index": 17,
+      "index": 18,
+      "id": 17,
+      "show_id": "17",
       "arabic": "ثُمَّ نُتْبِعُهُمُ ٱلْـَٔاخِرِينَ",
       "translation": "So shall We make the later ones to follow them.",
       "transliteration": "thumma nutbi`uhumul-ākhirīn"
     },
     {
-      "index": 18,
+      "index": 19,
+      "id": 18,
+      "show_id": "18",
       "arabic": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
       "translation": "That is what We shall do to those who are guilty of crime.",
       "transliteration": "kadhālika naf`alu bil mujrimīn"
     },
     {
-      "index": 19,
+      "index": 20,
+      "id": 19,
+      "show_id": "19",
       "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
       "translation": "Alas the woe that day for those who deny!",
       "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
     },
     {
-      "index": 20,
+      "index": 21,
+      "id": 20,
+      "show_id": "20",
       "arabic": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ",
       "translation": "Did We not create you from contemptible water?",
       "transliteration": "alam nakhluqkum min mā-in mahīn"
     },
     {
-      "index": 21,
+      "index": 22,
+      "id": 21,
+      "show_id": "21",
       "arabic": "فَجَعَلْنَـٰهُ فِى قَرَارٍ مَّكِينٍ",
       "translation": "Then We lodged you in a secure place (the womb)",
       "transliteration": "faja`alnāhu fī qarārin makīn"
     },
     {
-      "index": 22,
+      "index": 23,
+      "id": 22,
+      "show_id": "22",
       "arabic": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
       "translation": "For a certain appointed time,",
       "transliteration": "ilā qadarin ma`lūm"
     },
     {
-      "index": 23,
+      "index": 24,
+      "id": 23,
+      "show_id": "23",
       "arabic": "فَقَدَرْنَا فَنِعْمَ ٱلْقَـٰدِرُونَ",
       "translation": "Then We facilitated (your birth). How well do We calculate!",
       "transliteration": "faqadarnā fani`mal qādirūn"
     },
     {
-      "index": 24,
+      "index": 25,
+      "id": 24,
+      "show_id": "24",
       "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
       "translation": "Alas the woe that day for those who deny!",
       "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
     },
     {
-      "index": 25,
+      "index": 26,
+      "id": 25,
+      "show_id": "25",
       "arabic": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
       "translation": "Have We not made the earth a repository",
       "transliteration": "alam naj`alil-arḍa kifātā"
     },
     {
-      "index": 26,
+      "index": 27,
+      "id": 26,
+      "show_id": "26",
       "arabic": "أَحْيَآءً وَأَمْوَٰتًا",
       "translation": "For the living and the dead,",
       "transliteration": "aḥyā-an wa-amwātā"
     },
     {
-      "index": 27,
+      "index": 28,
+      "id": 27,
+      "show_id": "27",
       "arabic": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَـٰمِخَـٰتٍ وَأَسْقَيْنَـٰكُم مَّآءً فُرَاتًا",
       "translation": "And placed in it lofty and broad stablisers, and gave you sweet water to drink?",
       "transliteration": "waja`alnā fīhā rawāsiya shāmikhātin wa-asqaynākum mā-an furātā"
     },
     {
-      "index": 28,
+      "index": 29,
+      "id": 28,
+      "show_id": "28",
       "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
       "translation": "Alas the woe that day for those who deny!",
       "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
     },
     {
-      "index": 29,
+      "index": 30,
+      "id": 29,
+      "show_id": "29",
       "arabic": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
       "translation": "\"Go to what you used to deny;",
       "transliteration": "in-ṭaliqū ilā mā kuntum bihi tukadhhibūn"
     },
     {
-      "index": 30,
+      "index": 31,
+      "id": 30,
+      "show_id": "30",
       "arabic": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّ ذِى ثَلَـٰثِ شُعَبٍ",
       "translation": "Go to the shadow with three ramifications,",
       "transliteration": "in-ṭaliqū ilā ẓillin dhī thalāthi shu`ab"
     },
     {
-      "index": 31,
+      "index": 32,
+      "id": 31,
+      "show_id": "31",
       "arabic": "لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
       "translation": "Neither shady nor protecting against the blazing Fire.",
       "transliteration": "lā ẓalīlin walā yughnī minallāhab"
     },
     {
-      "index": 32,
+      "index": 33,
+      "id": 32,
+      "show_id": "32",
       "arabic": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
       "translation": "It will throw out sparks as logs of wood",
       "transliteration": "innahā tarmī bishararin kal qaṣr"
     },
     {
-      "index": 33,
+      "index": 34,
+      "id": 33,
+      "show_id": "33",
       "arabic": "كَأَنَّهُۥ جِمَـٰلَتٌ صُفْرٌ",
       "translation": "So like golden camels.\"",
       "transliteration": "ka-annahu jimālatun ṣufr"
     },
     {
-      "index": 34,
+      "index": 35,
+      "id": 34,
+      "show_id": "34",
       "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
       "translation": "Alas the woe that day for those who deny!",
       "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
     },
     {
-      "index": 35,
+      "index": 36,
+      "id": 35,
+      "show_id": "35",
       "arabic": "هَـٰذَا يَوْمُ لَا يَنطِقُونَ",
       "translation": "They will not be able to speak that day,",
       "transliteration": "hādhā yawmu lā yanṭiqūn"
     },
     {
-      "index": 36,
+      "index": 37,
+      "id": 36,
+      "show_id": "36",
       "arabic": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
       "translation": "Nor given leave to make excuses.",
       "transliteration": "walā yu-dhanu lahum faya`tadhirūn"
     },
     {
-      "index": 37,
+      "index": 38,
+      "id": 37,
+      "show_id": "37",
       "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
       "translation": "Alas the woe that day for those who deny!",
       "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
     },
     {
-      "index": 38,
+      "index": 39,
+      "id": 38,
+      "show_id": "38",
       "arabic": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَـٰكُمْ وَٱلْأَوَّلِينَ",
       "translation": "That will be the Day of Reckoning. Gathered will be (you) and the earlier (generations).",
       "transliteration": "hādhā yawmul faṣl ۖ jama`nākum wal-awwalīn"
     },
     {
-      "index": 39,
+      "index": 40,
+      "id": 39,
+      "show_id": "39",
       "arabic": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
       "translation": "So if you have any plot to devise against Me, then devise it.",
       "transliteration": "fa-in kāna lakum kaydun fakīdūn"
     },
     {
-      "index": 40,
+      "index": 41,
+      "id": 40,
+      "show_id": "40",
       "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
       "translation": "Alas the woe that day for those who deny!",
       "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
     },
     {
-      "index": 41,
+      "index": 42,
+      "id": 41,
+      "show_id": "41",
       "arabic": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَـٰلٍ وَعُيُونٍ",
       "translation": "Those who take heed for themselves and fear God, will be amidst shade and springs of water,",
       "transliteration": "innal muttaqīna fī ẓilālin wa`uyūn"
     },
     {
-      "index": 42,
+      "index": 43,
+      "id": 42,
+      "show_id": "42",
       "arabic": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
       "translation": "And such fruits as they desire.",
       "transliteration": "wafawākiha mimmā yashtahūn"
     },
     {
-      "index": 43,
+      "index": 44,
+      "id": 43,
+      "show_id": "43",
       "arabic": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
       "translation": "\"Eat and drink with relish as reward for what you had done.\"",
       "transliteration": "kulū washrabū hanī-an bimā kuntum ta`malūn"
     },
     {
-      "index": 44,
+      "index": 45,
+      "id": 44,
+      "show_id": "44",
       "arabic": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
       "translation": "That is how We reward the good.",
       "transliteration": "innā kadhālika najzil muḥsinīn"
     },
     {
-      "index": 45,
+      "index": 46,
+      "id": 45,
+      "show_id": "45",
       "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
       "translation": "Alas the woe that day for those who deny!",
       "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
     },
     {
-      "index": 46,
+      "index": 47,
+      "id": 46,
+      "show_id": "46",
       "arabic": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
       "translation": "Eat and enjoy for a while: You are certainly sinners.",
       "transliteration": "kulū watamatta`ū qalīlan innakum mujrimūn"
     },
     {
-      "index": 47,
+      "index": 48,
+      "id": 47,
+      "show_id": "47",
       "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
       "translation": "Alas the woe that day for those who deny!",
       "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
     },
     {
-      "index": 48,
+      "index": 49,
+      "id": 48,
+      "show_id": "48",
       "arabic": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
       "translation": "When it is said to them: \"Bow in homage,\" they do not bow.",
       "transliteration": "wa idhā qīla lahumur-ka`ū lā yarka`ūn"
     },
     {
-      "index": 49,
+      "index": 50,
+      "id": 49,
+      "show_id": "49",
       "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
       "translation": "Alas the woe that day for those who deny!",
       "transliteration": "waylun yawma-idhin lil-mukadhhibīn"
     },
     {
-      "index": 50,
+      "index": 51,
+      "id": 50,
+      "show_id": "50",
       "arabic": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
       "translation": "In what other lore after this will they then believe?",
       "transliteration": "fabi-ayyi ḥadīthin ba`dahu yu-minūn"

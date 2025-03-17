@@ -7,317 +7,424 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "نٓ ۚ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ",
-      "translation": "Nun. By the Pen and the (Record) which (men) write,-",
-      "transliteration": "nūn ۚ wal qalami wa mā yasṭurūn",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, Most Gracious, Most Merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "نٓ ۚ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ",
+      "translation": "Nun. By the Pen and the (Record) which (men) write,-",
+      "transliteration": "nūn ۚ wal qalami wa mā yasṭurūn"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "مَآ أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ",
       "translation": "Thou art not, by the Grace of thy Lord, mad or possessed.",
       "transliteration": "mā anta bini`mati rabbika bimajnūn"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ",
       "translation": "Nay, verily for thee is a Reward unfailing:",
       "transliteration": "wa inna laka la-ajran ghayra mamnūn"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
       "translation": "And thou (standest) on an exalted standard of character.",
       "transliteration": "wa innaka la`alā khuluqin `aẓīm"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "فَسَتُبْصِرُ وَيُبْصِرُونَ",
       "translation": "Soon wilt thou see, and they will see,",
       "transliteration": "fasatubṣiru wayubṣirūn"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "بِأَييِّكُمُ ٱلْمَفْتُونُ",
       "translation": "Which of you is afflicted with madness.",
       "transliteration": "bi-ayyikumul maftūn"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
       "translation": "Verily it is thy Lord that knoweth best, which (among men) hath strayed from His Path: and He knoweth best those who receive (true) Guidance.",
       "transliteration": "inna rabbaka huwa a`lamu biman ḍalla `an sabīlihi wahuwa a`lamu bil muhtadīn"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "فَلَا تُطِعِ ٱلْمُكَذِّبِينَ",
       "translation": "So hearken not to those who deny (the Truth).",
       "transliteration": "falā tuṭi`il mukadhhibīn"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ",
       "translation": "Their desire is that thou shouldst be pliant: so would they be pliant.",
       "transliteration": "waddū law tud-hinu fayud-hinūn"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ",
       "translation": "Heed not the type of despicable men,- ready with oaths,",
       "transliteration": "walā tuṭi` kulla ḥallāfin mahīn"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ",
       "translation": "A slanderer, going about with calumnies,",
       "transliteration": "hammāzin mashhā-in binamīm"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ",
       "translation": "(Habitually) hindering (all) good, transgressing beyond bounds, deep in sin,",
       "transliteration": "mannā`in lilkhayri mu`tadin athīm"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ",
       "translation": "Violent (and cruel),- with all that, base-born,-",
       "transliteration": "`utullin ba`da dhālika zanīm"
     },
     {
-      "index": 14,
+      "index": 15,
+      "id": 14,
+      "show_id": "14",
       "arabic": "أَن كَانَ ذَا مَالٍ وَبَنِينَ",
       "translation": "Because he possesses wealth and (numerous) sons.",
       "transliteration": "an kāna dhā mālin wabanīn"
     },
     {
-      "index": 15,
+      "index": 16,
+      "id": 15,
+      "show_id": "15",
       "arabic": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا قَالَ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
       "translation": "When to him are rehearsed Our Signs, \"Tales of the ancients\", he cries!",
       "transliteration": "idhā tutlā `alayhi āyātunā qāla asāṭīrul-awwalīn"
     },
     {
-      "index": 16,
+      "index": 17,
+      "id": 16,
+      "show_id": "16",
       "arabic": "سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ",
       "translation": "Soon shall We brand (the beast) on the snout!",
       "transliteration": "sanasimuhu `alal-khurṭūm"
     },
     {
-      "index": 17,
+      "index": 18,
+      "id": 17,
+      "show_id": "17",
       "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
       "translation": "Verily We have tried them as We tried the People of the Garden, when they resolved to gather the fruits of the (garden) in the morning.",
       "transliteration": "innā balawnāhum kamā balawnā aṣ-ḥābal jannati idh aqsamū layaṣrimunnahā muṣbiḥīn"
     },
     {
-      "index": 18,
+      "index": 19,
+      "id": 18,
+      "show_id": "18",
       "arabic": "وَلَا يَسْتَثْنُونَ",
       "translation": "But made no reservation, (\"If it be Allah's Will\").",
       "transliteration": "walā yastathnūn"
     },
     {
-      "index": 19,
+      "index": 20,
+      "id": 19,
+      "show_id": "19",
       "arabic": "فَطَافَ عَلَيْهَا طَآئِفٌ مِّن رَّبِّكَ وَهُمْ نَآئِمُونَ",
       "translation": "Then there came on the (garden) a visitation from thy Lord, (which swept away) all around, while they were asleep.",
       "transliteration": "faṭāfa `alayhā ṭā-ifun min rabbika wahum nā-imūn"
     },
     {
-      "index": 20,
+      "index": 21,
+      "id": 20,
+      "show_id": "20",
       "arabic": "فَأَصْبَحَتْ كَٱلصَّرِيمِ",
       "translation": "So the (garden) became, by the morning, like a dark and desolate spot, (whose fruit had been gathered).",
       "transliteration": "fa-aṣbaḥat kaṣ ṣarīm"
     },
     {
-      "index": 21,
+      "index": 22,
+      "id": 21,
+      "show_id": "21",
       "arabic": "فَتَنَادَوْا۟ مُصْبِحِينَ",
       "translation": "As the morning broke, they called out, one to another,-",
       "transliteration": "fatanādaw muṣbiḥīn"
     },
     {
-      "index": 22,
+      "index": 23,
+      "id": 22,
+      "show_id": "22",
       "arabic": "أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَـٰرِمِينَ",
       "translation": "\"Go ye to your tilth (betimes) in the morning, if ye would gather the fruits.\"",
       "transliteration": "anigh-dū `alā ḥarthikum in kuntum ṣārimīn"
     },
     {
-      "index": 23,
+      "index": 24,
+      "id": 23,
+      "show_id": "23",
       "arabic": "فَٱنطَلَقُوا۟ وَهُمْ يَتَخَـٰفَتُونَ",
       "translation": "So they departed, conversing in secret low tones, (saying)-",
       "transliteration": "fanṭalaqū wahum yatakhāfatūn"
     },
     {
-      "index": 24,
+      "index": 25,
+      "id": 24,
+      "show_id": "24",
       "arabic": "أَن لَّا يَدْخُلَنَّهَا ٱلْيَوْمَ عَلَيْكُم مِّسْكِينٌ",
       "translation": "\"Let not a single indigent person break in upon you into the (garden) this day.\"",
       "transliteration": "an lā yadkhulannahal yawma `alaykum miskīn"
     },
     {
-      "index": 25,
+      "index": 26,
+      "id": 25,
+      "show_id": "25",
       "arabic": "وَغَدَوْا۟ عَلَىٰ حَرْدٍ قَـٰدِرِينَ",
       "translation": "And they opened the morning, strong in an (unjust) resolve.",
       "transliteration": "waghadaw `alā ḥardin qādirīn"
     },
     {
-      "index": 26,
+      "index": 27,
+      "id": 26,
+      "show_id": "26",
       "arabic": "فَلَمَّا رَأَوْهَا قَالُوٓا۟ إِنَّا لَضَآلُّونَ",
       "translation": "But when they saw the (garden), they said: \"We have surely lost our way:",
       "transliteration": "falammā ra-awhā qālū innā laḍāllūn"
     },
     {
-      "index": 27,
+      "index": 28,
+      "id": 27,
+      "show_id": "27",
       "arabic": "بَلْ نَحْنُ مَحْرُومُونَ",
       "translation": "\"Indeed we are shut out (of the fruits of our labour)!\"",
       "transliteration": "bal naḥnu maḥrūmūn"
     },
     {
-      "index": 28,
+      "index": 29,
+      "id": 28,
+      "show_id": "28",
       "arabic": "قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ",
       "translation": "Said one of them, more just (than the rest): \"Did I not say to you, 'Why not glorify (Allah)?'\"",
       "transliteration": "qāla awsaṭuhum alam aqul lakum lawlā tusabbiḥūn"
     },
     {
-      "index": 29,
+      "index": 30,
+      "id": 29,
+      "show_id": "29",
       "arabic": "قَالُوا۟ سُبْحَـٰنَ رَبِّنَآ إِنَّا كُنَّا ظَـٰلِمِينَ",
       "translation": "They said: \"Glory to our Lord! Verily we have been doing wrong!\"",
       "transliteration": "qālū subḥāna rabbinā innā kunnā ẓālimīn"
     },
     {
-      "index": 30,
+      "index": 31,
+      "id": 30,
+      "show_id": "30",
       "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَـٰوَمُونَ",
       "translation": "Then they turned, one against another, in reproach.",
       "transliteration": "fa-aqbala ba`ḍuhum `alā ba`ḍiy yatalāwa mūn"
     },
     {
-      "index": 31,
+      "index": 32,
+      "id": 31,
+      "show_id": "31",
       "arabic": "قَالُوا۟ يَـٰوَيْلَنَآ إِنَّا كُنَّا طَـٰغِينَ",
       "translation": "They said: \"Alas for us! We have indeed transgressed!",
       "transliteration": "qālū yāwaylanā innā kunnā ṭāghīn"
     },
     {
-      "index": 32,
+      "index": 33,
+      "id": 32,
+      "show_id": "32",
       "arabic": "عَسَىٰ رَبُّنَآ أَن يُبْدِلَنَا خَيْرًا مِّنْهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ",
       "translation": "\"It may be that our Lord will give us in exchange a better (garden) than this: for we do turn to Him (in repentance)!\"",
       "transliteration": "`asā rabbunā an yubdilanā khayran minhā innā ilā rabbinā rāghibūn"
     },
     {
-      "index": 33,
+      "index": 34,
+      "id": 33,
+      "show_id": "33",
       "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
       "translation": "Such is the Punishment (in this life); but greater is the Punishment in the Hereafter,- if only they knew!",
       "transliteration": "kadhālikal `adhāb ۖ wala`adhābul-ākhirati akbar ۚ law kānū ya`lamūn"
     },
     {
-      "index": 34,
+      "index": 35,
+      "id": 34,
+      "show_id": "34",
       "arabic": "إِنَّ لِلْمُتَّقِينَ عِندَ رَبِّهِمْ جَنَّـٰتِ ٱلنَّعِيمِ",
       "translation": "Verily, for the Righteous, are Gardens of Delight, in the Presence of their Lord.",
       "transliteration": "inna lil-muttaqīna `inda rabbihim jannātin na`īm"
     },
     {
-      "index": 35,
+      "index": 36,
+      "id": 35,
+      "show_id": "35",
       "arabic": "أَفَنَجْعَلُ ٱلْمُسْلِمِينَ كَٱلْمُجْرِمِينَ",
       "translation": "Shall We then treat the People of Faith like the People of Sin?",
       "transliteration": "afanaj`alul muslimīna kal mujrimīn"
     },
     {
-      "index": 36,
+      "index": 37,
+      "id": 36,
+      "show_id": "36",
       "arabic": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
       "translation": "What is the matter with you? How judge ye?",
       "transliteration": "mā lakum kayfa taḥkumūn"
     },
     {
-      "index": 37,
+      "index": 38,
+      "id": 37,
+      "show_id": "37",
       "arabic": "أَمْ لَكُمْ كِتَـٰبٌ فِيهِ تَدْرُسُونَ",
       "translation": "Or have ye a book through which ye learn-",
       "transliteration": "am lakum kitābun fīhi tadrusūn"
     },
     {
-      "index": 38,
+      "index": 39,
+      "id": 38,
+      "show_id": "38",
       "arabic": "إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ",
       "translation": "That ye shall have, through it whatever ye choose?",
       "transliteration": "inna lakum fīhi lamā takhayyarūn"
     },
     {
-      "index": 39,
+      "index": 40,
+      "id": 39,
+      "show_id": "39",
       "arabic": "أَمْ لَكُمْ أَيْمَـٰنٌ عَلَيْنَا بَـٰلِغَةٌ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ ۙ إِنَّ لَكُمْ لَمَا تَحْكُمُونَ",
       "translation": "Or have ye Covenants with Us to oath, reaching to the Day of Judgment, (providing) that ye shall have whatever ye shall demand?",
       "transliteration": "am lakum aymānun `alaynā bālighatun ilā yawmil qiyāmati inna lakum lamā taḥkumūn"
     },
     {
-      "index": 40,
+      "index": 41,
+      "id": 40,
+      "show_id": "40",
       "arabic": "سَلْهُمْ أَيُّهُم بِذَٰلِكَ زَعِيمٌ",
       "translation": "Ask thou of them, which of them will stand surety for that!",
       "transliteration": "salhum ayyuhum bidhālika za`īm"
     },
     {
-      "index": 41,
+      "index": 42,
+      "id": 41,
+      "show_id": "41",
       "arabic": "أَمْ لَهُمْ شُرَكَآءُ فَلْيَأْتُوا۟ بِشُرَكَآئِهِمْ إِن كَانُوا۟ صَـٰدِقِينَ",
       "translation": "Or have they some \"Partners\" (in Allahhead)? Then let them produce their \"partners\", if they are truthful!",
       "transliteration": "am lahum shurakā-u falya-tū bishurakā-ihim in kānū ṣādiqīn"
     },
     {
-      "index": 42,
+      "index": 43,
+      "id": 42,
+      "show_id": "42",
       "arabic": "يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ",
       "translation": "The Day that the shin shall be laid bare, and they shall be summoned to bow in adoration, but they shall not be able,-",
       "transliteration": "yawma yukshafu `an sāqin wayud`awna ilas sujūdi falā yastaṭī`ūn"
     },
     {
-      "index": 43,
+      "index": 44,
+      "id": 43,
+      "show_id": "43",
       "arabic": "خَـٰشِعَةً أَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ وَقَدْ كَانُوا۟ يُدْعَوْنَ إِلَى ٱلسُّجُودِ وَهُمْ سَـٰلِمُونَ",
       "translation": "Their eyes will be cast down,- ignominy will cover them; seeing that they had been summoned aforetime to bow in adoration, while they were whole, (and had refused).",
       "transliteration": "khāshi`atan abṣāruhum tarhaquhum dhillah ۖ waqad kānū yud`awna ilas sujūdi wahum sālimūn"
     },
     {
-      "index": 44,
+      "index": 45,
+      "id": 44,
+      "show_id": "44",
       "arabic": "فَذَرْنِى وَمَن يُكَذِّبُ بِهَـٰذَا ٱلْحَدِيثِ ۖ سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ",
       "translation": "Then leave Me alone with such as reject this Message: by degrees shall We punish them from directions they perceive not.",
       "transliteration": "fadharnī wa man yukadhhibu bihādhal ḥadīth ۖ sanastadrijuhum min ḥaythu lā ya`lamūn"
     },
     {
-      "index": 45,
+      "index": 46,
+      "id": 45,
+      "show_id": "45",
       "arabic": "وَأُمْلِى لَهُمْ ۚ إِنَّ كَيْدِى مَتِينٌ",
       "translation": "A (long) respite will I grant them: truly powerful is My Plan.",
       "transliteration": "wa-umlī lahum ۚ inna kaydī matīn"
     },
     {
-      "index": 46,
+      "index": 47,
+      "id": 46,
+      "show_id": "46",
       "arabic": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ",
       "translation": "Or is it that thou dost ask them for a reward, so that they are burdened with a load of debt?-",
       "transliteration": "am tas-aluhum ajran fahum min maghramin muthqalūn"
     },
     {
-      "index": 47,
+      "index": 48,
+      "id": 47,
+      "show_id": "47",
       "arabic": "أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ",
       "translation": "Or that the Unseen is in their hands, so that they can write it down?",
       "transliteration": "am `indahumul ghaybu fahum yaktubūn"
     },
     {
-      "index": 48,
+      "index": 49,
+      "id": 48,
+      "show_id": "48",
       "arabic": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ",
       "translation": "So wait with patience for the Command of thy Lord, and be not like the Companion of the Fish,- when he cried out in agony.",
       "transliteration": "faṣbir liḥukmi rabbika walā takun kaṣāḥibil ḥūti idh nādā wahuwa makẓūm"
     },
     {
-      "index": 49,
+      "index": 50,
+      "id": 49,
+      "show_id": "49",
       "arabic": "لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ",
       "translation": "Had not Grace from his Lord reached him, he would indeed have been cast off on the naked shore, in disgrace.",
       "transliteration": "lawlā an tadārakahu ni`matun min rabbihi lanubidha bil `arā-i wahuwa madhmūm"
     },
     {
-      "index": 50,
+      "index": 51,
+      "id": 50,
+      "show_id": "50",
       "arabic": "فَٱجْتَبَـٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّـٰلِحِينَ",
       "translation": "Thus did his Lord choose him and make him of the Company of the Righteous.",
       "transliteration": "fajtabāhu rabbuhu faja`alahu minaṣ ṣāliḥīn"
     },
     {
-      "index": 51,
+      "index": 52,
+      "id": 51,
+      "show_id": "51",
       "arabic": "وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَـٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌ",
       "translation": "And the Unbelievers would almost trip thee up with their eyes when they hear the Message; and they say: \"Surely he is possessed!\"",
       "transliteration": "wa in yakādul ladhīna kafarū layuzliqūnaka bi-abṣārihim lammā sami`udh dhikra wayaqūlūna innahu lamajnūn"
     },
     {
-      "index": 52,
+      "index": 53,
+      "id": 52,
+      "show_id": "52",
       "arabic": "وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
       "translation": "But it is nothing less than a Message to all the worlds.",
       "transliteration": "wa mā huwa illā dhikrul lil`ālamīn"

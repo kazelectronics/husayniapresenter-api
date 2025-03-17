@@ -7,83 +7,112 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ عَدُوِّى وَعَدُوَّكُمْ أَوْلِيَآءَ تُلْقُونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَقَدْ كَفَرُوا۟ بِمَا جَآءَكُم مِّنَ ٱلْحَقِّ يُخْرِجُونَ ٱلرَّسُولَ وَإِيَّاكُمْ ۙ أَن تُؤْمِنُوا۟ بِٱللَّهِ رَبِّكُمْ إِن كُنتُمْ خَرَجْتُمْ جِهَـٰدًا فِى سَبِيلِى وَٱبْتِغَآءَ مَرْضَاتِى ۚ تُسِرُّونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَأَنَا۠ أَعْلَمُ بِمَآ أَخْفَيْتُمْ وَمَآ أَعْلَنتُمْ ۚ وَمَن يَفْعَلْهُ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
-      "translation": "O YOU WHO BELIEVE, do not take My enemies and your enemies as friends. You show kindness to them, but they reject the true way that has come to you. They expelled the Prophet and you, for you believe in God your Lord. If you have come out to struggle in My cause having sought My acceptance, (do not be) friendly with them in secret. I know what you hide and what you disclose. Whoever of you does this will have gone astray from the right path.",
-      "transliteration": "yā-ayyuhal ladhīna āmanū lā tattakhidhū `aduwwī wa`aduwwakum awliyā-a tulqūna ilayhim bil mawaddati waqad kafarū bimā jā-akum minal ḥaqqi yukhrijūnar rasūla wa iyyākum an tu-minū billāhi rabbikum in kuntum kharajtum jihādan fī sabīlī wabtighā-a marḍātī ۚ tusirrūna ilayhim bil mawaddati wa-ana a`lamu bimā akhfaytum wa mā a`lantum ۚ wa man yaf`alhu minkum faqad ḍalla sawā-as sabīl",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, most benevolent, ever-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, most benevolent, ever-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ عَدُوِّى وَعَدُوَّكُمْ أَوْلِيَآءَ تُلْقُونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَقَدْ كَفَرُوا۟ بِمَا جَآءَكُم مِّنَ ٱلْحَقِّ يُخْرِجُونَ ٱلرَّسُولَ وَإِيَّاكُمْ ۙ أَن تُؤْمِنُوا۟ بِٱللَّهِ رَبِّكُمْ إِن كُنتُمْ خَرَجْتُمْ جِهَـٰدًا فِى سَبِيلِى وَٱبْتِغَآءَ مَرْضَاتِى ۚ تُسِرُّونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَأَنَا۠ أَعْلَمُ بِمَآ أَخْفَيْتُمْ وَمَآ أَعْلَنتُمْ ۚ وَمَن يَفْعَلْهُ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+      "translation": "O YOU WHO BELIEVE, do not take My enemies and your enemies as friends. You show kindness to them, but they reject the true way that has come to you. They expelled the Prophet and you, for you believe in God your Lord. If you have come out to struggle in My cause having sought My acceptance, (do not be) friendly with them in secret. I know what you hide and what you disclose. Whoever of you does this will have gone astray from the right path.",
+      "transliteration": "yā-ayyuhal ladhīna āmanū lā tattakhidhū `aduwwī wa`aduwwakum awliyā-a tulqūna ilayhim bil mawaddati waqad kafarū bimā jā-akum minal ḥaqqi yukhrijūnar rasūla wa iyyākum an tu-minū billāhi rabbikum in kuntum kharajtum jihādan fī sabīlī wabtighā-a marḍātī ۚ tusirrūna ilayhim bil mawaddati wa-ana a`lamu bimā akhfaytum wa mā a`lantum ۚ wa man yaf`alhu minkum faqad ḍalla sawā-as sabīl"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "إِن يَثْقَفُوكُمْ يَكُونُوا۟ لَكُمْ أَعْدَآءً وَيَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُم بِٱلسُّوٓءِ وَوَدُّوا۟ لَوْ تَكْفُرُونَ",
       "translation": "If they gain ascendancy over you, they will become your enemies, and employ their hands and tongues with evil designs, and wish that you also became disbelievers.",
       "transliteration": "in yathqafūkum yakūnū lakum a`dā-an wayabsuṭū ilaykum aydiyahum wa-alsinatahum bis sū-i wawaddū law takfurūn"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَآ أَوْلَـٰدُكُمْ ۚ يَوْمَ ٱلْقِيَـٰمَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
       "translation": "Neither your blood relations nor your children will be of any avail to you on the Day of Resurrection. He will judge between you, for God sees what you do.",
       "transliteration": "lan tanfa`akum arḥāmukum walā awlādukum ۚ yawmal qiyāmati yafṣilu baynakum ۚ wallāhu bimā ta`malūna baṣīr"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِىٓ إِبْرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ إِذْ قَالُوا۟ لِقَوْمِهِمْ إِنَّا بُرَءَٰٓؤُا۟ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ ٱللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ ٱلْعَدَٰوَةُ وَٱلْبَغْضَآءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ بِٱللَّهِ وَحْدَهُۥٓ إِلَّا قَوْلَ إِبْرَٰهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَآ أَمْلِكُ لَكَ مِنَ ٱللَّهِ مِن شَىْءٍ ۖ رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ ٱلْمَصِيرُ",
       "translation": "You have an excellent model in Abraham and those who were with him, when he said to his people: \"We are through with you, and those you worship other than God. We reject you. Enmity and hate have come between you and us for ever, unless you believe in God the One,\" -- except for what he said to his father: \"I shall ask forgiveness for you, but I have no power to prevail with God for you.\" \"O Lord, we place our trust in You, and turn to You in penitence, and to You is our returning.",
       "transliteration": "qad kānat lakum uswatun ḥasanatun fī ibrāhīma wal ladhīna ma`ahu idh qālū liqawmihim innā bura-ā-u minkum wa mimmā ta`budūna min dūnillāhi kafarnā bikum wabadā baynanā wabaynakumul `adāwatu wal baghḍā-u abadan ḥattā tu-minū billāhi waḥdahu illā qawla ibrāhīma li-abīhi la-astaghfiranna laka wa mā amliku laka minallāhi min shay-ī ۖ rabbanā `alayka tawakkalnā wa ilayka anabnā wa ilaykal maṣīr"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ وَٱغْفِرْ لَنَا رَبَّنَآ ۖ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
       "translation": "O Lord, make us not an example of punishment for infidels, and forgive us, O Lord. You are all-mighty and all-wise.\"",
       "transliteration": "rabbanā lā taj`alnā fitnatan lilladhīna kafarū waghfir lanā rabbanā ۖ innaka antal `azīzul ḥakīm"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "لَقَدْ كَانَ لَكُمْ فِيهِمْ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْـَٔاخِرَ ۚ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ",
       "translation": "Those of you who have hope in God and the Last Day have certainly a good example in them. But whosoever turns away, then surely God is above concern, worthy of praise.",
       "transliteration": "laqad kāna lakum fīhim uswatun ḥasanatun liman kāna yarjullāha wal yawmal-ākhir ۚ wa man yatawalla fa-innallāha huwal ghaniyyul ḥamīd"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "عَسَى ٱللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ ٱلَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً ۚ وَٱللَّهُ قَدِيرٌ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
       "translation": "It maybe that God will create love between you and your enemies. God is all-powerful, and God is forgiving, ever-merciful.",
       "transliteration": "`asallāhu an yaj`ala baynakum wabaynal ladhīna `ādaytum minhum mawaddah ۚ wallāhu qadīr ۚ wallāhu ghafūrun raḥīm"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "لَّا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمْ يُقَـٰتِلُوكُمْ فِى ٱلدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَـٰرِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوٓا۟ إِلَيْهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
       "translation": "God does not forbid you from being kind and acting justly towards those who did not fight over faith with you, nor expelled you from your homes. God indeed loves those who are just.",
       "transliteration": "lā yanhākumullāhu `anil ladhīna lam yuqātilūkum fid dīni walam yukhrijūkum min diyārikum an tabarrūhum watuqsiṭū ilayhim ۚ innallāha yuḥibbul muqsiṭīn"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "إِنَّمَا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ قَـٰتَلُوكُمْ فِى ٱلدِّينِ وَأَخْرَجُوكُم مِّن دِيَـٰرِكُمْ وَظَـٰهَرُوا۟ عَلَىٰٓ إِخْرَاجِكُمْ أَن تَوَلَّوْهُمْ ۚ وَمَن يَتَوَلَّهُمْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
       "translation": "He only forbids you from making friends with those who fought over faith with you and banished you from your homes, and aided in your exile. Whoever makes friends with them is a transgressor.",
       "transliteration": "innamā yanhākumullāhu `anil ladhīna qātalūkum fid dīni wa-akhrajūkum min diyārikum waẓāharū `alā ikhrājikum an tawallawhum ۚ wa man yatawallahum fa-ulā-ika humuẓ ẓālimūn"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا جَآءَكُمُ ٱلْمُؤْمِنَـٰتُ مُهَـٰجِرَٰتٍ فَٱمْتَحِنُوهُنَّ ۖ ٱللَّهُ أَعْلَمُ بِإِيمَـٰنِهِنَّ ۖ فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَـٰتٍ فَلَا تَرْجِعُوهُنَّ إِلَى ٱلْكُفَّارِ ۖ لَا هُنَّ حِلٌّ لَّهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّ ۖ وَءَاتُوهُم مَّآ أَنفَقُوا۟ ۚ وَلَا جُنَاحَ عَلَيْكُمْ أَن تَنكِحُوهُنَّ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ ۚ وَلَا تُمْسِكُوا۟ بِعِصَمِ ٱلْكَوَافِرِ وَسْـَٔلُوا۟ مَآ أَنفَقْتُمْ وَلْيَسْـَٔلُوا۟ مَآ أَنفَقُوا۟ ۚ ذَٰلِكُمْ حُكْمُ ٱللَّهِ ۖ يَحْكُمُ بَيْنَكُمْ ۚ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
       "translation": "O believers, when believing women come over to you as refugees, then examine them. God alone is cognisant of their faith. If you find that they are believers, do not send them back to unbelievers. They are not lawful for them, nor are infidels lawful for believing women. Give the unbelievers what they have spent on them. There is no sin if you marry them provided you give their dowers to them. Do not retain your (marriage) ties with unbelieving women. Ask for the return of what you have spent (on them); and the unbelievers should ask for the return of what they have spent. This is the judgement of God. He judges between you. God is all-knowing and all-wise.",
       "transliteration": "yā-ayyuhal ladhīna āmanū idhā jā-akumul mu-minātu muhājirātin famtaḥinūhunn ۖ allāhu a`lamu bi-iymānihinn ۖ fa-in `alimtumūhunna mu-minātin falā tarji`ūhunna ilal-kuffār ۖ lā hunna ḥillul lahum walā hum yaḥillūna lahunn ۖ wa-ātūhum mā anfaqū ۚ walā junāḥa `alaykum an tankiḥūhunna idhā ātaytumūhunna ujūrahunn ۚ walā tumsikū bi`iṣamil kawāfiri was-alū mā anfaqtum walyas-alū mā anfaqū ۚ dhālikum ḥukmullāh ۖ yaḥkumu baynakum ۚ wallāhu `alīmun ḥakīm"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "وَإِن فَاتَكُمْ شَىْءٌ مِّنْ أَزْوَٰجِكُمْ إِلَى ٱلْكُفَّارِ فَعَاقَبْتُمْ فَـَٔاتُوا۟ ٱلَّذِينَ ذَهَبَتْ أَزْوَٰجُهُم مِّثْلَ مَآ أَنفَقُوا۟ ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ",
       "translation": "If any of your women go away to the unbelievers, and you succeed in your turn (and have a chance of getting spoils), then give to those whose wives have so gone away as much as they had spent on them; but take heed and fear God in whom you believe.",
       "transliteration": "wa in fātakum shay-un min azwājikum ilal-kuffāri fa`āqabtum fa-ātul ladhīna dhahabat azwājuhum mithla mā anfaqū ۚ wattaqullāhal ladhī antum bihi mu-minūn"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَـٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَـٰدَهُنَّ وَلَا يَأْتِينَ بِبُهْتَـٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ ۙ فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
       "translation": "O Prophet, when believing women come to you and swear on oath that they will not associate anything with God, nor steal, nor fornicate, nor kill their children, nor accuse others for what they have fabricated themselves, nor disobey you in any rightful thing, then you should accept their allegiance, and ask forgiveness of God for them. Certainly God is forgiving and kind.",
       "transliteration": "yā-ayyuhan nabiyyu idhā jā-akal mu-minātu yubāyi`naka `alā an lā yushrikna billāhi shay-an walā yasriqna walā yaznīna walā yaqtulna awlādahunna walā ya-tīna bibuhtāniy yaftarīnahu bayna aydīhinna wa-arjulihinna walā ya`ṣīnaka fī ma`rūfin fabāyi`hunna wastaghfir lahunnallāh ۖ innallāha ghafūrun raḥīm"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِمْ قَدْ يَئِسُوا۟ مِنَ ٱلْـَٔاخِرَةِ كَمَا يَئِسَ ٱلْكُفَّارُ مِنْ أَصْحَـٰبِ ٱلْقُبُورِ",
       "translation": "O you who believe, do not make friends with those who have suffered the anger of God by having become despondent of the life to come like those unbelievers who are despondent of those who are in the graves.",
       "transliteration": "yā-ayyuhal ladhīna āmanū lā tatawallaw qawman ghaḍiballāhu `alayhim qad ya-isū minal-ākhirati kamā ya-isal kuffāru min aṣ-ḥābil qubūr"

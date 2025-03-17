@@ -7,29 +7,40 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
-      "translation": "Say: He is Allah, the One!",
-      "transliteration": "qul huwallāhu aḥad",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, the Beneficent, the Merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+      "translation": "Say: He is Allah, the One!",
+      "transliteration": "qul huwallāhu aḥad"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "ٱللَّهُ ٱلصَّمَدُ",
       "translation": "Allah, the eternally Besought of all!",
       "transliteration": "allāhuṣ ṣamad"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
       "translation": "He begetteth not nor was begotten.",
       "transliteration": "lam yalid walam yūlad"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
       "translation": "And there is none comparable unto Him.",
       "transliteration": "walam yakun lahu kufuwan aḥad"

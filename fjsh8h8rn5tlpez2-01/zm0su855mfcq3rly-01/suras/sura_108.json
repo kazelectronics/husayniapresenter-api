@@ -7,23 +7,32 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
-      "translation": "HAVE SURELY given you pre-eminence (in numbers and following);",
-      "transliteration": "innā a`ṭaynākal kawthar",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, most benevolent, ever-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, most benevolent, ever-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+      "translation": "HAVE SURELY given you pre-eminence (in numbers and following);",
+      "transliteration": "innā a`ṭaynākal kawthar"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
       "translation": "So serve your Lord with full dedication and sacrifice.",
       "transliteration": "faṣalli lirabbika wanḥar"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
       "translation": "It is surely your opponents whose line will come to end.",
       "transliteration": "inna shāni-aka huwal-abtar"

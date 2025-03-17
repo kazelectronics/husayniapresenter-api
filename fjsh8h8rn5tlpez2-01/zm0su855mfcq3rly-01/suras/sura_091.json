@@ -7,95 +7,128 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "وَٱلشَّمْسِ وَضُحَىٰهَا",
-      "translation": "I CALL TO witness the sun and his early morning splendour,",
-      "transliteration": "wash shamsi waḍuḥāhā",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, most benevolent, ever-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, most benevolent, ever-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "وَٱلشَّمْسِ وَضُحَىٰهَا",
+      "translation": "I CALL TO witness the sun and his early morning splendour,",
+      "transliteration": "wash shamsi waḍuḥāhā"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
       "translation": "And the moon as she follows in his wake,",
       "transliteration": "wal qamari idhā talāhā"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
       "translation": "The day when it reveals his radiance,",
       "transliteration": "wan nahāri idhā jallāhā"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
       "translation": "The night when it covers him over,",
       "transliteration": "wal layli idhā yaghshāhā"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
       "translation": "The heavens and its architecture,",
       "transliteration": "was samā-i wa mā banāhā"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
       "translation": "The earth and its spreading out,",
       "transliteration": "wal-arḍi wa mā ṭaḥāhā"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
       "translation": "The soul and how it was integrated",
       "transliteration": "wanafsin wa mā sawwāhā"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
       "translation": "And given the faculty of knowing what is disruptive and what is intrinsic to it.",
       "transliteration": "fa-alhamahā fujūrahā wataqwāhā"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
       "translation": "He who nourishes it will surely be successful,",
       "transliteration": "qad aflaḥa man zakkāhā"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
       "translation": "And he who confines it will surely come to grief.",
       "transliteration": "waqad khāba man dassāhā"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
       "translation": "The Thamud denied (the truth) in their perverseness",
       "transliteration": "kadhhabat thamūdu biṭaghwāhā"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
       "translation": "When among them the great wretch arose,",
       "transliteration": "idhin-ba`atha ashqāhā"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا",
       "translation": "And the apostle of God had to tell them: \"This is God's she-camel, let her drink.\"",
       "transliteration": "faqāla lahum rasūlullāhi nāqatallāhi wasuqyāhā"
     },
     {
-      "index": 14,
+      "index": 15,
+      "id": 14,
+      "show_id": "14",
       "arabic": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
       "translation": "But they called him a liar and hamstrung her. So God obliterated them for their crime, and (destroyed) all of them alike.",
       "transliteration": "fakadhhabūhu fa`aqarūhā fadamdama `alayhim rabbuhum bidhanbihim fasawwāhā"
     },
     {
-      "index": 15,
+      "index": 16,
+      "id": 15,
+      "show_id": "15",
       "arabic": "وَلَا يَخَافُ عُقْبَـٰهَا",
       "translation": "He does not fear the consequence.",
       "transliteration": "walā yakhāfu `uqbāhā"

@@ -7,95 +7,128 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "وَٱلشَّمْسِ وَضُحَىٰهَا",
-      "translation": "I swear by the sun and its brilliance,",
-      "transliteration": "wash shamsi waḍuḥāhā",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, the Beneficent, the Merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "وَٱلشَّمْسِ وَضُحَىٰهَا",
+      "translation": "I swear by the sun and its brilliance,",
+      "transliteration": "wash shamsi waḍuḥāhā"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
       "translation": "And the moon when it follows the sun,",
       "transliteration": "wal qamari idhā talāhā"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
       "translation": "And the day when it shows it,",
       "transliteration": "wan nahāri idhā jallāhā"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
       "translation": "And the night when it draws a veil over it,",
       "transliteration": "wal layli idhā yaghshāhā"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
       "translation": "And the heaven and Him Who made it,",
       "transliteration": "was samā-i wa mā banāhā"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
       "translation": "And the earth and Him Who extended it,",
       "transliteration": "wal-arḍi wa mā ṭaḥāhā"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
       "translation": "And the soul and Him Who made it perfect,",
       "transliteration": "wanafsin wa mā sawwāhā"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
       "translation": "Then He inspired it to understand what is right and wrong for it;",
       "transliteration": "fa-alhamahā fujūrahā wataqwāhā"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
       "translation": "He will indeed be successful who purifies it,",
       "transliteration": "qad aflaḥa man zakkāhā"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
       "translation": "And he will indeed fail who corrupts it.",
       "transliteration": "waqad khāba man dassāhā"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
       "translation": "Samood gave the lie (to the truth) in their inordinacy,",
       "transliteration": "kadhhabat thamūdu biṭaghwāhā"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
       "translation": "When the most unfortunate of them broke forth with",
       "transliteration": "idhin-ba`atha ashqāhā"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا",
       "translation": "So Allah's apostle said to them (Leave alone) Allah's she-camel, and (give) her (to) drink.",
       "transliteration": "faqāla lahum rasūlullāhi nāqatallāhi wasuqyāhā"
     },
     {
-      "index": 14,
+      "index": 15,
+      "id": 14,
+      "show_id": "14",
       "arabic": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
       "translation": "But they called him a liar and slaughtered her, therefore their Lord crushed them for their sin and levelled them (with the ground).",
       "transliteration": "fakadhhabūhu fa`aqarūhā fadamdama `alayhim rabbuhum bidhanbihim fasawwāhā"
     },
     {
-      "index": 15,
+      "index": 16,
+      "id": 15,
+      "show_id": "15",
       "arabic": "وَلَا يَخَافُ عُقْبَـٰهَا",
       "translation": "And He fears not its consequence.",
       "transliteration": "walā yakhāfu `uqbāhā"

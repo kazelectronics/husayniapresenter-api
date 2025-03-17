@@ -7,47 +7,64 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
-      "translation": "HAVE YOU SEEN him who denies the Day of Judgement?",
-      "transliteration": "ara aytal ladhī yukadhhibu bid dīn",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, most benevolent, ever-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, most benevolent, ever-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+      "translation": "HAVE YOU SEEN him who denies the Day of Judgement?",
+      "transliteration": "ara aytal ladhī yukadhhibu bid dīn"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
       "translation": "It is he who pushes the orphan away,",
       "transliteration": "fadhālikal ladhī yadu``ul yatīm"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
       "translation": "And does not induce others to feed the needy.",
       "transliteration": "walā yaḥuḍḍu `alā ṭa`āmil miskīn"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "فَوَيْلٌ لِّلْمُصَلِّينَ",
       "translation": "Woe to those who pray",
       "transliteration": "fawaylul lil-muṣallīn"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
       "translation": "But who are oblivious of their moral duties,",
       "transliteration": "alladhīna hum `an ṣalātihim sāhūn"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
       "translation": "Who dissimulate",
       "transliteration": "alladhīna hum yurā-ūn"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
       "translation": "And withhold things of common use (from others).",
       "transliteration": "wayamna`ūnal mā`ūn"

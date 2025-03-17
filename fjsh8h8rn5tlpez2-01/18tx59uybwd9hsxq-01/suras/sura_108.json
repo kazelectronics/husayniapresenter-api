@@ -7,23 +7,32 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
-      "translation": "To thee have We granted the Fount (of Abundance).",
-      "transliteration": "innā a`ṭaynākal kawthar",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, Most Gracious, Most Merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, Most Gracious, Most Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+      "translation": "To thee have We granted the Fount (of Abundance).",
+      "transliteration": "innā a`ṭaynākal kawthar"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
       "translation": "Therefore to thy Lord turn in Prayer and Sacrifice.",
       "transliteration": "faṣalli lirabbika wanḥar"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
       "translation": "For he who hateth thee, he will be cut off (from Future Hope).",
       "transliteration": "inna shāni-aka huwal-abtar"

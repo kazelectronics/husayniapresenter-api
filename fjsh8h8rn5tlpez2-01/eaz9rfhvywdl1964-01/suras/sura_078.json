@@ -7,245 +7,328 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "عَمَّ يَتَسَآءَلُونَ",
-      "translation": "Of what do they ask one another?",
-      "transliteration": "`amma yatasā-alūn",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, the Beneficent, the Merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "عَمَّ يَتَسَآءَلُونَ",
+      "translation": "Of what do they ask one another?",
+      "transliteration": "`amma yatasā-alūn"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "عَنِ ٱلنَّبَإِ ٱلْعَظِيمِ",
       "translation": "About the great event,",
       "transliteration": "`anin naba-il `aẓīm"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "ٱلَّذِى هُمْ فِيهِ مُخْتَلِفُونَ",
       "translation": "About which they differ?",
       "transliteration": "alladhī hum fīhi mukhtalifūn"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "كَلَّا سَيَعْلَمُونَ",
       "translation": "Nay! they shall soon come to know",
       "transliteration": "kallā saya`lamūn"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
       "translation": "Nay! Nay! they shall soon know.",
       "transliteration": "thumma kallā saya`lamūn"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَـٰدًا",
       "translation": "Have We not made the earth an even expanse?",
       "transliteration": "alam naj`alil-arḍa mihādā"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "وَٱلْجِبَالَ أَوْتَادًا",
       "translation": "And the mountains as projections (thereon)?",
       "transliteration": "wal jibāla awtādā"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "وَخَلَقْنَـٰكُمْ أَزْوَٰجًا",
       "translation": "And We created you in pairs,",
       "transliteration": "wakhalaqnākum azwājā"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
       "translation": "And We made your sleep to be rest (to you),",
       "transliteration": "waja`alnā nawmakum subātā"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "وَجَعَلْنَا ٱلَّيْلَ لِبَاسًا",
       "translation": "And We made the night to be a covering,",
       "transliteration": "waja`alnal layla libāsā"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًا",
       "translation": "And We made the day for seeking livelihood.",
       "transliteration": "waja`alnan nahāra ma`āshā"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
       "translation": "And We made above you seven strong ones,",
       "transliteration": "wabanaynā fawqakum sab`an shidādā"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
       "translation": "And We made a shining lamp,",
       "transliteration": "waja`alnā sirājan wahhājā"
     },
     {
-      "index": 14,
+      "index": 15,
+      "id": 14,
+      "show_id": "14",
       "arabic": "وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءً ثَجَّاجًا",
       "translation": "And We send down from the clouds water pouring forth abundantly,",
       "transliteration": "wa-anzalnā minal mu`ṣirāti mā-an thajjājā"
     },
     {
-      "index": 15,
+      "index": 16,
+      "id": 15,
+      "show_id": "15",
       "arabic": "لِّنُخْرِجَ بِهِۦ حَبًّا وَنَبَاتًا",
       "translation": "That We may bring forth thereby corn and herbs,",
       "transliteration": "linukhrija bihi ḥabban wanabātā"
     },
     {
-      "index": 16,
+      "index": 17,
+      "id": 16,
+      "show_id": "16",
       "arabic": "وَجَنَّـٰتٍ أَلْفَافًا",
       "translation": "And gardens dense and luxuriant.",
       "transliteration": "wajannātin alfāfā"
     },
     {
-      "index": 17,
+      "index": 18,
+      "id": 17,
+      "show_id": "17",
       "arabic": "إِنَّ يَوْمَ ٱلْفَصْلِ كَانَ مِيقَـٰتًا",
       "translation": "Surely the day of decision is (a day) appointed:",
       "transliteration": "inna yawmal faṣli kāna mīqātā"
     },
     {
-      "index": 18,
+      "index": 19,
+      "id": 18,
+      "show_id": "18",
       "arabic": "يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًا",
       "translation": "The day on which the trumpet shall be blown so you shall come forth in hosts,",
       "transliteration": "yawma yunfakhu fiṣ ṣūri fata-tūna afwājā"
     },
     {
-      "index": 19,
+      "index": 20,
+      "id": 19,
+      "show_id": "19",
       "arabic": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًا",
       "translation": "And the heaven shall be opened so that it shall be all openings,",
       "transliteration": "wafutiḥatis samā-u fakānat abwābā"
     },
     {
-      "index": 20,
+      "index": 21,
+      "id": 20,
+      "show_id": "20",
       "arabic": "وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا",
       "translation": "And the mountains shall be moved off so that they shall remain a mere semblance.",
       "transliteration": "wasuyyiratil jibālu fakānat sarābā"
     },
     {
-      "index": 21,
+      "index": 22,
+      "id": 21,
+      "show_id": "21",
       "arabic": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
       "translation": "Surely hell lies in wait,",
       "transliteration": "inna jahannama kānat mirṣādā"
     },
     {
-      "index": 22,
+      "index": 23,
+      "id": 22,
+      "show_id": "22",
       "arabic": "لِّلطَّـٰغِينَ مَـَٔابًا",
       "translation": "A place of resort for the inordinate,",
       "transliteration": "liṭṭāghīna ma-ābā"
     },
     {
-      "index": 23,
+      "index": 24,
+      "id": 23,
+      "show_id": "23",
       "arabic": "لَّـٰبِثِينَ فِيهَآ أَحْقَابًا",
       "translation": "Living therein for ages.",
       "transliteration": "lābithīna fīhā aḥqābā"
     },
     {
-      "index": 24,
+      "index": 25,
+      "id": 24,
+      "show_id": "24",
       "arabic": "لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا",
       "translation": "They shall not taste therein cool nor drink",
       "transliteration": "lā yadhūqūna fīhā bardan walā sharābā"
     },
     {
-      "index": 25,
+      "index": 26,
+      "id": 25,
+      "show_id": "25",
       "arabic": "إِلَّا حَمِيمًا وَغَسَّاقًا",
       "translation": "But boiling and intensely cold water,",
       "transliteration": "illā ḥamīman waghassāqā"
     },
     {
-      "index": 26,
+      "index": 27,
+      "id": 26,
+      "show_id": "26",
       "arabic": "جَزَآءً وِفَاقًا",
       "translation": "Requital corresponding.",
       "transliteration": "jazā-an wifāqā"
     },
     {
-      "index": 27,
+      "index": 28,
+      "id": 27,
+      "show_id": "27",
       "arabic": "إِنَّهُمْ كَانُوا۟ لَا يَرْجُونَ حِسَابًا",
       "translation": "Surely they feared not the account,",
       "transliteration": "innahum kānū lā yarjūna ḥisābā"
     },
     {
-      "index": 28,
+      "index": 29,
+      "id": 28,
+      "show_id": "28",
       "arabic": "وَكَذَّبُوا۟ بِـَٔايَـٰتِنَا كِذَّابًا",
       "translation": "And called Our communications a lie, giving the lie (to the truth).",
       "transliteration": "wakadhhabū bi-āyātinā kidhhābā"
     },
     {
-      "index": 29,
+      "index": 30,
+      "id": 29,
+      "show_id": "29",
       "arabic": "وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ كِتَـٰبًا",
       "translation": "And We have recorded everything in a book,",
       "transliteration": "wakulla shay-in aḥṣaynāhu kitābā"
     },
     {
-      "index": 30,
+      "index": 31,
+      "id": 30,
+      "show_id": "30",
       "arabic": "فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا",
       "translation": "So taste! for We will not add to you aught but chastisement.",
       "transliteration": "fadhūqū falan nazīdakum illā `adhābā"
     },
     {
-      "index": 31,
+      "index": 32,
+      "id": 31,
+      "show_id": "31",
       "arabic": "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
       "translation": "Surely for those who guard (against evil) is achievement,",
       "transliteration": "inna lil-muttaqīna mafāzā"
     },
     {
-      "index": 32,
+      "index": 33,
+      "id": 32,
+      "show_id": "32",
       "arabic": "حَدَآئِقَ وَأَعْنَـٰبًا",
       "translation": "Gardens and vineyards,",
       "transliteration": "ḥadā-iqa wa-a`nābā"
     },
     {
-      "index": 33,
+      "index": 34,
+      "id": 33,
+      "show_id": "33",
       "arabic": "وَكَوَاعِبَ أَتْرَابًا",
       "translation": "And voluptuous women of equal age;",
       "transliteration": "wakawā`iba atrābā"
     },
     {
-      "index": 34,
+      "index": 35,
+      "id": 34,
+      "show_id": "34",
       "arabic": "وَكَأْسًا دِهَاقًا",
       "translation": "And a pure cup.",
       "transliteration": "waka-san dihāqā"
     },
     {
-      "index": 35,
+      "index": 36,
+      "id": 35,
+      "show_id": "35",
       "arabic": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّٰبًا",
       "translation": "They shall not hear therein any vain words nor lying.",
       "transliteration": "lā yasma`ūna fīhā laghwan walā kidhhābā"
     },
     {
-      "index": 36,
+      "index": 37,
+      "id": 36,
+      "show_id": "36",
       "arabic": "جَزَآءً مِّن رَّبِّكَ عَطَآءً حِسَابًا",
       "translation": "A reward from your Lord, a gift according to a reckoning:",
       "transliteration": "jazā-an min rabbika `aṭā-an ḥisābā"
     },
     {
-      "index": 37,
+      "index": 38,
+      "id": 37,
+      "show_id": "37",
       "arabic": "رَّبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَـٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
       "translation": "The Lord of the heavens and the earth and what is between them, the Beneficent Allah, they shall not be able to address Him.",
       "transliteration": "rabbis samāwāti wal-arḍi wa mā baynahumar raḥmān ۖ lā yamlikūna minhu khiṭābā"
     },
     {
-      "index": 38,
+      "index": 39,
+      "id": 38,
+      "show_id": "38",
       "arabic": "يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَـٰٓئِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَـٰنُ وَقَالَ صَوَابًا",
       "translation": "The day on which the spirit and the angels shall stand in ranks; they shall not speak except he whom the Beneficent Allah permits and who speaks the right thing.",
       "transliteration": "yawma yaqūmur rūḥu wal malā-ikatu ṣaffā ۖ lā yatakallamūna illā man adhina lahur raḥmānu waqāla ṣawābā"
     },
     {
-      "index": 39,
+      "index": 40,
+      "id": 39,
+      "show_id": "39",
       "arabic": "ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا",
       "translation": "That is the sure day, so whoever desires may take refuge with his Lord.",
       "transliteration": "dhālikal yawmul ḥaqq ۖ faman shā-at-takhadha ilā rabbihi ma-ābā"
     },
     {
-      "index": 40,
+      "index": 41,
+      "id": 40,
+      "show_id": "40",
       "arabic": "إِنَّآ أَنذَرْنَـٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَـٰلَيْتَنِى كُنتُ تُرَٰبًۢا",
       "translation": "Surely We have warned you of a chastisement near at hand: the day when man shall see what his two hands have sent before, and the unbeliever shall say: O! would that I were dust!",
       "transliteration": "innā andharnākum `adhāban qarīban yawma yanẓurul mar-u mā qaddamat yadāhu wayaqūlul kāfiru yālaytanī kuntu turābā"

@@ -7,71 +7,96 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "ٱلْقَارِعَةُ",
-      "translation": "The terrible calamity!",
-      "transliteration": "al-qāri`ah",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, the Beneficent, the Merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "ٱلْقَارِعَةُ",
+      "translation": "The terrible calamity!",
+      "transliteration": "al-qāri`ah"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "مَا ٱلْقَارِعَةُ",
       "translation": "What is the terrible calamity!",
       "transliteration": "mal qāri`ah"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
       "translation": "And what will make you comprehend what the terrible calamity is?",
       "transliteration": "wa mā adrāka mal qāri`ah"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
       "translation": "The day on which men shall be as scattered moths,",
       "transliteration": "yawma yakūnun nāsu kal farāshil mabthūth"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
       "translation": "And the mountains shall be as loosened wool.",
       "transliteration": "watakūnul jibālu kal `ihnil manfūsh"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
       "translation": "Then as for him whose measure of good deeds is heavy,",
       "transliteration": "fa-ammā man thaqulat mawāzīnuh"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
       "translation": "He shall live a pleasant life.",
       "transliteration": "fahuwa fī `īshatin rāḍiyah"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
       "translation": "And as for him whose measure of good deeds is light,",
       "transliteration": "wa-ammā man khaffat mawāzīnuh"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "فَأُمُّهُۥ هَاوِيَةٌ",
       "translation": "His abode shall be the abyss.",
       "transliteration": "fa-ummuhu hāwiyah"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
       "translation": "And what will make you know what it is?",
       "transliteration": "wa mā adrāka mā hiyah"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "نَارٌ حَامِيَةٌۢ",
       "translation": "A burning fire.",
       "transliteration": "nārun ḥāmiyah"

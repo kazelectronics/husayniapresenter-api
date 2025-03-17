@@ -7,125 +7,168 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "يَـٰٓأَيُّهَا ٱلْمُزَّمِّلُ",
-      "translation": "O YOU ENWRAPPED in the cloak (of Prophethood),",
-      "transliteration": "yā-ayyuhal muzzammil",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, most benevolent, ever-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, most benevolent, ever-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "يَـٰٓأَيُّهَا ٱلْمُزَّمِّلُ",
+      "translation": "O YOU ENWRAPPED in the cloak (of Prophethood),",
+      "transliteration": "yā-ayyuhal muzzammil"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "قُمِ ٱلَّيْلَ إِلَّا قَلِيلًا",
       "translation": "Keep watch all the night except some,",
       "transliteration": "qumil layla illā qalīlā"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "نِّصْفَهُۥٓ أَوِ ٱنقُصْ مِنْهُ قَلِيلًا",
       "translation": "A half of it or a little less",
       "transliteration": "niṣfahu awin-quṣ minhu qalīlā"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ ٱلْقُرْءَانَ تَرْتِيلًا",
       "translation": "Or a little more, and recite the Qur'an slowly and distinctly.",
       "transliteration": "aw zid `alayhi warattilil qur-āna tartīlā"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "إِنَّا سَنُلْقِى عَلَيْكَ قَوْلًا ثَقِيلًا",
       "translation": "We shall soon entrust to you a message heavy (with solemnity).",
       "transliteration": "innā sanulqī `alayka qawlan thaqīlā"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "إِنَّ نَاشِئَةَ ٱلَّيْلِ هِىَ أَشَدُّ وَطْـًٔا وَأَقْوَمُ قِيلًا",
       "translation": "Surely in the watches of the night the soul is most receptive and words more telling.",
       "transliteration": "inna nāshi-atal layli hiya ashaddu waṭ-an wa-aqwamu qīlā"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "إِنَّ لَكَ فِى ٱلنَّهَارِ سَبْحًا طَوِيلًا",
       "translation": "Indeed during the day you have a long schedule of occupations.",
       "transliteration": "inna laka fin nahāri sabḥan ṭawīlā"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "وَٱذْكُرِ ٱسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
       "translation": "But recite the name of your Lord withdrawing yourself from everything, devoting yourself exclusively to Him.",
       "transliteration": "wadhkuris-ma rabbika watabattal ilayhi tabtīlā"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ إِلَـٰهَ إِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًا",
       "translation": "He is the Lord of the East and the West. There is no god but He. So take Him alone as your protector.",
       "transliteration": "rabbul mashriqi wal maghribi lā ilāha illā huwa fattakhidh-hu wakīlā"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًا جَمِيلًا",
       "translation": "Bear with patience what they say, and gracefully come away from them.",
       "transliteration": "waṣbir `alā mā yaqūlūna wāhjurhum hajran jamīlā"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "وَذَرْنِى وَٱلْمُكَذِّبِينَ أُو۟لِى ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
       "translation": "Leave those to Me who deny, the lovers of ease and comfort; and bear with them for a while.",
       "transliteration": "wadharnī wal mukadhhibīna ulin na`mati wa mahhilhum qalīlā"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "إِنَّ لَدَيْنَآ أَنكَالًا وَجَحِيمًا",
       "translation": "Verily We shall have fetters with Us, and a roaring furnace,",
       "transliteration": "inna ladaynā ankālan wajaḥīmā"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا",
       "translation": "And food that will stick in the throat, and painful torment",
       "transliteration": "waṭa`āman dhā ghuṣṣatin wa`adhāban alīmā"
     },
     {
-      "index": 14,
+      "index": 15,
+      "id": 14,
+      "show_id": "14",
       "arabic": "يَوْمَ تَرْجُفُ ٱلْأَرْضُ وَٱلْجِبَالُ وَكَانَتِ ٱلْجِبَالُ كَثِيبًا مَّهِيلًا",
       "translation": "On the day the earth and mountains will rock violently, and the mountains turn to a heap of poured-out sand.",
       "transliteration": "yawma tarjuful-arḍu wal jibālu wakānatil jibālu kathīban mahīlā"
     },
     {
-      "index": 15,
+      "index": 16,
+      "id": 15,
+      "show_id": "15",
       "arabic": "إِنَّآ أَرْسَلْنَآ إِلَيْكُمْ رَسُولًا شَـٰهِدًا عَلَيْكُمْ كَمَآ أَرْسَلْنَآ إِلَىٰ فِرْعَوْنَ رَسُولًا",
       "translation": "We have sent an Apostle to you as a witness against you, as We had sent an apostle to the Pharaoh.",
       "transliteration": "innā arsalnā ilaykum rasūlan shāhidan `alaykum kamā arsalnā ilā fir`awna rasūlā"
     },
     {
-      "index": 16,
+      "index": 17,
+      "id": 16,
+      "show_id": "16",
       "arabic": "فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَـٰهُ أَخْذًا وَبِيلًا",
       "translation": "But the Pharaoh disobeyed the apostle; so We seized him with a grievous punishment.",
       "transliteration": "fa`aṣā fir`awnur rasūla fa-akhadhnāhu akhdhan wabīlā"
     },
     {
-      "index": 17,
+      "index": 18,
+      "id": 17,
+      "show_id": "17",
       "arabic": "فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًا يَجْعَلُ ٱلْوِلْدَٰنَ شِيبًا",
       "translation": "How then, if you disbelieve, will you preserve yourselves on the day which will even turn the children hoary?",
       "transliteration": "fakayfa tattaqūna in kafartum yawman yaj`alul wildāna shībā"
     },
     {
-      "index": 18,
+      "index": 19,
+      "id": 18,
+      "show_id": "18",
       "arabic": "ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا",
       "translation": "The heavens itself will be rent asunder (on that day). His promise is bound to be fulfilled.",
       "transliteration": "as-samā-u munfaṭirun bih ۚ kāna wa`duhu maf`ūlā"
     },
     {
-      "index": 19,
+      "index": 20,
+      "id": 19,
+      "show_id": "19",
       "arabic": "إِنَّ هَـٰذِهِۦ تَذْكِرَةٌ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا",
       "translation": "Verily this is a reminder. So let him who desires take the way to his Lord.",
       "transliteration": "inna hādhihi tadhkirah ۖ faman shā-at-takhadha ilā rabbihi sabīlā"
     },
     {
-      "index": 20,
+      "index": 21,
+      "id": 20,
+      "show_id": "20",
       "arabic": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ ۚ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ ۚ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ ۚ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ ۙ وَءَاخَرُونَ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
       "translation": "Your Lord surely knows that you are occupied with your devotions for nearly two-thirds of the night, or half the night, or one-third of it, as do many others with you. Yet God prescribes the measure of night and day. He knows you cannot calculate it, and so turns to you in benevolence. So recite as much of the Qur'an as you can easily. He knows some among you will be sick, and some will be travelling over the earth in search of the bounty of God, and some fighting in the way of God. So read as much from it as you can easily, and be firm in devotion, pay the zakat, and lend a goodly loan to God. And what you send for yourself of the good, you will find it with God better and greater in reward. So ask for God's forgiveness. Indeed God is forgiving and kind.",
       "transliteration": "inna rabbaka ya`lamu annaka taqūmu adnā min thuluthayil layli waniṣfahu wathuluthahu waṭā-ifatun minal ladhīna ma`ak ۚ wallāhu yuqaddirul layla wan nahār ۚ `alima an lan tuḥṣūhu fatāba `alaykum ۖ faqra-ū mā tayassara minal qur-ān ۚ `alima an sayakūnu minkum marḍā wa-ākharūna yaḍribūna fil-arḍi yabtaghūna min faḍlillāhi wa-ākharūna yuqātilūna fī sabīlillāh ۖ faqra-ū mā tayassara minh ۚ wa-aqīmuṣ ṣalāta wa-ātuz zakāta wa-aqriḍullāha qarḍan ḥasanā ۚ wa mā tuqaddimū li-anfusikum min khayrin tajidūhu `indallāhi huwa khayran wa-a`ẓama ajrā ۚ wastaghfirullāh ۖ innallāha ghafūrun raḥīm"

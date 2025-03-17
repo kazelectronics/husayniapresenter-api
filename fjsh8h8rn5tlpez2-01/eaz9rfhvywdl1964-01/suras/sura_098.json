@@ -7,53 +7,72 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ",
-      "translation": "Those who disbelieved from among the followers of the Book and the polytheists could not have separated (from the faithful) until there had come to them the clear evidence:",
-      "transliteration": "lam yakunil ladhīna kafarū min ahlil kitābi wal mushrikīna munfakkīna ḥattā ta-tiyahumul bayyinah",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, the Beneficent, the Merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ",
+      "translation": "Those who disbelieved from among the followers of the Book and the polytheists could not have separated (from the faithful) until there had come to them the clear evidence:",
+      "transliteration": "lam yakunil ladhīna kafarū min ahlil kitābi wal mushrikīna munfakkīna ḥattā ta-tiyahumul bayyinah"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً",
       "translation": "An apostle from Allah, reciting pure pages,",
       "transliteration": "rasūlun minallāhi yatlū ṣuḥufan muṭahharah"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "فِيهَا كُتُبٌ قَيِّمَةٌ",
       "translation": "Wherein are all the right ordinances.",
       "transliteration": "fīhā kutubun qayyimah"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَةُ",
       "translation": "And those who were given the Book did not become divided except after clear evidence had come to them.",
       "transliteration": "wa mā tafarraqal ladhīna ūtul kitāba illā min ba`di mā jā-at humul bayyinah"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ",
       "translation": "And they were not enjoined anything except that they should serve Allah, being sincere to Him in obedience, upright, and keep up prayer and pay the poor-rate, and that is the right religion.",
       "transliteration": "wa mā umirū illā liya`budullāha mukhliṣīna lahud dīna ḥunafā-a wayuqīmuṣ ṣalāta wayu-tuz zakāh ۚ wadhālika dīnul qayyimah"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ ۚ أُو۟لَـٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ",
       "translation": "Surely those who disbelieve from among the followers of the Book and the polytheists shall be in the fire of hell, abiding therein; they are the worst of men.",
       "transliteration": "innal ladhīna kafarū min ahlil kitābi wal mushrikīna fī nāri jahannama khālidīna fīhā ۚ ulā-ika hum sharrul bariyyah"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰٓئِكَ هُمْ خَيْرُ ٱلْبَرِيَّةِ",
       "translation": "(As for) those who believe and do good, surely they are the -best of men.",
       "transliteration": "innal ladhīna āmanū wa`amiluṣ ṣāliḥāti ulā-ika hum khayrul bariyyah"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّـٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ",
       "translation": "Their reward with their Lord is gardens of perpetuity beneath which rivers flow, abiding therein for ever; Allah is well pleased with them and they are well pleased with Him; that is for him who fears his Lord.",
       "transliteration": "jazā-uhum `inda rabbihim jannātu `adnin tajrī min taḥtihal-anhāru khālidīna fīhā abadā ۖ raḍiyallāhu `anhum waraḍū `anh ۚ dhālika liman khashiya rabbah"

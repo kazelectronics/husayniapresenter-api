@@ -7,71 +7,96 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "وَٱلضُّحَىٰ",
-      "translation": "By the morning brightness,",
-      "transliteration": "waḍ ḍuḥā",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "وَٱلضُّحَىٰ",
+      "translation": "By the morning brightness,",
+      "transliteration": "waḍ ḍuḥā"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "وَٱلَّيْلِ إِذَا سَجَىٰ",
       "translation": "and by the night when it is calm!",
       "transliteration": "wal layli idhā sajā"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
       "translation": "Your Lord has neither forsaken you, nor is He displeased with you,",
       "transliteration": "mā wadda`aka rabbuka wa mā qalā"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
       "translation": "and the Hereafter shall be better for you than the world.",
       "transliteration": "walal-ākhiratu khayrul laka minal-ūlā"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
       "translation": "Soon your Lord will give you [that with which] you will be pleased.",
       "transliteration": "walasawfa yu`ṭīka rabbuka fatarḍā"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
       "translation": "Did He not find you an orphan, and shelter you?",
       "transliteration": "alam yajidka yatīman fa-āwā"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
       "translation": "Did He not find you astray, and guide you?",
       "transliteration": "wawajadaka ḍāllan fahadā"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
       "translation": "Did He not find you needy, and enrich you?",
       "transliteration": "wawajadaka `ā-ilan fa-aghnā"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
       "translation": "So, as for the orphan, do not oppress him;",
       "transliteration": "fa-ammal yatīma falā taqhar"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
       "translation": "and as for the beggar, do not chide him;",
       "transliteration": "wa-ammas sā-ila falā tanhar"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
       "translation": "and as for your Lord’s blessing, proclaim it!",
       "transliteration": "wa-ammā bini`mati rabbika faḥaddith"

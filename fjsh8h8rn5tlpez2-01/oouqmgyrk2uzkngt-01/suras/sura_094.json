@@ -7,53 +7,72 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
-      "translation": "Did We not open your breast for you",
-      "transliteration": "alam nashraḥ laka ṣadrak",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "translation": "Did We not open your breast for you",
+      "transliteration": "alam nashraḥ laka ṣadrak"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
       "translation": "and relieve you of your burden",
       "transliteration": "wawaḍa`nā `anka wizrak"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
       "translation": "which [almost] broke your back?",
       "transliteration": "alladhī anqaḍa ẓahrak"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
       "translation": "Did We not exalt your name?",
       "transliteration": "warafa`nā laka dhikrak"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
       "translation": "Indeed ease accompanies hardship.",
       "transliteration": "fa-inna ma`al `usri yusrā"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
       "translation": "Indeed ease accompanies hardship.",
       "transliteration": "inna ma`al `usri yusrā"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
       "translation": "So when you are done, appoint,",
       "transliteration": "fa-idhā faraghta fanṣab"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
       "translation": "and supplicate your Lord.",
       "transliteration": "wa ilā rabbika farghab"

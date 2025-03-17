@@ -7,23 +7,32 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
-      "translation": "When Allah's succour and the triumph cometh",
-      "transliteration": "idhā jā-a naṣrullāhi wal fat-ḥ",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, the Beneficent, the Merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+      "translation": "When Allah's succour and the triumph cometh",
+      "transliteration": "idhā jā-a naṣrullāhi wal fat-ḥ"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
       "translation": "And thou seest mankind entering the religion of Allah in troops,",
       "transliteration": "wara-aytan nāsa yadkhulūna fī dīnillāhi afwājā"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
       "translation": "Then hymn the praises of thy Lord, and seek forgiveness of Him. Lo! He is ever ready to show mercy.",
       "transliteration": "fasabbiḥ biḥamdi rabbika wastaghfirh ۚ innahu kāna tawwābā"

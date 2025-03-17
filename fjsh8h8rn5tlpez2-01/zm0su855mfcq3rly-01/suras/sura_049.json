@@ -7,113 +7,152 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُقَدِّمُوا۟ بَيْنَ يَدَىِ ٱللَّهِ وَرَسُولِهِۦ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ",
-      "translation": "O YOU WHO believe, do not forestall the judgements of God and His Apostle, and have fear of God. Verily God hears all and knows everything.",
-      "transliteration": "yā-ayyuhal ladhīna āmanū lā tuqaddimū bayna yadayillāhi warasūlih ۖ wattaqullāh ۚ innallāha samī`un `alīm",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the name of Allah, most benevolent, ever-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allah, most benevolent, ever-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُقَدِّمُوا۟ بَيْنَ يَدَىِ ٱللَّهِ وَرَسُولِهِۦ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ",
+      "translation": "O YOU WHO believe, do not forestall the judgements of God and His Apostle, and have fear of God. Verily God hears all and knows everything.",
+      "transliteration": "yā-ayyuhal ladhīna āmanū lā tuqaddimū bayna yadayillāhi warasūlih ۖ wattaqullāh ۚ innallāha samī`un `alīm"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ ٱلنَّبِىِّ وَلَا تَجْهَرُوا۟ لَهُۥ بِٱلْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَـٰلُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ",
       "translation": "O you who believe, do not raise your voices above the voice of the Prophet, and do not speak loudly to him as you do with one another lest your deeds are nullified unconsciously.",
       "transliteration": "yā-ayyuhal ladhīna āmanū lā tarfa`ū aṣwātakum fawqa ṣawtin nabiyyi walā tajharū lahu bil qawli kajahri ba`ḍikum liba`ḍin an taḥbaṭa a`mālukum wa-antum lā tash`urūn"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "إِنَّ ٱلَّذِينَ يَغُضُّونَ أَصْوَٰتَهُمْ عِندَ رَسُولِ ٱللَّهِ أُو۟لَـٰٓئِكَ ٱلَّذِينَ ٱمْتَحَنَ ٱللَّهُ قُلُوبَهُمْ لِلتَّقْوَىٰ ۚ لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
       "translation": "They who speak in a low voice in the presence of God's Apostle, have had their hearts tried by God for reverence. There is forgiveness for them and a great reward.",
       "transliteration": "innal ladhīna yaghuḍḍūna aṣwātahum `inda rasūlillāhi ulā-ikal ladhīnam-taḥanallāhu qulūbahum littaqwā ۚ lahum maghfiratun wa-ajrun `aẓīm"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "إِنَّ ٱلَّذِينَ يُنَادُونَكَ مِن وَرَآءِ ٱلْحُجُرَٰتِ أَكْثَرُهُمْ لَا يَعْقِلُونَ",
       "translation": "Many of those who call you from outside the apartments are not considerate.",
       "transliteration": "innal ladhīna yunādūnaka min warā-il ḥujurāti aktharuhum lā ya`qilūn"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "وَلَوْ أَنَّهُمْ صَبَرُوا۟ حَتَّىٰ تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًا لَّهُمْ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
       "translation": "If they had waited for you to come out it would have been better for them. But God is forgiving and kind.",
       "transliteration": "walaw annahum ṣabarū ḥattā takhruja ilayhim lakāna khayral lahum ۚ wallāhu ghafūrun raḥīm"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن جَآءَكُمْ فَاسِقٌۢ بِنَبَإٍ فَتَبَيَّنُوٓا۟ أَن تُصِيبُوا۟ قَوْمًۢا بِجَهَـٰلَةٍ فَتُصْبِحُوا۟ عَلَىٰ مَا فَعَلْتُمْ نَـٰدِمِينَ",
       "translation": "O you who believe, if a dissolute person brings some news, verify it first lest you attack a people ignorantly and later regret what you had done.",
       "transliteration": "yā-ayyuhal ladhīna āmanū in jā-akum fāsiqun binaba-in fatabayyanū an tuṣībū qawman bijahālatin fatuṣbiḥū `alā mā fa`altum nādimīn"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "وَٱعْلَمُوٓا۟ أَنَّ فِيكُمْ رَسُولَ ٱللَّهِ ۚ لَوْ يُطِيعُكُمْ فِى كَثِيرٍ مِّنَ ٱلْأَمْرِ لَعَنِتُّمْ وَلَـٰكِنَّ ٱللَّهَ حَبَّبَ إِلَيْكُمُ ٱلْإِيمَـٰنَ وَزَيَّنَهُۥ فِى قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمُ ٱلْكُفْرَ وَٱلْفُسُوقَ وَٱلْعِصْيَانَ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلرَّٰشِدُونَ",
       "translation": "Know that the Apostle of God is among you: If he agreed with you in most matters you would surely come to grief. But God has made faith more desirable to you, and attractive to your hearts, and rendered disbelief and sin and disobedience repugnant. They are those who are well directed",
       "transliteration": "wa`lamū anna fīkum rasūlallāh ۚ law yuṭī`ukum fī kathīrin minal-amri la`anittum walākinnallāha ḥabbaba ilaykumul-iymāna wazayyanahu fī qulūbikum wakarraha ilaykumul kufra wal fusūqa wal `iṣyān ۚ ulā-ika humur rāshidūn"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "فَضْلًا مِّنَ ٱللَّهِ وَنِعْمَةً ۚ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
       "translation": "By God's benevolence and His grace. God is all-knowing and all-wise.",
       "transliteration": "faḍlan minallāhi wani`mah ۚ wallāhu `alīmun ḥakīm"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "وَإِن طَآئِفَتَانِ مِنَ ٱلْمُؤْمِنِينَ ٱقْتَتَلُوا۟ فَأَصْلِحُوا۟ بَيْنَهُمَا ۖ فَإِنۢ بَغَتْ إِحْدَىٰهُمَا عَلَى ٱلْأُخْرَىٰ فَقَـٰتِلُوا۟ ٱلَّتِى تَبْغِى حَتَّىٰ تَفِىٓءَ إِلَىٰٓ أَمْرِ ٱللَّهِ ۚ فَإِن فَآءَتْ فَأَصْلِحُوا۟ بَيْنَهُمَا بِٱلْعَدْلِ وَأَقْسِطُوٓا۟ ۖ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
       "translation": "If two groups of believers come to fight one another, promote peace between them. Then if one of them turns aggressive against the other, fight against the aggressive party till it returns to God's authority. If it does so, make peace among them equitably and be impartial. Verily God loves those who are just.",
       "transliteration": "wa in ṭā-ifatāni minal mu-minīnaq-tatalū fa-aṣliḥū baynahumā ۖ fa-in baghat iḥdāhumā `alal-ukhrā faqātilul latī tabghī ḥattā tafī-a ilā amrillāh ۚ fa-in fā-at fa-aṣliḥū baynahumā bil `adli wa-aqsiṭū ۖ innallāha yuḥibbul muqsiṭīn"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ",
       "translation": "The faithful are surely brothers; so restore friendship among your brothers, and fear God that you may be favoured.",
       "transliteration": "innamal mu-minūna ikhwatun fa-aṣliḥū bayna akhawaykum ۚ wattaqullāha la`allakum turḥamūn"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًا مِّنْهُمْ وَلَا نِسَآءٌ مِّن نِّسَآءٍ عَسَىٰٓ أَن يَكُنَّ خَيْرًا مِّنْهُنَّ ۖ وَلَا تَلْمِزُوٓا۟ أَنفُسَكُمْ وَلَا تَنَابَزُوا۟ بِٱلْأَلْقَـٰبِ ۖ بِئْسَ ٱلِٱسْمُ ٱلْفُسُوقُ بَعْدَ ٱلْإِيمَـٰنِ ۚ وَمَن لَّمْ يَتُبْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
       "translation": "O you who believe, men should not laugh at other men, for it may be they are better than them; and women should not laugh at other women, for they may perhaps be better than them. Do not slander one another, nor give one another nick-names. After believing, it is bad to give (another) a bad name. Those who do not repent behave wickedly.",
       "transliteration": "yā-ayyuhal ladhīna āmanū lā yaskhar qawmun min qawmin `asā an yakūnū khayran minhum walā nisā-un min nisā-in `asā an yakunna khayran minhunn ۖ walā tal-mizū anfusakum walā tanābazū bil-alqāb ۖ bi-sa lismul fusūqu ba`dal-iymān ۚ wa man lam yatub fa-ulā-ika humuẓ ẓālimūn"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ",
       "translation": "O you who believe, avoid most suspicions: Some suspicions are indeed sins. So do not pry into others' secrets and do not backbite. Would any of you like to eat a dead brother's flesh? You would surely be revolted by it Then fear God. He is certainly forgiving and kind.",
       "transliteration": "yā-ayyuhal ladhīna āmanuj-tanibū kathīran minaẓ ẓanni inna ba`ḍaẓ ẓanni ithm ۖ walā tajassasū walā yaghtab ba`ḍukum ba`ḍā ۚ ayuḥibbu aḥadukum an ya-kula laḥma akhīhi maytan fakarihtumūh ۚ wattaqullāh ۚ innallāha tawwābun raḥīm"
     },
     {
-      "index": 13,
+      "index": 14,
+      "id": 13,
+      "show_id": "13",
       "arabic": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَـٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَـٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ",
       "translation": "O men, We created you from a male and female, and formed you into nations and tribes that you may recognise each other. He who has more integrity has indeed greater honour with God. Surely God is all-knowing and well-informed.",
       "transliteration": "yā-ayyuhan nāsu innā khalaqnākum min dhakarin wa-unthā waja`alnākum shu`ūban waqabā-ila lita`ārafū ۚ inna akramakum `indallāhi atqākum ۚ innallāha `alīmun khabīr"
     },
     {
-      "index": 14,
+      "index": 15,
+      "id": 14,
+      "show_id": "14",
       "arabic": "قَالَتِ ٱلْأَعْرَابُ ءَامَنَّا ۖ قُل لَّمْ تُؤْمِنُوا۟ وَلَـٰكِن قُولُوٓا۟ أَسْلَمْنَا وَلَمَّا يَدْخُلِ ٱلْإِيمَـٰنُ فِى قُلُوبِكُمْ ۖ وَإِن تُطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ لَا يَلِتْكُم مِّنْ أَعْمَـٰلِكُمْ شَيْـًٔا ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
       "translation": "The Arabs of the desert say: \"We believe.\" Tell them: \"You do not believe. Better say: 'We submit'; for belief has not yet penetrated your hearts.\" If you begin to obey God and His Apostle, He will not withhold the least (of the recompense) of your labour. Verily God is forgiving and kind.\"",
       "transliteration": "qālatil-a`rābu āmannā ۖ qul lam tu-minū walākin qūlū aslamnā walammā yadkhulil-iymānu fī qulūbikum ۖ wa in tuṭī`ullāha warasūlahu lā yalitkum min a`mālikum shay-ā ۚ innallāha ghafūrun raḥīm"
     },
     {
-      "index": 15,
+      "index": 16,
+      "id": 15,
+      "show_id": "15",
       "arabic": "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمْ يَرْتَابُوا۟ وَجَـٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلصَّـٰدِقُونَ",
       "translation": "They alone are believers who come to believe in God and His Apostle, then never doubt again, and struggle wealth and soul in the way of God. They are the truthful and sincere.",
       "transliteration": "innamal mu-minūnal ladhīna āmanū billāhi warasūlihi thumma lam yartābū wajāhadū bi-amwālihim wa-anfusihim fī sabīlillāh ۚ ulā-ika humuṣ ṣādiqūn"
     },
     {
-      "index": 16,
+      "index": 17,
+      "id": 16,
+      "show_id": "16",
       "arabic": "قُلْ أَتُعَلِّمُونَ ٱللَّهَ بِدِينِكُمْ وَٱللَّهُ يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ",
       "translation": "Say: \"Are you trying to convince God of your faithfulness? But God knows all there is in the heavens and the earth, for God has knowledge of everything.\"",
       "transliteration": "qul atu`allimūnallāha bidīnikum wallāhu ya`lamu mā fis samāwāti wa mā fil-arḍ ۚ wallāhu bikulli shay-in `alīm"
     },
     {
-      "index": 17,
+      "index": 18,
+      "id": 17,
+      "show_id": "17",
       "arabic": "يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا۟ ۖ قُل لَّا تَمُنُّوا۟ عَلَىَّ إِسْلَـٰمَكُم ۖ بَلِ ٱللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَىٰكُمْ لِلْإِيمَـٰنِ إِن كُنتُمْ صَـٰدِقِينَ",
       "translation": "They impress upon you that they have submitted. Tell them: \"Do not favour me with your submission. In fact God has favoured you by showing you the way to belief, if you are men of truth.\"",
       "transliteration": "yamunnūna `alayka an aslamū ۖ qul lā tamunnū `alayya islāmakum ۖ balillāhu yamunnu `alaykum an hadākum lil-iymāni in kuntum ṣādiqīn"
     },
     {
-      "index": 18,
+      "index": 19,
+      "id": 18,
+      "show_id": "18",
       "arabic": "إِنَّ ٱللَّهَ يَعْلَمُ غَيْبَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا تَعْمَلُونَ",
       "translation": "Verily God knows the unknown of the heavens and the earth; and God perceives all you do.",
       "transliteration": "innallāha ya`lamu ghaybas samāwāti wal-arḍ ۚ wallāhu baṣīrun bimā ta`malūn"

@@ -7,71 +7,96 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ٱلْمَلِكِ ٱلْقُدُّوسِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
-      "translation": "Whatever there is in the heavens and in the earth glorifies Allah, the Sovereign, the All-holy, the All-mighty, the All-wise.",
-      "transliteration": "yusabbiḥu lillāhi mā fis samāwāti wa mā fil-arḍil malikil quddūsil `azīzil ḥakīm",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ٱلْمَلِكِ ٱلْقُدُّوسِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
+      "translation": "Whatever there is in the heavens and in the earth glorifies Allah, the Sovereign, the All-holy, the All-mighty, the All-wise.",
+      "transliteration": "yusabbiḥu lillāhi mā fis samāwāti wa mā fil-arḍil malikil quddūsil `azīzil ḥakīm"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "هُوَ ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّـۧنَ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَـٰلٍ مُّبِينٍ",
       "translation": "It is He who sent to the unlettered [people] an apostle from among themselves, to recite to them His signs, to purify them, and to teach them the Book and wisdom, and earlier they had indeed been in manifest error.",
       "transliteration": "huwal ladhī ba`atha fil-ummiyyīna rasūlan minhum yatlū `alayhim āyātihi wayuzakkīhim wayu`allimuhumul kitāba wal ḥikmata wa in kānū min qablu lafī ḍalālin mubīn"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "وَءَاخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا۟ بِهِمْ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
       "translation": "And to others from among them [as well] who have not yet joined them. And He is the All-mighty, the All-wise.",
       "transliteration": "wa-ākharīna minhum lammā yalḥaqū bihim ۚ wahuwal `azīzul ḥakīm"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
       "translation": "That is Allah’s grace, which He grants to whomever He wishes, and Allah is dispenser of a great grace.",
       "transliteration": "dhālika faḍlullāhi yu-tīhi man yashā-u ۚ wallāhu dhul faḍlil `aẓīm"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "مَثَلُ ٱلَّذِينَ حُمِّلُوا۟ ٱلتَّوْرَىٰةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ ٱلْحِمَارِ يَحْمِلُ أَسْفَارًۢا ۚ بِئْسَ مَثَلُ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِ ٱللَّهِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
       "translation": "The example of those who were charged with the Torah, then failed to carry it, is that of an ass carrying books. Evil is the example of the people who deny Allah’s signs, and Allah does not guide the wrongdoing lot.",
       "transliteration": "mathalul ladhīna ḥummilut tawrāta thumma lam yaḥmilūhā kamathalil ḥimāri yaḥmilu asfārā ۚ bi-sa mathalul qawmil ladhīna kadhhabū bi-āyātillāh ۚ wallāhu lā yahdil qawmaẓ ẓālimīn"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "قُلْ يَـٰٓأَيُّهَا ٱلَّذِينَ هَادُوٓا۟ إِن زَعَمْتُمْ أَنَّكُمْ أَوْلِيَآءُ لِلَّهِ مِن دُونِ ٱلنَّاسِ فَتَمَنَّوُا۟ ٱلْمَوْتَ إِن كُنتُمْ صَـٰدِقِينَ",
       "translation": "Say, ‘O Jews! If you claim that you are Allah’s favourites, to the exclusion of other people, then long for death, should you be truthful.’",
       "transliteration": "qul yā-ayyuhal ladhīna hādū in za`amtum annakum awliyā-u lillāhi min dūnin nāsi fatamannawul mawta in kuntum ṣādiqīn"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "وَلَا يَتَمَنَّوْنَهُۥٓ أَبَدًۢا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۚ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّـٰلِمِينَ",
       "translation": "Yet they will never long for it, because of what their hands have sent ahead, and Allah knows best the wrongdoers.",
       "transliteration": "walā yatamannawnahu abadan bimā qaddamat aydīhim ۚ wallāhu `alīmun biẓ ẓālimīn"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "قُلْ إِنَّ ٱلْمَوْتَ ٱلَّذِى تَفِرُّونَ مِنْهُ فَإِنَّهُۥ مُلَـٰقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
       "translation": "Say, ‘The death that you flee will indeed encounter you. Then you will be returned to the Knower of the sensible and the Unseen, and He will inform you about what you used to do.’",
       "transliteration": "qul innal mawtal ladhī tafirrūna minhu fa-innahu mulāqīkum ۖ thumma turaddūna ilā `ālimil ghaybi wash shahādati fayunabbi-ukum bimā kuntum ta`malūn"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟ إِلَىٰ ذِكْرِ ٱللَّهِ وَذَرُوا۟ ٱلْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
       "translation": "O you who have faith! When the call is made for prayer on Friday, hurry toward the remembrance of Allah, and leave all business. That is better for you, should you know.",
       "transliteration": "yā-ayyuhal ladhīna āmanū idhā nūdiya lilṣṣalāti min yawmil jumu`ati fas`aw ilā dhikrillāhi wadharul bay` ۚ dhālikum khayrul lakum in kuntum ta`lamūn"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ",
       "translation": "And when the prayer is finished disperse through the land and seek Allah’s grace, and remember Allah much so that you may be felicitous.",
       "transliteration": "fa-idhā quḍiyatiṣ ṣalātu fantashirū fil-arḍi wabtaghū min faḍlillāhi wadhkurullāha kathīral la`allakum tufliḥūn"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "وَإِذَا رَأَوْا۟ تِجَـٰرَةً أَوْ لَهْوًا ٱنفَضُّوٓا۟ إِلَيْهَا وَتَرَكُوكَ قَآئِمًا ۚ قُلْ مَا عِندَ ٱللَّهِ خَيْرٌ مِّنَ ٱللَّهْوِ وَمِنَ ٱلتِّجَـٰرَةِ ۚ وَٱللَّهُ خَيْرُ ٱلرَّٰزِقِينَ",
       "translation": "When they sight a deal or a diversion, they scatter off towards it and leave you standing! Say, ‘What is with Allah is better than diversion and dealing, and Allah is the best of providers.’",
       "transliteration": "wa idhā ra-aw tijāratan aw lahwanin-faḍḍū ilayhā watarakūka qā-imā ۚ qul mā `indallāhi khayrun minallahwi wa minat tijārah ۚ wallāhu khayrur rāziqīn"

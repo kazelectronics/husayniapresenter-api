@@ -7,77 +7,104 @@
   "rows": [
     {
       "index": 1,
-      "arabic": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا۟ ٱلْعِدَّةَ ۖ وَٱتَّقُوا۟ ٱللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّآ أَن يَأْتِينَ بِفَـٰحِشَةٍ مُّبَيِّنَةٍ ۚ وَتِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا",
-      "translation": "O Prophet! When you divorce women, divorce them at [the conclusion of] their term and calculate the term, and be wary of Allah, your Lord. Do not turn them out from their homes, nor shall they go out, unless they commit a gross indecency. These are Allah’s bounds, and whoever transgresses the bounds of Allah certainly wrongs himself. You never know maybe Allah will bring off something new later on.",
-      "transliteration": "yā-ayyuhan nabiyyu idhā ṭallaqtumun nisā-a faṭalliqūhunna li`iddatihinna wa-aḥṣul `iddah ۖ wattaqullāha rabbakum ۖ lā tukhrijūhunna min buyūtihinna walā yakhrujna illā an ya-tīna bifāḥishatim mubayyinah ۚ watilka ḥudūdullāh ۚ wa man yata`adda ḥudūdallāhi faqad ẓalama nafsah ۚ lā tadrī la`allallāha yuḥdithu ba`da dhālika amrā",
-      "bismillah": {
-        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-        "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
-        "transliteration": "bismillāhir raḥmānir raḥīm"
-      }
+      "id": 0,
+      "show_id": "",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "transliteration": "bismillāhir raḥmānir raḥīm"
     },
     {
       "index": 2,
+      "id": 1,
+      "show_id": "1",
+      "arabic": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا۟ ٱلْعِدَّةَ ۖ وَٱتَّقُوا۟ ٱللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّآ أَن يَأْتِينَ بِفَـٰحِشَةٍ مُّبَيِّنَةٍ ۚ وَتِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا",
+      "translation": "O Prophet! When you divorce women, divorce them at [the conclusion of] their term and calculate the term, and be wary of Allah, your Lord. Do not turn them out from their homes, nor shall they go out, unless they commit a gross indecency. These are Allah’s bounds, and whoever transgresses the bounds of Allah certainly wrongs himself. You never know maybe Allah will bring off something new later on.",
+      "transliteration": "yā-ayyuhan nabiyyu idhā ṭallaqtumun nisā-a faṭalliqūhunna li`iddatihinna wa-aḥṣul `iddah ۖ wattaqullāha rabbakum ۖ lā tukhrijūhunna min buyūtihinna walā yakhrujna illā an ya-tīna bifāḥishatim mubayyinah ۚ watilka ḥudūdullāh ۚ wa man yata`adda ḥudūdallāhi faqad ẓalama nafsah ۚ lā tadrī la`allallāha yuḥdithu ba`da dhālika amrā"
+    },
+    {
+      "index": 3,
+      "id": 2,
+      "show_id": "2",
       "arabic": "فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَأَشْهِدُوا۟ ذَوَىْ عَدْلٍ مِّنكُمْ وَأَقِيمُوا۟ ٱلشَّهَـٰدَةَ لِلَّهِ ۚ ذَٰلِكُمْ يُوعَظُ بِهِۦ مَن كَانَ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًا",
       "translation": "Then, when they have completed their term, either retain them honourably or separate from them honourably, and take the witness of two honest men from among yourselves, and bear witness for the sake of Allah. Whoever believes in Allah and the Last Day is advised to [comply with] this. Whoever is wary of Allah, He shall make for him a way out [of the adversities of the world and the Hereafter]",
       "transliteration": "fa-idhā balaghna ajalahunna fa-amsikūhunna bima`rūfin aw fāriqūhunna bima`rūfin wa-ash-hidū dhawa `adlin minkum wa-aqīmush shahādata lillāh ۚ dhālikum yū`aẓu bihi man kāna yu-minu billāhi wal yawmil-ākhir ۚ wa man yattaqillāha yaj`al lahu makhrajā"
     },
     {
-      "index": 3,
+      "index": 4,
+      "id": 3,
+      "show_id": "3",
       "arabic": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَـٰلِغُ أَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍ قَدْرًا",
       "translation": "and provide for him from whence he does not count upon. And whoever puts his trust in Allah, He will suffice him. Indeed Allah carries through His commands. Certainly, Allah has ordained a measure [and extent] for everything.",
       "transliteration": "wayarzuqhu min ḥaythu lā yaḥtasib ۚ wa man yatawakkal `alallāhi fahuwa ḥasbuh ۚ innallāha bālighu amrih ۚ qad ja`alallāhu likulli shay-in qadrā"
     },
     {
-      "index": 4,
+      "index": 5,
+      "id": 4,
+      "show_id": "4",
       "arabic": "وَٱلَّـٰٓـِٔى يَئِسْنَ مِنَ ٱلْمَحِيضِ مِن نِّسَآئِكُمْ إِنِ ٱرْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَـٰثَةُ أَشْهُرٍ وَٱلَّـٰٓـِٔى لَمْ يَحِضْنَ ۚ وَأُو۟لَـٰتُ ٱلْأَحْمَالِ أَجَلُهُنَّ أَن يَضَعْنَ حَمْلَهُنَّ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مِنْ أَمْرِهِۦ يُسْرًا",
       "translation": "As for those of your wives who have ceased having menses—[or] if you have any doubts [concerning its cause, whether it’s is age or something else]—their term [of waiting] and of those who have not yet had menses, shall be three months. As for those who are pregnant, their term shall be until they deliver. And whoever is wary of Allah, He shall grant him ease in his affairs.",
       "transliteration": "wal lā-ī ya-isna minal maḥīḍi min nisā-ikum inir-tabtum fa`iddatuhunna thalāthatu ash-hurin wal lā-ī lam yaḥiḍn ۚ wa-ulātul-aḥmāli ajaluhunna an yaḍa`na ḥamlahunn ۚ wa man yattaqillāha yaj`al lahu min amrihi yusrā"
     },
     {
-      "index": 5,
+      "index": 6,
+      "id": 5,
+      "show_id": "5",
       "arabic": "ذَٰلِكَ أَمْرُ ٱللَّهِ أَنزَلَهُۥٓ إِلَيْكُمْ ۚ وَمَن يَتَّقِ ٱللَّهَ يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُعْظِمْ لَهُۥٓ أَجْرًا",
       "translation": "That is Allah’s ordinance, which He has sent down to you, and whoever is wary of Allah, He shall absolve him of his misdeeds and give him a great reward.",
       "transliteration": "dhālika amrullāhi anzalahu ilaykum ۚ wa man yattaqillāha yukaffir `anhu sayyi-ātihi wayu`ẓim lahu ajrā"
     },
     {
-      "index": 6,
+      "index": 7,
+      "id": 6,
+      "show_id": "6",
       "arabic": "أَسْكِنُوهُنَّ مِنْ حَيْثُ سَكَنتُم مِّن وُجْدِكُمْ وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُوا۟ عَلَيْهِنَّ ۚ وَإِن كُنَّ أُو۟لَـٰتِ حَمْلٍ فَأَنفِقُوا۟ عَلَيْهِنَّ حَتَّىٰ يَضَعْنَ حَمْلَهُنَّ ۚ فَإِنْ أَرْضَعْنَ لَكُمْ فَـَٔاتُوهُنَّ أُجُورَهُنَّ ۖ وَأْتَمِرُوا۟ بَيْنَكُم بِمَعْرُوفٍ ۖ وَإِن تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُۥٓ أُخْرَىٰ",
       "translation": "House them where you live, in accordance with your means, and do not harass them to put them in straits, and should they be pregnant, maintain them until they deliver. Then, if they suckle [the baby] for you, give them their wages and consult together honourably. But if you make things difficult for each other, then another woman will suckle [the baby] for him.",
       "transliteration": "askinūhunna min ḥaythu sakantum min wujdikum walā tuḍārrūhunna lituḍayyiqū `alayhinn ۚ wa in kunna ulāti ḥamlin fa-anfiqū `alayhinna ḥattā yaḍa`na ḥamlahunn ۚ fa-in arḍa`na lakum fa-ātūhunna ujūrahunn ۖ wa-tamirū baynakum bima`rūf ۖ wa in ta`āsartum fasaturḍi`u lahu ukhrā"
     },
     {
-      "index": 7,
+      "index": 8,
+      "id": 7,
+      "show_id": "7",
       "arabic": "لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِۦ ۖ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ ٱللَّهُ ۚ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا ۚ سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍ يُسْرًا",
       "translation": "Let the affluent man spend out of his affluence, and let he whose provision has been tightened spend out of what Allah has given him. Allah does not task any soul except [according to] what He has given it. Allah will bring about ease after hardship.",
       "transliteration": "liyunfiq dhū sa`atim min sa`atih ۖ wa man qudira `alayhi rizquhu falyunfiq mimmā ātāhullāh ۚ lā yukallifullāhu nafsan illā mā ātāhā ۚ sayaj`alullāhu ba`da `usriy yusrā"
     },
     {
-      "index": 8,
+      "index": 9,
+      "id": 8,
+      "show_id": "8",
       "arabic": "وَكَأَيِّن مِّن قَرْيَةٍ عَتَتْ عَنْ أَمْرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبْنَـٰهَا حِسَابًا شَدِيدًا وَعَذَّبْنَـٰهَا عَذَابًا نُّكْرًا",
       "translation": "How many a town defied the command of its Lord and His apostles, then We called it to a severe account and punished it with a dire punishment.",
       "transliteration": "waka-ayyin min qaryatin `atat `an amri rabbihā warusulihi faḥāsabnāhā ḥisāban shadīdan wa`adhhabnāhā `adhāban nukrā"
     },
     {
-      "index": 9,
+      "index": 10,
+      "id": 9,
+      "show_id": "9",
       "arabic": "فَذَاقَتْ وَبَالَ أَمْرِهَا وَكَانَ عَـٰقِبَةُ أَمْرِهَا خُسْرًا",
       "translation": "So it tasted the evil consequences of its conduct, and the outcome of its conduct was ruin.",
       "transliteration": "fadhāqat wabāla amrihā wakāna `āqibatu amrihā khusrā"
     },
     {
-      "index": 10,
+      "index": 11,
+      "id": 10,
+      "show_id": "10",
       "arabic": "أَعَدَّ ٱللَّهُ لَهُمْ عَذَابًا شَدِيدًا ۖ فَٱتَّقُوا۟ ٱللَّهَ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ ٱلَّذِينَ ءَامَنُوا۟ ۚ قَدْ أَنزَلَ ٱللَّهُ إِلَيْكُمْ ذِكْرًا",
       "translation": "Allah has prepared for them a severe punishment. So be wary of Allah, O you who possess intellect and have faith! Allah has already sent down to you a reminder,",
       "transliteration": "a`addallāhu lahum `adhāban shadīdā ۖ fattaqullāha yā-ulil-albābil ladhīna āmanū ۚ qad anzalallāhu ilaykum dhikrā"
     },
     {
-      "index": 11,
+      "index": 12,
+      "id": 11,
+      "show_id": "11",
       "arabic": "رَّسُولًا يَتْلُوا۟ عَلَيْكُمْ ءَايَـٰتِ ٱللَّهِ مُبَيِّنَـٰتٍ لِّيُخْرِجَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ مِنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ ۚ وَمَن يُؤْمِنۢ بِٱللَّهِ وَيَعْمَلْ صَـٰلِحًا يُدْخِلْهُ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ قَدْ أَحْسَنَ ٱللَّهُ لَهُۥ رِزْقًا",
       "translation": "an apostle reciting to you the manifest signs of Allah that He may bring out those who have faith and do righteous deeds from darkness into light. And whoever has faith in Allah and does righteous deeds, He shall admit him into gardens with streams running in them, to remain in them forever. Allah has certainly granted him an excellent provision.",
       "transliteration": "rasūlan yatlū `alaykum āyātillāhi mubayyinātin liyukhrijal ladhīna āmanū wa`amiluṣ ṣāliḥāti minaẓ ẓulumāti ilan nūr ۚ wa man yu-min billāhi waya`mal ṣāliḥan yudkhilhu jannātin tajrī min taḥtihal-anhāru khālidīna fīhā abadā ۖ qad aḥsanallāhu lahu rizqā"
     },
     {
-      "index": 12,
+      "index": 13,
+      "id": 12,
+      "show_id": "12",
       "arabic": "ٱللَّهُ ٱلَّذِى خَلَقَ سَبْعَ سَمَـٰوَٰتٍ وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ ٱلْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا",
       "translation": "It is Allah who has created seven heavens, and of the earth [a number] similar to them. The command gradually descends through them, that you may know that Allah has power over all things, and that Allah comprehends all things in knowledge.",
       "transliteration": "allāhul ladhī khalaqa sab`a samāwātin wa minal-arḍi mithlahunna yatanazzalul-amru baynahunna lita`lamū annallāha `alā kulli shay-in qadīrun wa-annallāha qad aḥāṭa bikulli shay-in `il-mā"
